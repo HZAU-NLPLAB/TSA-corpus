@@ -1,0 +1,35 @@
+To identify potential cellular homologues of cyclosporin A that might regulate calcium signalling, we have cloned human genes encoding cyclophilin B-binding-proteins using the yeast two-hybrid system.
+
+
+[cloned; ;we] 
+
+[cloned; ;have] 
+
+[cloned;To;identify] 
+
+[identify;  ;homologues] 
+
+[homologues; ;potential]
+
+[homologues; ;cellular] 
+
+[homologues;of;cyclosporin A]
+
+[cyclosporin A; ;that] 
+
+[regulate; ;that] 
+
+[regulate; ;might] 
+
+[regulate; ;signalling] 
+
+[signalling; ;calcium]
+
+[cloned; ;human genes encoding cyclophilin B-binding-proteins 
+human genes encoding cyclophilin B-binding-][proteins;using;system] 
+
+[system; ;the] 
+
+[system; ;yeast] 
+
+[system; ;two-hybrid]

@@ -1,0 +1,9 @@
+The C-terminus has a putative protein kinase C phosphorylation site. 
+[C-terminus; ;The]
+[has; ;C-terminus]
+[has; ;site]
+[site; ;a]
+[site; ;putative]
+[site; ;protein]
+[site; ;kinase C]
+[site; ;phosphorylation]

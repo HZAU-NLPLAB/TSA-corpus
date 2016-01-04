@@ -1,0 +1,16 @@
+Cellular regulation of BZLF1 transcription is therefore thought to play a key role in regulating the stringency of viral latency.
+
+[regulation; ;Cellular]
+[regulation;of;transcription]
+[transcription; ;BZLF1]
+[thought;is;transcription]
+[thought;to;play]
+[thought; ;therefore]
+[play; ;role]
+[role; ;a]
+[role; ;key]
+[role;in;regulating]
+[regulating; ;stringency]
+[stringency; ;the]
+[stringency;of;latency]
+[latency; ;viral]

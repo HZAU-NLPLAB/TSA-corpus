@@ -1,0 +1,13 @@
+Restriction analysis revealed that neutrophils express the@1 GH-N gene but not the@2 GH-V gene.
+[analysis; ;Restriction]
+[revealed; ;analysis]
+[revealed; ;that]
+[that; ;neutrophils express the@1 GH-N gene but not the@2 GH-V gene]
+[express; ;neutrophils]
+[express; ;GH-N gene]
+[gene; ;GH-N]
+[gene; ;the@1]
+[GH-N gene;but not;GH-V gene]
+[gene; ;the@2]
+[gene; ;GH-V]
+[express; ;GH-V gene]

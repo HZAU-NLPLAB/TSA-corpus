@@ -1,0 +1,25 @@
+Substitution of the optimized peptide sequence into the natural calcineurin docking site increased the calcineurin responsiveness of NFAT.
+[Substitution;of@1;peptide sequence] 
+
+[peptide sequence; ;the@1] 
+
+[peptide sequence; ;optimized] 
+
+[Substitution;into;calcineurin docking site] 
+
+[calcineurin docking site; ;the@2] 
+
+[calcineurin docking site; ;natural] 
+
+[site;docking;calcineurin] 
+
+[increased; ;Substitution] 
+
+[increased; ;calcineurin responsiveness] 
+
+[calcineurin responsiveness; ;the@3] 
+
+[responsiveness; ;calcineurin]
+
+[calcineurin responsiveness;of@2;NFAT]  
+

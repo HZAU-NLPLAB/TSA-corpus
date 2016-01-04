@@ -1,0 +1,23 @@
+These results suggest that transformation of primary B cells with EBV induces IL-12 expression potentially through LMP1 expression.
+[results; ;These] 
+
+[results; ;suggest] 
+
+[suggest; ;that] 
+
+[that; ;transformation of primary B cells with EBV induces IL-12 expression potentially through LMP1 expression] 
+
+[transformation;of;primary B cells] 
+
+[B cells; ;primary] 
+
+[transformation;with;EBV] 
+
+[induces; ;transformation] 
+
+[induces; ;IL-12 expression] 
+
+[induces; ;potentially] 
+
+[induces;through;LMP1 expression] 
+

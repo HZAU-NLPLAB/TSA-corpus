@@ -1,0 +1,5 @@
+Heat killed (HK) Escherichia coli.
+[Escherichia coli; ;Heat killed]
+[coli; ;Escherichia]
+[Heat killed; ;HK]
+[killed; ;Heat]

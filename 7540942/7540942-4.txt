@@ -1,0 +1,42 @@
+CD30 cross-linking does not alter proliferation of ACH-2 cells and the induction of HIV expression is not mediated by endogenous TNF alpha/beta.
+
+
+[cross-linking; ;CD30] 
+
+[alter; ;cross-linking] 
+
+[alter; ;does] 
+
+[alter; ;not] 
+
+[alter; ;proliferation] 
+
+[proliferation;of@1;ACH-2 cells] 
+
+[cells; ;ACH-2] 
+
+[and; ;cells] 
+
+[and; ;induction] 
+
+[induction; ;the] 
+
+[induction;of@2;HIV expression] 
+
+[expression; ;HIV] 
+
+[mediated; ;is] 
+
+[mediated; ;not] 
+
+[mediated;by;TNF alpha/beta]  
+
+[TNF alpha/beta; ;endogenous] 
+
+[alpha/beta; ;TNF] 
+
+[/; ;alpha] 
+
+[/; ;beta]
+  
+

@@ -1,0 +1,21 @@
+After the coincubation period, cells were stained with PRO2_-FITC and anti-PRO3_-allophycocyanin.
+[period; ;coincubation] 
+
+[period; ;the] 
+
+[ ;After;period] 
+
+[stained; ;cells] 
+
+[stained; ;were] 
+
+[stained;with;PRO2_-FITC] 
+
+[and; ;PRO2_-FITC] 
+
+[and; ;anti-PRO3_-allophycocyanin] 
+
+[PRO2_;-;FITC] 
+
+[anti-PRO3_;-;allophycocyanin] 
+

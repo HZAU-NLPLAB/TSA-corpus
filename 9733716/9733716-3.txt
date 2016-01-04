@@ -1,0 +1,29 @@
+We report here that phosphatidylinositol (PtdIns), phosphatidylinositol-4-phosphate, and other phosphatidylinositides can bind to mCD14.
+[report; ;We 
+
+[report; ;here 
+
+[report; ;that 
+
+[that; ;phosphatidylinositol (PtdIns), phosphatidylinositol-4-phosphate, and other phosphatidylinositides can bind to mCD14] 
+
+[phosphatidylinositol; ;PtdIns] 
+
+[and; ;phosphatidylinositol] 
+
+[and; ;phosphatidylinositol-4-phosphate] 
+
+[and; ;phosphatidylinositides] 
+
+[phosphatidylinositides; ;other] 
+
+[bind; ;can] 
+
+[bind; ;phosphatidylinositol] 
+
+[bind; ;phosphatidylinositol-4-phosphate] 
+
+[bind; ;phosphatidylinositides] 
+
+[bind;to;mCD14] 
+

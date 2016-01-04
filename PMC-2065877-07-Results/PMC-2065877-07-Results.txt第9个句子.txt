@@ -1,0 +1,22 @@
+This further suggests that additional pathways are involved in the regulation of PRO26_.
+[suggests; ;This] 
+
+[suggests; ;This] 
+
+[suggests; ;further] 
+
+[suggests; ;that] 
+
+[that; ;additional pathways are involved in the regulation of PRO26_] 
+
+[pathways; ;additional] 
+
+[involved; ;pathways] 
+
+[involved; ;are] 
+
+[involved;in;regulation] 
+
+[regulation; ;the] 
+
+[regulation;of;PRO26_]

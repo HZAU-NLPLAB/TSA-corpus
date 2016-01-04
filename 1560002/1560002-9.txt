@@ -1,0 +1,58 @@
+In vivo transient transfection studies utilizing an OTF-2 expression vector resulted in similar findings: that OTF-2 protein enhanced DRA gene transcription, and that this effect requires an intact octamer element.
+[studies; ;transfection] 
+
+[transfection; ;transient] 
+
+[transfection; ;In vivo] 
+
+[utilizing; ;studies] 
+
+[utilizing; ;vector] 
+
+[vector; ;expression] 
+
+[expression; ;OTF-2] 
+
+[vector; ;an] 
+
+[resulted; ;vector] 
+
+[resulted in; ;vector] 
+
+[resulted in; ;findings] 
+
+[findings; ;similar] 
+
+[:; ;findings] 
+
+[:; ;that OTF-2 protein enhanced DRA gene transcription, and that this effect requires an intact octamer element] 
+
+[that; ;OTF-2 protein enhanced DRA gene transcription] 
+
+[that; ;this effect requires an intact octamer element] 
+
+[protein; ;OTF-2] 
+
+[enhanced; ;protein] 
+
+[enhanced; ;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;DRA] 
+
+[and; ;that] 
+
+[and; ;that] 
+
+[effect; ;this] 
+
+[requires; ;effect] 
+
+[requires; ;element] 
+
+[element;  ;octamer] 
+
+[element; ;intact] 
+
+[element; ;an]

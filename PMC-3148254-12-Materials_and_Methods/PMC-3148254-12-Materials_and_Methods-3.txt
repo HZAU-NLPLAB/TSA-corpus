@@ -1,0 +1,8 @@
+RNA was isolated using Trizol (Invitrogen),  and reverse-transcribed (Superscript III kit, Invitrogen).
+[isolated; ;RNA) 
+[isolated; ;was) 
+[isolated; ;Trizol) 
+[Trizol; ;using) 
+[and; ;Trizol) 
+[and; ;reverse-transcribed) 
+

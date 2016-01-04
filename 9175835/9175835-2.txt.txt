@@ -1,0 +1,14 @@
+
+Tip of herpesvirus saimiri associates with Lck and down-regulates Lck-mediated activation.
+
+[
+Tip;of;saimiri]
+[saimiri; ;herpesvirus]
+[associates; ;saimiri]
+[associates;with;Lck]
+[and; ;activation]
+[and; ;Lck@1]
+[activation; ;Lck-mediated]
+[activation; ;down-regulates]
+[mediated; ;Lck@2]
+[regulates;-;down]

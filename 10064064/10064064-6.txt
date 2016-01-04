@@ -1,0 +1,27 @@
+Our data constitute a starting point for studies to elucidate the molecular mechanism by which TGF-beta regulates IgA production.
+[data; ;Our] 
+
+[constitute; ;point] 
+
+[point; ;a]
+
+[point; ;starting] 
+
+[constitute;for;studies] 
+
+[constitute;to;elucidate] 
+
+[elucidate; ;molecular mechanism] 
+
+[molecular mechanism; ;the] 
+
+[mechanism; ;molecular] 
+
+[molecular mechanism;by;which] 
+
+[which; ;TGF-beta regulates IgA production] 
+
+[regulates; ;TGF-beta] 
+
+[regulates; ;IgA production] 
+

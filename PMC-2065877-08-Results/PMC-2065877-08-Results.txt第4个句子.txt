@@ -1,0 +1,39 @@
+Triciribine inhibits the activation of PRO10_ and at 20 muM has been shown to induce growth arrest in cancer cells with aberrant PRO11_ activity (46).
+[inhibits; ;Triciribine] 
+
+[inhibits; ;activation] 
+
+[activation; ;the] 
+
+[activation;of;PRO10_] 
+
+[and; ;inhibits] 
+
+[and; ;induce] 
+
+[Triciribine;at;muM] 
+
+[muM; ;20] 
+
+[shown; ;Triciribine] 
+
+[shown; ;has] 
+
+[shown; ;been] 
+
+[shown;to;induce] 
+
+[induce; ;arrest] 
+
+[arrest; ;growth] 
+
+[arrest;in;cells] 
+
+[cells; ;cancer] 
+
+[cells;with;activity] 
+
+[activity; ;PRO11_] 
+
+[activity; ;aberrant] 
+

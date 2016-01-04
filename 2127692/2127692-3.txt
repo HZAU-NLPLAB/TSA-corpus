@@ -1,0 +1,10 @@
+A block to RNA elongation is largely responsible for decreased c-myc transcription. 
+[block; ;A]
+[block;to;RNA elongation]
+[elongation; ;RNA]
+[is; ;block]
+[is; ;responsible]
+[responsible; ;largely]
+[responsible;for;transcription]
+[transcription; ;decreased]
+[transcription; ;c-myc]

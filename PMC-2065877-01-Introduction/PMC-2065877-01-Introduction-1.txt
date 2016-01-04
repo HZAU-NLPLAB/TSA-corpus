@@ -1,0 +1,7 @@
+PRO4_ (PRO5_) is the major oncoprotein of Epstein-Barr virus (EBV).
+[PRO4_; ;PRO5_]
+[is; ;PRO4_]
+[is; ;oncoprotein]
+[oncoprotein; ;the]
+[oncoprotein;of;Epstein-Barr virus]
+[Epstein-Barr virus; ;EBV]

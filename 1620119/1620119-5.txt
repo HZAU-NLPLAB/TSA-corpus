@@ -1,0 +1,36 @@
+Our analyses show that several Oct2 isoforms can stimulate from a remote position but that this stimulation is restricted to B cells.
+[analyses; ;Our] 
+
+[show; ;analyses] 
+
+[show; ;that] 
+
+[that; ;several Oct2 isoforms can stimulate from a remote position but that this stimulation is restricted to B cells] 
+
+[isoforms; ;several] 
+
+[isoforms; ;Oct2] 
+
+[stimulate; ;isoforms] 
+
+[stimulate; ;can] 
+
+[stimulate;from;position] 
+
+[position; ;remote] 
+
+[position; ;a] 
+
+[that@1;but;that@2] 
+
+[that@2; ;this stimulation is restricted to B cells] 
+
+[stimulation; ;this] 
+
+[restricted; ;stimulation] 
+
+[restricted; ;is] 
+
+[restricted;to;cells] 
+
+[cells; ;B]

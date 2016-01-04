@@ -1,0 +1,9 @@
+Correspondingly, RNase treatment had no effect on hybridization pattern at all.
+
+[treatment; ;RNase]
+[had; ;effect]
+[effect; ;no]
+[had; ;treatment]
+[effect;on;pattern]
+[pattern; ;hybridization]
+

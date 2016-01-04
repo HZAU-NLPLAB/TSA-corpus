@@ -1,0 +1,21 @@
+Furthermore, loss of CD5 surface expression correlated with the absence of specific mRNA.
+
+
+[loss of CD5 surface expression correlated with the absence [of specific mRNA; ;Furthermore] 
+
+[loss;of@1;expression] 
+
+[expression; ;surface] 
+
+[expression; ;CD5] 
+
+[correlated; ;expression] 
+
+[correlated;with;absence] 
+
+[absence; ;the] 
+
+[absence;of@2;mRNA]  
+
+[mRNA; ;specific] 
+

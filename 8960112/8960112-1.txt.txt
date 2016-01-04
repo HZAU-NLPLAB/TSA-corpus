@@ -1,0 +1,16 @@
+Lymphocytes from CML patients lack a 47 kDa factor having affinity for a genomic sterol regulatory sequence.
+
+[Lymphocytes;from;patients]
+[patients; ;CML]
+[lack; ;patients]
+[lack; ;factor]
+[factor; ;47 kDa]
+[kDa; ;47]
+[factor; ;a]
+[factor; ;having affinity for a genomic sterol regulatory sequence]
+[having; ;affinity]
+[affinity;for;sequence]
+[sequence; ;regulatory]
+[regulatory; ;sterol]
+[sterol; ;genomic]
+[sequence; ;a]

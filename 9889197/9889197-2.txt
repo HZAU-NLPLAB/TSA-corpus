@@ -1,0 +1,30 @@
+
+The 70 kDa heat shock protein (Hsp70) is a highly conserved, ubiquitous protein involved in chaperoning proteins to various cellular organelles.
+[70 kDa heat shock protein; ;The] 
+
+[70 kDa heat shock protein; ;Hsp70] 
+
+[is; ;70 kDa heat shock protein] 
+
+[is; ;protein] 
+
+[protein; ;a] 
+
+[conserved; ;highly] 
+
+[protein; ;conserved] 
+
+[protein; ;ubiquitous] 
+
+[involved; ;protein] 
+
+[involved;in;proteins] 
+
+[proteins; ;chaperoning] 
+
+[involved;to;cellular organelles] 
+
+[cellular organelles; ;various] 
+
+[organelles; ;cellular] 
+

@@ -1,0 +1,11 @@
+Protected probes were resolved on a denaturing 4.
+[probes; ;Protected] 
+
+[resolved; ;probes] 
+
+[resolved; ;were] 
+
+[resolved;on;denaturing 4] 
+
+[denaturing; ;a] 
+

@@ -1,0 +1,21 @@
+
+General transcription factors are required for accurate initiation of transcription by RNA polymerase II.
+
+
+[factors; ;General] 
+
+[factors; ;transcription] 
+
+[required; ;factors] 
+
+[required; ;are] 
+
+[required;for;initiation] 
+
+[initiation; ;accurate] 
+
+[initiation;of;transcription] 
+
+[transcription;by;RNA polymerase II] 
+
+[polymerase II ; ;RNA]

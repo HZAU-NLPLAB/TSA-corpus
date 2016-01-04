@@ -1,0 +1,10 @@
+Results were normalized to the levels of PRO12_ transcripts in each sample.
+[normalized; ;Results]
+[normalized; ;were]
+[normalized;to;levels]
+[levels; ;the]
+[levels;of;transcripts]
+[transcripts; ;PRO12_]
+[transcripts;in;sample]
+[sample; ;each) 
+

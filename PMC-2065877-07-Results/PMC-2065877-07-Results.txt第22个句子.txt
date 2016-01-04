@@ -1,0 +1,45 @@
+These data indicate that the PRO65_ pathway is deregulated in PRO66_ transgenic lymphocytes and that lymphoma cells are distinguished by loss of PRO67_ and decreased PRO68_.
+[data; ;These] 
+
+[indicate; ;data] 
+
+[that; ;that@1and that@2] 
+
+[and; ;that@1] 
+
+[and; ;that@2] 
+
+[that@1; ;the PRO65_ pathway is deregulated in PRO66_ transgenic (lymphocytes] 
+
+[that@2; ;lymphoma cells are distinguished by loss of PRO67_ and (decreased PRO68_] 
+
+[pathway; ;PRO65_] 
+
+[pathway; ;the] 
+
+[deregulated; ;pathway] 
+
+[deregulated; ;is] 
+
+[deregulated;in;lymphocytes] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO66_] 
+
+[cells; ;lymphoma] 
+
+[distinguished; ;cells] 
+
+[distinguished; ;are] 
+
+[distinguished;by;loss] 
+
+[loss;of;PRO67_] 
+
+[and@2; ;distinguished] 
+
+[and@2; ;decreased] 
+
+[decreased; ;PRO68_]  
+

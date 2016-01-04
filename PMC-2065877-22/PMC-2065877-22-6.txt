@@ -1,0 +1,53 @@
+(D and E) MTS assay of (D) WT lymphocytes and (E) PRO13_ transgenic lymphoma cells cultured with PRO14_, a neutralizing antibody to PRO15_, or a rat IgG isotype control at the indicated concentrations.
+[and@1; ;D] 
+
+[and@1; ;E] 
+
+[assay; ;MTS] 
+
+[assay;of;lymphocytes] 
+
+[lymphocytes; ;WT] 
+
+[WT; ;D] 
+
+[and@2; ;lymphocytes] 
+
+[and@2; ;cells] 
+
+[cells; ;lymphoma] 
+
+[lymphoma; ;transgenic] 
+
+[cells; ;PRO13_] 
+
+[PRO13_; ;E] 
+
+[cultured; ;assay] 
+
+[cultured;with;PRO14_] 
+
+[antibody; ;neutralizing] 
+
+[antibody; ;a] 
+
+[antibody;to;PRO15_] 
+
+[or; ;PRO14_] 
+
+[or; ;PRO15_] 
+
+[or; ;control] 
+
+[control; ;a] 
+
+[control; ;isotype] 
+
+[control; ;IgG] 
+
+[IgG; ;rat] 
+
+[control;at;concentrations] 
+
+[concentrations; ;indicated]
+[concentrations; ;the]

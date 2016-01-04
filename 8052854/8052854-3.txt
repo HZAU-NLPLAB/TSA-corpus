@@ -1,0 +1,33 @@
+This inhibition prevented the degradation of the NF-kappa B inhibitor, I kappa B, and therefore NF-kappa B was retained in the cytosol.
+
+
+[inhibition; ;This] 
+
+[prevented; ;inhibition] 
+
+[prevented; ;degradation] 
+
+[degradation; ;the@1] 
+
+[degradation;of@1;inhibitor] 
+
+[inhibitor; ;NF-kappa B] 
+
+[inhibitor; ;the@2] 
+
+[and; ;NF-kappa B inhibitor] 
+
+[and; ;I kappa B] 
+
+[and; ;NF-kappa B] 
+
+[NF-kappa B; ;therefore] 
+
+[retained; ;NF-kappa B] 
+
+[retained; ;was] 
+
+[retained;in;cytosol] 
+
+[cytosol; ;the@3] 
+

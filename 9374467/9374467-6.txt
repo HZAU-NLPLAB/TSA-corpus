@@ -1,0 +1,10 @@
+Mutational removal of the JNK phosphorylation sites caused constitutive nuclear localization of NFAT4. 
+[removal; ;Mutational]
+[removal;of@1;JNK phosphorylation sites]
+[sites; ;JNK phosphorylation]
+[phosphorylation; ;JNK]
+[caused; ;removal]
+[caused; ;localization]
+[localization; ;constitutive]
+[localization; ;nuclear]
+[localization;of@2;NFAT4]

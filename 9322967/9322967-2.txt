@@ -1,0 +1,17 @@
+Since GH@1 stimulates the@1 development and function of@1 granulocytes, we investigated the@2 expression of@2 GH@2 in granulocyte subsets.
+[we investigated the@2 expression of@2 GH@2 in granulocyte subsets;Since;GH@1 stimulates the@1 development and function of@1 granulocytes]
+[stimulates; ;GH@1]
+[stimulates; ;development]
+[stimulates; ;function]
+[and; ;development]
+[and; ;function]
+[development; ;the@1]
+[development;of@1;granulocytes]
+[function;of@1;granulocytes]
+[investigated; ;we]
+[investigated; ;expression]
+[expression; ;the@2]
+[expression;of@2;GH@2]
+[investigated;in;granulocyte subsets]
+[subsets; ;granulocyte]
+

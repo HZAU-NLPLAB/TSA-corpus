@@ -1,0 +1,23 @@
+In addition, we demonstrate a critical role for the transcription factor PRO8_ in CTL differentiation.
+[In addition; ;we demonstrate a critical role for the transcription factor PRO8_ in CTL differentiation]  
+
+[demonstrate; ;we] 
+
+[demonstrate; ;role] 
+
+[role; ;critical] 
+
+[role; ;a] 
+
+[role;for;factor] 
+
+[factor; ;transcription] 
+
+[factor; ;the] 
+
+[factor; ;PRO8_] 
+
+[PRO8_;in;differentiation] 
+
+[differentiation; ;CTL] 
+

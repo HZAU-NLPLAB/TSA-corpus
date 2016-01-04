@@ -1,0 +1,48 @@
+
+Tobacco smoke (TS) exposure is a major risk factor for human disease, and macrophages of healthy smokers have a depressed capacity to release cytokines, including tumor necrosis factor (TNF)alpha.
+[Tobacco smoke; ;TS] 
+
+[exposure; ;Tobacco smoke] 
+
+[smoke; ;Tobacco] 
+
+[is; ;exposure] 
+
+[is; ;factor] 
+
+[factor; ;a@1] 
+
+[factor; ;major] 
+
+[factor; ;risk] 
+
+[factor;for;disease] 
+
+[disease; ;human] 
+
+[and; ;Tobacco smoke (TS) exposure is a major risk factor for human disease] 
+
+[and; ;macrophages of healthy smokers have a depressed capacity to release cytokines, including tumor necrosis factor (TNF)alpha] 
+
+[macrophages;of;smokers] 
+
+[smokers; ;healthy] 
+
+[have; ;macrophages] 
+
+[have; ;capacity] 
+
+[capacity; ;a@2] 
+
+[capacity; ;depressed] 
+
+[capacity;to;release] 
+
+[release; ;cytokines] 
+
+[including; ;cytokines] 
+
+[including; ;tumor necrosis factor (TNF)alpha] 
+
+[tumor necrosis factor; ;TNF] 
+

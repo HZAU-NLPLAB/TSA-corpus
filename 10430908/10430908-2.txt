@@ -1,0 +1,26 @@
+
+Activation of CD40 is essential for thymus-dependent humoral immune responses and rescuing B cells from apoptosis.
+Activation;of;CD40 
+
+[is; ;Activation] 
+
+[is; ;essential] 
+
+[essential;for;thymus-dependent humoral immune responses] 
+
+[immune responses; ;thymus-dependent] 
+
+[dependent;-;thymus] 
+
+[immune responses; ;humoral] 
+
+[responses; ;immune] 
+
+[and; ;thymus-dependent humoral immune responses] 
+
+[and; ;rescuing B cells] 
+
+[B cells; ;rescuing]
+
+[essential;from;apoptosis] 
+

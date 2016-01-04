@@ -1,0 +1,37 @@
+The kappa B enhancer of the gene encoding the interleukin-2 (IL-2) receptor alpha chain (IL-2R alpha) is functional only in the hybrids expressing nuclear NF-kappa B.
+
+
+[enhancer; ;kappa B] 
+
+[enhancer; ;The] 
+
+[enhancer;of;encoding] 
+
+[encoding; ;gene] 
+
+[encoding; ;the@1] 
+
+[interleukin-2; ;IL-2] 
+
+[chain; ;the@2] 
+
+[chain; ;interleukin-2  receptor alpha] 
+
+[interleukin-2 receptor alpha; ;IL-2R alpha] 
+
+[is; ;chain] 
+
+[is; ;functional] 
+
+[functional; ;only] 
+
+[functional;in;expressing] 
+
+[expressing; ;the@3] 
+
+[expressing; ;hybrids] 
+
+[expressing; ;NF-kappa B] 
+
+[NF-kappa B; ;nuclear] 
+

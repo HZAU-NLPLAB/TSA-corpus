@@ -1,0 +1,10 @@
+These results suggest that HIV-TF1 is involved in transcriptional regulation of HIV-1. 
+[results; ;These]
+[suggest; ;results]
+[suggest; ;that]
+[that; ;HIV-TF1 is involved in transcriptional regulation of HIV-1]
+involved; ;[HIV-TF1]
+[involved;is; ]
+[involved;in;regulation]
+[regulation; ;transcriptional]
+[regulation;of;HIV-1]

@@ -1,0 +1,27 @@
+Inhibition studies indicate that specific tyrosine phosphorylation following PTK activation is involved in the mobilization of the transcription factor, nuclear factor kappa B, and VCAM-1 mRNA expression.
+
+[studies; ;Inhibition]
+[indicate; ;studies]
+[indicate; ;that]
+[that; ;specific tyrosine phosphorylation following PTK activation is involved in the mobilization of the transcription factor@1, nuclear factor@2 kappa B, and VCAM-1 mRNA expression]
+[phosphorylation; ;tyrosine]
+[tyrosine; ;specific]
+[following; ;phosphorylation]
+[following; ;activation]
+[activation; ;PTK]
+[involved;is;activation]
+[involved;in;mobilization]
+[mobilization;of;factor@1]
+[mobilization; ;the@1]
+[factor@1; ;transcription]
+[factor@1; ;the@2]
+[,,and; ;factor@1]
+[,,and; ;kappa B]
+[kappa B; ;factor@2]
+[factor@2; ;nuclear]
+[,,and; ;expression]
+[expression; ;mRNA]
+[mRNA; VCAM-1]
+
+
+

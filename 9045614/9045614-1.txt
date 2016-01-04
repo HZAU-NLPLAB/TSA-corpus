@@ -1,0 +1,12 @@
+Immune hyperactivation of HIV-1-infected T cells mediated by Tat and the CD28 pathway. 
+[Immune hyperactivation;of;T cells]
+[hyperactivation; ;Immune]
+[T cells; ;HIV-1-infected]
+[infected;-;HIV-1]
+[mediated; ;T cells]
+[mediated;by;Tat]
+[and; ;T cells]
+[and; ;pathway]
+[Immune hyperactivation;of;pathway]
+[pathway; ;the]
+[pathway; ;CD28]

@@ -1,0 +1,45 @@
+In this study we have identified the peroxisome proliferator-activated receptor (PPAR) as a new thyroid hormone receptor (THR) auxiliary nuclear protein, heterodimerizing with THR in solution.
+[ ;In;study] 
+
+[study; ;this] 
+
+[identified; ;have] 
+
+[identified; ;we] 
+
+[identified; ;peroxisome proliferator-activated receptor] 
+
+[peroxisome proliferator-activated receptor; ;the] 
+
+[peroxisome proliferator-activated receptor; ;PPAR] 
+
+[proliferator-activated receptor; ;peroxisome] 
+
+[receptor@1; ;proliferator-activated] 
+
+[activated;-;proliferator] 
+
+[identified;as;thyroid hormone receptor (THR) auxiliary nuclear protein] 
+
+[thyroid hormone receptor (THR) auxiliary nuclear protein; ;a] 
+
+[thyroid hormone receptor (THR) auxiliary nuclear protein; ;new] 
+
+[auxiliary nuclear protein; ;thyroid hormone receptor] 
+
+[thyroid hormone receptor; ;THR] 
+
+[nuclear protein; ;auxiliary] 
+
+[protein; ;nuclear] 
+
+[receptor@2; ;thyroid hormone] 
+
+[hormone; ;thyroid] 
+
+[identified; ;heterodimerizing] 
+
+[heterodimerizing;with;THR] 
+
+[heterodimerizing;in;solution] 
+

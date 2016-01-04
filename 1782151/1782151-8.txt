@@ -1,0 +1,31 @@
+Deletions upstream of the PRDII element increased transcription in the uninduced extract, indicating predominantly negative regulation of the promoter.
+[Deletions; ;upstream] 
+
+[upstream;of@1;PRDII element] 
+
+[PRDII element; ;the@1] 
+
+[element; ;PRDII] 
+
+[increased; ;Deletions] 
+
+[increased; ;transcription] 
+
+[increased;in;extract] 
+
+[extract; ;the@2] 
+
+[extract; ;uninduced] 
+
+[increased; ;indicating] 
+
+[indicating; ;negative regulation] 
+
+[negative regulation; ;predominantly] 
+
+[negative regulation;of@2;promoter] 
+
+[promoter; ;the@3] 
+
+[regulation; ;negative] 
+

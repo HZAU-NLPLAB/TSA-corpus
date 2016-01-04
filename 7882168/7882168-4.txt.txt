@@ -1,0 +1,13 @@
+To reconcile these observations, we expressed a hybrid CD8-Nef protein in Jurkat cells.
+
+[ ;To;reconcile]
+[reconcile; ;observations]
+[observations; ;these]
+[expressed; ;we]
+[expressed; ;protein]
+[protein; ;a]
+[protein; ;CD8-Nef]
+[CD8-Nef; ;hybrid]
+[Nef;-;CD8]
+[protein;in;cells]
+[cells; ;Jurkat]

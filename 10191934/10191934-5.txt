@@ -1,0 +1,17 @@
+Interaction to DNA induces changes in the transcription rate, leading to either gene induction or gene repression.
+[Interaction;to;DNA] 
+
+[induces; ;Interaction]
+
+[induces; ;changes] 
+
+[induces;in;transcription rate] 
+
+[transcription rate; ;the] 
+
+[leading;to;either¡­or] 
+
+[either¡­or; ;gene induction] 
+
+[eithereither¡­or; ;gene repression]  
+

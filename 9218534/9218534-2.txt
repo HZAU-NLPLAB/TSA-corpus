@@ -1,0 +1,49 @@
+
+We investigated the function of the evolutionary conserved X2 box in the promoter of the HLA-DRA gene from the human major histocompatibility complex (MHC) in resting and activated B cells.
+[investigated; ;We] 
+
+[investigated; ;function] 
+
+[function; ;the@1] 
+
+[functio;of@1;X2 box] 
+
+[X2 box; ;evolutionary conserved] 
+
+[box; ;X2] 
+
+[conserved; ;evolutionary] 
+
+[investigated;in@1;promoter] 
+
+[promoter; ;the@2] 
+
+[promoter;of@2;HLA-DRA gene] 
+
+[HLA-DRA gene; ;the@3] 
+
+[HLA-DRA gene;from;human major histocompatibility complex] 
+
+[gene; ;HLA-DRA] 
+
+[human major histocompatibility complex; ;the@4] 
+
+[human major histocompatibility complex; ;MHC] 
+
+[complex; ;human] 
+
+[complex; ;major histocompatibility] 
+
+[histocompatibility; ;major] 
+
+[human major histocompatibility complex;in@2;resting] 
+
+[and; ;HLA-DRA gene] 
+
+[and; ;B cells] 
+
+[B cells; ;activated] 
+
+[promoter;of@2;B cells] 
+
+

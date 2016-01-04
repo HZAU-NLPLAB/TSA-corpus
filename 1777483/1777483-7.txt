@@ -1,0 +1,53 @@
+We propose that KBF1 is a competitive inhibitor of NF-kappa B and discuss how these factors may be involved in the transient expression of IL-2 and IL-2R alpha genes during the immune response.
+
+
+[propose; ;We] 
+
+[propose; ;that] 
+
+[that; ;KBF1 is a competitive inhibitor of NF-kappa B and discuss how these factors may be involved in the transient expression of IL-2 and IL-2R alpha genes during the immune response]
+
+[is; ;KBF1] 
+
+[is; ;inhibitor] 
+
+[inhibitor; ;competitive] 
+
+[inhibitor; ;a] 
+
+[inhibitor;of;NF-kappa B] 
+
+[and; ;propose] 
+
+[and; ;discuss] 
+
+[discuss; ;how] 
+
+[factors; ;these] 
+
+[involved; ;factors] 
+
+[involved;be; ]
+[involved; ;may] 
+
+[involved; ;how] 
+
+[involved;in;expression] 
+
+[expression; ;transient] 
+
+[expression; ;the@1] 
+
+[expression;of;genes] 
+
+[genes; ;IL-2 and IL-2R alpha]
+
+[and; ;IL-2] 
+
+[and; ;IL-2R] 
+
+[genes;during;response] 
+
+[response; ;immune] 
+
+[response; ;the@2]

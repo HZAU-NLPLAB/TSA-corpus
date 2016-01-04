@@ -1,0 +1,5 @@
+Reverse transcription quantitative PCR (RT-qPCR).
+[PCR; ;quantitative ]
+[PCR; ;Reverse transcription ]
+[transcription; ;Reverse ]
+[Reverse transcription quantitative PCR; ;RT-qPCR]

@@ -1,0 +1,18 @@
+
+CD40 is a receptor that is critical for the survival, growth, differentiation, and isotype switching of B lymphocytes.
+
+[is@1; ;CD40]
+[is@1; ;receptor]
+[receptor; ;a]
+[receptor; ;that]
+[that; ;is@2 critical for the survival, growth, differentiation, and isotype switching of B lymphocytes]
+[is@2; ;critical]
+[is@2; ;receptor]
+[critical;for;survival]
+[,,and; ;survival]
+[,,and; ;growth]
+[,,and; ;differentiation]
+[,,and; ;isotype]
+[switching; ;isotype]
+[switching;of;B lymphocytes]
+[lymphocytes; ;B]

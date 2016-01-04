@@ -1,0 +1,18 @@
+Its expression remained very low in nuclei of HIV1-infected macrophages.
+
+
+[expression; ;Its] 
+
+[remained; ;expression] 
+
+[remained; ;low] 
+
+[low; ;very] 
+
+[low;in;nuclei] 
+
+[nuclei;of;macrophages]
+[macrophages ; ;HIV1-infected] 
+
+[infected;-;HIV1] 
+

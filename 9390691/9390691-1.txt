@@ -1,0 +1,11 @@
+Phosphatidylinositol 3-kinase couples the interleukin-2 receptor to the cell cycle regulator E2F.
+[couples; ;Phosphatidylinositol 3-kinase]
+[3-kinase; ;Phosphatidylinositol]
+[couples; ;interleukin-2 receptor]
+[interleukin-2 receptor; ;the@1]
+[receptor; ;interleukin-2]
+[couples;to;E2F]
+[E2F; ;the@2]
+[E2F; ;cell cycle regulator]
+[regulator; ;cell cycle]
+[cycle; ;cell]

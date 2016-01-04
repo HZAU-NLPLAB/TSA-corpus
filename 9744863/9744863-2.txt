@@ -1,0 +1,32 @@
+
+The locus control region of the beta-globin cluster contains five DNase I hypersensitive sites (5'HS1-5) required for locus activation.
+
+
+[region; ;The] 
+
+[region; ;control] 
+
+[region; ;locus] 
+
+[region;of;cluster] 
+
+[cluster; ;the] 
+
+[cluster; ;beta-globin] 
+
+[contains; ;region] 
+
+[contains; ;sites] 
+
+[sites; ;five] 
+
+[sites; ;hypersensitive] 
+
+[sites; ;DNase I] 
+
+[contains five DNase I hypersensitive sites; ;5'HS1-5] 
+
+[required;for;activation] 
+
+[activation; ;locus] 
+

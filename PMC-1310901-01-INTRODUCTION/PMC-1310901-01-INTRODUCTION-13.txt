@@ -1,0 +1,12 @@
+As opposed to normal cells, hypermethylation of CpG islands is a frequently observed phenomenon in every cancer type.
+[$;to;cells]
+[cells; ;normal]
+[hypermethylation;of;CpG islands]
+[is; ;phenomenon]
+[is; ;CpG islands]
+[phenomenon; ;a]
+[phenomenon; ;observed]
+[observed; ;frequently]
+[phenomenon;in;type]
+[type; ;every]
+[type; ;cancer]

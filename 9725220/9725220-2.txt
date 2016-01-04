@@ -1,0 +1,56 @@
+
+NF-IL6 is an important transcriptional regulator of genes induced in activated monocytes/macrophages, and NF-IL6 is the only CCAAT/enhancer-binding protein (C/EBP) family member whose steady-state mRNA levels increase upon activation of monocytes (1).
+[is; ;NF-IL6] 
+
+[is; ;regulator]
+
+[regulator; ;an] 
+
+[regulator; ;important] 
+
+[regulator; ;transcriptional] 
+
+[regulator;of@1;genes] 
+
+[regulator;in;activated monocytes/macrophages] 
+
+[/; ;monocytes] 
+
+[/; ;macrophages] 
+
+[and; ;NF-IL6 is an important transcriptional regulator of@1 genes induced in activated monocytes/macrophages] 
+
+[and; ;NF-IL6 is the only CCAAT/enhancer-binding protein (C/EBP) family member whose steady-state mRNA levels increase upon activation of@2 monocytes] 
+
+[is; ;NF-IL6] 
+
+[is; ;CCAAT/enhancer-binding protein] 
+
+[/; ;CCAAT] 
+
+[/; ;enhancer-binding] 
+
+[member; ;the] 
+
+[member; ;only] 
+
+[CCAAT/enhancer-binding protein; ;C/EBP] 
+
+[family; ;CCAAT/enhancer-binding protein] 
+
+[member; ;family] 
+
+[CCAAT/enhancer-binding protein (C/EBP) family member; ;whose] 
+
+[steady-state mRNA levels; ;whose] 
+
+[mRNA levels; ;steady-state] 
+
+[levels; ;mRNA] 
+
+[increase; ;steady-state mRNA levels] 
+
+[increase;upon;activation] 
+
+[activation;of@2;monocytes] 
+

@@ -1,0 +1,6 @@
+ M and incubated for 20 min at 37degreesC to ensure complete desulfonisation.
+[and; ;;incubated]
+[incubated;for;20 min]
+[ ;at;37degreesC]
+[ensure; ;;desulfonisation]
+[desulfonisation; ;;complete]

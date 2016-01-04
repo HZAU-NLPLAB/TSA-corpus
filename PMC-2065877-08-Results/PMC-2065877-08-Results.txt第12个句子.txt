@@ -1,0 +1,15 @@
+This is well within the reported IC50 of 10 muM.
+[is; ;This] 
+
+[is; ;within] 
+
+[within; ;well] 
+
+[within; ;IC50] 
+
+[IC50; ;reported] 
+
+[IC50;of;muM] 
+
+[muM; ;10] 
+

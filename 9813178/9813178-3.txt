@@ -1,0 +1,31 @@
+TS induces the synthesis of heat shock (HS)/stress proteins (HSP), and, in particular, of Hsp70.
+[induces; ;TS] 
+
+[induces; ;synthesis] 
+
+[synthesis; ;the] 
+
+[synthesis;of@1;heat shock (HS)/stress proteins (HSP)] 
+
+[synthesis;of@2;Hsp70] 
+
+[and; ;of heat shock (HS)/stress proteins (HSP)] 
+
+[and; ;of Hsp70] 
+
+[of heat shock (HS)/stress proteins (HSP);in particular;of Hsp70] 
+
+[ ;in;particular] 
+
+[heat shock; ;HS] 
+
+[stress proteins; ;HSP] 
+
+[/; ;heat shock] 
+
+[/; ;stress proteins] 
+
+[shock; ;heat] 
+
+[stress; ;proteins] 
+

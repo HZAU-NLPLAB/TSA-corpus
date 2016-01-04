@@ -1,0 +1,59 @@
+
+The two nuclear proteins NF-kappa B (consisting of subunits p50 and p65) and the DNA-binding subunit of NF-kappa B (p50) by itself, also called KBF1, are constitutively expressed and localized in the nucleus of the human T-cell line IARC 301.
+
+
+[proteins; ;nuclear] 
+
+[proteins; ;two] 
+
+[proteins; ;The] 
+
+[NF-kappa B; ;proteins] 
+
+[consisting; ;NF-kappa B] 
+
+[consisting;of@1;subunitS] 
+
+[subunits; ;p50 and p65] 
+
+[and@1; ;p50] 
+
+[and@1; ;p65] 
+
+[and@2; ;NF-kappa B] 
+
+[and; ;DNA-binding subunit] 
+
+[subunit; ;DNA-binding] 
+
+[binding;-;DNA] 
+
+[subunit; ;the@1] 
+
+[subunit;of@2;NF-kappa B] 
+
+[NF-kappa B; ;p50] 
+
+[NF-kappa B;by;itself] 
+
+[called; ;also] 
+
+[called; ;KBF1] 
+
+[expressed;are; ]
+
+[expressed; ;constitutively] 
+
+[and@3;;expressed] 
+
+[and@3; ;localized] 
+
+[expressed and localized;in;nucleus] 
+
+[nucleus; ;the@2] 
+
+[nucleus;of;human T-cell line] 
+
+[human T-cell line; ;the@3] 
+
+[human T-cell line; ;IARC 301.5]

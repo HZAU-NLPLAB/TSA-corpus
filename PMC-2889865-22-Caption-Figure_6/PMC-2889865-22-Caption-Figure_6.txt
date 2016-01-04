@@ -1,0 +1,7 @@
+Involvement of PKC and JNK in cytokine expression. 
+[Involvement;of;PKC]
+[Involvement;of;JNK]
+[and; ;PKC]
+[and; ;JNK]
+[Involvement;in;expression]
+[expression; ;cytokine]

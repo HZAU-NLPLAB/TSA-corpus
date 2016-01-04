@@ -1,0 +1,13 @@
+Cells were serum starved for 4 hours prior to 2 hours stimulation with mouse recombinant M-CSF (100 ng/ml).
+[were; ;serum]
+[were; ;Cells]
+[starved; ;serum]
+[starved;for;hours@1]
+[prior;to;stimulation]
+[stimulation; ;2 hours@2]
+[hours@2; ;2]
+[hours@1; ;4]
+[stimulation;with;M-CSF]
+[M-CSF; ;recombinant]
+[M-CSF; ;mouse) 
+

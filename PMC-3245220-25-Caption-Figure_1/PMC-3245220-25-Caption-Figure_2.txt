@@ -1,0 +1,16 @@
+[A) Nuclei were extracted from human MDMs treated without or with M-CSF for 15 or 30 minutes.
+[extracted; ;Nuclei]
+[extracted; ;were]
+[extracted;from;MDMs]
+[treated; ;MDMs]
+[MDMs; ;human]
+[treated;without;M-CSF]
+[treated;with;M-CSF]
+[or@1; ;without]
+[or@1; ;with]
+[treated;for;minutes]
+[or@2; ;15]
+[or@2; ;30]
+[minutes; ;30]
+[minutes; ;15) 
+

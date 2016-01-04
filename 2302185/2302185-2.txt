@@ -1,0 +1,13 @@
+The transcription of the human immunodeficiency virus type 1 (HIV-1) is under the control of cellular proteins that bind to the viral long terminal repeat (LTR).
+[transcription; ;The]
+[transcription;of@1;human immunodeficiency virus type 1]
+[human immunodeficiency virus type 1; ;the@1]
+[human immunodeficiency virus type 1; ;HIV-1]
+[is; ;human immunodeficiency virus type 1]
+[is;under the@2 control of@2;cellular proteins]
+[proteins; ;cellular]
+[cellular proteins; ;that]
+[bind to; ;that]
+[bind to; ;viral long terminal repeat]
+[viral long terminal repeat; ;the@3]
+[viral long terminal repeat; ;LTR]

@@ -1,0 +1,9 @@
+Reversed transcription (RT)-PCR analysis demonstrated GH mRNA in neutrophils.
+transcription; ;[Reversed]
+[Reversed transcription; ;RT]
+[Reversed transcription;-;PCR]
+[analysis; ;PCR]
+[demonstrated; ;analysis]
+[demonstrated; ;GH mRNA]
+[mRNA; ;GH]
+[demonstrated;in;neutrophils]

@@ -1,0 +1,6 @@
+It was identified as NF-E1 (YY1).
+
+[identified;was;It]
+[identified; ;as]
+[identified; ;NF-E1]
+[NF-E1; ;YY1]

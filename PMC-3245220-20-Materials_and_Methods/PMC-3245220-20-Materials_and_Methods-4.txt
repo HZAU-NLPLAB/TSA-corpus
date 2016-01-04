@@ -1,0 +1,18 @@
+Cell lysates were separated by SDS-PAGE on 10% polyacrylamide gels and then transferred onto nitrocellulose membranes and subjected to Western blotting.
+[lysates; ;Cell]
+[separated; ;lysates]
+[separated; ;were]
+[separated;on;gels]
+[gels; ;polyacrylamide]
+[separated;by;SDS-PAGE]
+[gels; ;10%]
+[and@1; ;transferred]
+[and@1; ;separated]
+[transferred; ;then]
+[transferred;onto;membranes]
+[membranes; ;nitrocellulose]
+[and@2; ;subjected]
+[and@2; ;transferred]
+[subjected;to;blotting]
+[blotting; ;Western) 
+

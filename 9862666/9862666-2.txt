@@ -1,0 +1,20 @@
+
+IL-2 gene transcription in T cells requires both TCR and costimulatory signals.
+[gene transcription; ;IL-2] 
+
+[transcription; ;gene] 
+
+[IL-2 gene transcription;in;T cells] 
+
+[[requires; ;IL-2 gene transcription] 
+
+[requires; ;TCR] 
+
+[requires; ;costimulatory signals] 
+
+[both¡­and; ;TCR] 
+
+[both¡­and;  ;costimulatory signals] 
+
+[signals; ;costimulatory] 
+

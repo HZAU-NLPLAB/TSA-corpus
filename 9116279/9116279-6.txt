@@ -1,0 +1,41 @@
+Within the erythroid lineage, runt expression is biphasic, clearly present in the erythroblasts of early blood islands and of the fetal liver, but absent in the adult.
+
+
+[is; ;expression]
+
+[is; ;biphasic] 
+
+[is;Within;lineage] 
+
+[lineage; ;the@1] 
+
+[lineage; ;erythroid] 
+
+[present; ;clearly] 
+
+[present;in@1;erythroblasts] 
+
+[erythroblasts; ;the@2] 
+
+[erythroblasts;of@1;islands] 
+
+[islands; ;early] 
+
+[islands; ;blood] 
+
+[and; ;of@1] 
+
+[and; ;of@2] 
+
+[of@2; ;liver] 
+
+[liver; ;the@3] 
+
+[liver;in@2;fetal] 
+
+[present;but;absent] 
+
+[absent;in@2;adult]  
+
+[adult; ;the@4] 
+

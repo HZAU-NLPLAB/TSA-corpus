@@ -1,0 +1,25 @@
+F-AT activation induced by a CAML-interacting member of the tumor necrosis factor receptor superfamily.
+
+
+[activation; ;NF-AT] 
+
+[induced; ;activation] 
+
+[induced;by;member] 
+
+[member; ;a] 
+
+[member; ;CAML-interacting] 
+
+[membe;of;tumor necrosis factor receptor superfamily] 
+
+[superfamily; ;the] 
+
+[necrosis; ;tumor] 
+
+[factor; ;necrosis] 
+
+[receptor; ;factor] 
+
+[superfamily; ;receptor] 
+

@@ -1,0 +1,21 @@
+The Ribophorin I-EVI1 fusion in particular may be a common occurrence in t(3;3).
+[Ribophorin I-EVI1 fusion; ;The] 
+
+[Ribophorin I-EVI1 fusion; ;in particular] 
+
+[be; ;may] 
+
+[be; ;Ribophorin I-EVI1 fusion] 
+
+[I-EVI1 fusion; ;Ribophorin] 
+
+[fusion; ;I-EVI1] 
+
+[be; ;occurrence] 
+
+[occurrence; ;common] 
+
+[occurrence; ;a] 
+
+[occurrence;in;t(3;3)] 
+

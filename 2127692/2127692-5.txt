@@ -1,0 +1,12 @@
+The calcium ionophore-induced c-myc suppression, however, strictly requires de novo protein synthesis. 
+[calcium ionophore-induced c-myc suppression; ;The]
+[suppression; ;c-myc]
+[suppression; ;calcium ionophore-induced]
+[induced;-;calcium ionophore]
+[ionophore; ;calcium]
+[requires; ;calcium ionophore-induced c-myc suppression]
+[requires; ;strictly]
+[requires; ; de novo protein synthesis]
+[synthesis; ;protein]
+[synthesis; ;de novo]
+

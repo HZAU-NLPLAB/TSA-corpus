@@ -1,0 +1,5 @@
+Enzyme-linked immunosorbent assay (ELISA).
+[assay; ;immunosorbent]
+[assay; ;Enzyme-linked]
+[linked;-;Enzyme]
+[Enzyme-linked immunosorbent assay; ;ELISA]

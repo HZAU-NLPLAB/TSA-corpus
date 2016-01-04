@@ -1,0 +1,27 @@
+The role of HIV1 infection in the expression and the translocation of these factors is discussed.
+
+
+[role; ;The] 
+
+[role;of@1;infection] 
+
+[infection; ;HIV1] 
+
+[infection;in;expression] 
+
+[expression; ;the@1] 
+
+[and; ;expression] 
+
+[and; ;translocation] 
+
+[translocation; ;the@2] 
+
+[translocation;of@2;factors] 
+
+[factors; ;these] 
+
+[discussed; ;factors] 
+
+[discussed; ;is] 
+

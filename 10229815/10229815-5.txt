@@ -1,0 +1,15 @@
+However, CTLA-4 ligation did not appear to affect the CD28-mediated stabilization of IL-2 mRNA.
+[appear; ;CTLA-4 ligation] 
+
+[appear; ;did] 
+
+[appear; ;not] 
+
+[appear;to;affect] 
+
+[affect; ;CD28-mediated stabilization] 
+
+[CD28-mediated stabilization; ;the] 
+
+[CD28-mediated stabilization;of;IL-2 mRNA] 
+

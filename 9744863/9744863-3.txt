@@ -1,0 +1,23 @@
+5'HS3 contains six G-rich motifs that are essential for its activity.s
+
+
+[contains; ;5'HS3] 
+
+[contains; ;motifs] 
+
+[motifs; ;six] 
+
+[motifs; ;G-rich]
+
+[rich;-;G] 
+
+[motifs; ;that] 
+
+[are; ;that] 
+
+[are; ;essential] 
+
+[essential;for;activity]   
+
+[activity ; ;its] 
+

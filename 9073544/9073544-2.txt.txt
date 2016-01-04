@@ -1,0 +1,13 @@
+The in vitro transendothelial migration of circulating filarial antigen-specific T-cells was examined in Wuchereria banerofti infection.
+
+[migration;of;T-cells]
+[migration; ;transendothelial]
+[transendothelial; ;vitro]
+[vitro; ;The]
+[T-cells;in;vitro]
+[cells;-;T]
+[examined;was; ]
+[examined; ;T-cells]
+[examined;in;infection]
+[infection; ;banerofti]
+[banerofti; ;Wuchereria]

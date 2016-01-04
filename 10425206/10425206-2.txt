@@ -1,0 +1,46 @@
+
+The peroxisome-proliferator activated receptor gamma (PPARgamma), a member of the nuclear receptor superfamily of ligand activated transcription factors, plays a key role in the anti-diabetic actions of the thiazolidinediones (TZDs).
+[peroxisome-proliferator activated receptor gamma; ;The@1] 
+
+[gamma; ;peroxisome-proliferator] 
+
+[gamma; ;activated]
+
+[gamma; ;receptor] 
+
+[peroxisome-proliferator activated receptor gamma; ;PPARgamma] 
+
+[peroxisome-proliferator activated receptor gamma; ;member] 
+
+[member; ;a] 
+
+[member;of@1;nuclear receptor superfamily] 
+
+[nuclear receptor superfamily; ;the@2] 
+
+[superfamily;receptor;nuclear] 
+
+[nuclear receptor superfamily;of@2;ligand activated transcription factors] 
+
+[transcription factors;activated;ligand]
+
+[plays; ;peroxisome-proliferator activated receptor gamma] 
+
+[plays; ;role] 
+
+[role; ;a] 
+
+[role; ;key] 
+
+[role;in;anti-diabetic actions] 
+
+[anti-diabetic actions; ;the@3] 
+
+[diabetic;-;anti] 
+
+[anti-diabetic actions;of@3;thiazolidinediones] 
+
+[thiazolidinediones; ;the@4] 
+
+[thiazolidinediones; ;TZDs] 
+

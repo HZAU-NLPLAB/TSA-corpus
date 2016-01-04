@@ -1,0 +1,16 @@
+It is becoming increasingly apparent that NF-kappa B plays a critical role in regulating the inflammatory response.
+[becoming; ;It]
+[becoming; ;is]
+[becoming; ;increasingly]
+[apparent; ;increasingly]
+[apparent; ;that]
+[that; ;NF-kappa B plays a critical role in regulating the inflammatory response]
+[plays; ;NF-kappa B]
+[plays; ;role]
+[role; ;a]
+[role; ;critical]
+[plays;in;regulating]
+[regulating; ;response]
+[response; ;the]
+[response; ;inflammatory]
+

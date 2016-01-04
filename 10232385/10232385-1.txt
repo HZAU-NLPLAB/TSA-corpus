@@ -1,0 +1,25 @@
+Resistance to tumor necrosis factor induced apoptosis in vitro correlates with high metastatic capacity of cells in vivo.
+[Resistance;to;factor] 
+
+[factor; ;tumor] 
+
+[factor; ;necrosis] 
+
+[induced; ;factor] 
+
+[[induced; ;apoptosis] 
+
+[induced;in@1;vitro] 
+
+[correlates; ;Resistance] 
+
+[correlates;with;capacity] 
+
+[capacity; ;high] 
+
+[capacity; ;metastatic] 
+
+[capacity;of;cells] 
+
+[correlates;in@2;vivo] 
+

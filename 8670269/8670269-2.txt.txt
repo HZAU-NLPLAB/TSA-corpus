@@ -1,0 +1,20 @@
+
+Spi-B is an Ets transcription factor related to the oncoprotein Spi-1/PU.1 and highly expressed in B lymphoid cells.
+
+[is; ;
+Spi-B]
+[is; ;factor]
+[factor; ;transcription]
+[factor; ;an]
+[transcription; ;Ets]
+[related; ;factor]
+[related;to;Spi-1/PU.1]
+[Spi-1/PU.1; ;oncoprotein ]
+[/; ;Spi-1]
+[/; ;PU.1]
+[and; ;related]
+[and; ;expressed]
+[expressed; ;highly]
+[expressed;in;cells]
+[cells; ;lymphoid]
+[lymphoid; ;B]

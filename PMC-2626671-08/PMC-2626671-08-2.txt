@@ -1,0 +1,36 @@
+The following antibodies used for intracellular or surface stains were obtained from eBioscience: anti-PRO1_, anti-PRO2_, anti-PRO3_, anti-PRO4_, anti-PRO5_, anti-PRO6_, and anti-PRO7_.
+[antibodies; ;following] 
+
+[antibodies; ;The@1] 
+
+[used; ;antibodies] 
+
+[used;for;intracellular] 
+
+[or; ;The following antibodies used for intracellular] 
+
+[or; ;surface stains were obtained from eBioscience: anti-PRO1_, anti-PRO2_, anti-PRO3_, anti-PRO4_, anti-PRO5_, anti-PRO6_, and anti-PRO7_] 
+
+[stains; ;surface] 
+
+[obtained; ;were] 
+
+[obtained; ;stains] 
+
+[obtained;from;eBioscience] 
+
+[:; ;eBioscience] 
+
+[:; ;anti-PRO1_, anti-PRO2_, anti-PRO3_, anti-PRO4_, anti-PRO5_, anti-PRO6_, and anti-PRO7_] 
+
+[and; ;anti-PRO1_] 
+
+[and; ;anti-PRO2_] 
+
+[and; ;anti-PRO3_] 
+
+[and; ;anti-PRO4_] 
+
+[and; ;anti-PRO6_] 
+
+[and; ;anti-PRO7_]

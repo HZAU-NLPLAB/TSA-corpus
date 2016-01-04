@@ -1,0 +1,9 @@
+However, this factor did not bind to a typical AP-1 site.
+
+[factor; ;this]
+[bind; ;did]
+[bind; ;not]
+[bind;to;site]
+[site; ;AP-1]
+[AP-1; ;typical]
+[site; ;a]

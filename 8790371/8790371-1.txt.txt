@@ -1,0 +1,10 @@
+Apoptosis mediated by HIV protease is preceded by cleavage of Bcl-2.
+
+[mediated; ;Apoptosis]
+[mediated;by@1;protease]
+[protease; ;HIV]
+[preceded;is; ]
+[preceded;by@2;cleavage]
+[cleavage;of;Bcl-2]
+
+

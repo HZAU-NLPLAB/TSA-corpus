@@ -1,0 +1,33 @@
+obacco smoke induces coordinate activation of HSF and inhibition of NFkappaB in human monocytes: effects on TNFalpha release.
+[induces; ;Tobacco smoke] 
+
+[smoke; ;Tobacco] 
+
+[induces; ;activation] 
+
+[activation; ;coordinate] 
+
+[activation;of@1;HSF] 
+
+[and; ;activation] 
+
+[and; ;inhibition] 
+
+[induces; ;inhibition] 
+
+[inhibition; ;coordinate] 
+
+[inhibition;of@2;NFkappaB] 
+
+[induces;in;human monocytes] 
+
+[monocytes; ;human] 
+
+[:; ;Tobacco smoke induces coordinate activation of HSF and inhibition of NFkappaB in human monocytes] 
+
+[:; ;effects on TNFalpha release] 
+
+[effects;on;release] 
+
+[release; ;TNFalpha] 
+

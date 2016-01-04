@@ -1,0 +1,19 @@
+-allyl cysteine inhibits activation of nuclear factor kappa B in human T cells.
+
+
+[inhibits; ;S-allyl cysteine] 
+
+[cysteine; ;S-allyl] 
+
+[inhibits; ;activation] 
+
+[activation;of;nuclear factor kappa B] 
+
+[kappa B; ;factor] 
+
+[factor; ;nuclear] 
+
+[kappa B;in;T cells] 
+
+[T cells ; ;human] 
+

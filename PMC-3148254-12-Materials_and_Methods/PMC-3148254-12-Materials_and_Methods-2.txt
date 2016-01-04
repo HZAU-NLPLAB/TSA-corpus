@@ -1,0 +1,22 @@
+Briefly, 1x106 cells were stimulated overnight with anti-CD40 antibody (10 microg/ml) or an isotype control antibody, with or without 500 U/ml mouse PRO4_ (BD Biosciences).
+[cells; ;1x106) 
+[stimulated; ;were) 
+[stimulated; ;cells) 
+[stimulated; ;overnight) 
+[stimulated;with@1;antibody@1) 
+[antibody@1; ;anti-CD40) 
+[antibody@1; ;10 microg/ml]
+[microg/ml; ;10) 
+[or@1; ;antibody@1) 
+[or@1; ;antibody@2) 
+[antibody@2; ;an) 
+[antibody@2; ;control) 
+[antibody@2; ;isotype) 
+[or@2; ;with@2) 
+[or@2; ;without) 
+[without; ;PRO4_) 
+[with; ;PRO4_) 
+[PRO4_; ;mouse) 
+[PRO4_; ;500 U/ml) 
+[U/ml; ;500) 
+

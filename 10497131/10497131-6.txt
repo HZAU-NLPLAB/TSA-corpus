@@ -1,0 +1,45 @@
+Compounds that interfere selectively with the calcineurin-NFAT interaction without affecting calcineurin phosphatase activity may be useful as therapeutic agents that are less toxic than current drugs.
+[Compounds; ;that@1] 
+
+[interfere; ;that@1] 
+
+[interfere; ;selectively] 
+
+[interfere;with;interaction] 
+
+[interaction; ;calcineurin-NFAT] 
+
+[interaction; ;the] 
+
+[calcineurin;-;NFAT] 
+
+[interfere;without;affecting] 
+
+[affecting; ;calcineurin phosphatase activity] 
+
+[activity; ;calcineurin phosphatase] 
+
+[phosphatase; ;calcineurin] 
+
+[be; ;Compounds] 
+
+[be; ;may] 
+
+[be; ;usefu] 
+
+[useful;as;therapeutic agents] 
+
+[agents; ;therapeutic] 
+
+[therapeutic agents; ;that@2] 
+
+[are; ;that@2] 
+
+[are; ;toxic] 
+
+[toxic; ;less] 
+
+[toxic;than;current drugs]
+
+[drugs; ;current] 
+

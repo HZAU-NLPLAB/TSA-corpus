@@ -1,0 +1,16 @@
+
+NF-kB is a eukaryotic transcription regulatory factor.
+
+
+[is; ;NF-kB] 
+
+[is; ;factor] 
+
+[factor; ;regulatory] 
+
+[factor; ;transcription] 
+
+[factor; ;eukaryotic] 
+
+[factor; ;a] 
+

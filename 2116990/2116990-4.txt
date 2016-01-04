@@ -1,0 +1,33 @@
+The enhancer consists of tandem AP-1-binding sites, phased 10 bp apart, which are both required for full activity.
+
+
+[enhancer; ;The] 
+
+[consists; ;enhancer] 
+
+[consists;of;tandem AP-1-binding sites] 
+
+[sites; ;AP-1-binding] 
+
+[sites; ;tandem] 
+
+[binding;-;AP-1] 
+
+[phased; ;apart] 
+
+[apart; ;10 bp] 
+
+[bp; ;10] 
+
+[which; ;10 bp apart] 
+
+[required; ;which] 
+
+[required; ;are] 
+
+[required; ;both]
+
+[required;for;activity] 
+
+[activity ; ;full] 
+

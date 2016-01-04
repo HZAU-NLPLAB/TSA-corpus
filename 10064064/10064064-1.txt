@@ -1,0 +1,19 @@
+AML and Ets proteins regulate the I alpha1 germ-line promoter.
+[and; ;AML] 
+
+[and; ;Ets] 
+
+[proteins; ;AML] 
+
+[proteins; ;Ets] 
+
+[regulate; ;proteins] 
+
+[regulate; ;promoter] 
+
+[promoter;  ;the]
+
+[promoter; ;I alpha1] 
+
+[promoter; ;germ-line]
+

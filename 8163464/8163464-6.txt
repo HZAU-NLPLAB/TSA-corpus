@@ -1,0 +1,49 @@
+However, a TH-dependent positive effect is elicited by selective interaction of the THR beta-PPAR but not the THR alpha-PPAR heterodimer with a novel TRE (DR+2).
+a TH-dependent positive effect is elicited by selective interaction of the THR beta-PPAR but not the THR alpha-PPAR heterodimer with a novel TRE (DR+2); ;However 
+
+[effect; ;positive] 
+
+[effect; ;TH-dependent] 
+
+[dependent;-;TH] 
+
+[effect; ;a@1] 
+
+[elicited; ;is] 
+
+[elicited; ;effect] 
+
+[elicited;by;interaction] 
+
+[interaction; ;selective] 
+
+[interaction;of;heterodimer] 
+
+[heterodimer; ;THR beta-PPAR] 
+
+[THR beta-PPAR; ;the@1] 
+
+[heterodimer; ;THR alpha-PPAR] 
+
+[THR alpha-PPAR; ;the@2] 
+
+[but not; ;THR beta-PPAR] 
+
+[but not; ;THR alpha-PPAR] 
+
+[beta-PPAR; ;THR@1] 
+
+[alpha-PPAR; ;THR@2] 
+
+[PPAR@1;-;beta] 
+
+[PPAR@2;-;alpha] 
+
+[heterodimer;with;TRE] 
+
+[TRE; ;DR+] 
+
+[TRE; ;a@2] 
+
+[TRE; ;novel] 
+

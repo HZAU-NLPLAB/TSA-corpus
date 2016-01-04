@@ -1,0 +1,14 @@
+The gp160-induced NF-kappa B complex consists of p65, p50 and c-rel proteins.
+
+[NF-kappa B; ;The]
+[kappa;-;NF]
+[NF-kappa B; ;gp160-induced]
+[induced;-;gp160]
+[NF-kappa B; ;complex]
+[consists; ;NF-kappa B]
+[consists;of;p65]
+[and; ;p50]
+[and; ;p65]
+[and; ;proteins]
+[proteins; ;c-rel]
+[rel;-;c]

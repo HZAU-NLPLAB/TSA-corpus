@@ -1,0 +1,61 @@
+rapamycin, an inhibitor of PRO53_, did not affect the viability of the transgenic lymphocytes or lymphoma cells, confirming that PRO54_ is not targeted by PRO55_ activation in PRO56_ transgenic lymphocytes or malignant lymphoma cells (Figure 7).
+[rapamycin; ;inhibitor] 
+
+[inhibitor; ;an] 
+
+[inhibitor;of;PRO53_] 
+
+[affect; ;rapamycin] 
+
+[affect; ;did] 
+
+[affect; ;not]
+[affect; ;viability]
+
+[viability; ;the] 
+
+[viability;of;lymphocytes] 
+
+[viability;of;cells] 
+
+[or; ;lymphocytes] 
+
+[or; ;cells] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;the] 
+
+[cells; ;lymphoma] 
+
+[confirming; ;rapamycin, an inhibitor of PRO53_, did not affect the viability of the transgenic lymphocytes or lymphoma cells] 
+
+[confirming; ;that] 
+
+[that; ;PRO54_ is not targeted by PRO55_ activation in PRO56_ (transgenic lymphocytes or malignant lymphoma cells] 
+
+[targeted; ;PRO54_] 
+
+[targeted; ;is] 
+
+[targeted; ;not] 
+
+[targeted;by;activation] 
+
+[activation; ;PRO55_] 
+
+[activation;in;lymphocytes] 
+
+[activation;in;cells] 
+
+[or; ;lymphocytes] 
+
+[or; ;cells] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO56_] 
+
+[cells; ;lymphoma] 
+
+[cells; ;malignant]

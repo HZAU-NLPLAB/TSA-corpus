@@ -1,0 +1,19 @@
+
+Endothelial cells stimulated by LPS express E-selectin, which plays an important role in mediating neutrophil adhesion during inflammation.
+
+[cells; ;
+Endothelial]
+[stimulated; ;cells]
+[stimulated;by;E-selectin]
+[E-selectin; ;express]
+[express; ;LPS]
+[selectin; ;E]
+[E-selectin; ;which]
+[plays; ;which]
+[plays; ;role]
+[role; ;an]
+[role; ;improtant]
+[role;in;mediating]
+[mediating; ;adhesion]
+[adhesion; ;neutrophil]
+[adhesion;during;inflammation]

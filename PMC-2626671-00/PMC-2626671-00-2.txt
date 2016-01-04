@@ -1,0 +1,41 @@
+CTLs lyse infected or aberrant target cells by exocytosis of lytic granules containing the pore-forming protein PRO3_ and a family of proteases termed granzymes.
+[or@1; ;infected]
+[or@1; ;aberrant] 
+
+[lyse; ;CTLs] 
+
+[cells; ;target] 
+
+[cells; ;infected] 
+
+[cells; ;aberrant] 
+
+[cells;by;exocytosis] 
+
+[exocytosis;of;granules] 
+
+[granules; ;lytic] 
+
+[containing; ;granules] 
+
+[containing; ;PRO3_] 
+
+[protein; ;the@2] 
+
+[PRO3_; ;pore-forming] 
+
+[PRO3_; ;protein] 
+
+[forming;-;pore] 
+
+[and@1; ;protein] 
+
+[and@1; ;family] 
+
+[family; ;a] 
+
+[family;of;granzymes] 
+
+[granzymes; ;termed] 
+
+[granzymes; ;proteases]

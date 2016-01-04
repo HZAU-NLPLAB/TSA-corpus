@@ -1,0 +1,12 @@
+Binding of HIV-TF1 to the@1 HIV long terminal repeat (LTR) activated transcription from the@2 HIV promoter in vitro.
+[Binding;of;HIV-TF1]
+[Binding;to;HIV]
+[HIV; ;the@1]
+[long terminal repeat; ;LTR]
+[repeat;terminal;long]
+[activated; ;repeat]
+[activated; ;transcription]
+[activated;from;HIV promoter]
+[HIV promoter; ;the@2]
+[promoter; ;HIV]
+[HIV promoter;in;vitro]

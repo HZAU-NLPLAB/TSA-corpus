@@ -1,0 +1,14 @@
+Human herpesvirus 6 (HHV-6) can activate the human immunodeficiency virus (HIV) promoter and accelerate cytopathic effects in HIV-infected human T cells.
+
+[Human herpesvirus 6£» £»HHV-6]
+[herpesvirus 6£» £»human@1]
+[activate£» £»virus]
+[human immunodeficiency virus£» £»HIV]
+[promoter£» £»human immunodeficiency virus]
+[and£» £»activate]
+[and£» £»accelerate ]
+[accelerate £» £»effects]
+[effects£» £»cytopathic]
+[effects£»in£»T cells]
+[T cells£» £»human@2]
+[T cells£» £»HIV-infected]

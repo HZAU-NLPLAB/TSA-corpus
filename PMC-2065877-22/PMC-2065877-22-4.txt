@@ -1,0 +1,49 @@
+(B and C) Immunoblot analysis of WT and PRO9_ transgenic mice for activated PRO10_ in (B) purified B cells (PRO11_+) at the time of harvest or in (C) whole splenocytes cultured with or without PRO12_.
+[analysis; ;Immunoblot] 
+
+[analysis;of;WT] 
+
+[analysis;of;mice] 
+
+[and; ;WT] 
+
+[and; ;mice] 
+
+[mice; ;transgenic] 
+
+[mice; ;PRO9_] 
+
+[mice;for;PRO10_] 
+
+[PRO10_; ;activated] 
+
+[PRO10_;in;B cells] 
+
+[B cells; ;purified] 
+
+[B cells; ;PRO11_+] 
+
+[B cells;at;time] 
+
+[time; ;the] 
+
+[time;of;harvest] 
+
+[or; ;at] 
+
+[or; ;in] 
+
+[B cells;in;splenocytes] 
+
+[splenocytes; ;whole] 
+
+[cultured; ;analysis] 
+
+[cultured;with;PRO12_] 
+
+[cultured;without;PRO12_]
+
+[or; ;with] 
+
+[or; ;without] 
+

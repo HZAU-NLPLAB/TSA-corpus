@@ -1,0 +1,8 @@
+Time and strength of the appearance of PRO6_ transcripts varied among cell lines, i.
+[and; ;Time]
+[and; ;strength]
+[strength;of@1;appearance]
+[appearance; ; the]
+[appearance;of@2;PRO6_ transcripts]
+[varied; ;PRO6_ transcripts]
+[varied;among;cell lines]

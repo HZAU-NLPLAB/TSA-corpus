@@ -1,0 +1,13 @@
+; Sigma) were added, the solution was gently mixed, overlayed with mineral oil and incubated in the dark for 12-13 h at 50degreesC.
+[added; ;;were]
+[solution; ;;the@1]
+[mixed; ;;gently]
+[mixed; ;;was]
+[mixed; ;;solution]
+[overlayed;with;mineral oil]
+[and; ;;overlayed]
+[and; ;;incubated]
+[incubated;in;dark]
+[dark; ;;the@2]
+[ ;for;12-13 h]
+[ ;at;50degreesC]

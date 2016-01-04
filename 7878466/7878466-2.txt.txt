@@ -1,0 +1,15 @@
+
+I kappa B-alpha inhibits transcription factor NF-kappa B by retaining it in the cytoplasm.
+
+[inhibits; ;B@1-alpha]
+[B@1-alpha; ;kappa@1]
+[kappa@1; ;I]
+[alpha;-;B@1]
+[inhibits; ;NF-kappa@2 B@2]
+[NF-kappa@2 B@2; ;factor]
+[kappa@2;-;NF]
+[factor; ;transcription]
+[inhibits;by;retaining]
+[retaining; ;it]
+[retaining;in;cytoplasm]
+[cytoplasm; ;the]

@@ -1,0 +1,11 @@
+The PRO13_ antibody was provided by L.
+[provided; ;antibody] 
+
+[antibody; ;PRO13_] 
+
+[antibody; ;The] 
+
+[provided; ;was] 
+
+[provided;by;L]   
+

@@ -1,0 +1,43 @@
+
+Kappa B (kappa B) enhancer binding proteins isolated from the nuclei of activated human T cells produce two distinct nucleoprotein complexes when incubated with the kappa B element from the interleukin-2 receptor-alpha (IL-2R alpha) gene.
+
+
+[enhancer; ;Kappa B] 
+
+[proteins; ;enhancer binding]
+
+[binding; ;enhancer] 
+
+[isolated; ;proteins] 
+
+[isolated;from@1;nuclei] 
+
+[nuclei; ;the@1] 
+
+[nuclei;of;human T cells] 
+
+[human T cells; ;activated] 
+
+[produce; ;complexes] 
+
+[complexes; ;nucleoprotein] 
+
+[complexes; ;distinct] 
+
+[complexes; ;two] 
+
+[Kappa B (kappa B) enhancer binding proteins isolated from the nuclei of activated human T cells produce two distinct nucleoprotein complexes;when;incubated with the kappa B element from the interleukin-2 receptor-alpha (IL-2R alpha) gene] 
+
+[incubated;with;kappa B element] 
+
+[kappa B element; ;the@2] 
+
+[element; ;kappa B] 
+
+[element;from@2;gene] 
+
+[gene; ;the@3] 
+
+[gene; ;interleukin-2 receptor-alpha] 
+
+[interleukin-2 receptor-alpha; ;IL-2R alpha]

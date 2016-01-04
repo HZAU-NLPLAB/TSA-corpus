@@ -1,0 +1,11 @@
+Glucocorticoids are among the most potent anti-inflammatory and immunosuppressive agents.
+[are; ;Glucocorticoids]
+[are; ;anti-inflammatory and immunosuppressive agents]
+[ ;among;anti-inflammatory and immunosuppressive agents]
+[anti-inflammatory and immunosuppressive agents; ;the]
+[anti-inflammatory and immunosuppressive agents; ;potent]
+[potent; ;most]
+[agents; ;immunosuppressive]
+[and; ;immunosuppressive]
+[and; ;anti-inflammatory]
+[inflammatory;-;anti]

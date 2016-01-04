@@ -1,0 +1,75 @@
+Analysis of PRO1_, NFkappaB, and PRO2_ Pathways in Contribution to the Growth and Survival of Lymphoma Cells
+(A-D) Immunoblot analysis of wild-type and PRO3_ transgenic lymphomas for PRO4_, NFkappaB, and PRO5_ signaling after treatment with (A) an PRO6_ inhibitor, triciribine, (B)] an NFkappaB inhibitor, BAY11-7085, and the PRO7_ inhibitors (C) cucurbitacin I and (D) AG490, at the indicated concentrations.
+[Analysis;of;PRO1_, NFkappaB, and PRO2_ Pathways] 
+
+[and@1; ;PRO1_]
+[and@1; ;NFkappaB 
+
+[and@1; ;Pathways] 
+
+[Pathways; ;PRO2_] 
+
+[Pathways;in; ]   
+
+[Growth; ;the@1] 
+
+[and@2; ;Growth] 
+
+[and@2; ;Survival] 
+
+[Survival;of;Cells] 
+
+[Cells; ;Lymphoma] 
+
+[analysis; ;Immunoblot]
+[analysis;of;lymphomas] 
+
+[and@3; ;wild-type] 
+
+[and@3; ;PRO3_ transgenic] 
+
+[lymphomas; ;transgenic] 
+
+[lymphomas; ;PRO3_] 
+
+[lymphomas; ;wild-type] 
+
+[lymphomas;for;signaling]
+[signaling; ;PRO4_, NFkappaB, and PRO5_] 
+[and@4; ;PRO4_] 
+
+[and@4; ;NFkappaB] 
+
+[and@4; ;PRO5_] 
+
+[signaling;after;treatment] 
+
+[treatment;with;inhibitor] 
+
+[and@5; ;PRO6_ inhibitor] 
+
+[and@5; ;PRO7_ inhibitors] 
+
+[and@5; ;NFkappaB inhibitor] 
+
+[PRO6_ inhibitor; ;triciribine] 
+
+[PRO6_ inhibitor; ;an] 
+
+[NFkappaB inhibito; ;BAY11-7085] 
+
+[NFkappaB inhibito; ;an] 
+
+[PRO7_ inhibitors; ;the@2] 
+[PRO7_ inhibitors; ;cucurbitacin I and (D) AG490] 
+
+[and@6; ;cucurbitacin I] 
+
+[and@6; ;AG490] 
+
+[treatment;at;concentrations] 
+
+[concentrations; ;indicated] 
+
+[concentrations; ;the@3] 
+

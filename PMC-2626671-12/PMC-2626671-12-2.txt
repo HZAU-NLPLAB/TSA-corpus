@@ -1,0 +1,57 @@
+
+
+To assess cytokine production, cells were restimulated with 10 nM PMA + 1 muM ionomycin for 6 h (unless indicated otherwise in the figures),   and intracellular cytokine stains were performed as previously described (28).
+[ ;To;assess] 
+
+[assess; ;production] 
+
+[production; ;cytokine] 
+
+[restimulated; ;cells] 
+
+[restimulated; ;were] 
+
+[restimulated;with;PMA] 
+
+[restimulated;with;ionomycin] 
+
+[PMA; ;nM] 
+
+[nM; ;10] 
+
+[ionomycin; ;muM] 
+
+[muM; ;1] 
+
+[+; ;PMA] 
+
+[+; ;ionomycin] 
+
+[ionomycin;for;h] 
+
+[h; ;6] 
+
+[unless; ;indicated otherwise in the figures] 
+
+[indicated; ;otherwise] 
+
+[otherwise;in;figures] 
+
+[figures; ;the] 
+
+[and; ;cells were restimulated with 10 nM PMA + 1 muM ionomycin for 6 h (unless indicated otherwise in the figures)] 
+
+[and; ;intracellular cytokine stains were performed as previouslydescribed] 
+
+[stains; ;cytokine] 
+
+[stains; ;intracellular] 
+
+[performed; ;were] 
+
+[performed; ;stains] 
+
+[performed;as;described] 
+
+[described; ;previously] 
+

@@ -1,0 +1,55 @@
+Together, these results suggest that class I triggering can induce the activity of NF-kappa B/Rel nuclear activity in peripheral blood T lymphocytes, thereby modulating the expression of genes regulated by these transcription factors.
+[these results suggest that class I triggering can induce the activity of NF-kappa B/Rel nuclear activity in peripheral blood T lymphocytes, thereby modulating the expression of genes regulated by these transcription factors; ;Together] 
+
+[results; ;these] 
+
+[suggest; ;results] 
+
+[suggest; ;that] 
+
+[that; ;class I triggering can induce the activity of NF-kappa B/Rel nuclear activity in peripheral blood T lymphocytes, thereby modulating the expression of genes regulated by these transcription factors] 
+
+[induce; ;can] 
+
+[induce; ;class I triggering] 
+
+[triggering; ;class I] 
+
+[induce; ;activity] 
+
+[activity; ;the@1] 
+
+[activity;of@1;nuclear activity] 
+
+[nuclear activity; ;NF-kappa B/Rel] 
+
+[activity; ;nuclear] 
+
+[/; ;NF-kappa B] 
+
+[/; ;Rel] 
+
+[induce;in;peripheral blood T lymphocytes] 
+
+[T lymphocytes; ;peripheral blood] 
+
+[blood; ;peripheral] 
+
+[class I triggering can induce the activity of NF-kappa B/Rel nuclear activity in peripheral blood T lymphocytes;thereby;modulating the expression of genes regulated by these transcription factors] 
+
+[modulating; ;class I triggering] 
+
+[modulating; ;expression] 
+
+[expression; ;the@2] 
+
+[expression;of@2;genes] 
+
+[regulated; ;genes] 
+
+[regulated;by;transcription factors] 
+
+[transcription factors; ;these] 
+
+[factors; ;transcription] 
+

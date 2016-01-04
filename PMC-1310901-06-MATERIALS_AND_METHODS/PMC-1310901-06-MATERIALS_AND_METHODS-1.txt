@@ -1,0 +1,8 @@
+DNA was extracted with a commercial kit (Qiagen) as recommended.
+[extracted; ;DNA]
+[extracted; ;was]
+[extracted;with;kit]
+[kit; ;commercial]
+[kit; ;a]
+[kit; ;Qiagen]
+[recommended; ;as]

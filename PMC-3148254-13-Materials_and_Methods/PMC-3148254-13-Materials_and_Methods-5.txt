@@ -1,0 +1,13 @@
+Total cell lysates (1x105 cell equivalents per lane) were fractionated by SDS-PAGE and blotted to polyvinylidine fluoride (PVDF) membranes.
+[lysates; ;Total]
+[lysates; ;cell]
+[lysates; ;1x105 cell equivalents per lane]
+[fractionated; ;lysates]
+[fractionated; ;were]
+[fractionated;by;SDS-PAGE]
+[and; ;fractionated]
+[and; ;blotted]
+[blotted;to;membranes]
+[membranes; ;fluoride]
+[membranes; ;polyvinylidine) 
+

@@ -1,0 +1,8 @@
+(A) Lymphomas are identified with a number (1-7).
+[Lymphomas; ;A ]
+[identified; ;Lymphomas ]
+[identified; ;are ]
+[identified;with;number ]
+[number; ;a ]
+[number; ;1-7 ]
+[1;-;7 ]

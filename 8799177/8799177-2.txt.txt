@@ -1,0 +1,27 @@
+
+Epstein-Barr virus (EBV), the causative agent of infectious mononucleosis, is a human herpesvirus associated with epithelial cell malignancies (nasopharyngeal carcinoma) as well as B-cell malignancies.
+
+[virus; ;
+Epstein-Barr]
+[Barr;-;Epstein]
+[Epstein-Barr virus; ;EBV]
+[
+Epstein-Barr virus; ;agent]
+[EBV; ;agent]
+[agent; ;the]
+[agent; ;causative]
+[agent;of;mononucleosis]
+[mononucleosis; ;infectious]
+[is; ;mononucleosis]
+[is; ;herpesvirus]
+[herpesvirus; ;human]
+[herpesvirus; ;a]
+[associated; ;herpesvirus]
+[associated;with;malignancies@1]
+[malignancies@1; ;cell@1]
+[cell@1; ;epithelial]
+[malignancies@1; ;nasopharyngeal carcinoma]
+[as well as; ;malignancies@1]
+[as well as; ;malignancies@2]
+[malignancies@2; ;B-cell@2]
+[cell@2;-;B]

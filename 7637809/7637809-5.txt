@@ -1,0 +1,13 @@
+Thus two different anti-onco-genic transcription factors, p53 and IRF-1, are required for distinct apoptotic pathways in T lymphocytes. 
+[anti-onco-genic transcription factors; ;two]
+[anti-onco-genic transcription factors; ;different]
+[transcription factors; ;anti-onco-genic]
+[anti-onco-genic transcription factors; ;p53]
+[and; ;p53]
+[and; ;IRF-1]
+[required; ;anti-onco-genic transcription factors]
+[required; ;are]
+[required;for;apoptotic pathways]
+[apoptotic pathways; ;distinct]
+[pathway; ;apoptotic]
+[apoptotic pathways;in;T lymphocytes]

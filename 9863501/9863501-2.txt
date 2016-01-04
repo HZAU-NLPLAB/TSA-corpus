@@ -1,0 +1,39 @@
+
+Phenylarsine oxide (PAO), which is described as an inhibitor of tyrosine phosphatase activity, inhibits H2O2 release from human peripheral blood mononuclear cells (PBMCs) as measured by electrochemistry.
+
+
+[Phenylarsine oxide; ;PAO 
+
+[Phenylarsine oxide; ;which] 
+
+[described; ;which] 
+
+[described; ;is] 
+
+[described;as;inhibitor] 
+
+[inhibitor; ;an] 
+
+[inhibitor;of;activity] 
+
+[activity; ;tyrosine phosphatase] 
+
+[inhibits; ;release] 
+
+[release; ;H2O2] 
+
+[release;from;peripheral blood mononuclear cells] 
+
+[peripheral blood mononuclear cells; ;human] 
+
+[peripheral blood mononuclear cells; ;PBMCs] 
+
+[cells; ;mononuclear] 
+
+[cells; ;blood] 
+
+[cells; ;peripheral] 
+
+[cells;as;measured] 
+
+[measured;by;electrochemistry]

@@ -1,0 +1,8 @@
+The bacteria were killed by heating to 70degreesC for 1 h. 
+[bacteria; ;The]
+[killed; ;were]
+[killed; ;bacteria]
+[killed;by;heating]
+[heating;to;70degreesC]
+[heating;for;1 h]
+[h; ;1]

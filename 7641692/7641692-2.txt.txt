@@ -1,0 +1,23 @@
+
+Activation of the CD28 surface receptor provides a major costimulatory signal for T cell activation resulting in enhanced production of interleukin-2 (IL-2) and cell proliferation.
+
+[provides; ;receptor]
+[receptor; ;surface]
+[surface; ;CD28]
+[CD28; ;the]
+[
+Activation;of@1;receptor]
+[provides; ;signal]
+[signal; ;a]
+[signal; ;major]
+[signal; ;costimulatory]
+[provides;for;activation]
+[activation; ;T cell]
+[resulting; ;activation]
+[resulting;in;production]
+[production; ;enhanced]
+[production;of@2;interleukin-2]
+[interleukin-2; ;IL-2]
+[and; ;proliferation]
+[and; ;nterleukin-2]
+[proliferation; ;cell]

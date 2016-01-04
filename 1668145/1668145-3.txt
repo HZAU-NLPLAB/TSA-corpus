@@ -1,0 +1,13 @@
+While this expectation may be realized in some cases, we have not found evidence for it. 
+[we have not found evidence for it;While;this expectation may be realized in some cases]
+[expectation; ;this]
+[realized; ;expectation]
+[realized; ;may]
+[realized; ;be]
+[realized;in;cases]
+[cases; ;some]
+[found; ;we]
+[found; ;have]
+[found; ;not]
+[found; ;evidence]
+[evidence;for;it]

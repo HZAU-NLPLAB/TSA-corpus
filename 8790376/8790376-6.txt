@@ -1,0 +1,27 @@
+Activation of the erythropoietin receptor caused specific DNA-binding of Stat 5b, but failed to induce reporter gene transcription.
+
+
+[Activation;of@1;receptor] 
+
+[receptor; ;erythropoietin] 
+
+[caused; ;Activation] 
+
+[caused; ;DNA-binding] 
+
+[DNA-binding; ;specific] 
+
+[binding;-;DNA]
+
+[DNA-binding;of@2;Stat 5b] 
+
+[failed to induce reporter gene transcription;but;Activation of the erythropoietin receptor caused specific DNA-binding of Stat 5b] 
+
+[failed;to;induce] 
+
+[induce; ;transcription]  
+
+[transcription ; ;gene]
+
+[gene transcription; ;reporter] 
+

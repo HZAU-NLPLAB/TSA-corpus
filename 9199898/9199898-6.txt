@@ -1,0 +1,25 @@
+SAC consistently exhibited a dose-dependent inhibition of NF-kappa B activation induced by both TNF-alpha and H2O2.
+
+
+[consistently; ;SAC] 
+
+[exhibited; ;consistently] 
+
+[exhibited; ;inhibition] 
+
+[inhibition; ;dose-dependent] 
+
+[inhibition; ;a] 
+
+[inhibition;of;activation] 
+
+[activation; ;NF-kappa B] 
+
+[induced; ;activation] 
+
+[induced;by;both TNF-alpha and H2O2]  
+
+[both...and...; ;TNF-alpha] 
+
+[both...and...; ;H2O2]  
+

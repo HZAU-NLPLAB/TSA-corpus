@@ -1,0 +1,11 @@
+Real-time RT PCR was performed using primers for PRO1_, PRO2_ or GAPDH.
+[performed; ;RT PCR]
+[RT PCR; ;Real-time]
+[performed; ;was]
+[performed; ;using primers]
+[using; ;primers]
+[using;for;PRO1_]
+[or; ;PRO2_]
+[or; ;GAPDH]
+[or; ;PRO1_) 
+

@@ -1,0 +1,9 @@
+AP-1 activation following long-term exposure of Jurkat T-cells to PMA. 
+[activation; ;AP-1]
+[activation; ;following long-term exposure ]
+[following; ;exposure]
+[exposure; ;long-term]
+[term;-;long]
+[exposure;of;T-cells]
+[T-cells; ;Jurkat]
+[following;to;PMA]

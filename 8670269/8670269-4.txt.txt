@@ -1,0 +1,14 @@
+Spi-B binds DNA sequences containing a core 5'-GGAA-3' and activates transcription through this motif.
+
+[binds; ;Spi-B]
+[binds; ;sequences]
+[sequences; ;DNA]
+[containing; ;sequences]
+[containing; ;5'-GGAA-3']
+[5'-GGAA-3'; ;a]
+[5'-GGAA-3'; ;core]
+[and; ;activates]
+[and; ;binds]
+[activates; ;transcription]
+[activates;through;motif]
+[motif; ;this]

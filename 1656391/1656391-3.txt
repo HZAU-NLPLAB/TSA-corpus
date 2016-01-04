@@ -1,0 +1,9 @@
+We have cloned the mouse and human GATA-1 genes.
+[cloned; ;We]
+[cloned; ;have]
+[cloned; ;mouse]
+[cloned; ;human]
+[and; ;mouse]
+[and; ;human]
+[GATA-1 genes; ;mouse]
+[GATA-1 genes; ;human]

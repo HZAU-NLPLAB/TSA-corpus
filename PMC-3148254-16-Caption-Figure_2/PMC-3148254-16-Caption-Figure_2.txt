@@ -1,0 +1,10 @@
+RO1_-mediated PRO2_ upregulation is defective in PRO3_-deficient cells.
+[mediated; PRO1_-]
+[mediated; ;upregulation]
+[upregulation; ;PRO2_ ]
+[is; ;defective]
+[is; ;upregulation]
+[;in;cells]
+[cells; ;PRO3_-deficient ]
+[deficient; ;PRO3_-) 
+

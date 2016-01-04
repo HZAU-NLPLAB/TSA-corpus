@@ -1,0 +1,13 @@
+Specific NF-kappa B subunits act in concert with Tat to stimulate human immunodeficiency virus type 1 transcription. 
+[subunits; ;Specific]
+[subunits; ;NF-kappa B]
+[act; ;subunits]
+[act;in;concert]
+[act;with;Tat]
+[act;to;stimulate]
+[stimulate; ;transcription]
+[transcription; ;human immunodeficiency]
+[immunodeficiency; ;human]
+[transcription; ;virus type 1]
+[type 1; ;virus]
+[type;;1]

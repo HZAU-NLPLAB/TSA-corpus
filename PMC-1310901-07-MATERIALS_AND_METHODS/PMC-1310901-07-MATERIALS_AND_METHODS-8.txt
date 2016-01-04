@@ -1,0 +1,10 @@
+The aqueous phase was recovered using the 'Wizard DNA clean-up system' (Promega, Mannheim, Germany).
+[phase; ;;aqueous]
+[phase; ;;The]
+[recovered; ;;phase]
+[recovered; ;;was]
+[using; ;;phase]
+[$; ;;Wizard DNA clean-up system]
+[Wizard DNA clean-up system; ;; the]
+[Wizard DNA clean-up system; ;;Promega]
+[Mannheim; ;;Germany]

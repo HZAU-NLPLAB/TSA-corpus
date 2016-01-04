@@ -1,0 +1,52 @@
+These results suggest that IFN-alpha5 and IFN-beta are produced at low levels in normal tissues and play an important role in the regulation of cell function and in the maintenance of homeostasis.
+
+
+[results; ;These] 
+
+[suggest; ;results] 
+
+[suggest; ;that] 
+
+[that; ;IFN-alpha5 and IFN-beta are produced at low levels in normal tissues and play an important role in the regulation of cell function and in the maintenance of homeostasis] 
+
+[and@1; ; IFN-alpha5] 
+
+[and@1; ;IFN-beta]
+
+[produced; ;are] 
+
+[produced;at;levels] 
+
+[levels; ;low] 
+
+[levels;in@1;tissues] 
+
+[tissues; ;normal] 
+
+[and@2; ;produced] 
+
+[and@2; ;play] 
+
+[play; ;role] 
+
+[role; ;an] 
+
+[role; ;important] 
+
+[role;in@2;regulation] 
+
+[regulation; ;the@1] 
+
+[regulation;of@1;function] 
+
+[function; ;cell] 
+
+[and@3; ;in@2] 
+
+[and@3; ;in@3] 
+
+[ ;in@3;maintenance] 
+
+[maintenance; ;the@2] 
+
+[maintenance;of@2;homeostasis]

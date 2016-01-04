@@ -1,0 +1,28 @@
+Because point mutagenesis cannot distinguish between family members, it is not known which protein activates 5'HS3.
+
+
+[it is not known which protein activates 5'HS3;Because;point mutagenesis cannot distinguish between family members] 
+
+[mutagenesis; ;point] 
+
+[distinguish; ;mutagenesis] 
+
+[distinguish; ;cannot] 
+
+[distinguish;between;members] 
+
+[members; ;family] 
+
+[known; ;it] 
+
+[known; ;is] 
+
+[known; ;not] 
+
+[known; ;protein] 
+
+[protein; ;which] 
+
+[activates; ;protein] 
+
+[activates; ;5'HS3]

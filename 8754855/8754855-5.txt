@@ -1,0 +1,29 @@
+We tested the necessity for appropriate spatial alignment of these elements by using mutated enhancers with altered spacings.
+
+
+[tested; ;We] 
+
+[tested; ;necessity] 
+
+[necessity; ;the] 
+
+[necessity;for;alignment] 
+
+[alignment; ;spatia] 
+
+[alignment; ;appropriat] 
+
+[alignment;of;elements] 
+
+[elements; ;these] 
+
+[elements;by;using] 
+
+[using; ;enhancers] 
+
+[enhancers; ;mutated] 
+
+[enhancers;with;spacings] 
+
+[spacings; ;altered] 
+

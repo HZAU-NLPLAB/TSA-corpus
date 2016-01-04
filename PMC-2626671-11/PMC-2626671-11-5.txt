@@ -1,0 +1,30 @@
+EL4 target cells (PRO4_-negative events) were gated, and the percentage of PRO5_+ target cells was determined.
+[cells; ;target] 
+
+[cells; ;EL4] 
+
+[cells; ;PRO4_-negative events] 
+
+[events; ;PRO4_-negative] 
+
+[PRO4_;-;negative] 
+
+[gated; ;cells] 
+
+[gated; ;were]
+[and; ;EL4 target cells (PRO4_-negative events) were gated] 
+
+[and; ;the percentage of PRO5_+ target cells was determined] 
+
+[percentage; ;the] 
+
+[percentage;of;cells] 
+
+[cells; ;target] 
+
+[cells; ;PRO5_+] 
+
+[determined;  ;cells] 
+
+[determined; ;was] 
+

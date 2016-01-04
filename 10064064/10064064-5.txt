@@ -1,0 +1,57 @@
+Here we show that the I alpha1 promoter contains several binding sites for the AML/PEBP2/CBF family of transcription factors and that AML and Ets proteins are major regulators of the basal and TGF-beta-inducible promoter activity.
+[show; ;Here] 
+
+[show; ;we] 
+
+[show; ;that@1] 
+
+[show; ;that@2] 
+
+[that@1; ;the I alpha1 promoter contains several binding sites for the@1 AML/PEBP2/CBF family of@1 transcription factors] 
+
+[that@2; ;AML and@2 Ets proteins are major regulators of@2 the@2 basal and@3 TGF-beta-inducible promoter activity] 
+
+[I alpha1 promoter; ;the] 
+
+[contains; ;I alpha1 promoter] 
+
+[contains; ;sites] 
+
+[sites; ;several] 
+
+[sites; ;binding] 
+
+[contains;for;AML/PEBP2/CBF family of@1 transcription factors] 
+
+[/; ;AML] 
+
+[/; ;PEBP2] 
+
+[/; ;CBF] 
+
+[family; ;AML/PEBP2/CBF] 
+
+[family;of@1;transcription factors] 
+
+[and@1; ;that@1 the I alpha1 promoter contains several binding sites for the@1 AML/PEBP2/CBF] [family of@1 transcription factors] 
+
+[and@1; ;that@2 AML and@2 Ets proteins are major regulators of@2 the@2 basal and@3 TGF-][beta-inducible promoter activity] 
+
+[are; ;Ets proteins] 
+
+[are; ;regulators] 
+
+[regulators; ;major] 
+
+[regulators;of@2;basal and@3 TGF-beta-inducible promoter activity] 
+
+[promoter activity;  ;the@2] 
+
+[promoter activity; ;basal] 
+
+[and@3; ;basal] 
+
+[and@3; ;TGF-beta-inducible] 
+
+[promoter activity; ;TGF-beta-inducible] 
+

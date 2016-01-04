@@ -1,0 +1,102 @@
+The results also revealed a similar functional cooperation between the transcription factors which bind to the Oct and the adjacent Sp 1-binding site in BJA-B cells, as has been observed in HeLa cells, since a template which contains a weak binding site for OTFs expresses wild-type levels of U2 snRNA in both cell types when the weak octamer-binding site is combined with a Sp 1-binding site.
+
+
+[results; ;The] 
+
+[revealed; ;also] 
+
+[revealed; ;results] 
+
+[revealed; ;cooperation] 
+
+[cooperation; ;functional] 
+
+[cooperation; ;similar] 
+
+[cooperation; ;a@1] 
+
+[between...and; ;transcription factors] 
+
+[between...and; ;Sp 1-binding site] 
+
+[transcription factors; ;the@1] 
+
+[transcription factors; ;which] 
+
+[bind; ;which] 
+
+[bind;to;Oct] 
+
+[Oct; ;the@2] 
+
+[Sp 1-binding site; ;the@3] 
+
+[Sp 1-binding site; ;adjacent] 
+
+[site; ;Sp 1-binding] 
+
+[binding;-;Sp 1] 
+
+[site;in@1;BJA-B cells] 
+
+[ ;as;observed] 
+
+[observed;been;has] 
+
+[observed;in@2;HeLa cells] 
+
+[as has been observed in HeLa cells;since;a template which contains a weak binding site for OTFs expresses wild-type levels of U2 snRNA in both cell types when the weak octamer-binding site is combined with a Sp 1-binding site] 
+
+[template; ;a@2] 
+
+[template; ;which@2] 
+
+[contains; ;which@2] 
+
+[contains; ;site@2] 
+
+[site@2; ;a@3] 
+
+[site@2; ;weak] 
+
+[site@2; ;binding] 
+
+[site@2;for;OTFs] 
+
+[expresses; ;template] 
+
+[expresses; ;levels] 
+
+[levels; ;wild-type] 
+
+[levels;of@1;U2 snRNA] 
+
+[snRNA; ;U2] 
+
+[snRNA;in@3;types] 
+
+[types; ;both] 
+
+[types; ;cell] 
+
+[a template which contains a weak binding site for OTFs expresses wild-type levels of U2 snRNA in both cell types;when;the weak octamer-binding site is combined with a Sp 1-binding site] 
+
+[site@3; ;the@3] 
+
+[site@3; ;octamer-binding] 
+
+[site@3; ;weak] 
+
+[binding;-;octamer] 
+
+[combined; ;site@3] 
+
+[combined;is; ]
+
+[combined;with;site@4] 
+
+[site@4; ;a@4] 
+
+[site@4; ;Sp 1-binding] 
+
+[binding;-;Sp 1]

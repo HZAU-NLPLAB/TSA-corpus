@@ -1,0 +1,46 @@
+The glutamine-rich activation domain present in the amino-terminal portion of Oct2 and the POU domain contribute only marginally to the transactivation function from a distal position.
+[domain; ;The@1] 
+
+[domain; ;activation] 
+
+[activation; ;glutamine-rich] 
+
+[rich;-;glutamine] 
+
+[present; ;domain] 
+
+[present;in;portion] 
+
+[portion; ;the@2] 
+
+[portion; ;amino-terminal] 
+
+[amino;-;terminal] 
+
+[portion;of;Oct2] 
+
+[and; ;The glutamine-rich activation domain present in the amino-terminal portion of Oct2] 
+
+[and; ;the POU domain contribute only marginally to the transactivation] 
+
+[domain; ;the@3] 
+
+[domain; ;POU] 
+
+[contribute; ;domain] 
+
+[contribute; ;marginally] 
+
+[contribute; ;only] 
+
+[contribute;to;function] 
+
+[function; ;transactivation] 
+
+[function; ;the@4] 
+
+[function;from;position] 
+
+[position; ;distal] 
+
+[position; ;a]

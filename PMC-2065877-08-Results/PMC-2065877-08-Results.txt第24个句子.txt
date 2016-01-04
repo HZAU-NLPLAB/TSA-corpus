@@ -1,0 +1,67 @@
+Interestingly, both wild-type and PRO50_ transgenic lymphomas were similarly susceptible to triciribine, BAY11-7085, and cucurbitacin I treatments, but not SB202190, AG490, or U0126 treatment, suggesting that activation of PRO51_, NFkappaB, and PRO52_ but not MAPK pathways are characteristics associated with malignant transformation (Figure 7).
+[Interestingly; ;both wild-type and PRO50_ transgenic lymphomas (were similarly susceptible to triciribine, BAY11-7085, and cucurbitacin I treatments, but not SB202190, AG490, or U0126 treatment] 
+
+[both ... and; ;wild-type] 
+
+[both... and; ;transgenic]
+
+[lymphomas; ;both wild-type and PRO50_ transgenic] 
+
+[transgenic; ;PRO50_] 
+
+[were; ;lymphomas] 
+
+[were; ;susceptible] 
+
+[susceptible; ;similarly] 
+
+[susceptible;to;triciribine] 
+
+[susceptible;to;BAY11-7085] 
+
+[susceptible;to;treatments] 
+
+[and; ;cucurbitacin] 
+
+[and; ;BAY11-7085] 
+
+[and; ;treatments] 
+
+[treatments; ;cucurbitacin I] 
+
+[triciribine, BAY11-7085, and cucurbitacin I treatments;but (not;SB202190, AG490, or U0126 treatment] 
+
+[or; ;SB202190] 
+
+[or; ;AG490] 
+
+[or; ;treatment] 
+
+[treatment; ;U0126] 
+
+[suggesting; ;both wild-type and PRO50_ transgenic lymphomas were similarly susceptible to triciribine, BAY11-7085, and cucurbitacin I treatments, but not SB202190, AG490, or U0126 treatment] 
+
+[suggesting; ;that] 
+
+[that; ;activation of PRO51_, NFkappaB, and PRO52_ but not MAPK pathways are characteristics associated with malignant transformation] 
+
+[activation;of;PRO51_, NFkappaB, and PRO52_] 
+
+[and; ;PRO51_] 
+
+[and; ;NFkappaB]
+[and; ;PRO52_]
+[PRO51_, NFkappaB, and PRO52_;but not;pathways] 
+
+[pathways; ;MAPK] 
+
+[associated; ;activation] 
+
+[associated; ;are] 
+
+[associated; ;characteristics] 
+
+[associated;with;transformation] 
+
+[transformation; ;malignant] 
+

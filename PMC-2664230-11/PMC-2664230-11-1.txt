@@ -1,0 +1,34 @@
+TX upregulates CREB phosphorylation and activation after LPS stimulation
+Phosphorylation of nuclear CREB was used as a marker for CREB activation.
+[phosphorylation; ;CREB] 
+
+[phosphorylation; ;upregulates] 
+
+[upregulates; ;PTX] 
+
+[and; ;phosphorylation] 
+
+[and; ;activation] 
+
+[activation;after;Phosphorylation] 
+
+[Phosphorylation; ;stimulation] 
+
+[Phosphorylation; ;LPS] 
+
+[Phosphorylation;of;CREB] 
+
+[CREB; ;nuclear] 
+
+[used; ;CREB] 
+
+[used; ;was] 
+
+[used;as;marker] 
+
+[marker; ;a] 
+
+[marker;for;activation] 
+
+[activation; ;CREB] 
+

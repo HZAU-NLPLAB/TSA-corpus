@@ -1,0 +1,4 @@
+CML-T1 responded strongest to AzadC-treatment (data not shown).
+[responded;;CML-T1]
+[responded; ;strongest]
+[ ;to;AzadC-treatment]

@@ -1,0 +1,23 @@
+The cytokine:PRO10_ ratio was set to 1 in the mouse B cell lymphoma line 967.
+[set; ;was] 
+
+[set; ;PRO10_ ratio] 
+
+[cytokine; ;The] 
+
+[:; ;cytokine] 
+
+[:; ;PRO10_ ratio] 
+
+[set;to;1] 
+
+[set;in;line 967] 
+
+[line; ;lymphoma] 
+
+[lymphoma; ;B cell] 
+
+[B cell; ;mouse ]
+
+[line 967; ;the] 
+

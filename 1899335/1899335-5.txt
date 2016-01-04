@@ -1,0 +1,40 @@
+These results suggest that expression of c-jun, jun B and jun D genes might be involved in terminal granulocyte differentiation or in regulating granulocyte functionality.
+
+
+[results; ;These] 
+
+[suggest; ;results] 
+
+[suggest; ;that] 
+
+[that; ;expression of c-jun, jun B and jun D genes might be involved in terminal granulocyte differentiation or in regulating granulocyte functionality] 
+
+[expression;of;c-jun] 
+
+[genes; ;jun B and jun D] 
+
+[and; ;jun B] 
+
+[and; ;jun D] 
+
+[involved; ;genes] 
+
+[involved; ;might] 
+
+[involved; ;be] 
+
+[involved;in@1;differentiation] 
+
+[differentiation; ;granulocyte@1] 
+
+[differentiation; ;terminal] 
+
+[or; ;in@1] 
+
+[or; ;in@2] 
+
+[involved;in@2;functionality] 
+
+[functionality; ;granulocyte@2] 
+
+[functionality; ;regulating]

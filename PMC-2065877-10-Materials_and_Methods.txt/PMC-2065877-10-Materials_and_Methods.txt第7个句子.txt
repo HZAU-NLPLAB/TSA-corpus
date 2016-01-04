@@ -1,0 +1,36 @@
+Animals were housed in the Association for Assessment and Accreditation for Animal Care-approved animal facility at the University of North Carolina at Chapel Hill.
+[housed; ;Animals] 
+
+[housed; ;were] 
+
+[housed;in;Association] 
+
+[Association; ;the] 
+
+[Association;for;Assessment] 
+
+[housed;in;Accreditation] 
+
+[Accreditation;for;Animal] 
+
+[and; ;Association] 
+
+[and; ;Accreditation] 
+
+[facility; ;animal] 
+
+[facility; ;Care-approved] 
+
+[approved;-;Care] 
+
+[facility;at;University] 
+
+[University; ;the] 
+
+[University;of;Carolina] 
+
+[Carolina; ;North] 
+
+[facility;at;Hill] 
+
+[Hill; ;Chapel]

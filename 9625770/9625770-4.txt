@@ -1,0 +1,46 @@
+Tumor necrosis factor receptor-activated factor 6 (TRAF6) and the nuclear factor kappaB (NF-kappaB)-inducing kinase (NIK) are both involved in subsequent steps of NF-kappaB activation.
+
+
+[factor@1; ;necrosis] 
+
+[factor@1; ;Tumor] 
+
+[Tumor necrosis factor; ;receptor-activated factor 6] 
+
+[receptor-activated factor 6; ;TRAF6] 
+
+[factor 6; ;receptor-activated] 
+
+[activated;-;receptor] 
+
+[and; ;receptor-activated factor 6] 
+
+[and; ;(NF-kappaB)-inducing kinase] 
+
+[factor@2; ;nuclear] 
+
+[factor@2; ;the] 
+
+[kappaB; ;nuclear factor] 
+
+[nuclear factor kappaB; ;(NF-kappaB)-inducing kinase] 
+
+[nuclear factor kappaB; ;NF-kappaB@1] 
+
+[NF-kappaB;-;inducing] 
+
+[kinase; ;(NF-kappaB)-inducing] 
+
+[(NF-kappaB)-inducing kinase; ;NIK] 
+
+[involved; ;are] 
+
+[involved; ;both] 
+
+[involved;in;steps] 
+
+[steps; ;subsequent] 
+
+[steps;of;activation] 
+
+[activation;  ;NF-kappaB@2]

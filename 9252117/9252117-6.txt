@@ -1,0 +1,45 @@
+Taken together, these data suggest that EBF and E47 synergize to activate expression of a subset of genes that define an early stage of the B cell lineage.
+[Taken; ;together] 
+
+[data; ;these] 
+
+[suggest; ;data] 
+
+[suggest; ;that] 
+
+[that; ;EBF and E47 synergize to activate expression of a subset of genes that define an early stage of the B cell lineage] 
+
+[and; ;EBF] 
+
+[and; ;E47] 
+
+[synergize; ;EBF] 
+
+[synergize; ;E47] 
+
+[synergize;to;activate] 
+
+[activate; ;expression] 
+
+[expression;of@1;subset] 
+
+[subset; ;a] 
+
+[subset;of@2;genes] 
+
+[genes; ;that] 
+
+[define; ;that] 
+
+[define; ;stage] 
+
+[stage; ;an] 
+
+[stage; ;early] 
+
+[stage;of@3;B cell lineage] 
+
+[B cell lineage; ;the] 
+
+[lineage; ;B cell] 
+

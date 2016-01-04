@@ -1,0 +1,4 @@
+RO1_ transcript assay.
+[assay; ;transcript) 
+[transcript; ;PRO1_) 
+

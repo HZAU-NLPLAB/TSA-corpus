@@ -1,0 +1,35 @@
+Uninduced or Sendai virus induced HeLa extracts were used to examine transcription in vitro using a series of IFN beta promoter deletions.
+[or; ;Uninduced] 
+
+[or; ;induced] 
+
+[HeLa extracts; ;Uninduced] 
+
+[HeLa extracts; ;induced] 
+
+[HeLa extracts; ;Sendai virus] 
+
+[virus; ;Sendai] 
+
+[used; ;were] 
+
+[used; ;HeLa extracts] 
+
+[extracts; ;HeLa] 
+
+[used;to;examine] 
+
+[examine; ;transcription] 
+
+[transcription;in;vitro] 
+
+[examine; ;using] 
+
+[using; ;IFN beta promoter deletions] 
+
+[IFN beta promoter deletions; ;a series of] 
+
+[deletions; ;IFN beta promoter] 
+
+[promoter; ;IFN beta] 
+

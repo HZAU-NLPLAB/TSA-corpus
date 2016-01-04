@@ -1,0 +1,19 @@
+Glucocorticoid receptors are also able to interact with transcriptional factors such as AP-1 (activator protein-1) of NF-kappa B (nuclear factor-kappa B).
+[are able to; ;Glucocorticoid receptors] 
+
+[are able to;  ;also] 
+
+[are able to;  ;interact] 
+
+[interact;with;factors] 
+
+[factors; ;transcriptional] 
+
+[factors;such as;AP-1] 
+
+[AP-1; ;activator protein-1] 
+
+[ ;of;NF-kappa B] 
+
+[NF-kappa B; ;nuclear factor-kappa B] 
+

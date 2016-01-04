@@ -1,0 +1,56 @@
+Culture supernatants from uninduced U937 cells were also found to activate an ISRE cloned upstream of the luciferase reporter gene, indicating the presence of endogenous IFN activity equivalent to approximately 0.
+
+
+[supernatants; ;Culture] 
+
+[supernatants;from;U937 cells] 
+
+[U937 cells; ;uninduced] 
+
+[cells; ;U937] 
+
+[found; ;U937 cells] 
+
+[found; ;were] 
+
+[found; ;also] 
+
+[found;to;activate] 
+
+[activate; ;upstream] 
+
+[upstream; ;cloned] 
+
+[upstream; ;ISRE] 
+
+[upstream; ;an] 
+
+[upstream;of@1;gene] 
+
+[gene; ;reporter] 
+
+[reporter; ;luciferase] 
+
+[gene; ;the@1] 
+
+[indicating; ;presence] 
+
+[presence; ;the@2] 
+
+[presence;of@2;IFN activity equivalent] 
+
+[IFN activity equivalent; ;endogenous] 
+
+[equivalent; ;activity] 
+
+[equivalent; ;IFN] 
+
+[equivalent;to;0.5 IU/mL] 
+
+[0.5 IU/mL; ;approximately] 
+
+[IU/mL; ;0.5] 
+
+[/; ;IU] 
+
+[/; ;mL]

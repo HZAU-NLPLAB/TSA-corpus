@@ -1,0 +1,9 @@
+[A) Time-dependent stimulation of Jurkat T-cells using PMA. 
+[Time-dependent; ;[A]]
+[stimulation; ;Time-dependent]
+[dependent;-;Time]
+[stimulation;of;T-cells]
+[T-cells; ;Jurkat]
+[stimulation; ;using PMA]
+[using; ;PMA]
+

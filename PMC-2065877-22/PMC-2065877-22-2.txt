@@ -1,0 +1,23 @@
+The PRO7_ and PRO8_ housekeeping genes were used as a loading control.
+[genes; ;housekeeping] 
+
+[genes; ;PRO8_] 
+
+[genes; ;PRO7_] 
+
+[and; ;PRO7_] 
+
+[and; ;PRO8_] 
+
+[genes; ;The] 
+
+[used; ;genes] 
+
+[used; ;were] 
+
+[used;as;control] 
+
+[control; ;loading] 
+
+[control; ;a] 
+

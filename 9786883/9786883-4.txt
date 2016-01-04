@@ -1,0 +1,41 @@
+The importance of these sites was confirmed by in vivo studies in gene-targeted mice deficient of either Oct-2, Bob1, or both NF-kappaB subunits p50 and p52.
+[importance; ;The] 
+
+[importance;of@1;sites] 
+
+[sites; ;these] 
+
+[confirmed; ;was] 
+
+[confirmed; ;importance] 
+
+[confirmed;by;studies] 
+
+[studies; ;in vivo] 
+
+[ ;in@1;vivo] 
+
+[studies;in@2;gene-targeted mice] 
+
+[gene-targeted mice; ;deficient] 
+
+[gene-targeted mice;of@2;Oct-2] 
+
+[gene-targeted mice; ;Bob1] 
+
+[gene-targeted mice; ;both NF-kappaB subunits p50 and p52] 
+
+[either...or; ;Oct-2] 
+
+[either...or; ;Bob1] 
+
+[either...or; ;both NF-kappaB subunits p50 and p52] 
+
+[both...and; ;p50] 
+
+[both...and; ;p52] 
+
+[p50; ;subunits] 
+
+[subunits; ;NF-kappaB] 
+

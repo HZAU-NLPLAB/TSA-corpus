@@ -1,0 +1,51 @@
+The two human GATA3 zinc fingers are encoded by two separate exons highly conserved with those of GATA1, but no other structural homologies between these two genes can be found.
+[but; ;The two human GATA3 zinc fingers are encoded by two separate exons highly conserved with those of GATA1] 
+
+[but; ;no other structural homologies between these two genes can be found] 
+
+[human GATA3 zinc fingers; ;The 
+
+[human GATA3 zinc fingers; ;two@1 
+
+[encoded; ;are] 
+
+[encoded; ;human GATA3 zinc fingers] 
+
+[GATA3 zinc fingers; ;human] 
+
+[zinc fingers; ;GATA3] 
+
+[fingers; ;zinc] 
+
+[encoded;by;exons] 
+
+[exons; ;separate] 
+
+[exons; ;two@2] 
+
+[conserved; ;exons] 
+
+[conserved; ;highly] 
+
+[conserved;with;those] 
+
+[those;of;GATA1] 
+
+[homologies; ;no] 
+
+[homologies; ;other] 
+
+[homologies; ;structural] 
+
+[homologies;between;genes] 
+
+[genes; ;these] 
+
+[genes; ;two@3] 
+
+[found; ;be] 
+
+[be; ;can] 
+
+[found; ;homologies] 
+

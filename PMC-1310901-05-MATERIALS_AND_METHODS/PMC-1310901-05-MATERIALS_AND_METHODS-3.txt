@@ -1,0 +1,29 @@
+RNA expression analysis for PRO2_ and the reference gene PRO3_ was carried out by semi-quantitative PCR as described previously (3,27).
+
+[analysis; ;RNA]
+
+[analysis; ;expression]
+
+[RNA expression analysis;for;PRO2_]
+
+[and; ;PRO2_]
+
+[and; ;PRO3_]
+
+[PRO3_; ;the]
+
+[PRO3_; ;reference]
+
+[PRO3_; ;gene]
+
+[carried; ;analysis]
+
+[carried out; ;was]
+
+[carried out;by;PCR]
+
+[PCR; ;semi-quantitative]
+
+[$;as;described]
+
+[described; ;previously]

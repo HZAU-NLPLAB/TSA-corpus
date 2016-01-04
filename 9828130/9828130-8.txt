@@ -1,0 +1,53 @@
+These data demonstrate the efficiency of the system and support the notion that numerous genes falling into those categories remain unidentified and that they can be cloned by this method.
+[data; ;These 
+
+[demonstrate; ;data] 
+
+[demonstrate; ;efficiency] 
+
+[efficiency; ;the@1] 
+
+[efficiency;of;system] 
+
+[system; ;the@2] 
+
+[and@1; ;demonstrate] 
+
+[and@1; ;support] 
+
+[support; ;data] 
+
+[support; ;notion] 
+
+[notion; ;the@3] 
+
+[notion; ;that@1] 
+
+[that@1; ;numerous genes falling into those categories remain unidentified and@2 that@2 they can be cloned by this method] 
+
+[falling; ;numerous genes] 
+
+[falling;into;those] 
+
+[categories; ;those] 
+
+[remain; ;numerous genes] 
+
+[remain; ;unidentified] 
+
+[and@2; ;that@1] 
+
+[and@2; ;that@2] 
+
+[that@2; ;they can be cloned by this method] 
+
+[cloned; ;they] 
+
+[be; ;can] 
+
+[cloned; ;be] 
+
+[cloned;by;method] 
+
+[method; ;this] 
+

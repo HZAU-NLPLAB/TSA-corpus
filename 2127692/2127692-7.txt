@@ -1,0 +1,13 @@
+The latter one appears to be mediated by a rapidly calcium-dependent induced gene product. 
+[one; ;The]
+[one; ;latter]
+[appears to; ;one]
+[appears to; ;mediated]
+[mediated; ;be]
+[mediated;by;calcium-dependent induced gene product]
+[calcium-dependent induced gene product; ;a]
+[calcium-dependent induced gene product; ;rapidly]
+[product; ;gene]
+[induced; ;product]
+[product; ;calcium-dependent]
+[calcium;-;dependent]

@@ -1,0 +1,23 @@
+Circular permutation and phasing analyses demonstrated that PU.1 binding but not TFE3 or Ets-1 bends mu enhancer DNA toward the major groove.
+
+
+[permutation; ;Circular] 
+
+[and; ;permutation] 
+
+[and; ;analyses] 
+
+[analyses; ;phasing] 
+
+[demonstrated; ;that] 
+
+[that; ;PU.1 binding but not TFE3 or Ets-1 bends mu enhancer DNA toward the major groove].
+[binding;but not;TFE3]
+[or; ;TFE3] 
+[or; ;Ets-1]
+[bends; ;mu enhancer DNA]
+[DNA; ;enhancer]
+[enhancer; ;mu] 
+[DNA;toward;groove]
+[groove; ;major]
+[major; ;the] 

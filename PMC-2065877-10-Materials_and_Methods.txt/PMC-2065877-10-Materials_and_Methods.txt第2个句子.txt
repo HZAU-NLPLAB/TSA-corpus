@@ -1,0 +1,35 @@
+Generation of PRO1_ mice under the Ig heavy chain promoter and enhancer have been described previously and were maintained as heterozygotes on a Balbc background (26).
+Generation;of;mice] 
+
+[mice; ;PRO1_] 
+
+[Generation;under;promoter] 
+
+[Generation;under;enhancer] 
+
+[promoter; ;chain] 
+
+[promoter; ;heavy] 
+
+[promoter; ;Ig] 
+
+[promoter; ;the] 
+
+[and; ;promoter] 
+
+[and; ; enhancer] 
+
+[described; ;Generation] 
+
+[described; ;have] 
+
+[described; ;been] 
+
+[described; ;previously] 
+
+[and; ;described] 
+
+[and; ;maintained] 
+
+[maintained; ;were] 
+

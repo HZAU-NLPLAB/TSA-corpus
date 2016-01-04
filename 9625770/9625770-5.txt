@@ -1,0 +1,50 @@
+Conversely, a dominant negative version of TRAF6 failed to block hToll-induced activation of stress-activated protein kinase/c-Jun NH2-terminal kinases, thus suggesting an early divergence of the two pathways.
+
+
+[a dominant negative version of TRAF6 failed to block hToll-induced activation of stress-activated protein kinase/c-Jun NH2-terminal kinases, thus suggesting an early divergence of the two pathways; ;Conversely]] 
+
+[version; ;dominant] 
+
+[version; ;negative] 
+
+[version; ;a] 
+
+[version;of@1;TRAF6] 
+
+[failed; ;version] 
+
+[failed;to;block] 
+
+[block; ;activation] 
+
+[activation; ;hToll-induced] 
+
+[induced;-;hToll] 
+
+[activation;of@2;protein] 
+
+[protein; ;stress-activated] 
+
+[activated;-;stress] 
+
+[kinases; ;NH2-terminal] 
+
+[kinases; ;kinase/c-Jun] 
+
+[/; ;kinase] 
+
+[/; ;c-Jun] 
+
+[a dominant negative version of TRAF6 failed to block hToll-induced activation of stress-activated protein kinase/c-Jun NH2-terminal kinases;thus;suggesting an early divergence of the two pathways] 
+
+[suggesting; ;divergence] 
+
+[divergence; ;an] 
+
+[divergence; ;early] 
+
+[divergence;of@3;pathways] 
+
+[pathways ; ;the] 
+
+[pathways; ;two]

@@ -1,0 +1,8 @@
+[A) Phospho-PKC increased in response to PMA and HK E. coli stimulation. 
+[Phospho-PKC; ;[A]]
+[increased; ;Phospho-PKC]
+[increased;in response to;stimulation]
+[stimulation; ;PMA]
+[stimulation; ;HK E. coli]
+[and; ;PMA]
+[and; ;HK E. coli]

@@ -1,0 +1,43 @@
+PRO47_-transformed rodent fibroblasts have decreased expression of PRO48_, upregulation of PRO49_, and subsequent phosphorylation and inactivation of the tumor suppressor gene PRO50_ (45).
+[fibroblasts; ;rodent] 
+
+[fibroblasts; ;PRO47_-transformed] 
+
+[transformed;-;PRO47_]
+
+[decreased; ;fibroblasts] 
+
+[decreased; ;have] 
+
+[decreased; ;expression] 
+
+[decreased; ;upregulation] 
+
+[decreased; ;phosphorylation] 
+
+[decreased; ;inactivation] 
+
+[and; ;expression] 
+
+[and; ;upregulation] 
+
+[and; ;phosphorylation] 
+
+[and; ;inactivation] 
+
+[expression;of@1;PRO48_] 
+
+[upregulation;of@2]
+
+[phosphorylation; ;subsequent] 
+
+[inactivation;of@3;gene] 
+
+[gene; ;the] 
+
+[gene; ;suppressor] 
+
+[gene; ;tumor] 
+
+[gene; ;PRO50_] 
+

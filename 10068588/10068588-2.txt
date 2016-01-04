@@ -1,0 +1,44 @@
+
+Bacterial vaginosis (BV) is associated with an increased rate of sexual transmission of human immunodeficiency virus (HIV) type 1, and Gardnerella vaginalis is frequently isolated from the genital tracts of women with BV.
+[Bacterial vaginosis; ;BV] 
+
+[associated; ;Bacterial vaginosis] 
+
+[associated; ;is] 
+
+[associated;with@1;rate] 
+
+[rate; ;an] 
+
+[rate; ;increased] 
+
+[increased rate;of@1;transmission] 
+
+[transmission; ;sexual] 
+
+[transmission;of@2;human immunodeficiency virus (HIV) type 1] 
+
+[human immunodeficiency virus; ;HIV] 
+
+[type 1; ;human immunodeficiency virus] 
+
+[and; ;associated] 
+
+[and; ;isolated] 
+
+[isolated; ;Gardnerella vaginalis] 
+
+[isolated; ;is] 
+
+[isolated; ;frequently] 
+
+[isolated;from;tracts] 
+
+[tracts; ;the] 
+
+[tracts; ;genital] 
+
+[tracts;of@3;women] 
+
+[women;with@2;BV] 
+

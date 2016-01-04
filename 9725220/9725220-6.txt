@@ -1,0 +1,25 @@
+Each site is functionally important and contributes independently to transcription of the NF-IL6 gene in U937 cells.
+[site; ;Each] 
+
+[is; ;site] 
+
+[important; ;functionally] 
+
+[is; ;important] 
+
+[and; ;is] 
+
+[and; ;contributes] 
+
+[contributes; ;site] 
+
+[contributes; ;independently] 
+
+[contributes;to;transcription] 
+
+[transcription;of;NF-IL6 gene] 
+
+[NF-IL6 gene; ;the] 
+
+[transcription;in;U937 cells]  
+

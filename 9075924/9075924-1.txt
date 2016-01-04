@@ -1,0 +1,27 @@
+he T cell activation factor NF-ATc positively regulates HIV-1 replication and gene expression in T cells.
+
+
+[factor; ;The] 
+
+[factor; ;activation] 
+
+[activation; ;T cell@1] 
+
+[factor; ;NF-ATc] 
+
+[regulates; ;NF-ATc] 
+
+[regulates; ;positively] 
+
+[regulates; ;HIV-1 replication and gene expression] 
+
+[replication; ;HIV-1] 
+
+[expression; ;gene] 
+
+[and; ;replication] 
+
+[and; ;expression] 
+
+[expression;in;T cells@2] 
+

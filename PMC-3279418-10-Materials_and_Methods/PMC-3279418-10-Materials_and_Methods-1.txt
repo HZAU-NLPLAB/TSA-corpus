@@ -1,0 +1,16 @@
+The complementary DNA (cDNA) of the mouse PRO1_ gene was cloned and amplified from RAW264.7 RNA extracts.
+[DNA; ;complementary]
+[DNA; ;The]
+[DNA; ;cDNA]
+[DNA;of;gene]
+[gene; ;PRO1_]
+[gene; ;mouse]
+[gene; ;the]
+[was; ;cloned]
+[was; ;gene]
+[and; ;amplified]
+[and; ;cloned]
+[amplified;from;extracts]
+[extracts; ;RNA]
+[extracts; ;RAW264.7]
+

@@ -1,0 +1,48 @@
+In addition, the amount of CREB phosphorylation seen with concomitant LPS and PTX treatment was less than that seen with PTX alone, although this difference was not statistically significant (P = 0.08)
+[In addition,; ;the amount of CREB phosphorylation seen with concomitant LPS and PTX treatment was less than that seen with PTX alone, although this difference was not statistically significant] 
+
+[amount; ;the@1] 
+
+[amount;of;phosphorylation] 
+
+[phosphorylation; ;CREB] 
+
+[seen; ;phosphorylation] 
+
+[seen;with;LPS] 
+
+[LPS; ;concomitant] 
+
+[and; ;LPS] 
+
+[and; ;PTX]
+[treatment; ;LPS and PTX] 
+
+[was; ;treatment] 
+
+[was; ;less]
+
+[less;than;that] 
+
+[seen; ;that] 
+
+[seen;with;PTX] 
+
+[PTX; ;alone] 
+
+[although; ;this difference was not statistically significant] 
+
+[difference; ;this] 
+
+[was; ;difference] 
+
+[was; ;not] 
+
+[was; ;significant] 
+
+[significant; ;statistically] 
+
+[=; ;P] 
+
+[=; ;0 .08] 
+

@@ -1,0 +1,53 @@
+The OCT-1-binding genotype, found in approximately 5% of Africans, is associated with fourfold increased susceptibility to cerebral malaria in large case-control studies of West African and East African populations, after correction for other known TNF polymorphisms and linked HLA alleles.
+[OCT-1-binding genotype; ;The] 
+
+[genotype; ;OCT-1-binding] 
+
+[found; ;OCT-1-binding genotype] 
+
+[found;in@1;Africans] 
+
+[5%;of@1;Africans] 
+
+[5%; ;approximately] 
+
+[associated; ;OCT-1-binding genotype] 
+
+[associated; ;is] 
+
+[associated;with;susceptibility] 
+
+[susceptibility; ;fourfold] 
+
+[susceptibility; ;increased] 
+
+[associated;to;cerebral malaria] 
+
+[malaria; ;cerebral] 
+
+[susceptibility;in@2;studies] 
+
+[studies; ;large]
+
+[studies; ;case-control] 
+
+[studies;of@2;West African and East African populations] 
+
+[and; ;West African] 
+
+[and; ;East African] 
+
+[associated;after;correction] 
+
+[correction;for;TNF polymorphisms] 
+
+[TNF polymorphisms; ;other] 
+
+[TNF polymorphisms; ;known] 
+
+[and; ;TNF polymorphisms] 
+
+[and; ;HLA alleles] 
+
+[HLA alleles; ;linked] 
+

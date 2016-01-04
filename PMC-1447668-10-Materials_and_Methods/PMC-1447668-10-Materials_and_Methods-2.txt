@@ -1,0 +1,13 @@
+Jurkat T cells and primary human PRO1_+ T cells were cultured in RPMI-1640 medium (Invitrogen).
+[T cells; ;Jurkat]
+[and; ;Jurkat T cells]
+[and; ;primary human PRO1_+ T cells]
+[T cells; ;primary]
+[T cells; ;human]
+[T cells; ;PRO1_+]
+[cultured; ;Jurkat T cells]
+[cultured; ;primary human PRO1_+ T cells]
+[cultured; ;were]
+[cultured;in;RPMI-1640 medium]
+[medium; ;RPMI-1640]
+[RPMI-1640 medium; ;Invitrogen]

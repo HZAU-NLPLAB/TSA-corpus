@@ -1,0 +1,37 @@
+We conclude that NF-kappa B activation could constitute one of the mechanisms whereby the expression of kappa B-responsive genes is enhanced in phagocytosing neutrophils.
+[conclude; ;We] 
+
+[conclude; ;that] 
+
+[that; ;NF-kappa B activation could constitute one of the mechanisms whereby the expression of kappa B-responsive genes is enhanced in phagocytosing neutrophils] 
+
+[NF-kappa B activation could constitute one of the mechanisms;whereby;the expression of kappa B-responsive genes is enhanced in phagocytosing neutrophils] 
+
+[activation; ;NF-kappa B] 
+
+[constitute; ;could] 
+
+[constitute; ;activation] 
+
+[constitute; ;one] 
+
+[one;of;mechanisms] 
+
+[mechanisms; ;the@1] 
+
+[expression; ;the@2] 
+
+[expression;of;kappa B-responsive genes] 
+
+[genes; ;kappa B-responsive] 
+
+[responsive;-;kappa B] 
+
+[enhanced; ;is] 
+
+[enhanced; ;expression] 
+
+[enhanced;in;phagocytosing neutrophils] 
+
+[neutrophils; ;phagocytosing] 
+

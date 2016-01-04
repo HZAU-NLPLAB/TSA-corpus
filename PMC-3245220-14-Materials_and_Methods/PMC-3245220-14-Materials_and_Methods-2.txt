@@ -1,0 +1,19 @@
+Monocytes used in real time PCR experiments and transfection experiments were purified by positive selection using PRO1_ Monocyte Isolation Kit from Miltenyi Biotech (Auburn, CA) (>90% pure).
+[used; ;Monocytes@1]
+[used;in;experiments@1]
+[experiments@1; ;PCR]
+[experiments@1; ;real time]
+[and; ;experiments@1]
+[and; ;experiments@2£©
+[experiments@2; ;transfection]
+[purified; ;experiments@2]
+[purified; ;were]
+[purified;by;selection]
+[selection; ;positive]
+[using; ;selection]
+[using; ;Kit]
+[Kit; ;PRO1_ ]
+[Kit; ;Monocyte]
+[Kit; ;Isolation]
+[Kit;from;Miltenyi Biotech]
+

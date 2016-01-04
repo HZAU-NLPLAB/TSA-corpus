@@ -1,0 +1,37 @@
+We have identified a 104-bp minimal promoter region of the NF-IL6 gene that is sufficient for basal and activation-dependent induction of transcription in U937 cells.
+[identified; ;We] 
+
+[identified; ;have] 
+
+[identified; ;104-bp minimal promoter region] 
+
+[104-bp minimal promoter region; ;a] 
+
+[104;-;bp] 
+
+[promoter region; ;minimal] 
+
+[104-bp minimal promoter region;of@1;NF-IL6 gene] 
+
+[NF-IL6 gene; ;the] 
+
+[104-bp minimal promoter region; ;that] 
+
+[is; ;that] 
+
+[is; ;sufficient] 
+
+[sufficient;for;induction] 
+
+[and; ;basal] 
+
+[and; ;activation-dependent] 
+
+[induction; ;basal] 
+
+[induction; ;activation-dependent] 
+
+[induction;of@2;transcription] 
+
+[is;in;U937 cells] 
+

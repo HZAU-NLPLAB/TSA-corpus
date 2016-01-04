@@ -1,0 +1,16 @@
+Cell apoptosis assay was performed as described previously (51) using the PRO2_-FITC apoptosis detection kit (BD PharMingen, San Diego, CA).
+[assay; ;apoptosis]
+[assay; ;Cell]
+[performed; ;assay]
+[performed; ;was]
+[performed; ;as]
+[described; ;as]
+[described; ;previously]
+[using; ;performed]
+[using; ;kit]
+[kit; ;detection]
+[kit; ;apoptosis]
+[kit; ;PRO2_-FITC]
+[FITC; ;PRO2_-]
+[kit; ;the) 
+

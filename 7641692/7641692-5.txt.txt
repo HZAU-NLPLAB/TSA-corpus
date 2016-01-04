@@ -1,0 +1,18 @@
+Our data suggest that lipoxygenase metabolites activate ROI formation which then induce IL-2 expression via NF-kappa B activation.
+
+[data; ;Our]
+[suggest; ;data]
+[suggest; ;that]
+[taht; ;lipoxygenase metabolites activate ROI formation]
+[activate; ;metabolites]
+[activate; ;formation]
+[formation; ;ROI]
+[metabolites; ;lipoxygenase]
+[formation; ;which]
+[induce; ;which]
+[induce; ;then]
+[induce; ;expression]
+[expression;via;activation]
+[activation; ;NF-kappa B]
+[B; ;NF-kappa]
+[kappa;-;NF]

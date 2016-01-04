@@ -1,0 +1,10 @@
+Increased PRO1_ Protein Expression Is Associated with Low HTLV-I Proviral Load Since.
+[Expression; ;Increased]
+[Expression; ;PRO1_]
+[Expression; ;Protein]
+[Associated; ;Expression]
+[Associated; ;Is]
+[Associated;with;Load]
+[Load; ;Low]
+[Load; ;HTLV-I]
+[Load; ;Proviral]

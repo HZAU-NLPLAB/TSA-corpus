@@ -1,0 +1,52 @@
+We provide evidence here that virtually all human CD34(+) bone marrow cells express NF-kappaB that can be activated by exposure to phorbol 12-myristate 13-acetate and a variety of cytokines, eg, tumor necrosis factor alpha, interleukin-3, and granulocyte-macrophage colony-stimulating factor.
+[provide; ;We] 
+
+[provide; ;evidence] 
+
+[provide; ;here] 
+
+[evidence; ;that] 
+
+[that; ;virtually all human CD34(+) bone marrow cells express NF-kappaB that can be activated by exposure to phorbol 12-myristate 13-acetate and@1 a variety of cytokines, eg, tumor necrosis factor alpha, interleukin-3, and@2 granulocyte-macrophage colony-stimulating factor]  
+
+[all; ;virtually] 
+
+[human CD34(+) bone marrow cells; ;all] 
+
+[express; ;human CD34(+) bone marrow cells] 
+
+[express; ;NF-kappaB] 
+
+[NF-kappaB; ;that] 
+
+[activated; ;that] 
+
+[be; ;can] 
+
+[activated; ;be] 
+
+[activated;by;exposure] 
+
+[activated;to;phorbol 12-myristate 13-acetate] 
+
+[13-acetate;12-myristate;phorbol] 
+
+[and@1; ;phorbol 12-myristate 13-acetate] 
+
+[and@1; ;cytokines] 
+
+[cytokines; ;a variety of] 
+
+[cytokines; ;tumor necrosis factor alpha] 
+
+[and@2; ;tumor necrosis factor alpha] 
+
+[and@2; ;interleukin-3] 
+
+[and@2; ;granulocyte-macrophage colony-stimulating factor] 
+
+[colony-stimulating; ;granulocyte-macrophage] 
+
+[macrophage;-;granulocyte] 
+
+[stimulating;-;colony]

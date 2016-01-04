@@ -1,0 +1,20 @@
+Transduction of both PRO5_-deficient (PRO6_-/-) clones with a retrovirus encoding FLAG-PRO7_ reversed defective PRO8_ upregulation, while transduction with an empty vector (pMIP) did not.
+[Transduction;of;clones]
+[clones; ;both]
+[clones; ;PRO5_-deficient]
+[deficient; ;PRO5_-]
+[PRO5_-deficient; ;PRO6_-/-]
+[clones;with@1;FLAG-PRO7_]
+[FLAG-PRO7_; ;encoding]
+[FLAG-PRO7_; ;retrovirus]
+[reversed; ;FLAG-PRO7_]
+[reversed; ;upregulation]
+[upregulation; ;PRO8_]
+[upregulation; ;defective]
+[Transduction of both PRO5_-deficient (PRO6_-/-) clones with a retrovirus encoding FLAG-PRO7_ reversed defective PRO8_ upregulation;while;transduction with an empty vector (pMIP) did not) 
+[transduction;with@2;vector]
+[vector; ;an]
+[vector; ;empty]
+[did; ;vector£©
+[did; ;not) 
+

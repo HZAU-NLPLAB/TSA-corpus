@@ -1,0 +1,34 @@
+This finding indicates that PRO19_ is not a target of activated PRO20_ in the PRO21_ transgenic lymphocytes and lymphoma cells.
+[finding; ;This] 
+
+[indicates; ;finding] 
+
+[indicates; ;that] 
+
+[that; ;PRO19_ is not a target of activated PRO20_ in the PRO21_ (transgenic lymphocytes and lymphoma cells]
+[is; ;PRO19_] 
+
+[is; ;not] 
+
+[is; ;target] 
+
+[target; ;a] 
+
+[target;of;PRO20_] 
+
+[PRO20_; ;activated] 
+
+[PRO20_;in;lymphocytes] 
+
+[PRO20_;in;cells]  
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO21_] 
+
+[cells;   ;lymphoma] 
+
+[and; ;lymphocytes] 
+
+[and; ;cells]  
+

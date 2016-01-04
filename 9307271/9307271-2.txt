@@ -1,0 +1,50 @@
+
+We have identified a novel gene, GR6, located within the leukemia breakpoint region of 3q21, that is normally expressed in early fetal development but not in adult peripheral blood.
+[identified; ;have] 
+
+[identified; ;We] 
+
+[identified; ;novel gene] 
+
+[novel gene; ;a] 
+
+[novel gene; ;GR6] 
+
+[located; ;novel gene] 
+
+[gene; ;novel] 
+
+[located;within;region] 
+
+[region; ;breakpoint] 
+
+[region; ;leukemia] 
+
+[region; ;the] 
+
+[region;of;3q21] 
+
+[novel gene; ;that] 
+
+[expressed; ;is] 
+
+[expressed; ;normally] 
+
+[expressed; ;that] 
+
+[expressed;in@1;early fetal development] 
+
+[expressed;in@2;adult peripheral blood] 
+
+[but not; ;in early fetal development] 
+
+[but not; ;in adult peripheral blood] 
+
+[fetal development; ;early] 
+
+[development; ;fetal] 
+
+[peripheral blood; ;adult] 
+
+[blood; ;peripheral] 
+

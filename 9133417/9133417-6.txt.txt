@@ -1,0 +1,18 @@
+Deletion of this sequence abolishes the capacity of CD40 to induce expression of CD23, ICAM-1, and lymphotoxin-alpha genes in B cells.
+
+[Deletion;of@1;sequence]
+[sequence; ;this]
+[abolishes; ;sequence]
+[abolishes; ;capacity]
+[capacity; ;the]
+[capacity;of@2;CD40]
+[CD40;to;induce]
+[induce; ;expression]
+[expression;of@3;CD23]
+[,,and; ;CD23]
+[,,and; ;ICAM-1]
+[,,and; ;lymphotoxin-alpha]
+[lymphotoxin-alpha; ;gene]
+[alpha;-;lymphotoxin]
+[genes;in;B cells]
+[cells; ;B]

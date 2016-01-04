@@ -1,0 +1,57 @@
+Although these heterodimers do not recognize a classical thyroid hormone response element (TRE) characterized by direct repeat separated by four nucleotides (DR+4), PPAR behaves as a dominant negative regulator of thyroid hormone (TH) action.
+PPAR behaves as a dominant negative regulator of thyroid hormone (TH) action;Although;these heterodimers do not recognize a classical thyroid hormone response element (TRE) characterized by direct repeat separated by four nucleotides (DR+4) 
+
+[heterodimers; ;these] 
+
+[recognize; ;do] 
+
+[do; ;not] 
+
+[recognize; ;heterodimers] 
+
+[recognize; ;thyroid hormone response element] 
+
+[thyroid hormone response element; ;a@1] 
+
+[thyroid hormone response element; ;classical] 
+
+[thyroid hormone response element; ;TRE] 
+
+[characterized; ;thyroid hormone response element] 
+
+[thyroid hormone@1; ;response element] 
+
+[hormone@1; ;thyroid@1] 
+
+[element; ;response] 
+
+[characterized;by@1;repeat] 
+
+[repeat; ;direct] 
+
+[separated; ;repeat] 
+
+[separated;by@2;four nucleotides] 
+
+[four nucleotides; ;DR+4] 
+
+[nucleotides; ;four] 
+
+[behaves; ;PPAR] 
+
+[behaves;as;dominant negative regulator] 
+
+[dominant negative regulator; ;a@2] 
+
+[dominant negative regulator;of;action] 
+
+[regulator; ;dominant] 
+
+[regulator; ;negative] 
+
+[action; ;thyroid hormone@2] 
+
+[thyroid hormone@2; ;TH] 
+
+[hormone@2; ;thyroid@2] 
+

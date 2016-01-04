@@ -1,0 +1,16 @@
+Conversely, several cytokines modulate the levels of HIV expression in infected cells of both T lymphocytic and mononuclear phagocytic lineage.
+
+[several cytokines modulate the levels of HIV expression in infected cells of both T lymphocytic and mononuclear phagocytic lineage; ;Conversely]
+[cytokines; ;several]
+[modulate; ;cytokines]
+[modulate; ;levels]
+[levels;of@1;expression]
+[expression; ;HIV]
+[expression;in;cells]
+[cells; ;infected]
+[cells;of@2;lineage]
+[lineage; ;phagocytic]
+[both...and; ;T lymphocytic]
+[both...and; ;mononuclear]
+[lineage; ;mononuclear]
+[lineage; ;lymphocytic]

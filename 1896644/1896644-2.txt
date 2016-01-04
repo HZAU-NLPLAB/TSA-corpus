@@ -1,0 +1,62 @@
+
+In 1991, we demonstrated, using electrophoretic mobility shift assays, that 3 different factors (termed B1, B2 and B3) with affinity for the KB-enhancer target sequence were specifically detected in nuclear extracts from HIV1-infected monocytes and macrophages.
+
+
+[ ;In;1991] 
+
+[demonstrated; ;we] 
+
+[using; ;assays] 
+
+[assays; ;shift] 
+
+[assays; ;mobility] 
+
+[assays; ;electrophoretic] 
+
+[assays; ;that] 
+
+[that; ;3 different factors (termed B1, B2 and B3) with affinity for the KB-enhancer target] 
+
+[factors; ;different] 
+
+[factors; ;3]
+
+[factors; ;termed B1, B2 and B3] 
+
+[B1, B2 and B3; ;termed] 
+
+[and@1; ;B1] 
+
+[and@1; ;B2] 
+
+[and@1; ;B3]
+[different;with;affinity] 
+
+[affinity;for;sequencel] 
+
+[sequencel; ;the] 
+
+[sequencel; ;target] 
+
+[sequencel; ;KB-enhancer] 
+
+[detected; ;affinity] 
+
+[detected; ;were] 
+
+[detected; ;specifically] 
+
+[detected;in;extracts] 
+
+[extracts; ;nuclear] 
+
+[extracts; ;monocytes] 
+
+[monocytes; ;HIV1-infected] 
+
+[infected;-;HIV1] 
+
+[and@2; ;monocytes] 
+
+[and@2; ;macrophages]

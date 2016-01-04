@@ -1,0 +1,38 @@
+
+The generation of cell-mediated immunity against many infectious pathogens involves the production of interleukin-12 (IL-12), a key signal of the innate immune system.
+[generation; ;The@1] 
+
+[generation;of@1;immunity] 
+
+[immunity; ;cell-mediated] 
+
+[generation;against;pathogens] 
+
+[pathogens; ;many] 
+
+[pathogens; ;infectious] 
+
+[involves; ;generation] 
+
+[involves; ;production] 
+
+[production; ;the@2] 
+
+[production;of@2;interleukin-12] 
+
+[interleukin-12; ;IL-12] 
+
+[interleukin-12; ;signal] 
+
+[signal; ;a] 
+
+[signal; ;key] 
+
+[signal;of@3;system] 
+
+[system; ;the@3] 
+
+[system; ;innate] 
+
+[system; ;immune] 
+

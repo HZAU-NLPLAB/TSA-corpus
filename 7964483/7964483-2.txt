@@ -1,0 +1,12 @@
+A cDNA library was prepared from peripheral blood lymphocytes of an autoimmune patient with primary Sjogrens' syndrome. 
+[cDNA library; ;A]
+[library; ;cDNA]
+[prepared; ;cDNA library]
+[prepared; ;was]
+[prepared;from;lymphocytes]
+[lymphocytes; ;peripheral]
+[lymphocytes; ;blood]
+[lymphocytes;of;patient]
+[patient; ;an]
+[patient; ;autoimmune]
+[patient;with;primary Sjogrens' syndrome]

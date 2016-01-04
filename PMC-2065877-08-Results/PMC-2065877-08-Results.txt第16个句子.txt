@@ -1,0 +1,23 @@
+It has been shown to selectively inhibit the growth of tumors with constitutively activated PRO32_ (47).
+[shown; ;It] 
+
+[shown; ;has] 
+
+[shown; ;been] 
+
+[shown;to;inhibit] 
+
+[inhibit; ;selectively] 
+
+[inhibit; ;growth] 
+
+[growth; ;the] 
+
+[growth;of;tumors] 
+
+[tumors;with;PRO32_] 
+
+[PRO32_; ;activated] 
+
+[PRO32_; ;constitutively] 
+

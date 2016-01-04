@@ -1,0 +1,39 @@
+Expression of all mammalian genes of the MCM family is induced by growth stimulation, unlike yeast, and the mRNA levels peak at G1/S boundary.
+[Expression;of@1;mammalian genes] 
+
+[mammalian genes; ;all]
+
+[mammalian; ;genes] 
+
+[mammalian genes;of@2;MCM family] 
+
+[MCM family; ;the@1] 
+
+[family; ;MCM] 
+
+[induced; ;mammalian genes] 
+
+[induced; ;is] 
+
+[induced;by;growth stimulation]
+
+[stimulation; ;growth] 
+
+[induced;unlike;yeast] 
+
+[and; ;induced] 
+
+[the@2; ;peak] 
+
+[mRNA levels; ;the@2] 
+
+[peak; ;mRNA levels]
+
+[peak;at;G1/S boundary] 
+
+[/; ;G1] 
+
+[/; ;S] 
+
+[boundary; ;G1/S] 
+

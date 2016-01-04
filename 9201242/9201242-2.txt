@@ -1,0 +1,42 @@
+
+We have investigated the effect of adenovirus 2 (Ad2) infection on human monocytes and monocyte-derived macrophages with regard to expression of TNF-alpha and IL-1 beta.
+
+
+[investigated; ;We] 
+
+[investigated; ;have] 
+
+[investigated; ;effect] 
+
+[effect; ;the] 
+
+[effect;of@1;infection] 
+
+[infection; ;adenovirus 2] 
+
+[adenovirus 2; ;Ad2] 
+
+[infection;on;monocytes] 
+
+[monocytes; ;human] 
+
+[and@1; ;human monocytes] 
+
+[and@1; ;monocyte-derived macrophages] 
+
+[macrophages; ;monocyte-derived] 
+
+[derived;-;monocyte] 
+
+[macrophages;with;regard] 
+
+[regard;to;expression] 
+
+[expression;of@2;beta] 
+
+[and@2; ;TNF-alpha] 
+
+[and@2; ;IL-1] 
+
+[beta;  ;TNF-alpha and IL-1] 
+

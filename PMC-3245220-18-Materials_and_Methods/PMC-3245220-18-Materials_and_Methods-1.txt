@@ -1,0 +1,13 @@
+Secreted alkaline phosphatase activity was analyzed by GreatEscape SEAP kit according to the manufacturer's instruction.
+[activity; ;Secreted]
+[activity; ;phosphatase]
+[activity; ;alkaline]
+[analyzed; ;activity]
+[analyzed; ;activity]
+[analyzed;by;kit]
+[kit; ;GreatEscape]
+[kit; ;SEAP]
+[analyzed;according to;instruction]
+[instruction; ;manufacturer's]
+[instruction; ;the]
+

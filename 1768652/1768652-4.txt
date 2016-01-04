@@ -1,0 +1,44 @@
+Nuclear expression of these proteins is induced with distinctly biphasic kinetics following phorbol ester activation of T cells (p55/p75 early and p50/p85 late).
+
+
+[expression; ;Nuclear] 
+
+[expression;of@1;proteins] 
+
+[proteins; ;these] 
+
+[induced; ;expression] 
+
+[induced;is; ]
+
+[induced;with;kinetics] 
+
+[kinetics; ;distinctly] 
+
+[kinetics; ;biphasic] 
+
+[following; ;kinetics] 
+
+[following; ;activation] 
+
+[activation; ;phorbol] 
+
+[activation; ;ester] 
+
+[activation;of@2;T cells] 
+
+[p55/p75; ;early] 
+
+[p50/p85; ;late] 
+
+[and; ;p55/p75 early] 
+
+[and; ;p50/p85 late] 
+
+[/; ;p55] 
+
+[/; ;p75] 
+
+[/; ;p50] 
+
+[/; ;p85]

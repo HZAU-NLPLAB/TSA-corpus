@@ -1,0 +1,11 @@
+Densitometry was performed using the ImageQuant TL v2005 software (GE Healthcare).
+[performed; ;Densitometry] 
+
+[performed; ;was] 
+
+[using; ;ImageQuant TL] 
+
+[ImageQuant TL; ;v2005 software] 
+
+[ImageQuant TL; ;the] 
+

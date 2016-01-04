@@ -1,0 +1,14 @@
+The following primer sequences were used, PRO3_: forward- TGTGAAAGCAGCAAAGAGGCACTG, reverse- ACAGCTCTGGCTTGTTCCTCACTA; PRO4_: forward-
+ACCACACTGCGCCAACACAGAAAT, reverse- AAACTTCTCCACAACCCTCTGCAC.
+[following; ;The) 
+[sequences; ;following]
+[sequences; ;primer]
+[used; ;were]
+[used; ;sequences]
+[sequences; ;PRO3_: forward- TGTGAAAGCAGCAAAGAGGCACTG, reverse- ACAGCTCTGGCTTGTTCCTCACTA; PRO4_: forward-
+ACCACACTGCGCCAACACAGAAAT, reverse- AAACTTCTCCACAACCCTCTGCAC]
+[PRO3_; ;:]
+[:; ;forward- TGTGAAAGCAGCAAAGAGGCACTG, reverse- ACAGCTCTGGCTTGTTCCTCACTA]
+[PRO4_; ;:]
+[:; ;forward-
+ACCACACTGCGCCAACACAGAAAT, reverse- AAACTTCTCCACAACCCTCTGCAC]

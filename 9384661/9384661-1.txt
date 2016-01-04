@@ -1,0 +1,21 @@
+xpression of c-fos correlates with IFN-alpha responsiveness in Philadelphia chromosome positive chronic myelogenous leukemia.
+[Expression;of;c-fos] 
+
+[correlates; ;Expression] 
+
+[correlates;with;responsiveness] 
+
+[responsiveness; ;IFN-alpha] 
+
+[responsiveness;in;Philadelphia chromosome positive chronic myelogenous leukemia] 
+
+[myelogenous leukemia; ;Philadelphia] 
+
+[myelogenous leukemia; ;chromosome positive chronic] 
+
+[chronic; ;chromosome positive] 
+
+[positive; ;chromosome] 
+
+[leukemia; ;myelogenous] 
+

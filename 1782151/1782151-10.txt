@@ -1,0 +1,35 @@
+When purified PRDII and tetrahexamer binding proteins were added to the induced extract, a 4-fold increase in transcription was observed.
+[a 4-fold increase in transcription was observed;When;purified PRDII and tetrahexamer binding proteins were added to the induced extrac] 
+
+[proteins; ;purified] 
+
+[proteins; ;binding] 
+
+[proteins; ;PRDII] 
+
+[proteins; ;tetrahexamer] 
+
+[and; ;tetrahexamer] 
+
+[added; ;were] 
+
+[added; ;proteins] 
+
+[added;to;extract] 
+
+[extract; ;the] 
+
+[extract; ;induced] 
+
+[increase; ;a] 
+
+[increase; ;4-fold] 
+
+[fold;-;4] 
+
+[increase;in;transcription] 
+
+[observed; ;was] 
+
+[observed; ;increase] 
+

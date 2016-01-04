@@ -1,0 +1,33 @@
+Switching is hampered by CD30 coengagement, possibly through interference with the CD40-mediated NF-kappaB-dependent transcriptional activation of downstream C(H) genes.
+[hampered; ;is] 
+
+[hampered; ;Switching] 
+
+[hampered;by;coengagement] 
+
+[coengagement; ;CD30] 
+
+[hampered; ;possibly] 
+
+[hampered;through;interference] 
+
+[interference;with;activation] 
+
+[activation; ;the] 
+
+[activation; ;CD40-mediated] 
+
+[activation; ;NF-kappaB-dependent] 
+
+[activation; ;transcriptional] 
+
+[mediated;-;CD40] 
+
+[dependent;-;NF-kappaB] 
+
+[activation;of;genes] 
+
+[genes; ;downstream] 
+
+[genes; ;C(H)] 
+

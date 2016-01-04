@@ -1,0 +1,29 @@
+This factor remained clustered in the cytosol and was translocated to the nuclei only after HIV1 infection.
+
+
+[factor; ;This] 
+
+[remained; ;factor] 
+
+[remained; ;clustered] 
+
+[clustered;in;cytosol] 
+
+[cytosol; ;the@1] 
+
+[and; ;remained] 
+
+[and; ;translocated] 
+
+[translocated; ;was] 
+
+[translocated;to;nuclei] 
+
+[nuclei; ;the@2] 
+
+[nuclei;after;infection] 
+
+[after; ;only] 
+
+[infection; ;HIV1] 
+

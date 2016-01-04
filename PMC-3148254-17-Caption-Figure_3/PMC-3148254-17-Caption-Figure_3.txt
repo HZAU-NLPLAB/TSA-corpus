@@ -1,0 +1,8 @@
+RO1_ transcription is defective in PRO2_-stimulated PRO3_-deficient cells.
+[is; ;PRO1_ transcription]
+[is; ;defective]
+[in; ;PRO2_-stimulated PRO3_-deficient cells]
+[cells; ;PRO2_-stimulated PRO3_-deficient ]
+[deficient; ;PRO3_-]
+[stimulated; ; PRO2_-]
+

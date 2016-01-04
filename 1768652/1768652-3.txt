@@ -1,0 +1,35 @@
+These two DNA-protein complexes are composed of at least four host proteins (p50, p55, p75, p85), each of which shares structural similarity with the v-rel oncogene product.
+
+
+[complexes; ;These] 
+
+[complexes; ;two] 
+
+[complexes; ;DNA-protein] 
+
+[composed; ;complexes] 
+
+[composed;are; ]
+
+[composed;of@1;proteins] 
+
+[four; ;at least] 
+
+[proteins; ;four] 
+
+[proteins; ;host] 
+
+[proteins; ;p50, p55, p75, p85] 
+
+[each;of@2;which] 
+
+[shares; ;which] 
+
+[shares; ;similarity]
+[similarity; ;structural] 
+
+[similarity;with;product] 
+
+[product; ;v-rel oncogene] 
+
+[product; ;the]

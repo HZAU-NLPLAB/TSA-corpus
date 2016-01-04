@@ -1,0 +1,25 @@
+ctivation of Stat 5b in erythroid progenitors correlates with the ability of ErbB to induce sustained cell proliferation.
+
+
+[Activation;of@1;Stat 5b] 
+
+[Stat 5b;in;progenitors] 
+
+[progenitors; ;erythroid] 
+
+[progenitors; ;correlates] 
+
+[correlates;with;ability] 
+
+[ability; ;the] 
+
+[ability;of@2;ErbB] 
+
+[ErbB;to;induce] 
+
+[induce; ;proliferation]  
+
+[proliferation; ;cell] 
+
+[proliferation; ;sustained] 
+

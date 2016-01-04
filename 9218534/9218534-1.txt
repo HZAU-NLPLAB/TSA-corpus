@@ -1,0 +1,19 @@
+ole of the X2 box in activated transcription from the DRA promoter in B cells.
+[Role;of;X2 box] 
+
+[X2 box; ;the@1] 
+
+[X2 box;in@1;transcription] 
+
+[transcription; ;activated] 
+
+[box; ;X2] 
+
+[Role;from;DRA promoter] 
+
+[DRA promoter; ;the@2] 
+
+[DRA promoter;in@2;B cells] 
+
+[promoter; ;DRA] 
+

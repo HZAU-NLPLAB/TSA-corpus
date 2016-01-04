@@ -1,0 +1,11 @@
+The cell yield was 2-3x107 cells/mouse with 80-95% BMDC.
+[yield; ;The]
+[cell; ;yield]
+[was; ;yield]
+[was; ;cells/mouse]
+[cells/mouse; ;2-3x107]
+[/; ; cells]
+[/; ; mouse]
+[yield;with;BMDC]
+[BMDC; ;80-95%) 
+

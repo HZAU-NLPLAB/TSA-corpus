@@ -1,0 +1,24 @@
+
+The role of the protooncogene c-fos in interleukin (IL) 6-induced B cell differentiation was assessed.
+[role; ;The] 
+
+[role;of;c-fos] 
+
+[c-fos; ;the]
+
+[c-fos; ;protooncogene] 
+
+[c-fos   in   B cell] 
+
+[interleukin; ;IL] 
+
+[B cell; ;interleukin] 
+
+[B cell; ;6-induced] 
+
+[differentiation; ;B cell] 
+
+[assessed; ;role] 
+
+[assessed; ;was] 
+

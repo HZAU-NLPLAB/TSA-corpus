@@ -1,0 +1,34 @@
+
+We used our monoclonal model of germinal center maturation, CL-01 B cells, to investigate the role of CD30 in human B cell differentiation.
+[used; ;We] 
+
+[used; ;model] 
+
+[model; ;our] 
+
+[model; ;monoclonal] 
+
+[model;of@1;germinal center maturation] 
+
+[germinal center maturation; ;CL-01 B cells] 
+
+[maturation; ;germinal center] 
+
+[center; ;germinal] 
+
+[B cells; ;CL-01] 
+
+[used;to;investigate] 
+
+[investigate; ;role] 
+
+[role; ;the] 
+
+[role;of@2;CD30] 
+
+[investigate;in;differentiation] 
+
+[differentiation; ;human] 
+
+[differentiation; ;B cell] 
+

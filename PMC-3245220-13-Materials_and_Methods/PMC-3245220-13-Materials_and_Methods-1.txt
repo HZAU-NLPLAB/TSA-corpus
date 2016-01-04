@@ -1,0 +1,11 @@
+
+The murine macrophage cell line RAW 264.7 was purchased from ATCC (Manassas, VA).
+[line; ;macrophage]
+[line; ;cell]
+[line; ;murine]
+[line; ;The]
+[line; ;RAW 264.7]
+[purchased; ;was]
+[purchased; ;RAW 264.7]
+[purchased;from;ATCC) 
+

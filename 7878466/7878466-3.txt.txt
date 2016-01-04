@@ -1,0 +1,16 @@
+Various stimuli, typically those associated with stress or pathogens, rapidly inactivate I kappa B-alpha.
+
+[stimuli; ;Various]
+[associated; ;stimuli]
+[associated; ;typically]
+[those; ;stimuli]
+[associated;with;stress]
+[associated;with;pathogens]
+[or; ;stress]
+[or; ;pathogens]
+[inactivate; ;rapidly]
+[inactivate; ;I kappa B-alpha]
+[B-alpha; ;kappa]
+[kappa; ;I]
+[alpha;-;B]
+

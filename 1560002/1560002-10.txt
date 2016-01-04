@@ -1,0 +1,38 @@
+Together these results constitute the first direct evidence of a positive role for the lymphoid-specific octamer-binding factor in DRA gene transcription.
+[results; ;these] 
+
+[results; ;Together] 
+
+[constitute; ;results] 
+
+[constitute; ;evidence] 
+
+[evidence; ;direct] 
+
+[evidence; ;first] 
+
+[evidence; ;the] 
+
+[evidence;of;role] 
+
+[role; ;positive] 
+
+[positive; ;a] 
+
+[role;for;factor] 
+
+[factor; ;octamer-binding] 
+
+[factor; ;lymphoid-specific] 
+
+[factor; ;the] 
+
+[binding;-;octamer] 
+
+[lymphoid;-;specific] 
+
+[factor;in;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;DRA]

@@ -1,0 +1,14 @@
+Interestingly, it has been shown that M-CSF can induce the expression of its own gene.
+
+[shown;been;has]
+[shown; ;it]
+[shown; ;that]
+[that; ;M-CSF can induce the expression of its own gene]
+[induce; ;can]
+[induce; ;M-CSF]
+[induce; ;expression]
+[expression; ;the]
+[expression;of;gene]
+[gene; ;own]
+[gene; ;its]
+[its; ;M-CSF]

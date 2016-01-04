@@ -1,0 +1,22 @@
+
+TNF is one of the cytokines secreted by the cells of the immune system.
+[is; ;TNF] 
+
+[is; ;one] 
+
+[one;of@1;cytokines] 
+
+[cytokines; ;the@1] 
+
+[secreted; ;cytokines] 
+
+[secreted;by;cells] 
+
+[cells; ;the@2] 
+
+[cells;of@2;immune system] 
+
+[immune system; ;the@3] 
+
+[system; ;immune] 
+

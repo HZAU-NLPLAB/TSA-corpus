@@ -1,0 +1,10 @@
+The effect of Toremifene on the expression of some genes in human mononuclear cells.
+
+[effect; ;The]
+[effect;of@1;Toremifene]
+[Toremifene;on;expression]
+[expression;of@2;genes]
+[genes; ;some]
+[genes;in;cells]
+[cells; ;mononuclear]
+[cells; ;human]

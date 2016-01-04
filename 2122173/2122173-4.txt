@@ -1,0 +1,36 @@
+Sex steroid regulation of the production of this molecule, as well as other cytokines, may help explain the gender-specific differences in the immune system, including autoimmunity.
+
+
+[regulation; ;Sex steroid] 
+
+[steroid; ;Sex] 
+
+[regulation;of@1;production] 
+
+[production; ;the@1] 
+
+[production;of@2;molecule] 
+
+[molecule; ;this] 
+
+[as well as; ;cytokines] 
+
+[cytokines; ;other] 
+
+[help; ;may] 
+
+[help; ;explain] 
+
+[explain; ;differences] 
+
+[differences; ;gender-specific] 
+
+[differences; ;the@3] 
+
+[differences;in;system] 
+
+[system; ;immune] 
+
+[system; ;the@5] 
+
+[including; ;autoimmunity]

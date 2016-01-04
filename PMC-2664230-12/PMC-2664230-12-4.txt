@@ -1,0 +1,31 @@
+These results suggest that downregulation of PRO5_ production by PTX in LPS-stimulated mononuclear cells is, at least in part,PKA-independent.
+[results; ;These] 
+
+[suggest; ;results] 
+
+[suggest; ;that] 
+
+[that; ;downregulation of PRO5_ production by PTX in LPS-stimulated (mononuclear cells is, at least in part, PKA-independent] (downregulation;of;production] 
+
+[production; ;PRO5_] 
+
+[production;by;PTX] 
+
+[PTX;in;cells] 
+
+[cells; ;mononuclear] 
+
+[cells; ;LPS-stimulated] 
+
+[stimulated;-;LPS] 
+
+[is; ;cells] 
+
+[is;in;part] 
+
+[is; ;at least] 
+
+[PKA-independent; ;part] 
+
+[PKA;-;independent]  
+

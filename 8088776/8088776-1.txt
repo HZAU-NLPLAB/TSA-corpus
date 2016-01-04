@@ -1,0 +1,15 @@
+tructure and expression of the human GATA3 gene.
+[and; ;Structure] 
+
+[and; ;expression] 
+
+[Structure;of;human GATA3 gene] 
+
+[expression;of;human GATA3 gene] 
+
+[human GATA3 gene; ;the] 
+
+[GATA3 gene; ;human] 
+
+[gene; ;GATA3] 
+

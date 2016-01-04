@@ -1,0 +1,13 @@
+Levels were automatically calculated from standard curves using Bio-Plex Manager software (v.4.1.1, Bio-Rad).
+[calculated; ;were]
+[calculated; ;automatically]
+[calculated; ;Levels]
+[calculated;from;curves]
+[curves; ;standard]
+[calculated; ;using Bio-Plex Manager software]
+[using; ;software]
+[software; ;Bio-Plex Manager]
+[Plex Manager;-;Bio]
+[Manager; ;Plex]
+[software; ;v.4.1.1]
+[software; ;Bio-Rad]

@@ -1,0 +1,7 @@
+EBV PRO1_ Activates PRO2_, NFkappaB, and PRO3_ in B Cell Lymphomas.
+[Activates; ;EBV PRO1_]
+[Activates; ;PRO2_, NFkappaB, and PRO3_]
+[£¬and; ;PRO2_]
+[£¬and; ;NFkappaB]
+[£¬and; ;$;]
+[Activates;in;B Cell Lymphomas]

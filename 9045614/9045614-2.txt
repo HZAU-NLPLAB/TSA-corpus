@@ -1,0 +1,11 @@
+Human immunodeficiency virus-type 1 (HIV-1) infection is characterized by a chronic state of immune hyperactivation in patients. 
+[Human immunodeficiency virus-type 1; ;HIV-1]
+[infection; ;Human immunodeficiency virus-type 1]
+[characterized; ;infection]
+[characterized; ;is]
+[characterized;by;state]
+[state; ;a]
+[state; ;chronic]
+[state;of;immune hyperactivation]
+[hyperactivation; ;immune]
+[characterized;in;patients]

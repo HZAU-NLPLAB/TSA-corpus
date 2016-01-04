@@ -1,0 +1,9 @@
+This technique is especially useful for detection of unknown methylation patterns.
+[technique; ;This]
+[is; ;technique]
+[useful; ;especially]
+[technique; ;useful]
+[ ;for;detection]
+[detection;of;patterns]
+[patterns; ;methylation]
+[methylation; ;unknown]

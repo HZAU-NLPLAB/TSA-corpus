@@ -1,0 +1,21 @@
+Activation of TLRs by microbial lipoproteins may initiate innate defense mechanisms against infectious pathogens.
+[Activation;of;TLRs] 
+
+[Activation;by;lipoproteins]
+
+[lipoproteins; ;microbial] 
+
+[initiate; ;Activation] 
+
+[initiate; ;may] 
+
+[initiate; ;innate defense mechanisms] 
+
+[mechanisms; ;innate] 
+
+[mechanisms; ;defense] 
+
+[initiate;against;pathogens] 
+
+[pathogens; ;infectious] 
+

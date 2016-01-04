@@ -1,0 +1,31 @@
+As previously shown, wild-type lymphocytes were not viable in culture and could not be tested with the inhibitors.
+As previously shown; ;wild-type lymphocytes were not viable in culture and could not be tested with the inhibitors 
+
+[ ;As;shown] 
+
+[shown; ;previously] 
+
+[were; ;lymphocytes] 
+
+[were; ;not] 
+
+[were; ;viable] 
+
+[viable;in;culture] 
+
+[lymphocytes; ;wild-type]
+
+[and; ;were] 
+
+[and; ;tested] 
+
+[tested; ;be] 
+
+[be; ;could] 
+
+[be; ;not] 
+
+[tested;with;inhibitors] 
+
+[inhibitors; ;the] 
+

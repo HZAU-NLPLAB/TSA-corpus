@@ -1,0 +1,11 @@
+This process requires calcium-dependent dephosphorylation of NFAT caused by the phosphatase calcineurin. 
+[process; ;This]
+[requires; ;process]
+[requires; ;calcium-dependent dephosphorylation]
+[calcium-dependent dephosphorylation;of;NFAT]
+[dephosphorylation; ;calcium-dependent]
+[calcium;-;dependent]
+[caused; ;NFAT]
+[caused;by;phosphatase calcineurin]
+[phosphatase calcineurin; ;the]
+[calcineurin; ;phosphatase]

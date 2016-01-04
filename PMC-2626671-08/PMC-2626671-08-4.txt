@@ -1,0 +1,33 @@
+For ChIP experiments, the anti-PRO9_ antibody was obtained from Abcam and the anti-PRO10_ antibody was produced by the Groner laboratory.
+[obtained; ;antibody] 
+
+[antibody; ;anti-PRO9_] 
+
+[antibody; ;the@1] 
+
+[obtained; ;was] 
+
+[obtained;from;Abcam] 
+
+[and; ;Abcam] 
+
+[and; ;the anti-PRO9_ antibody was obtained from Abcam] 
+
+[and; ;the anti-PRO10_ antibody was produced by the Groner (laboratory] 
+
+[antibody; ;the@2] 
+
+[antibody; ;anti-PRO10_] 
+
+[produced; ;was] 
+
+[produced;by;laboratory] 
+
+[laboratory; ;Groner] 
+
+[Groner; ;the@3] 
+
+[ ;For;experiments] 
+
+[experiments; ;ChIP] 
+

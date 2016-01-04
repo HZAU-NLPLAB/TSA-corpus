@@ -1,0 +1,9 @@
+The graph represents mean +/- S.E.M for three independent experiments.
+[represents; ;graph]
+[represents; ;The]
+[mean; ;represents]
+[mean; ;+/- S.E.M]
+[mean;for;experiments]
+[experiments; ;three]
+[experiments; ;independent]
+

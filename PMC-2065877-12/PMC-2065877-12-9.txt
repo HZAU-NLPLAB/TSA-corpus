@@ -1,0 +1,24 @@
+The inhibitors BAY11-7085, rapamycin, triciribine, U0126, SB202190, and cucurbitacin I were purchased from EMD Biosciences.
+[inhibitors; ;The]
+
+[inhibitors; ;BAY11-7085, rapamycin, triciribine, U0126, SB202190, and cucurbitacin I] 
+
+[and; ;BAY11-7085] 
+
+[and; ;rapamycin] 
+
+[and; ;triciribine] 
+
+[and; ;U0126] 
+
+[and; ;SB202190] 
+
+[and; ;cucurbitacin I] 
+
+[purchased; ;inhibitors] 
+
+[purchased; ;were] 
+
+[purchased;from;Biosciences]
+[Biosciences; ;EMD] 
+

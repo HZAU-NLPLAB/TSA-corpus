@@ -1,0 +1,6 @@
+Protein kinase B (PKB) is activated by IL-2 via PI3K. 
+[Protein kinase B; ;PKB]
+[activated; ;Protein kinase B]
+[activated; ;is]
+[activated;by;IL-2]
+[activated;via;PI3K]

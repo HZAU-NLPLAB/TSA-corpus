@@ -1,0 +1,51 @@
+DNA binding by all four of these Rel-related factors is blocked by selective chemical modification of lysine and arginine residues, suggesting that both of these basic amino acids are required for binding to the kappa B element.
+
+
+[binding; ;DNA] 
+
+[binding;by;four] 
+
+[four; ;all] 
+
+[four;of@1;factors] 
+
+[factors; ;these] 
+
+[factors; ;Rel-related] 
+
+[blocked; ;DNA] 
+
+[blocked;is; ]
+[blocked;by;modification] 
+
+[modification; ;chemical] 
+
+[modification; ;selective] 
+
+[modification;of@2;lysine and arginine residues] 
+
+[and; ;lysine] 
+
+[and; ;arginine] 
+
+[suggesting; ;that] 
+
+[that; ;both of these basic amino acids are required for binding to the kappa B] 
+
+[both;of@3;amino acids] 
+
+[amino acids; ;basic] 
+
+[amino acids; ;these] 
+
+[required; ;amino acids] 
+
+[required;are; ]
+
+[required;for;binding] 
+
+[binding;to;element]  
+
+[element; ;the] 
+
+[element; ;kappa B]

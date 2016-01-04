@@ -1,0 +1,12 @@
+
+ Percentages of cells in each quadrant are shown.
+[Percentages;of;cells] 
+
+[cells;in;quadrant] 
+
+[quadrant; ;each] 
+
+[are; ;Percentages] 
+
+[are; ;shown] 
+

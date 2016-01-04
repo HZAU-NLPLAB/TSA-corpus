@@ -1,0 +1,31 @@
+This function is mediated through two repression domains and is dependent upon the promoter context and cell type.
+[function; ;This] 
+
+[mediated; ;function] 
+
+[mediated; ;is] 
+
+[mediated;through;repression domains] 
+
+[repression domains; ;two] 
+
+[domains; ;repression] 
+
+[and@1; ;is mediated] 
+
+[and@1; ;is] 
+
+[is; ;function] 
+
+[is; ;dependent] 
+
+[dependent;upon;promoter context] 
+
+[promoter context; ;the] 
+
+[and@2; ;promoter context] 
+
+[and@2; ;cell type] 
+
+[dependent;upon;cell type] 
+

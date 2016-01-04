@@ -1,0 +1,9 @@
+Data represent the mean +/- S.E.M for three independent experiments.
+[represent; ;Data]
+[represent; ;the mean +/- S.E.M]
+[mean; ;the]
+[mean; ;+/- S.E.M]
+[represent;for;experiments]
+[experiments; ;three]
+[experiments; ;independent) 
+

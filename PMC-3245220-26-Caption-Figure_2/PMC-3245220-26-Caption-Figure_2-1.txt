@@ -1,0 +1,20 @@
+[A) Human MDMs transfected with pNF-kappaB-SEAP were pre-incubated with inhibitors; Ro-31-8220, Go-6976, or BAPTA/AM for 30 minutes prior to 6 hours M-CSF stimulation.
+[MDMs; ;Human]
+[transfected; ;MDMs]
+[transfected;with@1;pNF-kappaB-SEAP]
+[pre-incubated; ;were]
+[pre-incubated; ;pNF-kappaB-SEAP]
+[pre-incubated;with@2; inhibitors]
+[inhibitors; ;Ro-31-8220]
+[inhibitors; ;Go-6976]
+[or; ;BAPTA/AM]
+[/; ;BAPTA]
+[/; ;AM]
+[or; ;Go-6976]
+[pre-incubated;for;minutes]
+[minutes; ;30]
+[prior;to;stimulation]
+[stimulation; ;M-CSF]
+[stimulation; ;6 hours]
+[hours; ;6) 
+

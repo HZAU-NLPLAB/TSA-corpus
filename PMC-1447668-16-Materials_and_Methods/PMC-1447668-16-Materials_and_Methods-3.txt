@@ -1,0 +1,10 @@
+The HTLV-I proviral DNA load was calculated by the following formula: copy number of HTLV-I (pX) per 100 cells = (copy number of pX]/[copy number of PRO2_/2) x 100.
+[HTLV-I proviral DNA load; ;The]
+[load; ;HTLV-I]
+[load; ;proviral]
+[load; ;DNA]
+[calculated; ;HTLV-I proviral DNA load]
+[calculated; ;was]
+[calculated;by;formula]
+[formula; ;the]
+[formula;:;copy number of HTLV-I (pX) per 100 cells = (copy number of pX]/[copy number of PRO2_/2) x 100]

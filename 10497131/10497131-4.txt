@@ -1,0 +1,41 @@
+This peptide potently inhibited NFAT activation and NFAT-dependent expression of endogenous cytokine genes in T cells, without affecting the expression of other cytokines that require calcineurin but not NFAT.
+peptide; ;This 
+
+[inhibited; ;potently] 
+
+[inhibited; ;peptide] 
+
+[inhibited; ;NFAT activation]
+
+[and; ;NFAT activation] 
+
+[and; ;NFAT-dependent expression] 
+
+[NFAT;-;dependent] 
+
+[expression; ;NFAT-dependent] 
+
+[NFAT-dependent expression;of;endogenous cytokine genes] 
+
+[genes;cytokine;endogenous] 
+
+[inhibited;in;T cells] 
+
+[inhibited;without;affecting] 
+
+[affecting; ;expression] 
+
+[the expression; ;the] 
+
+[expression;of;cytokines] 
+
+[cytokines; ;other] 
+
+[cytokines; ;that] 
+
+[require; ;that] 
+
+[require; ;calcineurin] 
+
+[calcineurin;but not;NFAT]  
+

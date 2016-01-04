@@ -1,0 +1,7 @@
+ vector with the 'TOPO TA cloning kit' (Invitrogen) (see Figure 3A).
+[vector; ;;1]
+[vector;with;kit']
+[kit'; ;;cloning]
+[kit'; ;;'TOPO TA]
+[kit'; ;;the]
+[kit'; ;;Invitrogen]

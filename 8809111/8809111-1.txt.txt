@@ -1,0 +1,11 @@
+Characterization of the human myeloid cell nuclear differentiation antigen gene promoter.
+
+[Characterization;of;promoter]
+[promoter; ;gene]
+[gene; ;antigen]
+[antigen; ;differentiation]
+[differentiation; ;nuclear]
+[nuclear; ;cell]
+[cell; ;myeloid]
+[myeloid; ;huamn]
+[human; ;the]

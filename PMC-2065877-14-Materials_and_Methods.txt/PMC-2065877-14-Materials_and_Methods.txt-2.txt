@@ -1,0 +1,11 @@
+For BrdU detection, the FITC-BrdU flow kit was used as instructed by the manufacturer (BD Bioscience).
+[kit; ;flow ]
+[kit; ;FITC-BrdU ]
+[kit; ;the ]
+[used; ;kit ]
+[used; ;was ]
+[used;as;instructed ]
+[instructed;by;manufacturer ]
+[manufacturer;the; ;]
+[used;For;detection ]
+[detection; ;BrdU ]

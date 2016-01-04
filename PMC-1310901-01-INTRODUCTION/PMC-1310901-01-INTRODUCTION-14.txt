@@ -1,0 +1,10 @@
+De novo DNA methylation of genes such as cell cycle, DNA repair, apoptosis and tumor suppressor genes is therefore thought to be involved in tumorigenesis (15-17).
+[De novo DNA methylation;of;genes]
+[genes;such as;cell cycle]
+[genes;such as;DNA repair]
+[genes;such as;apoptosis]
+[and; ;apoptosis]
+[and; ;tumor suppressor genes]
+[is; ;thought]
+[involved; ;be]
+[involved;in;umorigenesis]

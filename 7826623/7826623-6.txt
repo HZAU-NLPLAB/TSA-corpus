@@ -1,0 +1,11 @@
+Both positive and negative regulatory elements were identified in the proximal 5' flanking region of the IL-3 gene.
+[elements; ;regulatory]
+[elements; ;negative]
+[both...and; ;negative]
+[both...and; ;positive]
+[identified; ;elements]
+[identified; ;were]
+[identified;in;proximal 5' flanking region]
+[proximal 5' flanking region; ;the@1]
+[proximal 5' flanking region;of;IL-3 gene]
+[IL-3 gene; ;the@2]

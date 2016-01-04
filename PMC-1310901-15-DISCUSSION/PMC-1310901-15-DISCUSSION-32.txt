@@ -1,0 +1,9 @@
+This draws a more complex picture of the role of PRO54_.
+[draws; ;This]
+[draws; ;picture]
+[picture; ;a]
+[complex; ;more]
+[picture; ;complex]
+[picture;of;role]
+[role; ;the]
+[role;of;PRO54_]

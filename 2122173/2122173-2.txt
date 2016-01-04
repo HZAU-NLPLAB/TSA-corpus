@@ -1,0 +1,28 @@
+
+The sexual difference in the incidence of autoimmune diseases has remained an enigma for many years.
+
+
+[difference; ;The] 
+
+[difference; ;sexual] 
+
+[difference;in;incidence] 
+
+[incidence; ;the] 
+
+[incidence;of;diseases] 
+
+[diseases; ;autoimmune] 
+
+[remained; ;difference] 
+
+[remained; ;has] 
+
+[remained; ;enigma] 
+
+[enigma; ;an] 
+
+[enigma;for;years] 
+
+[years; ;many] 
+

@@ -1,0 +1,16 @@
+Reporter gene experiments demonstrated that NF-kappa B transcriptional activity is not affected by expression of activated p21ras.
+
+[demonstrated; ;that]
+[demonstrated; ;experiments]
+[experiments; ;gene]
+[gene; ;Reporter]
+[taht; ;NF-kappa B transcriptional activity is not affected by expression of activated p21ras]
+[activity; ;transcriptional]
+[transcriptional; ;NF-kappa B]
+[kappa;-;NF]
+[affected; ;activity]
+[affected;is; ]
+[affected; ;not]
+[affected;by;expression]
+[expression;of;p21ras]
+[p21ras; ;activated]

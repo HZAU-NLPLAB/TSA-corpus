@@ -1,0 +1,7 @@
+Peroxisome proliferator-activated receptor.
+[receptor; ;Peroxisome] 
+
+[receptor; ;proliferator-activated] 
+
+[activated;-;proliferator] 
+

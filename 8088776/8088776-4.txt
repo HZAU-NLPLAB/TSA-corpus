@@ -1,0 +1,25 @@
+We show that the human GATA3 gene contains six exons distributed over 17 kb of DNA.
+[show; ;that] 
+
+[that; ;the human GATA3 gene contains six exons distributed over 17 kb of DNA] 
+
+[human GATA3 gene; ;the] 
+
+[contains; ;human GATA3 gene] 
+
+[GATA3 gene; ;human] 
+
+[gene; ;GATA3] 
+
+[contains; ;exons] 
+
+[exons; ;six] 
+
+[distributed; ;exons] 
+
+[distributed;over;17 kb] 
+
+[17 kb;of;DNA] 
+
+[kb; ;17] 
+

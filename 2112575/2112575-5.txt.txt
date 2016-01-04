@@ -1,0 +1,13 @@
+Altered transcription of c-fos and c-myc genes was the primary effect of heat shock.
+
+[transcription; ;Altered]
+[transcription;of;c-fos]
+[and; ;c-fos]
+[and; ;c-myc]
+[genes; ;c-fos]
+[genes; ;c-myc]
+[was; ;effect]
+[effect; ;the]
+[effect; ;primary]
+[effect;of;shock]
+[shock; ;heat]

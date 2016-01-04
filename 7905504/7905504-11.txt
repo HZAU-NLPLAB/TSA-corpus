@@ -1,0 +1,12 @@
+Thus, CD45 plays an active role in the physiology of T cells and in the replication of HIV-1. 
+[CD45 plays an active role in the physiology of T cells and in the replication of HIV-1; ;Thus]
+[plays an active role; ;CD45]
+[role; ;active]
+[plays an active role;in@1;physiology]
+[physiology; ;the@1]
+[physiology;of@1;T cells]
+[and; ;in@1]
+[and; ;in@2]
+[ ;in@2;replication]
+[replication; ;the@2]
+[replication;of@2;HIV-1]

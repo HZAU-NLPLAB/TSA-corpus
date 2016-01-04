@@ -1,0 +1,82 @@
+Since human immunodeficiency virus type 1 (HIV-1) replication is known to be favored under oxidative stress conditions, ex vivo experiments using uninfected PBMCs, primary monocytes or a latently infected promonocytic U1 cell line show that HIV-1 replication and reactivation, monitored by p24 antigen measurement, are inhibited by PAO in a time- and concentration-dependent manner.
+
+
+[ex vivo experiments using uninfected PBMCs, primary monocytes or a latently infected promonocytic U1 cell line show that HIV-1 replication and reactivation, monitored by p24 antigen measurement, are inhibited by PAO in a time- and concentration-dependent manner;Since;human immunodeficiency virus type 1 (HIV-1) replication is known to be favored under oxidative stress conditions] 
+
+[human immunodeficiency virus type 1; ;HIV-1] 
+
+[replication; ;HIV-1] 
+
+[known; ;replication] 
+
+[known; ;is] 
+
+[known;to;be] 
+
+[be; ;favored] 
+
+[favored;under;conditions] 
+
+[conditions; ;stress] 
+
+[conditions; ;oxidative] 
+
+[experiments; ;ex] 
+
+[experiments; ;vivo] 
+
+[using; ;experiments] 
+
+[using; ;PBMCs] 
+
+[PBMCs; ;uninfected] 
+
+[monocytes; ;primary] 
+
+[or; ;primary monocytes] 
+
+[or; ;latently infected promonocytic U1 cell line] 
+
+[cell line; ;a]
+
+[line; ;cell] 
+
+[cell; ;U1] 
+
+[cell; ;promonocytic] 
+
+[cell; ;infected] 
+
+[cell; ;latently] 
+
+[show; ;cell line] 
+
+[show; ;that] 
+
+[that; ;HIV-1 replication and reactivation, monitored by p24 antigen measurement, are inhibited by PAO in a time- and concentration-dependent manner] 
+
+[and; ;HIV-1 replication] 
+
+[replication; ;HIV-1] 
+
+[and; ;reactivation] 
+
+[monitored; ;HIV-1 replication and reactivation] 
+
+[measurement;by;p24] 
+
+[measurement; ;antigen]
+
+[inhibited; ;are] 
+
+[inhibited;by;PAO] 
+
+[PAO;in;manner]  
+
+[manner; ;a] 
+
+[and; ;time-] 
+
+[and; ;concentration-] 
+
+[concentration;-;dependent]

@@ -1,0 +1,25 @@
+Phosphatidylserine (PS), another anionic glycerophospholipid, binds to mCD14 with lower apparent affinity than does PtdIns.
+[Phosphatidylserine; ;PS] 
+
+[Phosphatidylserine; ;another anionic glycerophospholipid] 
+
+[glycerophospholipid; ;another] 
+
+[glycerophospholipid; ;anionic] 
+
+[binds; ;Phosphatidylserine] 
+
+[binds;to;mCD14] 
+
+[binds;with;affinity] 
+
+[affinity; ;apparent] 
+
+[affinity; ;lower] 
+
+[lower; ;Phosphatidylserine] 
+
+[lower;than;PtdIns] 
+
+[does; ;PtdIns] 
+

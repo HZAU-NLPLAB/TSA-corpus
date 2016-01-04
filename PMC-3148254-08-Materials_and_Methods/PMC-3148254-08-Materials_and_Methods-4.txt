@@ -1,0 +1,8 @@
+Betty Eipper (University of Connecticut Health Center, Farmington, Connecticut). 
+[Betty Eipper; ;University of Connecticut Health Center, Farmington, Connecticut]
+[Betty Eipper; ;University]
+[Betty Eipper; ;Farmington]
+[Betty Eipper; ;Connecticut]
+[University;of;Center]
+[Center; ;Connecticut]
+[Center; ;Health]

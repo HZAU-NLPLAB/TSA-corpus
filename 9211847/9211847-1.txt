@@ -1,0 +1,8 @@
+Inducible expression and phosphorylation of coactivator BOB.1/OBF.1 in T cells [see comments].
+[expression; ;Inducible]
+[and; ;expression]
+[and; ;phosphorylation]
+[phosphorylation;of;BOB.1/OBF.1]
+[BOB.1/OBF.1; ;coactivator]
+[expression;in;T cells]
+[phosphorylation;in;T cells]

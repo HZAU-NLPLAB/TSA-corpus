@@ -1,0 +1,6 @@
+Statistical significance was defined as p<=0.05.
+[significance; ;Statistical]
+[defined; ;significance]
+[defined; ;was]
+[defined;as;p<=0.05]
+

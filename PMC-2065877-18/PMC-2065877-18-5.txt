@@ -1,0 +1,19 @@
+Rat anti-PRO6_ (clones 8G3, 1G6, 7E10, and 7G8) was purchased from Ascenion.
+[anti-PRO6_; ;Rat] 
+
+[anti-PRO6_; ;clones 8G3, 1G6, 7E10, and 7G8] 
+
+[and; ;8G3] 
+
+[and; ;1G6]
+
+[and; ;7E10] 
+
+[and; ;7G8] 
+
+[8G3; ;clones] 
+
+[purchased; ;was]
+
+[purchased;from;Ascenion]
+

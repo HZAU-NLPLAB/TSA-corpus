@@ -1,0 +1,62 @@
+(B and C) Immunoblot analysis of activated PRO11_ in purified B cells (PRO12_+) from WT and PRO13_ transgenic mice (B) at the time of harvest, and (C) 4 h after culture with or without PRO14_, a neutralizing antibody to PRO15_, or a rat IgG1 isotype control.
+[and; ;B] 
+
+[and; ;C] 
+
+[analysis; ;Immunoblot] 
+
+[analysis;of;PRO11_] 
+
+[PRO11_; ;activated] 
+
+[PRO11_;in;B cells] 
+
+[B cells; ;purified] 
+
+[B cells; ;PRO12_+] 
+
+[B cells;from;WT] 
+
+[and@2; ;WT] 
+
+[and@2; ;mice] 
+
+[mice; ;transgenic] 
+
+[mice; ;PRO13_] 
+
+[mice;at;time] 
+
+[time; ;the] 
+
+[time;of;harvest] 
+
+[and@3; ;(B and C) Immunoblot analysis of activated PRO11_ in purified B cells (PRO12_+) from WT and PRO13_ transgenic mice (B) at the time of] 
+
+[4 h;after;culture] 
+
+[culture;with or without;PRO14_] 
+
+[or@1; ;with] 
+
+[or@1; ;without] 
+
+[and@3; ;4 h after culture with or without PRO14_, a neutralizing antibody to PRO15_, or a rat IgG1 isotype control] 
+
+[antibody; ;neutralizing] 
+
+[antibody; ;a] 
+
+[antibody;to;PRO15_] 
+
+[or@2; ;antibody] 
+
+[or@2; ;control] 
+
+[control; ;isotype] 
+
+[control; ;IgG1] 
+
+[IgG1; ;rat] 
+
+[control; ;a]

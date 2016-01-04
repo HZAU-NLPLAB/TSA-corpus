@@ -1,0 +1,6 @@
+PCR products were verified by automated sequencing.
+[products; ;PCR]
+[verified; ;products]
+[verified; ;were]
+[verified;by;sequencing]
+[sequencing; ;automated]

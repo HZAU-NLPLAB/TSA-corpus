@@ -1,0 +1,13 @@
+One of the members of this multigene family, cGATA-3, is most abundantly expressed in the T-lymphocyte cell lineage. 
+[One;of@1;members]
+[members; ;the@1]
+[members;of@2;family]
+[family; ;this]
+[family; ;multigene]
+[One; ;cGATA-3]
+[expressed; ;cGATA-3]
+[expressed; ;is]
+[expressed; ;abundantly]
+[abundantly; ;most]
+[expressed;in;T-lymphocyte cell lineage]
+[T-lymphocyte cell lineage; ;the@2]

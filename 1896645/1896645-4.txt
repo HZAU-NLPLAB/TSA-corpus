@@ -1,0 +1,43 @@
+In parallel with such differentiation, HIV transcription, monitored using an HIV long terminal repeat reporter gene construct, is activated in such cells under the influence of enhanced NF-kappa B expression.
+
+
+[ ;In;parallel] 
+
+[parallel;with;differentiation] 
+
+[differentiation; ;such@1] 
+
+[transcription; ;HIV] 
+
+[monitored;using;construct] 
+
+[construct; ;an] 
+
+[construct; ;gene] 
+
+[gene; ;reporter] 
+
+[reporter; ;repeat] 
+
+[repeat; ;terminal] 
+
+[repeat; ;long]
+
+[repeat; ;HIV] 
+
+[activated; ;is] 
+
+[activated;in;cells] 
+
+[cells; ;such@2] 
+
+[cells;under;influence] 
+
+[influence; ;the@2] 
+
+[influence;of@2;expression]  
+
+[expression; ;NF-kappa B] 
+
+[expression; ;enhanced] 
+

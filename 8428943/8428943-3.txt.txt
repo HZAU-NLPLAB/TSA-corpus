@@ -1,0 +1,19 @@
+Antigen receptor signals could be mimicked by suboptimal activation of protein kinase C (PKC) with phorbol esters in combination with calcium mobilization by an ionophore.
+
+[signals; ;receptor]
+[receptor; ;Antigen]
+[mimicked;be;could]
+[mimicked; ;signals]
+[mimicked;by@1;activation]
+[activation; ;suboptimal]
+[activation;of;kinase C]
+[kinase C; ;protein]
+[protein kinase C; ;PKC]
+[kinase C;with;esters]
+[esters; ;phorbol]
+[esters;in;combination]
+[combination;with;mobilization]
+[mobilization; ;calcium]
+[mobilization;by@2;ionophore]
+[ionophore; ;an]
+

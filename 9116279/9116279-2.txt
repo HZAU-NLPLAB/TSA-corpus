@@ -1,0 +1,22 @@
+
+Translocations involving the human CBFA2 locus have been associated with leukemia.
+
+
+[Translocations; ;involving] 
+
+[involving; ;human CBFA2 locus] 
+
+[human CBFA2 locus; ;the] 
+
+[CBFA2; ;human] 
+
+[locus; ;CBFA2] 
+
+[associated; ;Translocations]
+
+[associated; ;have] 
+
+[associated; ;been] 
+
+[associated;with;leukemia]   
+

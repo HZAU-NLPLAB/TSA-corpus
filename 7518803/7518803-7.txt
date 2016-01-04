@@ -1,0 +1,52 @@
+Since these hybrids preferentially segregate human chromosomes, these results indicate the existence of a non-syntenic trans-active locus, or loci, positively controlling the expression of the human CD5 gene.
+
+
+[these results indicate the existence of a non-syntenic trans-active locus, or loci, positively controlling the expression of the human CD5 gene;Since;these hybrids preferentially segregate human chromosomes] 
+
+[hybrids; ;these@1] 
+
+[segregate; ;preferentially] 
+
+[segregate; ;hybrids] 
+
+[segregate; ;chromosomes] 
+
+[chromosomes; ;human] 
+
+[results; ;these@2] 
+
+[indicate; ;results] 
+
+[indicate; ;existence] 
+
+[existence; ;the@1] 
+
+[existence;of@1;locus] 
+
+[locus; ;a] 
+
+[locus; ;trans-active] 
+
+[locus; ;non-syntenic] 
+
+[syntenic;-;non] 
+
+[active;-;trans] 
+
+[or; ;locus] 
+
+[or; ;loci] 
+
+[controlling; ;positively] 
+
+[controlling; ;expression] 
+
+[expression; ;the@2] 
+
+[expression;of@2;gene] 
+
+[gene; ;the@3] 
+
+[gene; ;CD5] 
+
+[gene; ;human]

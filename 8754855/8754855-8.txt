@@ -1,0 +1,43 @@
+We propose that the requirement for precise spacing of the muA and muB elements is due in part to a directed DNA bend induced by PU.1.
+
+
+[propose; ;We]
+
+[propose; ;that] 
+
+[that; ;the requirement for precise spacing of the muA and muB elements is due in part to a directed DNA bend induced by PU] 
+
+[requirement; ;the@1] 
+
+[requirement;for;spacing] 
+
+[spacing; ;precise] 
+
+[spacing;of;elements] 
+
+[elements; ;the@2] 
+
+[elements; ;muA and muB] 
+
+[and; ;muA] 
+
+[and; ;muB] 
+
+[is; ;elements] 
+
+[is; ;due] 
+
+[due;in;part] 
+
+[part;to;bend] 
+
+[bend; ;a] 
+
+[bend; ;DNA] 
+
+[ ; ;directed] 
+
+[induced; ;bend] 
+
+[induced;by;PU.1]  
+

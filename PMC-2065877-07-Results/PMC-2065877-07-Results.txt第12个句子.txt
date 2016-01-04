@@ -1,0 +1,66 @@
+PRO33_ is also known to phosphorylate and induce the degradation of the pro-apoptotic Forkhead family of transcription factors, leading to cell cycle progression and survival in some human tumors (41,42).
+[known; ;PRO33_]
+ 
+
+[known; ;is]
+ 
+
+[known; ;also]
+ 
+
+[known;to;phosphorylate]
+ 
+
+[and; ;known]
+ 
+
+[and; ;induce]
+
+[induce; ;degradation]
+ 
+
+[degradation; ;the]
+ 
+
+[degradation;of;family]
+ 
+
+[family; ;the]
+ 
+
+[family; ;Forkhead]
+ 
+
+[family; ;pro-apoptotic]
+ 
+
+[family;of;factors]
+ 
+
+[factors; ;transcription]
+ 
+
+[leading;to;progression]
+ 
+
+[progression; ;cycle]
+ 
+
+[progression; ;cell]
+ 
+
+[and; ;progression]
+ 
+
+[and; ;survival]
+ 
+
+[survival;in;tumors]
+ 
+
+[tumors; ;human]
+ 
+
+[tumors; ;some]
+ 
+

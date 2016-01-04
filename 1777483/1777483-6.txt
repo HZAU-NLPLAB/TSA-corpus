@@ -1,0 +1,34 @@
+These findings show that nuclear NF-kappa B is necessary to activate the kappa B enhancer, while KBF1 by itself is not sufficient.
+
+
+[findings; ;These] 
+
+[show; ;findings] 
+
+[show; ;that] 
+
+[that; ;nuclear NF-kappa B is necessary to activate the kappa B enhancer, while KBF1 by itself is not sufficient 
+
+NF-kappa B; ;nuclear] 
+
+[is@1; ;NF-kappa B] 
+
+[is@1; ;necessary] 
+
+[necessary;to;activate] 
+
+[activate; ;enhancer] 
+
+[enhancer; ;the] 
+
+[enhancer; ;kappa B] 
+
+[nuclear NF-kappa B is necessary to activate the kappa B enhancer;while;KBF1 by itself is not sufficient] 
+
+[KBF1;by;itself] 
+
+[is@2; ;KBF1] 
+
+[is@2; ;sufficient]  
+
+[is@2; ;not]

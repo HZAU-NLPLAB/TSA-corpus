@@ -1,0 +1,7 @@
+Protein concentration was determined using a Biophotometer (Eppendorf, Hamburg, Germany).
+[concentration; ;Protein]
+[determined; ;Protein concentration]
+[determined; ;was]
+[determined;using;Biophotometer]
+[Biophotometer; ;a]
+[Biophotometer; ;Eppendorf, Hamburg, Germany]

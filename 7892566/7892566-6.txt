@@ -1,0 +1,9 @@
+Different elements thus contribute to IL-2 promoter activity in different cells. 
+[elements; ;Different]
+[contribute; ;elements]
+[contribute; ;thus]
+[contribute;to;activity]
+[activity; ;IL-2 promoter]
+[promoter; ;IL-2]
+[ ;in;cells]
+[cells; ;different]

@@ -1,0 +1,33 @@
+In summary, platelet-activating factor is shown here to have a direct and profound effect on a pure B cell line.
+[ ;In;summary] 
+
+[shown; ;is] 
+
+[shown; ;platelet-activating factor] 
+
+[factor; ;platelet-activating] 
+
+[activating;-;platelet] 
+
+[shown; ;here] 
+
+[shown;to;have] 
+
+[have; ;effect] 
+
+[effect; ;a@1] 
+
+[effect; ;direct] 
+
+[effect; ;profound] 
+
+[and; ;direct] 
+
+[and; ;profound] 
+
+[effect;on;B cell line] 
+
+[B cell line; ;pure] 
+
+[B cell line; ;a@2] 
+

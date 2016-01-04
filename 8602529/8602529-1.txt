@@ -1,0 +1,57 @@
+ mammalian histone deacetylase related to the yeast transcriptional regulator Rpd3p [see comments] 
+Trapoxin is a microbially derived cyclotetrapeptide that inhibits histone deacetylation in vivo and causes mammalian cells to arrest in the cell cycle.
+
+
+[deacetylase; ;histone] 
+
+[histone; ;mammalian] 
+
+[deacetylase; ;A] 
+
+[related; ;deacetylase] 
+
+[related;to;regulator] 
+
+[regulator; ;transcriptional] 
+
+[regulator; ;yeast] 
+
+[regulator; ;regulator] 
+
+[regulator; ;the@1] 
+
+[is; ;Trapoxin] 
+
+[is; ;cyclotetrapeptide] 
+
+[cyclotetrapeptide; ;derived] 
+
+[derived; ;microbially] 
+
+[cyclotetrapeptide; ;a] 
+
+[cyclotetrapeptide; ;that]
+
+[inhibits; ;that] 
+
+[inhibits; ;deacetylation] 
+
+[deacetylation; ;histone] 
+
+[deacetylation;in@1;vivo]
+
+[and; ;inhibits] 
+
+[and; ;causes] 
+
+[causes; ;cells] 
+
+[cells; ;mammalian] 
+
+[causes;to;arrest] 
+
+[arrest;in@2;cycle] 
+
+[cycle;  ;cell] 
+
+[cycle;  ;the@2]

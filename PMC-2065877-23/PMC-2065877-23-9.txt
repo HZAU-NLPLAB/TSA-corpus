@@ -1,0 +1,23 @@
+(D) Immunohistochemistry detection of activated nuclear PRO18_ in the spleens of WT and PRO19_ transgenic mice.
+[detection; ;Immunohistochemistry] 
+
+[detection;of;PRO18_] 
+
+[PRO18_; ;nuclear] 
+
+[PRO18_; ;activated] 
+
+[PRO18_;in;spleens] 
+
+[spleens; ;the] 
+
+[spleens;of;WT] 
+
+[and; ;WT] 
+
+[and; ;mice] 
+
+[mice; ;transgenic] 
+
+[mice; ;PRO19_] 
+

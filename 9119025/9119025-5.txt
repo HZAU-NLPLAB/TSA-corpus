@@ -1,0 +1,29 @@
+Cell-to-cell contact activates in vitro binding of the nuclear factor kappaB (NF-kappaB) p50/p65 heterodimer to an HIV-1 kappaB oligonucleotide.
+
+
+[contact; ;Cell-to-cell] 
+
+[activates; ;contact] 
+
+[activates; ;binding] 
+
+[binding; ;in vitro] 
+
+[binding;of;nuclear factor kappaB (NF-kappaB) p50/p65 heterodimer] 
+
+[heterodimer; ;p50/p65] 
+
+[heterodimer; ;NF-kappaB] 
+
+[nuclear factor kappaB; ;NF-kappaB] 
+
+[kappaB; ;factor] 
+
+[factor; ;nuclear] 
+
+[heterodimer;to;HIV-1 kappaB oligonucleotide] 
+
+[oligonucleotide; ;HIV-1 kappaB] 
+
+[oligonucleotide; ;an] 
+

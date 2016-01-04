@@ -1,0 +1,17 @@
+E-selectin is induced within 1-2 h, peaks at 4-6 h, and gradually returns to basal level by 24 h.
+
+[induced;is;E-selectin]
+[selectin;-;E]
+[induced;within;1-2 h@1]
+[h@1; ;1-2]
+[peaks; ;induces]
+[peaks;at;4-6 h@2]
+[h@2; ;4-6]
+[and; ;returns]
+[and; ;peaks]
+[returns; ;gradually]
+[returns; ;induced]
+[returns;to;level]
+[level; ;basal]
+[level;by;24 h@3]
+[h@3; ;24]

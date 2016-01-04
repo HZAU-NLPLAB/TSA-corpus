@@ -1,0 +1,8 @@
+Superantigens activate HIV-1 gene expression in monocytic cells.
+
+[activate; ;Superantigens]
+[activate; ;expression]
+[expression; ;gene]
+[gene; ;HIV-1]
+[expression;in;cells]
+[cells; ;monocytic]

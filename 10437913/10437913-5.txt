@@ -1,0 +1,29 @@
+Oct-1, a POU domain transcription factor, was identified as a repressor of HLA-DRA promoter activity in the Rb-defective cells.
+[Oct-1; ;POU domain transcription factor] 
+
+[POU domain transcription factor; ;a@1] 
+
+[domain; ;POU] 
+
+[transcription factor; ;POU domain] 
+
+[identified; ;Oct-1] 
+
+[identified; ;was] 
+
+[identified;as;repressor] 
+
+[repressor; ;a@2] 
+
+[repressor;of;promoter activity] 
+
+[promoter activity; ;HLA-DRA] 
+
+[activity; ;promoter] 
+
+[identified;in;Rb-defective cells] 
+
+[cells; ;Rb-defective] 
+
+[Rb-defective cells; ;the] 
+

@@ -1,0 +1,30 @@
+
+A single-chain Fv (sFv) was expressed from the variable regions of the CD40-specific mAb G28-5.
+
+
+[single-chain; ;A] 
+
+[single-chain; ;Fv] 
+
+[single-chain Fv; ;sFv] 
+
+[expressed; ;sFv] 
+
+[expressed; ;was] 
+
+[expressed;from;regions] 
+
+[regions; ;variable] 
+
+[regions; ;the@1] 
+
+[regions;of;CD40-specific mAb G28-5] 
+
+[mAb G28-5;  ;the@2] 
+
+[G28-5;  ;mAb] 
+
+[mAb; ;CD40-specific] 
+
+[CD40;-;specific] 
+

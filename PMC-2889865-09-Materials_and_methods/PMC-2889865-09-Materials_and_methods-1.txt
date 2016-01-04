@@ -1,0 +1,13 @@
+E. coli MG1655 were grown on Luria-Bertani (LB) agar and incubated at 37degreesC overnight. 
+[MG1655; ;E. coli]
+[grown; ;were]
+[grown; ;MG1655]
+[grown;on;agar]
+[agar; ;Luria-Bertani]
+[Luria-Bertani; ;LB]
+[and; ;grown]
+[and; ;incubated]
+[incubated; ;were]
+[incubated; ;MG1655]
+[incubated;at;37degreesC]
+[incubated; ;overnight]

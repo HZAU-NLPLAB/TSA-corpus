@@ -1,0 +1,7 @@
+The samples were stored at -80degreesC until further use.
+[samples; ;The]
+[stored; ;were]
+[stored; ;samples]
+[stored;at;-80degreesC]
+[stored;until;use]
+[use; ;further]

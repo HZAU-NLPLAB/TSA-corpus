@@ -1,0 +1,44 @@
+
+GATA3, a member of the GATA family that is abundantly expressed in the T-lymphocyte lineage, is thought to participate in T-cell receptor gene activation through binding to enhancers.
+[GATA3; ;member] 
+
+[member; ;a] 
+
+[member;of;GATA family] 
+
+[GATA family; ;the@1] 
+
+[GATA family; ;that] 
+
+[family; ;GATA] 
+
+[expressed; ;abundantly] 
+
+[expressed; ;is@1] 
+
+[expressed; ;that] 
+
+[expressed;in;T-lymphocyte lineage] 
+
+[T-lymphocyte lineage; ;the@2] 
+
+[lineage; ;T-lymphocyte] 
+
+[thought; ;is@2] 
+
+[thought; ;GATA3] 
+
+[thought;to@1;participate] 
+
+[participate;in;gene activation] 
+
+[gene activation; ;T-cell receptor] 
+
+[receptor; ;T-cell] 
+
+[activation; ;gene] 
+
+[participate;through;binding] 
+
+[binding;to@2;enhancers] 
+

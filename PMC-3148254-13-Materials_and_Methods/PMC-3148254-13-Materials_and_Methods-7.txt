@@ -1,0 +1,10 @@
+Chemiluminescent detection (Pierce Biotechnology) was used for the visualization of bands on Western blots.
+[detection; ;Chemiluminescent]
+[used; ;detection]
+[used; ;was]
+[used;for;visualization]
+[visualization;of;bands]
+[visualization; ;the]
+[bands;on;blots]
+[blots; ;Western) 
+

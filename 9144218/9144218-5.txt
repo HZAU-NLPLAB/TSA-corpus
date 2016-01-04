@@ -1,0 +1,92 @@
+We propose that BEAD-1 functions as a boundary that separates the TCR alpha/delta locus into distinct regulatory domains controlled by Edelta and the TCR alpha enhancer, and that it prevents Edelta from opening the chromatin of the TCR alpha joining gene segments for VDJ recombination at an early stage of T cell development.
+
+
+[propose; ;We] 
+
+[propose; ;that@1] 
+
+[that; ;BEAD-1 functions as a boundary that separates the TCR alpha/delta locus into distinct regulatory domains controlled by Edelta and the TCR alpha enhancer, and that it prevents Edelta]] 
+
+[functions; ;BEAD-1] 
+
+[functions;as;boundary] 
+
+[boundary; ;a] 
+
+[boundary; ;that@2] 
+
+[that@2; ;separates the TCR alpha/delta locus into distinct regulatory domains controlled by Edelta and the TCR alpha enhancer] 
+
+[separates; ;locus] 
+
+[locus; ;alpha/delta] 
+
+[locus; ;TCR] 
+
+[/; ;alpha] 
+
+[/; ;delta] 
+
+[locus; ;the@1] 
+
+[locus;into;domains] 
+
+[domains; ;regulatory] 
+
+[domains; ;distinct] 
+
+[domains; ;controlled] 
+
+[controlled;by;Edelta] 
+
+[and@1; ;Edelta] 
+
+[and@1; ;enhancer] 
+
+[enhancer; ;alpha] 
+
+[enhancer; ;TCR] 
+
+[enhancer; ;the@2] 
+
+[and; ;that@2] 
+
+[alpha; ;joining] 
+
+[joining; ;gene segments] 
+
+[segments; ;gene]
+
+[segments;for;recombination] 
+
+[recombination; ;VDJ] 
+
+[recombination;at;stage] 
+
+[stage; ;an] 
+
+[stage; ;early] 
+
+[stage;of@1;development]  
+
+[development; ;T cell] 
+[and; ;that@3] 
+
+[that@3; ;it prevents Edelta from opening the chromatin of the TCR alpha] 
+
+[prevents; ;it] 
+
+[prevents; ;Edelta] 
+
+[prevents;from;opening] 
+
+[opening; ;chromatin] 
+
+[chromatin; ;the@3] 
+
+[chromatin;of@2;TCR alpha] 
+
+[TCR alpha; ;the@4] 
+
+[alpha; ;TCR] 
+

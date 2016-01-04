@@ -1,0 +1,33 @@
+Nuclear factor of activated T cells and AP-1 are insufficient for IL-2 promoter activation: requirement for CD28 up-regulation of RE/AP.
+[Nuclear factor;of@1;activated T cells] 
+
+[factor; ;Nuclear] 
+
+[T cells; ;activated] 
+
+[and; ;Nuclear factor] 
+
+[and; ;AP-1] 
+
+[are; ;Nuclear factor] 
+
+[are; ;AP-1] 
+
+[are; ;insufficient] 
+
+[insufficient;for@1;IL-2 promoter activation] 
+
+[activation; ;IL-2 promoter] 
+
+[:; ;IL-2 promoter activation] 
+
+[:; ;requirement for@2 CD28 up-regulation of@2 RE/AP] 
+
+[requirement;for@2;CD28 up-regulation] 
+
+[CD28 up-regulation;of@2;RE/AP] 
+
+[/; ;RE] 
+
+[/; ;AP]  
+

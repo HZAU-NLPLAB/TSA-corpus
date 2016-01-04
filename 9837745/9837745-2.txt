@@ -1,0 +1,60 @@
+
+Although interleukin (IL)-12 was originally purified from an Epstein-Barr (EBV)-transformed B cell line and the high correlation of EBV infection and IL-12 expression has been suggested, no study has reported whether EBV infection is directly linked to IL-12 expression.
+[interleukin (IL)-12; ;Although] 
+
+[interleukin; ;IL] 
+
+[interleukin;-;12] 
+
+[purified; ;interleukin (IL)-12] 
+
+[purified; ;was] 
+
+[purified; ;originally] 
+
+[purified;from;Epstein-Barr (EBV)-transformed B cell line] 
+
+[Epstein-Barr (EBV)-transformed B cell line; ;an] 
+
+[Epstein-Barr; ;EBV] 
+
+[Epstein-Barr;-;transformed] 
+
+[B cell line; ;Epstein-Barr (EBV)-transformed] 
+
+[and; ;purified] 
+
+[and@1; ;suggested] 
+
+[correlation; ;the] 
+
+[correlation; ;high] 
+
+[correlation;of;EBV infection] 
+
+[and@2; ;correlation] 
+
+[and@2; ;IL-12 expression] 
+
+[suggested; ;correlation] 
+
+[suggested;been;has] 
+
+[study; ;no] 
+
+[reported; ;study] 
+
+[reported; ;has] 
+
+[reported; ;whether] 
+
+[whether; ;EBV infection is directly linked to IL-12 expression] 
+
+[linked; ;EBV infection] 
+
+[linked; ;is] 
+
+[linked; ;directly] 
+
+[linked;to;IL-12 expression] 
+

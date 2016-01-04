@@ -1,0 +1,39 @@
+We report that both natural and synthetic PPARgamma agonists induce time- and dose-dependent increases in aP2 mRNA in both primary human monocytes and the monocytic cell line, THP-1.
+[report; ;We] 
+
+[report; ;that] 
+
+[that; ;both natural and@1 synthetic PPARgamma agonists induce time- and@2 dose-dependent increases in@1 aP2 mRNA in@2 both primary human monocytes and@3 the monocytic cell line, THP-1] 
+
+[induce; ;PPARgamma agonists] 
+
+[PPARgamma agonists; ;both natural and@1 synthetic] 
+
+[both¡­and; ;natural] 
+
+[both¡­and; ;synthetic] 
+
+[induce; ;increases] 
+
+[dependent; ;time] 
+
+[dependent; ;dose] 
+
+[increases; ;dependent] 
+
+[increases;in@1;aP2 mRNA] 
+
+[aP2 mRNA;in@2;both primary human monocytes and@3 the monocytic cell line, THP-1] 
+
+[both¡­and; ;primary human monocytes] 
+
+[both¡­and; ;monocytic cell line] 
+
+[monocytes;human;primary] 
+
+[monocytic cell line; ;the] 
+
+[monocytic cell line; ;line, THP-1] 
+
+[monocytic; ;cell line] 
+

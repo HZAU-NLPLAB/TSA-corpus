@@ -1,0 +1,21 @@
+Activity of the immunoglobulin heavy and kappa light chain gene enhancers depends on a complex interplay of ubiquitous and developmentally regulated proteins.
+
+[Activity;of@1;enhancers]
+[enhancers; ;gene]
+[gene; ;chain]
+[chain; ;light]
+[and@1; ;kappa]
+[and@1; ;heavy]
+[enhancers; ;immunoglobulin]
+[immunoglobulin; ;the]
+[chain; ;heavy]
+[chain; ;kappa]
+[depends; ;enhancers]
+[depends;on;interplay]
+[interplay;of@2;proteins]
+[proteins; ;regulated]
+[regulated; ;developmentally]
+[and; ;ubiquitous]
+[and; ;regulated]
+
+

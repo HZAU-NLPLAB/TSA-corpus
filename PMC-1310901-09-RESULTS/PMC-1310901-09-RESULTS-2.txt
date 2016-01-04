@@ -1,0 +1,11 @@
+We have previously demonstrated a lack of PRO2_ expression in leukemia patients and specifically in CML T-cells (3).
+[demonstrated; ;have]
+[demonstrated; ;previously]
+[demonstrated; ;We]
+[demonstrated; ;a lack of PRO2_ expression]
+[PRO2_ expression; ;a lack of]
+[PRO2_ expression;in;leukemia patients]
+[and; ;leukemia patients]
+[and; ;CML T-cells]
+[ ;in;CML T-cells]
+[ ;in;specifically]

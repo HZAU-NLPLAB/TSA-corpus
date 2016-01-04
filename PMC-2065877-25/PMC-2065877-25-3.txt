@@ -1,0 +1,20 @@
+
+ The results are the mean +/- SEM of triplicate samples.
+[results; ;The] 
+
+[are; ;results] 
+
+[are; ;mean] 
+
+[mean; ;the@2] 
+
+[mean; ;+/- SEM] 
+
+[/; ;+] 
+
+[/; ;-] 
+
+[SEM;of;samples] 
+
+[samples; ;triplicate] 
+

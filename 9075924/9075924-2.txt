@@ -1,0 +1,40 @@
+
+Clinical deterioration in human immunodeficiency virus type 1 (HIV-1) infection is associated with increased levels of viral replication and burden in the peripheral blood and lymphoid organs.
+
+
+[deterioration; ;Clinical] 
+
+[deterioration;in@1;infection] 
+
+[infection; ;human immunodeficiency virus type 1] 
+
+[human immunodeficiency virus type 1; ;HIV-1] 
+
+[associated; ;infection] 
+
+[associated; ;is] 
+
+[associated;with;levels] 
+
+[levels; ;increased] 
+
+[levels;of;replication] 
+
+[replication; ;viral] 
+
+[and@1; ;replication] 
+
+[and@1; ;burden] 
+
+[burden;in@2;blood] 
+
+[blood; ;peripheral]
+
+[blood; ;the] 
+
+[and@2; ;blood] 
+
+[and@2; ;organs]  
+
+[organs; ;lymphoid] 
+

@@ -1,0 +1,19 @@
+In monocytes, the virus was bound to the surface without being internalized.
+
+
+[the virus was bound to the surface without being internalized ; ;In monocytes]
+
+[virus; ;the@1] 
+
+[bound; ;virus] 
+
+[bound; ;was] 
+
+[bound;to;surface] 
+
+[surface; ;the@2] 
+
+[surface;without;being] 
+
+[being; ;internalized]  
+

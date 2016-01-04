@@ -1,0 +1,21 @@
+Thus, our data suggest that TPO has a distinct action on erythropoiesis.
+[our data suggest that TPO has a distinct action on erythropoiesis; ;Thus] 
+
+[data; ;our] 
+
+[suggest; ;data] 
+
+[suggest; ;that] 
+
+[that; ;TPO has a distinct action on erythropoiesis] 
+
+[has; ;TPO] 
+
+[has; ;action] 
+
+[action; ;a] 
+
+[action; ;distinct] 
+
+[action;on;erythropoiesis] 
+

@@ -1,0 +1,16 @@
+Two distinct transcription factors that bind the immunoglobulin enhancer microE5/kappa 2 motif.
+
+[factors; ;Two]
+[factors; ;transcription]
+[transcription; ;distinct]
+[factors; ;that]
+[that; ;bind the immunoglobulin enhancer microE5/kappa 2 motif]
+[bind; ;factors]
+[bind; ;motif]
+[motif; ;microE5/kappa 2]
+[/; ;microE5]
+[/; ;kappa 2]
+[motif; ;enhancer]
+[enhancer; ;immunoglobulin]
+[immunoglobulin; ;the]
+

@@ -1,0 +1,17 @@
+
+The effect of heat shock on the expression of the nuclear protooncogenes c-fos, c-jun, and c-myc was studied in human lymphoid cells.
+
+[effect; ;The]
+[effect;of@1;shock]
+[shock; ;heat]
+[shock;on;expression]
+[expression;of@2;protooncogenes]
+[protooncogenes; ;the]
+[protooncogenes; ;nuclear]
+[,,and; ;c-fos]
+[,,and; ;c-jun]
+[,,and; ;c-myc]
+[studied;was;protooncogenes]
+[studied;in;cells]
+[cells; ;lymphoid]
+[lymphoid; ;human]

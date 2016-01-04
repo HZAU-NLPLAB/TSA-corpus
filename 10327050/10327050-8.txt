@@ -1,0 +1,51 @@
+Our results demonstrated that the growth-regulated expression of mammalian MCM5 and MCM6 genes, and presumably other MCM members, is primarily regulated by E2F through binding to multiple E2F sites in the promoters.
+[results; ;Our] 
+
+[demonstrated; ;results] 
+
+[demonstrated; ;that] 
+
+[the@1; ;growth-regulated expression of mammalian MCM5 and@1 MCM6 genes, and@2 presumably other MCM members, is primarily regulated by E2F through binding to multiple E2F sites in the@2 promoters] 
+
+[expression; ;the@1] 
+
+[expression; ;growth-regulated] 
+
+[regulated;-;growth] 
+
+[growth-regulated expression;of;mammalian MCM5 and@1 MCM6 genes] 
+
+[genes;MCM5 and@1 MCM6;mammalian] 
+
+[and@1; ;MCM5] 
+
+[and@1; ;MCM6] 
+
+[and@2; ;mammalian MCM5 and@1 MCM6 genes] 
+
+[and@2; ;MCM members] 
+
+[other; ;presumably] 
+
+[MCM members; ;other] 
+
+[members; ;MCM] 
+
+[regulated; ;growth-regulated expression] 
+
+[regulated; ;is] 
+
+[regulated; ;primarily] 
+
+[regulated;by;E2F] 
+
+[regulated;through;binding] 
+
+[binding;to;multiple] 
+
+[multiple; ;E2F sites] 
+
+[multiple;in;promoters] 
+
+[promoters; ;the@2] 
+

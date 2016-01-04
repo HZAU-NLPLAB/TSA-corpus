@@ -1,0 +1,21 @@
+(C) Shown are the results for WT lymphoma 1 and PRO16_ transgenic lymphoma 1.
+[are; ;Shown] 
+
+[are; ;results] 
+
+[results; ;the] 
+
+[results;for;lymphoma 1] 
+
+[lymphoma 1; ;WT] 
+
+[and; ;lymphoma 1@1] 
+
+[and; ;lymphoma 1@2] 
+
+[lymphoma 1; ;WT] 
+
+[lymphoma 1; ;transgenic] 
+
+[lymphoma 1; ;PRO16_] 
+

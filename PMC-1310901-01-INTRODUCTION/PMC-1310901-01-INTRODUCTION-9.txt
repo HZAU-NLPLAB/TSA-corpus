@@ -1,0 +1,13 @@
+In contrast to other IRFs, expression of PRO14_ cannot be induced by IFNs, but by antigen stimulation, crosslinking of T- or B-cell receptors or phorbol-myristate-acetate (10,11).
+[IRFs; ;other]
+[expression;of;PRO14_]
+[induced; ;be]
+[induced; ;by]
+[induced; ;IFNs]
+[antigen; ;but]
+[induced; ;but]
+[stimulation; ;antigen]
+[crosslinking;of;T-]
+[or; ;T-]
+[or; ;B-cell]
+[or 1; ;phorbol-myristate-acetate]

@@ -1,0 +1,7 @@
+Transcription factor AP-2 activates gene expression of HTLV-I.
+[AP-2; ;factor ]
+[AP-2; ;Transcription ]
+[activates; ;expression ]
+[activates; ;AP-2 ]
+[expression; ;gene ]
+[expression;of;HTLV-I ]

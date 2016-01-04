@@ -1,0 +1,8 @@
+
+[analyzed; ;next]
+[analyzed; ;We]
+[analyzed; ;whether promoter methylation could be responsible for down-regulation of PRO2_ expression]
+[responsible; ;promoter methylation]
+[responsible; ;be]
+[responsible;for;down-regulation]
+[down-regulation;of;PRO2_ expression]

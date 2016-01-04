@@ -1,0 +1,27 @@
+In contrast, ligand activation of c-Kit was unable to induce any of these effects in the same cells.
+
+
+[ligand activation of c-Kit was unable to induce any of these effects in the same cells ; ;In contrast] 
+
+[activation; ;ligand] 
+
+[activation;of@1;c-Kit] 
+
+[was; ;activation] 
+
+[was; ;unable] 
+
+[unable;to;induce] 
+
+[induce; ;any] 
+
+[any;of@2;effects] 
+
+[effects; ;these] 
+
+[effects;in;cells] 
+
+[cells; ;the] 
+
+[cells; ;same] 
+

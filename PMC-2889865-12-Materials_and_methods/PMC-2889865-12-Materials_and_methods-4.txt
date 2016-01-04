@@ -1,0 +1,13 @@
+The same procedure was performed to collect media after 2 h and 6 h. 
+[procedure; ;The]
+[procedure; ;same]
+[performed; ;was]
+[performed; ;procedure]
+[performed;to;collect]
+[collect; ;media]
+[performed;after;2 h@1]
+[performed;after;6 h@2]
+[and; ;2 h@1]
+[and; ;6 h@2]
+[h@1; ;2]
+[h@2; ;6]

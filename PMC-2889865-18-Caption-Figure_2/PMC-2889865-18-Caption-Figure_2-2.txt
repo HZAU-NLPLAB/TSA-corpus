@@ -1,0 +1,13 @@
+Transfection of Jurkat T-cells was performed using PRO1_ reporter plasmids containing NF-kappaB cis-elements. 
+[Transfection;of;T-cells]
+[T-cells; ;Jurkat]
+[performed; ;was]
+[performed; ;Transfection]
+[performed; ;using PRO1_ reporter plasmids]
+[using; ;plasmids]
+[plasmids; ;PRO1_]
+[plasmids; ;reporter]
+[plasmids; ;containing NF-kappaB cis-elements]
+[containing; ;cis-elements]
+[cis-elements; ;NF-kappaB]
+[elements;-;cis]

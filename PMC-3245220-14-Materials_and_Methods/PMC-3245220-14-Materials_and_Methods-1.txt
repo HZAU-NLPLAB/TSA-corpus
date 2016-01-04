@@ -1,0 +1,13 @@
+
+Monocytes were isolated from source leukocyte packs obtained from the American Red Cross as described previously (51).
+[isolated; ;Monocytes]
+[isolated; ;were]
+[isolated;from@1;packs]
+[packs; ;leukocyte]
+[packs; ;source]
+[obtained; ;packs]
+[obtained;from@2;American Red Cross]
+[American Red Cross; ;the]
+[described; ;as]
+[described; ;previously) 
+

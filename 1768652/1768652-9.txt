@@ -1,0 +1,34 @@
+Similarly, covalent modification of free sulfhydryl groups with diamide (reversible) or N-ethylmaleimide (irreversible) results in a complete loss of DNA binding activity.
+
+
+[covalent modification of free sulfhydryl groups with diamide (reversible) or N-ethylmaleimide (irreversible) results in a complete loss of DNA binding activity; ;Similarly] 
+
+[modification; ;covalent] 
+
+[modification;of@1;groups] 
+
+[groups; ;sulfhydryl] 
+
+[groups; ;free] 
+
+[groups;with;diamide] 
+
+[or; ;diamide] 
+
+[or; ;N-ethylmaleimide] 
+
+[diamide; ;reversible] 
+
+[N-ethylmaleimide; ;irreversible] 
+
+[results in; ;loss] 
+
+[loss; ;complete] 
+
+[loss; ;a] 
+
+[loss;of@2;activity] 
+
+[activity; ;DNA binding] 
+
+[binding; ;DNA]

@@ -1,0 +1,27 @@
+Rabbit anti-PRO17_ (H-190),   anti-PRO18_ (C-21),   and goat anti-PRO19_ (I-19) were purchased from Santa Cruz Biotechnology.
+[purchased; ;Rabbit anti-PRO17_ (H-190),   anti-PRO18_ (C-21),   and goat anti-PRO19_ (I-19)] 
+
+[purchased; ;were]
+
+[purchased;from;Biotechnology] 
+
+[Biotechnology;; ;Cruz] 
+
+[Biotechnology;;Santa] 
+
+[and; ;anti-PRO17_] 
+
+[and; ;anti-PRO18_] 
+
+[and; ;anti-PRO19_] 
+
+[anti-PRO17_; ;Rabbit] 
+
+[anti-PRO19_; ;goat] 
+
+[PRO17_;-;anti] 
+
+[PRO18_;-;anti] 
+
+[PRO19_;-;anti]
+

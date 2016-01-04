@@ -1,0 +1,47 @@
+These experiments demonstrate that it is possible to modulate IFN-beta transcription in vitro but indicate that additional proteins may be required to fully activate IFN-beta transcription.
+[experiments; ;These] 
+
+[demonstrate; ;experiments] 
+
+[demonstrate; ;that@1] 
+
+[that@1; ;it is possible to modulate IFN-beta transcription in vitro] 
+
+[but; ;demonstrate] 
+
+[but; ;indicate] 
+
+[indicate; ;experiments] 
+
+[indicate; ;that@2] 
+
+[that@2; ;additional proteins may be required to fully activate IFN-beta transcription] 
+
+[is; ;it] 
+
+[is; ;possible] 
+
+[possible;to;modulate] 
+
+[modulate; ;transcription@1] 
+
+[transcription@1; ;IFN-beta@2] 
+
+[transcription@1;in;vitro] 
+
+[proteins; ;additional] 
+
+[required; ;be] 
+
+[be; ;may] 
+
+[required; ;proteins] 
+
+[required;to;activate] 
+
+[activate; ;fully] 
+
+[activate; ;transcription@2] 
+
+[transcription@2; ;IFN-beta@2] 
+

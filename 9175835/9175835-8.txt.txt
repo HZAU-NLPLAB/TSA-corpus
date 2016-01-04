@@ -1,0 +1,16 @@
+Thus, Tap is likely to be an important cellular mediator of Tip function in T cell transformation by herpesvirus saimiri.
+
+[Tap is likely to be an important cellular mediator of Tip function in T cell transformation by herpesvirus saimiri; ;Thus]
+[is; ;Tap]
+[is; ;likely to be]
+[is; ;mediator]
+[mediator; ;cellular]
+[cellular; ;important]
+[mediator; ;an]
+[mediator;of;function]
+[function; ;Tip]
+[function;in;transformation]
+[transformation; ;T cell]
+[cell; ;T]
+[transformation;by;saimiri]
+[saimiri; ;herpesvirus]

@@ -1,0 +1,10 @@
+The process of apoptosis is used to eliminate unwanted cells from a wide variety of organisms. 
+[process;;The]
+[process;of@1;apoptosis]
+[used; ;is]
+[used;;process]
+[used;to;eliminate]
+[eliminate;;cells]
+[cells;;unwanted]
+[eliminate;from;organisms]
+[organisms;;a wide variety of]

@@ -1,0 +1,44 @@
+PRO1_ and T-box proteins cooperate to establish the transcriptional program of effector CTLs
+Activation of naive PRO2_+ T cells with antigen induces their differentiation into effector cytolytic T lymphocytes (CTLs).
+[and@1; ;PRO1_] 
+
+[and@1; ;proteins] 
+
+[proteins; ;T-box] 
+
+[cooperate; ;PRO1_ and T-box proteins] 
+
+[cooperate;to;establish] 
+
+[establish; ;program] 
+
+[program; ;transcriptional] 
+
+[program; ;the@1] 
+
+[program;of;Activation] 
+
+[Activation; ;CTLs] 
+
+[Activation; ;effector] 
+
+[Activation;of;T cells] 
+
+[T cells; ;PRO2_+] 
+
+[T cells; ;naive] 
+
+[T cells;with;antigen] 
+
+[induces; ;antigen] 
+
+[induces; ;differentiation] 
+
+[differentiation; ;their] 
+
+[differentiation;into;T lymphocytes] 
+
+[T lymphocytes; ;cytolytic] 
+
+[T lymphocytes; ;effector] 
+

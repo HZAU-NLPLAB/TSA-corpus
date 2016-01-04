@@ -1,0 +1,16 @@
+Hence, degradation of PRO36_ was assessed by detection of total PRO37_ levels.
+[Hence; ;degradation of PRO36_ was assessed by detection of total PRO37_ levels]
+[degradation;of;PRO36_] 
+
+[assessed; ;degradation] 
+
+[assessed; ;was]
+
+[assessed;by;detection] 
+
+[detection;of;levels] 
+
+[levels; ;PRO37_] 
+
+[levels; ;total]
+

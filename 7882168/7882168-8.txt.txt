@@ -1,0 +1,9 @@
+These mutations paralleled those in other viral strains passaged in vitro.
+
+[mutations; ;These]
+[paralleled; ;mutations]
+[paralleled; ;those]
+[those;in@1;strains]
+[strains; ;viral]
+[passaged; ;strains]
+[passaged;in@2;vitro]

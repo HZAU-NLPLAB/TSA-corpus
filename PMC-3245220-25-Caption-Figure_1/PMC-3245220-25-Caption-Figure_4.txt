@@ -1,0 +1,4 @@
+NS: non-stimulated.
+[:; ;non-stimulated]
+[:; ;NS) 
+

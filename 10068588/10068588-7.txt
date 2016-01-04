@@ -1,0 +1,21 @@
+The activation of HIV production by G.vaginalis suggests that genital tract infection with G.vaginalis increases the risk of HIV transmission by
+increasing HIV expression in the genital tract. 
+[activation; ;The] 
+
+[activation;of;HIV production] 
+
+[production; ;HIV] 
+[activation;by;G.vaginalis]
+[suggests; ;G.vaginalis] 
+[suggests; ;that] 
+[that; ;genital tract infection with G.vaginalis increases the risk of HIV transmission by increasing HIV expression in the genital tract] 
+[infection;tract;genital] 
+[genital tract infection;with;G. vaginalis]
+[increases; ;genital tract infection]
+[increases; ;risk]
+[risk; ;the] 
+[risk;of;HIV transmission] 
+[increases;by;increasing] 
+[increasing; ;HIV expression] 
+[by increasing;in;genital tract] 
+[genital tract; ;the] 

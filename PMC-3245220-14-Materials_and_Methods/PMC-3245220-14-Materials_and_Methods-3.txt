@@ -1,0 +1,8 @@
+In some experiments, monocytes were isolated by clumping method (70% pure).
+[isolated;In;experiments]
+[experiments; ;some]
+[isolated; ;monocytes]
+[isolated; ;were ]
+[isolated;by;method]
+[method; ;clumping]
+

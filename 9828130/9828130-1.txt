@@ -1,0 +1,15 @@
+Cloning of ARE-containing genes by AU-motif-directed display.
+[Cloning;of;ARE-containing genes] 
+
+[genes; ;ARE-containing] 
+
+[Cloning;by;AU-motif-directed display] 
+
+[display; ;AU-motif-directed] 
+
+[ARE;-;containing] 
+
+[AU;-;motif] 
+
+[motif;-;directed] 
+

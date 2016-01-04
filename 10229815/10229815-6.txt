@@ -1,0 +1,45 @@
+Further, CTLA-4 engagement inhibited progression through the cell cycle by inhibiting the production of cyclin D3, cyclin-dependent kinase (cdk)4, and cdk6 when the T cells were stimulated with anti-CD3/CD28 and with anti-CD3 alone.
+[inhibited; ;CTLA-4 engagement] 
+
+[engagement; ;CTLA-4] 
+
+[inhibited; ;progression] 
+
+[inhibited;through;cell cycle] 
+
+[cell cycle; ;the@1] 
+
+[inhibited;by;inhibiting] 
+
+[inhibiting; ;production] 
+
+[production; ;the@2] 
+
+[production;of;cyclin D3] 
+
+[and; ;cyclin D3] 
+
+[and; ;cyclin-dependent kinase4] 
+
+[cyclin-dependent kinase; ;cdk] 
+
+[and; ;cdk6] 
+
+[inhibited;when;the@3 T cells were stimulated with@1 anti-CD3/CD28 and@2 with@2 anti-CD3 alone] 
+
+[stimulated; ;T cells] 
+
+[T cells; ;the@3] 
+
+[stimulated; ;were] 
+
+[stimulated;with@1;anti-CD3/CD28] 
+
+[and@2; ;with@1] 
+
+[and@2; ;with@2] 
+
+[stimulated;with@2;anti-CD3] 
+
+[stimulated; ;alone] 
+

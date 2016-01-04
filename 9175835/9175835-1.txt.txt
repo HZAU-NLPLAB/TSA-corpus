@@ -1,0 +1,17 @@
+Tap: a novel cellular protein that interacts with tip of herpesvirus saimiri and induces lymphocyte aggregation.
+
+[:; ;Tap]
+[:; ;a novel cellular protein]
+[protein; ;a]
+[protein; ;cellular]
+[cellular; ;novel]
+[protein; ;that]
+[that; ;interacts with tip of herpesvirus saimiri and induces lymphocyte aggregation]
+[interacts; ;protein]
+[interacts;with;tip]
+[tip;of;saimiri]
+[saimiri; ;herpesvirus]
+[and; ;induces]
+[and; ;interacts]
+[induces; ;aggregation]
+[aggregation; ;lymphocyte]

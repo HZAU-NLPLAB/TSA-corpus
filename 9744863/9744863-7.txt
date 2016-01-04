@@ -1,0 +1,27 @@
+Testing their activity in transgenic mice shows that EKLF is a direct activator of 5'HS3.
+
+
+[Testing; ;activity] 
+
+[activity; ;their] 
+
+[activity;in;mice] 
+
+[mice; ;transgenic] 
+
+[shows; ;Testing their activity in transgenic mice] 
+
+[shows; ;that] 
+
+[that; ;EKLF is a direct activator of 5'HS3] 
+
+[is; ;EKLF] 
+
+[is; ;activator] 
+
+[activator; ;direct] 
+
+[activator; ;a] 
+
+[activator;of;5'HS3] 
+

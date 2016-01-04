@@ -1,0 +1,12 @@
+Control of I kappa B-alpha proteolysis by site-specific, signal-induced phosphorylation.
+
+[Control;of;proteolysis]
+[proteolysis; ;I kappa B-alpha]
+[alpha;-;B]
+[kappa; ;I]
+[B-alpha; ;kappa]
+[proteolysis;by;phosphorylation]
+[specific;-;site]
+[induced;-;signal]
+[phosphorylation; ;site-specific]
+[phosphorylation; ;signal-induced]

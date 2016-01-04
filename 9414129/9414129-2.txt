@@ -1,0 +1,79 @@
+
+To further clarify the complex transcriptional regulation of the human GM-CSF gene, which was extensively investigated in activated T cells, we have studied the role of an upstream NF-kappaB like site in the 5637 non-lymphoid cell line, which derives from a bladder carcinoma and constitutively produces GM-CSF.
+
+
+[studied; ;we] 
+
+[studied; ;have] 
+
+[studied;To;clarify] 
+
+[clarify; ;further] 
+
+[clarify; ;regulation] 
+
+[regulation; ;transcriptional] 
+
+[regulation; ;complex] 
+
+[regulation; ;the@1] 
+
+[regulation;of@1;gene] 
+
+[gene; ;GM-CSF] 
+
+[gene; ;human] 
+
+[gene; ;the@2] 
+
+[gene; ;which] 
+
+[investigated; ;which] 
+
+[investigated; ;was] 
+
+[investigated; ;extensively] 
+
+[investigated;in;T cells] 
+
+[T cells; ;activated] 
+
+[studied; ;role] 
+
+[role; ;the@3] 
+
+[role;of@2;NF-kappaB] 
+
+[NF-kappaB; ;upstream] 
+
+[NF-kappaB; ;an] 
+
+[NF-kappaB;like;site] 
+
+[site;in;5637 non-lymphoid cell line] 
+
+[5637 non-lymphoid cell line; ;the] 
+
+[line; ;cell] 
+
+[cell; ;non-lymphoid] 
+
+[line; ;5637] 
+
+[5637 non-lymphoid cell line; ;which] 
+
+[derives; ;which] 
+
+[derives;from;carcinoma] 
+
+[carcinoma; ;bladder] 
+
+[carcinoma; ;a] 
+
+[and; ;carcinoma] 
+
+[and; ;GM-CSF]  
+
+[GM-CSF ; ;produces] 
+
+[GM-CSF ; ;constitutively]

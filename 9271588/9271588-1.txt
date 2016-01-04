@@ -1,0 +1,11 @@
+Epstein-Barr virus binding to CD21 activates the initial viral promoter via NF-kappaB induction. 
+[Epstein-Barr virus; ;binding]
+[binding;to;CD21]
+[activates; ;Epstein-Barr virus]
+[virus; ;Epstein-Barr]
+[activates; ;promoter]
+[promoter; ;the]
+[promoter; ;initial]
+[promoter; ;viral]
+[activates;via;induction]
+[induction; ;NF-kappaB]

@@ -1,0 +1,95 @@
+In vitro studies identify three essential elements of the TATA-less blr1 core promoter that confer cell type- and differentiation-specific expression in the B cells of both humans and mice, a functional promoter region (-36 with respect to the transcription start site), a NF-kappaB motif (+44), and a noncanonical octamer motif (+157).
+[ ;In;vitro] 
+
+[identify; ;studies] 
+
+[identify; ;elements] 
+
+[elements; ;three] 
+
+[elements; ;essential] 
+
+[elements;of@1;TATA-less blr1 core promoter] 
+
+[TATA-less blr1 core promoter; ;the@1] 
+
+[TATA-less blr1 core promoter; ;that] 
+
+[core promoter; ;blr1] 
+
+[core promoter; ;TATA-less] 
+
+[promoter; ;core] 
+
+[confer; ;that] 
+
+[confer; ;type- and differentiation-specific expression 
+
+type- and differentiation-specific expression; ;cell] 
+
+[expression; ;type- and differentiation-specific] 
+
+[and@1; ;type-specific] 
+
+[and@1; ;differentiation-specific] 
+
+[specific;-;type] 
+
+[specific;-;differentiation] 
+
+[confer;in;B cells] 
+
+[B cells; ;the@2] 
+
+[B cells;of@2;humans] 
+
+[B cells;of@2;mice] 
+
+[and; ;humans] 
+
+[and; ;mice] 
+
+[elements; ;functional promoter region] 
+
+[functional promoter region; ;a@1] 
+
+[functional promoter region; ;-36 with respect to the [transcription start site] 
+
+[region; ;functional promoter] 
+
+[promoter; ;functional] 
+
+[-36;with;respect] 
+
+[respect;to;transcription start site] 
+
+[transcription start site; ;the@3] 
+
+[site; ;transcription] 
+
+[site; ;start] 
+
+[elements; ;NF-kappaB motif] 
+
+[NF-kappaB motif; ;a@2] 
+
+[NF-kappaB motif; ;+44] 
+
+[motif@1; ;NF-kappaB] 
+
+[elements; ;noncanonical octamer motif] 
+
+[noncanonical octamer motif; ;a@3] 
+
+[noncanonical octamer motif; ;+157] 
+
+[motif@2; ;noncanonical] 
+
+[motif@2; ;octamer] 
+
+[and@2; ;functional promoter region] 
+
+[and@2; ;NF-kappaB motif] 
+
+[and@2; ;noncanonical octamer motif] 
+

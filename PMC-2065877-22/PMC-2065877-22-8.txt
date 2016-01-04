@@ -1,0 +1,36 @@
+The results are the mean +/- SEM of triplicate samples from a single representative experiment that was repeated twice with similar results.
+[results; ;The] 
+
+[are; ;results] 
+
+[are; ;mean] 
+
+[mean; ;the] 
+
+[mean; ;+/- SEM] 
+
+[/; ;+] 
+
+[/; ;-] 
+
+[mean;of;samples] 
+
+[samples; ;triplicate] 
+
+[samples;from;experiment] 
+
+[experiment; ;representative] 
+
+[experiment; ;single] 
+
+[experiment; ;that] 
+
+[repeated; ;that] 
+
+[repeated; ;was] 
+
+[repeated; ;twice] 
+
+[repeated;with;results] 
+
+[results; ;similar]

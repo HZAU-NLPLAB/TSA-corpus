@@ -1,0 +1,8 @@
+The immunoblotted proteins were detected by ECL reagent (GE Healthcare Bio-Sciences Corp.
+[proteins; ;The]
+[proteins; ;immunoblotted]
+[detected; ;proteins]
+[detected; ;were]
+[detected;by;reagent) 
+[reagent; ;ECL]
+

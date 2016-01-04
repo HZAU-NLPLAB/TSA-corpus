@@ -1,0 +1,16 @@
+PE-conjugated rat IgG2akappa anti-mouse PRO5_ (clone 53-7.3) was purchased from eBioscience.
+[purchased; ;PRO5_] 
+
+[purchased; ;was] 
+
+[purchased;from;eBioscience] 
+
+[PRO5_; ;anti-mouse] 
+
+[anti-mouse; ;IgG2akappa] 
+
+[IgG2akappa; ;rat]
+
+[rat; ;PE-conjugated] 
+
+[conjugated;-;PE]

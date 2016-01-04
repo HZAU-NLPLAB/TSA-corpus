@@ -1,0 +1,23 @@
+In this article, transcriptional regulation of the archetypal T-cell-specific gene, alpha TCR, is discussed.
+[ ;In;article] 
+
+article; ;this] 
+
+[regulation; ;transcriptional] 
+
+[regulation;of;gene] 
+
+[gene; ;the] 
+
+[gene; ;archetypal] 
+
+[gene; ;T-cell-specific] 
+
+[regulation;of;alpha TCR] 
+
+[TCR; ;alpha] 
+
+[discussed; ;regulation] 
+
+[discussed; ;is] 
+

@@ -1,0 +1,12 @@
+Interferon regulatory factors (IRFs) are a family of transcriptional regulators defined by a characteristic homology in their DNA-binding domain.
+[Interferon regulatory factors; ;IRFs]
+[are; ;family]
+[are; ;Interferon regulatory factors]
+[family; ;a]
+[family;of;transcriptional regulators]
+[defined; ;transcriptional regulators]
+[defined; ;by]
+[$;by;homology]
+[homology; ;characteristic]
+[$;in;DNA-binding domain]
+[DNA-binding domain; ;their]

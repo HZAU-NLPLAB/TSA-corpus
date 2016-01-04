@@ -1,0 +1,48 @@
+RO1_ Upregulates PRO2_ Expression and Constitutively Activates PRO3_
+(A) Relative expression of PRO4_, PRO5_, and PRO6_ mRNA in WT and PRO7_ transgenic B cells (PRO8_+),   as detected with an Rnase protection assay.
+[Upregulates; ;PRO1_] 
+
+[Upregulates; ;Expression] 
+
+[Expression; ;PRO2_] 
+
+[and@1; ;Upregulates] 
+
+[and@1; ;Activates] 
+
+[Activates; ;Constitutively] 
+
+[Activates; ;PRO3_] 
+
+[expression; ;Relative]
+[expression;of;mRNA] 
+
+[mRNA; ;PRO4_, PRO5_, and PRO6_] 
+
+[and@2; ;PRO4_] 
+
+[and@2; ;PRO5_] 
+
+[and@2; ;PRO6_] 
+
+[mRNA;in;WT] 
+
+[and@3; ;WT] 
+
+[and@3; ;B cells] 
+
+[B cells; ;transgenic] 
+
+[B cells;;PRO7_] 
+
+[B cells; ;PRO8_+] 
+
+[expression;as;expression] 
+
+[detected;with;assay] 
+
+[assay; ;an] 
+
+[assay; ;protection] 
+
+[protection; ;Rnase]

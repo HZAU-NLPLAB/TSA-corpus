@@ -1,0 +1,31 @@
+Finally, the inhibition of class II gene expression by the glucocorticoid hormone could be attributed to the squelching of CBP by the glucocorticoid receptor.
+[inhibition; ;the@1] 
+
+[inhibition;of@1;class II gene expression] 
+
+[gene expression; ;class II] 
+
+[inhibition;by;glucocorticoid hormone] 
+
+[glucocorticoid hormone; ;the@2] 
+
+[hormone; ;glucocorticoid] 
+
+[attributed; ;inhibition] 
+
+[be; ;could] 
+
+[attributed; ;be] 
+
+[attributed;to;squelching] 
+
+[squelching; ;the@3] 
+
+[squelching;of@2;CBP] 
+
+[attributed;by;glucocorticoid receptor] 
+
+[glucocorticoid receptor; ;the@4] 
+
+[receptor; ;glucocorticoid] 
+

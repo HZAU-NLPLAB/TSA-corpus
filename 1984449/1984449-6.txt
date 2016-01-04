@@ -1,0 +1,49 @@
+When U937 cells were infected with HIV-1, no induction of NF-KB factor was detected, whereas high level of progeny virions was produced, suggesting that this factor was not required for viral replication.
+
+
+[no induction of NF-KB factor was detected, whereas high level of progeny virions was produced, suggesting that this factor was not required for viral replication;When;U937 cells were infected with HIV-1]
+
+[cells; ;U937] 
+
+[infected; ;cells] 
+
+[infected; ;were] 
+
+[infected;with;HIV-1] 
+
+[induction; ;no] 
+
+[induction;of@1;NF-KB factor] 
+
+[factor; ;NF-KB] 
+
+[detected; ;factor] 
+
+[detected; ;was] 
+
+[high level of progeny virions was produced, suggesting that this factor was not required for viral replication; ;whereas] 
+[level; ;high] 
+
+[level;of@2;virions] 
+
+[virions; ;progeny]
+
+[produced; ;virions] 
+
+[produced; ;was] 
+
+[suggesting; ;that] 
+
+[that; ;this factor was not required for viral replication] 
+
+[factor; ;this] 
+
+[required; ;factor] 
+
+[required; ;was] 
+
+[required; ;not] 
+
+[required;for;replication]  
+
+[replication ; ;viral]

@@ -1,0 +1,17 @@
+Samples were denatured at 90 degreesC and hybridized at 56 degreesC overnight.
+[denatured; ;were] 
+
+[denatured; ;Samples] 
+
+[denatured;at;degreesC] 
+
+[degreesC; ;90] 
+
+[and; ;denatured]
+
+[and; ;hybridized] 
+
+[hybridized;at;degreesC] 
+
+[degreesC; ;56] 
+

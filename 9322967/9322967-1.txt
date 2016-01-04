@@ -1,0 +1,12 @@
+Human neutrophils express GH-N gene transcripts and the pituitary transcription factor Pit-1b.
+[neutrophils; ;Human]
+[express; ;neutrophils]
+[express; ;transcripts]
+[gene; ;GH-N]
+[transcripts; ;gene]
+[and; ;GH-N gene transcripts]
+[and; ;transcription factor Pit-1b]
+[factor; ;the]
+[factor; ;pituitary]
+[factor; ;transcription]
+[transcription factor; ;Pit-1b]

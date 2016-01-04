@@ -1,0 +1,45 @@
+NF-X2, which contains members of the AP-1/ATF/CREB families of transcription factors, interacts with the X2 box (5'-TGCGTCA-3') from positions -97 to -91 in the DRA promoter.
+[NF-X2; ;which] 
+
+[contains; ;which] 
+
+[contains; ;members] 
+
+[members;of@1;AP-1/ATF/CREB families] 
+
+[AP-1/ATF/CREB families; ;the@1] 
+
+[AP-1/ATF/CREB families;of@2;transcription factors] 
+
+[families; ;AP-1/ATF/CREB] 
+
+[/; ;AP-1] 
+
+[/; ;ATF] 
+
+[/; ;CREB] 
+
+[factors; ;transcription] 
+
+[interacts; ;NF-X2] 
+
+[interacts;with;X2 box] 
+
+[X2 box; ;the@2] 
+
+[X2 box; ;5'-TGCGTCA-3'] 
+
+[X2 box;from;positions] 
+
+[box; ;X2] 
+
+[positions; ;-97] 
+
+[-97;to;-91] 
+
+[positions;in;DRA promoter] 
+
+[the DRA promoter; ;the@3] 
+
+[promoter; ;DRA] 
+

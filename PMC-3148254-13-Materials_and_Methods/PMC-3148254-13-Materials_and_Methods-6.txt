@@ -1,0 +1,8 @@
+Membranes were probed with antibodies as indicated in Fig.
+[probed; ;Membranes) 
+[probed; ;were]
+[probed;with;antibodies]
+[indicated; ;as]
+[indicated;in Fig]
+[indicated; ;antibodies) 
+

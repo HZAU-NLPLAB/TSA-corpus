@@ -1,0 +1,8 @@
+Similar results were obtained in a second experiment.
+[results; ;Similar]
+[obtained; ;results]
+[obtained; ;were]
+[obtained;in;experiment]
+[experiment; ;a]
+[experiment; ;second) 
+

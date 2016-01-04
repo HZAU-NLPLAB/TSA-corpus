@@ -1,0 +1,12 @@
+[D) TCR-/- deficient cells responded to PMA (162 nM) by up-regulating AP-1 activity. 
+[TCR-/- deficient; ;[D]]
+[cells; ; TCR-/- deficient]
+[TCR-/-; ; deficient]
+[responded; ;cells]
+[responded;to;PMA]
+[PMA; ;162 nM]
+[nM; ;162]
+[responded;by;up-regulating]
+[up-regulating; ;activity]
+[activity; ;AP-1]
+[regulating;-;up]

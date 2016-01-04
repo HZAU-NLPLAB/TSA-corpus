@@ -1,0 +1,10 @@
+Transient overexpression of hTAFII105 selectively squelches the transcription of some genes in B cells. 
+[overexpression; ;Transient]
+[overexpression;of@1;hTAFII105]
+[squelches; ;overexpression]
+[squelches; ;selectively]
+[squelches; ;transcription]
+[transcription; ;the]
+[transcription;of@2;genes]
+[genes; ;some]
+[genes;in;B cells]

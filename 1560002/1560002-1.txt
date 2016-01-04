@@ -1,0 +1,29 @@
+he B cell-specific nuclear factor OTF-2 positively regulates transcription of the human class II transplantation gene, DRA.
+[factor; ;The] 
+
+[factor; ;nuclear] 
+
+[factor; ;B cell-specific] 
+
+[B cell;-;specific] 
+
+[factor; ;OTF-2] 
+
+[regulates; ;OTF-2] 
+
+[regulates; ;positively] 
+
+[regulates; ;transcription] 
+
+[transcription;of;gene] 
+
+[gene; ;the] 
+
+[gene; ;transplantation] 
+
+[transplantation; ;class II] 
+
+[class II; ;human] 
+
+[human class II transplantation gene; ;DRA]  
+

@@ -1,0 +1,49 @@
+From analyses of mice deficient in transcription factor genes and from the characterizations of chromosome breakpoints in human leukemias, it has become evident that transcription factors are important regulators of hematopoiesis.
+[ ;From;analyses] 
+
+[analyses;of@1;mice] 
+
+[mice; ;deficient] 
+
+[deficient;in;transcription factor genes] 
+
+[genes; ;transcription factor] 
+
+[factor; ;transcription@1] 
+
+[and; ;From analyses of mice deficient in transcription factor genes] 
+
+[and; ;from the characterizations of chromosome breakpoints in human leukemias] 
+
+[ ;from;characterizations] 
+
+[characterizations; ;the] 
+
+[characterizations;of@2;chromosome breakpoints] 
+
+[chromosome breakpoints;in;human leukemias] 
+
+[breakpoints; ;chromosome] 
+
+[leukemias; ;human] 
+
+[become; ;has] 
+
+[become; ;it] 
+
+[become; ;evident] 
+
+[evident; ;that] 
+
+[that; ;transcription factors are important regulators of hematopoiesis] 
+
+[are; ;transcription factors] 
+
+[factors; ;transcription@2] 
+
+[are; ;regulators] 
+
+[regulators; ;important] 
+
+[regulators;of@3;hematopoiesis] 
+

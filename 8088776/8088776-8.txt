@@ -1,0 +1,56 @@
+Finally, we show that a DNA fragment containing the human GATA3 transcription unit, 3 kb upstream from the initiation site and 4 kb downstream from the polyadenylation site, displays T-cell specificity.
+[we show that a DNA fragment containing the human GATA3 transcription unit, 3 kb upstream from the initiation site and 4 kb downstream from the polyadenylation site, displays T-cell specificity; ;Finally] 
+
+[show; ;we] 
+
+[show; ;that] 
+
+[that; ;a DNA fragment containing the human GATA3 transcription unit, 3 kb upstream from the initiation site and 4 kb downstream from the polyadenylation site, displays T-cell specificity] 
+
+[DNA fragment; ;a] 
+
+[containing; ;DNA fragment] 
+
+[fragment; ;DNA] 
+
+[containing; ;transcription unit] 
+
+[transcription unit; ;GATA3] 
+
+[transcription unit; ;human] 
+
+[transcription unit; ;the@1] 
+[unit; ;transcription] 
+
+[DNA fragment; ;3 kb upstream from the initiation site and 4 kb downstream from the polyadenylation site] 
+
+[upstream; ;3 kb] 
+
+[kb@1; ;3] 
+
+[upstream;from@1;initiation site] 
+
+[initiation site; ;the@2] 
+
+[site@1; ;initiation] 
+
+[and; ;upstream] 
+
+[and; ;downstream] 
+
+[downstream; ;4 kb] 
+
+[kb@2; ;4] 
+
+[downstream;from@2;polyadenylation site] 
+
+[polyadenylation site; ;the@3] 
+
+[site@2; ;polyadenylation] 
+
+[displays; ;DNA fragment] 
+
+[displays; ;T-cell specificity] 
+
+[specificity; ;T-cell] 
+

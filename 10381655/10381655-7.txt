@@ -1,0 +1,30 @@
+Conversely, inhibition of NF-kappaB confers a tenfold increase in glucocorticoid mediated apoptosis, establishing that NF-kappaB also functions as an antiapoptotic factor.
+[inhibition;of;NF-kappaB] 
+
+[confers; ;Conversely] 
+
+[confers; ;inhibition] 
+
+[confers; ;increase ]
+[increase; ;a] 
+
+[increase; ;tenfold] 
+
+[confers;in;apoptosis] 
+
+[apoptosis;mediated;glucocorticoid] 
+
+[confers; ;establishing] 
+
+[establishing; ;that] 
+
+[that; ;NF-kappaB also functions as an antiapoptotic factor] 
+
+[functions; ;NF-kappaB] 
+
+[functions; ;also] 
+
+[functions;as;antiapoptotic factor] 
+
+[antiapoptotic factor;  ;an] 
+

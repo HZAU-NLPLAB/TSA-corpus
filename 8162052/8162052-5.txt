@@ -1,0 +1,42 @@
+This dispersed localization of a group of functionally related gene provides insights into the molecular mechanism of human genome evolution and their possible involvement in human diseases.
+
+
+[localization; ;This] 
+
+[localization; ;dispersed] 
+
+[localization;of@1;gene] 
+
+[gene; ;related] 
+
+[gene; ;functionally] 
+
+[gene; ;a group of] 
+
+[provides; ;localization] 
+
+[provides; ;insights]
+
+[insights;into;mechanism] 
+
+[mechanism; ;molecular] 
+
+[mechanism; ;the] 
+
+[mechanism;of@2;evolution] 
+
+[evolution; ;genome] 
+
+[genome; ;human] 
+
+[and; ;This dispersed localization of a group of functionally related gene provides insights into the molecular mechanism of human genome evolution] 
+
+[and; ;their possible involvement in human diseases] 
+
+[involvement; ;their] 
+
+[involvement; ;possible]
+
+[involvement;in;diseases] 
+
+[diseases ; ;human]

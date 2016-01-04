@@ -1,0 +1,15 @@
+Three DNA clones containing HHV-6(GS) genomic fragments transactivated the HIV promoter in cotransfected T cells.
+
+[clones£» £»DNA]
+[DNA£» £»Three]
+[containing£» £»clones]
+[containing£» £»fragments]
+[fragments£» £»genomic]
+[genomic£» £»HHV-6]
+[HHV-6£» £»GS]
+[transactivated£» £»fragments]
+[transactivated£» £»promoter]
+[promoter£» £»HIV]
+[promoter£» £»the]
+[transactivated£»in£»T cells]
+[T cells£» £»cotransfected]

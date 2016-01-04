@@ -1,0 +1,13 @@
+The PCR products were electrophoresed on a 3% agarose gel, were stained with ethidium bromide and photographed.
+[products;;PCR]
+[products; ;The]
+[electrophoresed; ;products]
+[electrophoresed; ;were]
+[electrophoresed;on;agarose gel]
+[agarose gel; ;3%]
+[agarose ge; ;a]
+[stained; ;were]
+[stained; ;agarose gel]
+[stained;with;ethidium bromide]
+[and; ;with ethidium bromide]
+[and; ;photographed]

@@ -1,0 +1,60 @@
+The transcription factors active at the IL-2 promoter were differentially influenced: upon down-modulation of okadaic acid-sensitive phosphatases, transactivation by octamer, NF-kappa B, and NF of activated T cells proteins was abrogated, while transactivation by AP-1 proteins was even enhanced.
+[transcription factors; ;The] 
+
+[active; ;transcription factors] 
+
+[active;at;IL-2 promoter] 
+
+[IL-2 promoter; ;the] 
+
+[promoter; ;IL-2] 
+
+[influenced; ;differentially] 
+
+[influenced; ;were] 
+
+[influenced; ;transcription factors] 
+
+[:; ;The transcription factors active at the IL-2 promoter were differentially influenced] 
+
+[:; ;upon down-modulation of okadaic acid-sensitive phosphatases, transactivation by octamer, NF-kappa B, and NF of activated T cells proteins was abrogated, while transactivation by AP-1 proteins was even enhanced] 
+
+[upon; ;down-modulation] 
+
+[down-modulation;of@1;okadaic acid-sensitive phosphatases] 
+
+[phosphatases; ;okadaic acid-sensitive] 
+
+[sensitive;-;okadaic acid] 
+
+[transactivation@1;by@1;octamer]
+[transactivation@1;by@1;NF-kappa B]
+[transactivation@1;by@1;NF]
+[and; ;octamer] 
+
+[and; ;NF-kappa B] 
+
+[and; ;NF] 
+
+[NF;of@2;proteins] 
+
+[proteins; ;activated] 
+
+[proteins; ;T cells] 
+
+[abrogated; ;was] 
+
+[abrogated; ;transactivation@1] 
+
+[transactivation by octamer, NF-kappa B, and NF of activated T cells proteins was abrogated;while;transactivation by AP-1 proteins was even enhanced] 
+
+[transactivation@2;by@2;proteins] 
+
+[proteins; ;AP-1] 
+
+[enhanced; ;even] 
+
+[enhanced; ;was] 
+
+[enhanced; ;transactivation@2] 
+

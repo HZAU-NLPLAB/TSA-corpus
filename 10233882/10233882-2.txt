@@ -1,0 +1,50 @@
+
+The transcription factor, NF-kappaB, is important for T-cell activation, B-cell maturation, and human immunodeficiency virus transcription and plays a role in alternatively mediating and protecting against apoptosis in a variety of cell types.
+[transcription factor; ;The] 
+
+[transcription factor; ;NF-kappaB] 
+
+[is; ;transcription factor] 
+
+[is; ;important] 
+
+[important;for;T-cell activation] 
+
+[and@1; ;T-cell activation] 
+
+[and@1; ;B-cell maturation] 
+
+[and@1; ;human immunodeficiency virus transcription] 
+
+[activation; ;T-cell] 
+
+[maturation; ;B-cell] 
+
+[virus;immunodeficiency;human] 
+
+[transcription; ;human immunodeficiency virus] 
+
+[and@2; ;is] 
+
+[and@2; ;plays] 
+
+[plays; ;transcription factor] 
+
+[plays; ;role] 
+
+[role; ;a] 
+
+[plays;in;mediating] 
+
+[mediating; ;alternatively] 
+
+[and@3; ;mediating] 
+
+[and@3; ;protecting] 
+
+[protecting;against;apoptosis] 
+
+[protecting;in;cell types] 
+
+[cell types; ;a variety of] 
+

@@ -1,0 +1,19 @@
+Briefly, medium was diluted in the dilution buffer and heated to 65degreesC to inactivate endogenous phosphatases then incubated with the substrate for 30 minutes.
+[dilution; ;medium]
+[diluted; ;was]
+[diluted;in@1;buffer]
+[buffer; ;dilution]
+[and; ;diluted]
+[and; ;heated]
+[heated;to@1;65degreesC]
+[degreesC; ;65]
+[heated;to@2;phosphatases]
+[phosphatases; ;endogenous]
+[phosphatases; ;inactivate]
+[incubated; ;then]
+[incubated;with;substrate]
+[substrate; ;the@2]
+[dilution; ;the@1]
+[substrate;for;minutes]
+[minutes; ;30) 
+

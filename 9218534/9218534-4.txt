@@ -1,0 +1,21 @@
+In resting Raji cells, little to no binding to the X2 box was observed.
+[ ;In;Raji cells] 
+
+[Raji cells; ;resting] 
+
+[cells; ;Raji] 
+
+[little;to@1;binding] 
+
+[binding; ;no] 
+
+[binding;to@2;X2 box] 
+
+[X2 box; ;the] 
+
+[box; ;X2] 
+
+[observed; ;was] 
+
+[observed; ;little] 
+

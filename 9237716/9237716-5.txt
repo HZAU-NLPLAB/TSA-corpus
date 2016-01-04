@@ -1,0 +1,39 @@
+In THP-1 cells transfected with HIV plasmid constructs, both organisms induced transcription from the HIV long terminal repeat that was dependent on intact NF-kappaB binding sequences.
+[ ;In;THP-1 cells] 
+
+[transfected; ;THP-1 cells] 
+
+[cells; ;THP-1] 
+
+[transfected;with;plasmid constructs] 
+
+[plasmid constructs; ;HIV] 
+
+[constructs; ;plasmid] 
+
+[organisms; ;both] 
+
+[induced; ;organisms] 
+
+[induced; ;transcription] 
+
+[transcription;from;long terminal repeat] 
+
+[long terminal repeat; ;the] 
+
+[long terminal repeat; ;HIV] 
+
+[transcription; ;that] 
+
+[was; ;that] 
+
+[was; ;dependent] 
+
+[dependent;on;binding sequences] 
+
+[binding sequences; ;intact] 
+
+[binding sequences; ;NF-kappaB] 
+
+[sequences; ;binding] 
+

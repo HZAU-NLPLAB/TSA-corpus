@@ -1,0 +1,27 @@
+In nuclear extracts from monocytes or macrophages, induction of NF-KB occurred only if the cells were previously infected with HIV-1.
+[ ;In;extracts] 
+
+[extracts; ;nuclear]
+[extracts;from;monocytes] 
+
+[or; ;monocytes] 
+
+[or; ;macrophages] 
+
+[induction;of;NF-KB] 
+
+[occurred; ;induction] 
+
+[induction of NF-KB occurred only;if;the cells were] [previously infected with HIV-1] 
+
+[occurred; ;only] 
+
+[cells; ;the] 
+
+[infected; ;cells] 
+
+[infected; ;were] 
+
+[infected; ;previously] 
+
+[infected;with;HIV-1]

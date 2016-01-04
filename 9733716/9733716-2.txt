@@ -1,0 +1,62 @@
+
+Although bacterial lipopolysaccharides (LPS) and several other microbial agonists can bind to mCD14 (membrane CD14), a cell-surface receptor found principally on monocytes and neutrophils, host-derived mCD14 ligands are poorly defined.
+[host-derived mCD14 ligands are poorly defined;Although;bacterial lipopolysaccharides (LPS) and several other microbial agonists can bind to mCD14 (membrane CD14), a cell-surface receptor found principally on monocytes and neutrophils] 
+
+[bacterial lipopolysaccharides; ;LPS] 
+
+[and@1; ;bacterial lipopolysaccharides] 
+
+[and@1; ;agonists] 
+
+[agonists; ;microbial] 
+
+[agonists; ;other] 
+
+[agonists; ;several] 
+
+[bind; ;can] 
+
+[bind; ;bacterial lipopolysaccharides] 
+
+[lipopolysaccharides; ;bacterial] 
+
+[bind; ;agonists] 
+
+[bind;to;mCD14@1] 
+
+[mCD14@1; ;membrane CD14] 
+
+[CD14; ;membrane] 
+
+[mCD14@1; ;a cell-surface receptor found] [principally on monocytes and neutrophils] 
+
+[receptor; ;cell-surface] 
+
+[receptor; ;a] 
+
+[surface;-;cell] 
+
+[found; ;receptor] 
+
+[found; ;principally] 
+
+[found;on;monocytes] 
+
+[found;on;neutrophils] 
+
+[and@2; ;monocytes] 
+
+[and@2; ;neutrophils] 
+
+[ligands; ;mCD14@2] 
+
+[ligands; ;host-derived] 
+
+[derived;-;host] 
+
+[defined; ;poorly] 
+
+[defined; ;are] 
+
+[defined; ;ligands] 
+

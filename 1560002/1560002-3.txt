@@ -1,0 +1,15 @@
+Several DNA-binding proteins are known to bind this sequence.
+[proteins; ;Several] 
+
+[proteins; ;DNA-binding] 
+
+[binding;-;DNA] 
+
+[known; ;are] 
+
+[known;to;bind] 
+
+[bind; ;sequence]  
+
+[sequence; ;this] 
+

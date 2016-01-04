@@ -1,0 +1,13 @@
+G.vaginalis lysates also activated HIV expression in certain T cell lines.
+[activated; ;G.vaginalis lysates] 
+
+[activated; ;also] 
+
+[activated; ;HIV expression] 
+
+[expression; ;HIV] 
+
+[activated;in;T cell lines] 
+
+[T cell lines; ;certain] 
+

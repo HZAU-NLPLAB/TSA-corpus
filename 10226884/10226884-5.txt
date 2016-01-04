@@ -1,0 +1,31 @@
+Th1 cells produce IL-2 and IFN-gamma, whereas Th2 cells produce IL-4, IL-5, IL-6, IL-10, and IL-13.
+[cells; ;Th1]
+
+[produce; ;Th1 cells] 
+
+[produce; ;IL-2] 
+
+[and; ;IL-2] 
+
+[and; ;IFN-gamma] 
+
+[produce; ;IFN-gamma] 
+
+[Th2 cells produce IL-4, IL-5, IL-6, IL-10, and IL-13;whereas;Th1 cells produce IL-2 and IFN-gamma] 
+
+[cells; ;Th2] 
+
+[produce; ;Th2 cells] 
+
+[produce; ;IL-4] 
+
+[and; ;IL-4] 
+
+[and; ;IL-5] 
+
+[and; ;IL-6] 
+
+[and; ;IL-10] 
+
+[and; ;IL-13] 
+

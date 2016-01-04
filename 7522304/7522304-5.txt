@@ -1,0 +1,39 @@
+One gene product, when overexpressed in Jurkat T cells, specifically induced transcription from the interleukin-2 enhancer, by activating the T-cell-specific transcription factors NF-AT and NF-IL2A.
+
+
+[product; ;One] 
+
+[product; ;gene] 
+
+[by activating the T-cell-specific transcription factors NF-AT and NF-IL2A;when;overexpressed in Jurkat T cells, specifically induced transcription from the interleukin-2 enhancer] 
+
+[overexpressed;in;T cells] 
+
+[T cells; ;Jurkat] 
+
+[induced; ;specifically] 
+
+[induced; ;transcription] 
+
+[transcription;from;interleukin-2 enhancer] 
+
+[interleukin-2 enhancer; ;the@1] 
+
+[enhancer; ;interleukin-2] 
+
+[ ;by;activating] 
+
+[activating; ;T-cell-specific transcription factors] 
+
+[factors; ;transcription] 
+
+[transcription; ;T-cell-specific]
+
+[T-cell;-;specific] 
+
+[factors; ;NF-AT and NF-IL2A] 
+
+[and; ;NF-AT] 
+
+[and; ;NF-IL2A] 
+

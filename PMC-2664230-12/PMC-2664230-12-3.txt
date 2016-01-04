@@ -1,0 +1,46 @@
+Pre-incubation of cells with H89 prior to LPS and PTX exposure did not result in any significant modulation of PRO4_ production when compared to that demonstrated with PTX alone (P = 0,2; Figure 5).
+[Pre-incubation;of;cells] 
+
+[incubation;-;Pre] 
+
+[cells;with;prior] 
+
+[prior; ;H89] 
+
+[prior;to;exposure] 
+
+[exposure; ;LPS and PTX] 
+
+[and; ;LPS] 
+
+[and; ;PTX] 
+
+[result; ;did] 
+
+[result; ;not] 
+
+[result;in;modulation] 
+
+[modulation; ;significant] 
+
+[modulation; ;any] 
+
+[modulation;of;production] 
+
+[production; ;PRO4_]
+
+[production; ;when] 
+
+[when; ;compared to that demonstrated with PTX alone (P = 0,2; Figure 5)]  
+
+[compared;to;that] 
+
+[demonstrated; ;that] 
+
+[demonstrated;with;PTX] 
+
+[PTX; ;alone] 
+
+[=; ;P] 
+
+[=; ;0.2]

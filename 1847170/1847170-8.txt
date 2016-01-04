@@ -1,0 +1,41 @@
+We further demonstrate the impact of platelet-activating factor binding to B cells by measuring platelet-activating factor induced arachidonic acid release and 5-hydroxyeicosatetraenoic acid production.
+[demonstrate; ;further] 
+
+[demonstrate; ;We] 
+
+[demonstrate; ;impact] 
+
+[impact; ;the] 
+
+[impact;of;platelet-activating factor@1] 
+
+[binding; ;platelet-activating factor@1] 
+
+[factor@1; ;platelet-activating@1] 
+
+[activating@1;-;platelet@1] 
+
+[binding; ;B cells] 
+
+[demonstrate;by;measuring] 
+
+[measuring; ;platelet-activating factor@2] 
+
+[induced; ;platelet-activating factor@2] 
+
+[factor@2; ;platelet-activating@2] 
+
+[activating@2;-;platelet@2] 
+
+[induced; ;release] 
+
+[release; ;arachidonic acid] 
+
+[induced; ;production] 
+
+[production; ;5-hydroxyeicosatetraenoic acid] 
+
+[and; ;release] 
+
+[and; ;production] 
+

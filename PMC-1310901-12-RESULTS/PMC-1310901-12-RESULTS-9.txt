@@ -1,0 +1,12 @@
+of 8 with 33% methylated CpGs) was found in most cells (except CML-T1 and U-937) (Figure 4A and Table 1).
+[found; ;was]
+[found;in;cells]
+[cells; ;most]
+[cells; ;except CML-T1 and U-937]
+[and@1; ;CML-T1]
+[and@1; ;U-937]
+[except; ;CML-T1]
+[except; ;U-937]
+[cells; ;Figure 4A and Table 1]
+[ and@2; ;Figure 4A]
+[and@2; ;Table 1]

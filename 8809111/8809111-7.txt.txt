@@ -1,0 +1,13 @@
+The 5' flanking sequence has promoter activity which is elevated by interferon alpha.
+
+[sequence; ;flanking]
+[sequence; ;5']
+[sequence; ;The]
+[has; ;sequence]
+[has; ;activity]
+[activity; ;promoter]
+[activity; ;which]
+[which; ;is elevated by interferon alpha]
+[elevated;is;activity]
+[elevated;by;alpha]
+[alpha; ;interferon]

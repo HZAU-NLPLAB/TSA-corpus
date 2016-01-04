@@ -1,0 +1,25 @@
+vidence for a trans-acting activator function regulating the expression of the human CD5 antigen.
+
+
+[Evidence;for;function] 
+
+[function; ;activator] 
+
+[activator; ;trans-acting] 
+
+[acting;-;trans] 
+
+[function; ;regulating] 
+
+[regulating; ;expression] 
+
+[expression; ;the] 
+
+[expression;of;human CD5 antigen] 
+
+[human CD5 antigen; ;the@2] 
+
+[antigen; ;CD5] 
+
+[CD5; ;human] 
+

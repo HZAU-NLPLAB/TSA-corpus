@@ -1,0 +1,22 @@
+
+A procedure suitable for cloning labile mRNAs that contain AU motifs is presented (AU-DD).
+[procedure; ;A] 
+
+[procedure; ;suitable] 
+
+[suitable;for;cloning labile mRNAs] 
+
+[mRNAs;labile;cloning] 
+
+[cloning labile mRNAs; ;that] 
+
+[contain; ;that] 
+
+[contain; ;AU motifs] 
+
+[is; ;procedure] 
+
+[is; ;presented] 
+
+[AU motifs is presented; ;AU-DD] 
+

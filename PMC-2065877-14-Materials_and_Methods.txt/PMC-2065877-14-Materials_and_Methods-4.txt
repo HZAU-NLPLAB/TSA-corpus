@@ -1,0 +1,7 @@
+Flow cytometry was performed on FACScalibur using the CellQuest program (Becton Dickinson).
+[cytometry; ;Flow ]
+[performed; ;cytometry ]
+[performed; ;was ]
+[performed;on;FACScalibur ]
+[using; ;program ]
+[program; ;CellQuest ]

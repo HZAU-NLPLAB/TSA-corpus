@@ -1,0 +1,61 @@
+We show that ES-derived embryoid bodies express the full complement of mouse embryonic globin genes in the correct temporal order and that on further differentiation, a switch occurs to the fetal/adult genes.
+
+
+[show; ;We] 
+
+[show; ;that@1] 
+
+[that@1; ;ES-derived embryoid bodies express the full complement of mouse embryonic globin genes in the correct temporal order] 
+[bodies; ;ES-derived] 
+
+[bodies; ;embryoid] 
+
+[derived;-;ES]
+
+[express; ;bodies] 
+
+[express; ;complement] 
+
+[complement; ;the@1] 
+
+[complement; ;full]
+
+[complement;of;genes] 
+
+[genes; ;globin] 
+
+[genes; ;embryonic] 
+
+[genes; ;mouse] 
+
+[genes;in;order] 
+
+[order; ;the@2] 
+
+[order; ;correct] 
+
+[order; ;temporal] 
+
+[and; ;that@1] 
+
+[and; ;that@2] 
+
+[that@2; ;on further differentiation, a switch occurs to the fetal/adult genes] 
+
+[ ;on;differentiation] 
+
+[differentiation; ;further] 
+
+[switch; ;a] 
+
+[occurs; ;switch] 
+
+[occurs;to;genes] 
+
+[genes;  ;the@3] 
+
+[genes; ;fetal/adult] 
+
+[/; ;fetal] 
+
+[/; ;adult]

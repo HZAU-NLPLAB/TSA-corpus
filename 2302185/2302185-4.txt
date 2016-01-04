@@ -1,0 +1,13 @@
+We show that at least one inducible, C1, and one constitutive, C2, protein can bind to the HIV enhancer in Jurkat cells.
+[show; ;We]
+[show; ;that]
+[that; ;at least one@1 inducible, C1, and one@2 constitutive, C2, protein can bind to the HIV enhancer in Jurkat cells]
+[one@1; ;inducible]
+[one@1; ;C1]
+[one@2; ;constitutive]
+[one@2; ;C2]
+[bind to; ;protein]
+[bind to; ;can]
+[bind to; ;HIV enhancer]
+[enhancer; ;HIV]
+[HIV enhancer;in;Jurkat cells]

@@ -1,0 +1,29 @@
+xpression of mRNA for the GATA-binding proteins in human eosinophils and basophils: potential role in gene transcription.
+Expression;of;mRNA 
+
+
+
+[mRNA;for;proteins] 
+
+[proteins; ;GATA-binding] 
+
+[proteins; ;the] 
+
+[proteins;in;eosinophils] 
+
+[eosinophils; ;human] 
+
+[and; ;eosinophils] 
+
+[and; ;basophils] 
+
+[:; ;basophils] 
+
+[:; ;role] 
+
+[role; ;potential] 
+
+[role;in;transcription] 
+
+[transcription; ;gene] 
+

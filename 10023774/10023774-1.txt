@@ -1,0 +1,27 @@
+RFLAT-1: a new zinc finger transcription factor that activates RANTES gene expression in T lymphocytes.
+[:; ;RFLAT-1] 
+
+[:; ;zinc finger transcription factor] 
+
+[factor; ;a] 
+
+[factor; ;new] 
+
+[factor; ;zinc] 
+
+[factor; ;finger] 
+
+[factor; ;transcription] 
+
+[factor; ;that] 
+
+[activates; ;that] 
+
+[activates; ;RANTES gene expression] 
+
+[gene; ;RANTES] 
+
+[expression; ;gene] 
+
+[RFLAT-1;in;T lymphocytes] 
+

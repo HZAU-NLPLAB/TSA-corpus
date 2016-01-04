@@ -1,0 +1,13 @@
+FITC-labeled anti-mouse CD80 and an isotype control Ab were from eBiosciences. 
+[and; ;CD80]
+[and; ;Ab]
+[CD80; ;anti-mouse]
+[CD80; ;FITC-labeled]
+[mouse;-;anti]
+[labeled;-;FITC]
+[Ab; ;an]
+[Ab; ;isotype]
+[Ab; ;control]
+[were; ;CD80]
+[were; ;Ab]
+[were;from;eBiosciences]

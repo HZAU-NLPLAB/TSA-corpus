@@ -1,0 +1,36 @@
+
+RANTES (Regulated upon Activation, Normal T cell Expressed and Secreted) is a chemoattractant cytokine (chemokine) important in the generation of inflammatory infiltrate and human immunodeficiency virus entry into immune cells.
+[RANTES; ;Regulated upon Activation, Normal T cell Expressed and Secreted] 
+
+[is; ;RANTES] 
+
+[is; ;chemoattractant cytokine] 
+
+[cytokine; ;chemoattractant] 
+
+[chemoattractant cytokine; ;chemokine] 
+
+[is;in;generation] 
+
+[generation; ;the] 
+
+[generation;of;infiltrate] 
+
+[infiltrate; ;inflammatory] 
+
+[and; ;infiltrate] 
+
+[and; ;human immunodeficiency virus] 
+
+[generation;of;human immunodeficiency virus] 
+
+[virus; ;human] 
+
+[virus; ;immunodeficiency] 
+
+[entry; ;virus] 
+
+[entry;into;immune cells] 
+
+[cells; ;immune] 
+

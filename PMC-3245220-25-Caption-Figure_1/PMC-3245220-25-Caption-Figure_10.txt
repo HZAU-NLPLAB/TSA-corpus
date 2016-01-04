@@ -1,0 +1,7 @@
+Data are expressed mean +/- S.E.M, for three independent experiments.
+[expressed; ;Data]
+[expressed; ;are]
+[expressed; ;mean +/- S.E.M]
+[expressed;for;experiments]
+[experiments; ;independent]
+[experiments; ;three]

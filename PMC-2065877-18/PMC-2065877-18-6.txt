@@ -1,0 +1,28 @@
+Rabbit anti-PRO7_ (Ser473),   anti-PRO8_/PRO9_ (Ser21/9),   anti-PRO10_ (Tyr705),   anti-PRO11_ (Tyr641),   anti-PRO12_ (Ser2448),   anti-PRO13_, anti-PRO14_, anti-PRO15_, and anti-PRO16_ were purchased from Cell Signaling.
+[purchased; ;Rabbit anti-PRO7_ (Ser473),   anti-PRO8_/PRO9_ (Ser21/9),   anti-PRO10_ (Tyr705),   anti-PRO11_ (Tyr641),   anti-PRO12_ (Ser2448),   anti-PRO13_, anti-PRO14_, anti-PRO15_, and anti-PRO16_]
+
+[and; ;anti-PRO7_] 
+
+[and; ;anti-PRO8_/PRO9_] 
+
+[and; ;anti-PRO10_] 
+
+[and; ;anti-PRO11_] 
+
+[and; ;anti-PRO12_] 
+
+[and; ;anti-PRO13_] 
+
+[and; ;anti-PRO14_] 
+
+[and; ;anti-PRO15_]
+
+[and; ;anti-PRO16_] 
+
+[anti-PRO7_; ;Rabbit] 
+
+[purchased; ;were] 
+
+[purchased;from;Signaling] 
+
+[Signaling; ;Cell]

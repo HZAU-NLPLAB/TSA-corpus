@@ -1,0 +1,19 @@
+MDMs (A and C) and RAW 264.7[B) cells were pretreated with Ro-31-8220 or solvent control DMSO for 30 minutes prior to M-CSF stimulation for the indicated times.
+[MDMs; ;A and C]
+[and@1; ;A]
+[and@1; ;C]
+[RAW 264.7; ;B]
+[cells; ;RAW 264.7]
+[and@2; ;MDMs]
+[and@2; ;cells]
+[pretreated; ;cells]
+[pretreated;with;Ro-31-8220]
+[or; ;Ro-31-8220]
+[or; ;solvent control DMSO]
+[for@1; ;minutes]
+[minutes; ;30]
+[prior;to;stimulation]
+[stimulation; ;M-CSF]
+[stimulation;for@2;times]
+[times; ;indicated) 
+

@@ -1,0 +1,12 @@
+CaMKIV/ Gr signaling is associated with transcriptional activation of c-fos but is independent of p21ras or calcineurin. 
+[signaling; ;CaMKIV/ Gr]
+[associated; ;signaling]
+[associated; ;is@1]
+[associated;with;transcriptional activation]
+[activation; ;transcriptional]
+[transcriptional activation;of@1;c-fos]
+[is@2;but;associated]
+[is@2; ;independent]
+[independent;of@2;p21ras]
+[or; ;p21ras]
+[or; ;calcineurin]

@@ -1,0 +1,46 @@
+
+CD30, a member of the tumor necrosis factor (TNF) receptor family, is expressed constitutively on the surface of the human T cell line ACH-2, which is chronically infected with human immunodeficiency virus type-1 (HIV)-1.
+
+
+[CD30; ;receptor] 
+
+[member; ;a]
+
+[member;of@1;factor]
+
+[factor; ;necrosis] 
+
+[necrosis; ;tumor] 
+
+[receptor; ;factor] 
+
+[receptor; ;the@1] 
+
+[tumor necrosis factor; ;TNF] 
+
+[family; ;receptor] 
+
+[expressed; ;is] 
+
+[expressed; ;constitutively] 
+
+[expressed;on;surface] 
+
+[surface; ;the@2] 
+
+[surface;of@2;human T cell line ACH-2] 
+
+[human T cell line ACH-2; ;the@3] 
+
+[which; ;human T cell line ACH-2] 
+
+[infected; ;which] 
+
+[infected; ;is] 
+
+[infected; ;chronically] 
+
+[infected;with;human immunodeficiency virus type-1] 
+
+[human immunodeficiency virus type-1; ;HIV-1]
+

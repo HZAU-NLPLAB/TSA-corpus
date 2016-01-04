@@ -1,0 +1,6 @@
+DNA was extracted as described above.
+[extracted; ;;DNA]
+[extracted; ;;was]
+[extracted;as;above]
+[described; ;;as]
+[described; ;;above]

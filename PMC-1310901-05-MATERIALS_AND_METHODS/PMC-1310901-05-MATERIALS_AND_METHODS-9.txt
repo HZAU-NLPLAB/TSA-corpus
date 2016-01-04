@@ -1,0 +1,21 @@
+Protein lysates (70-100 microg) were electrophoresed on polyacrylamide gels and transferred to a PVDF-membrane (Immobilon P, 0.)
+[lysates; ;Protein]
+[Protein lysates; ;70-100 microg]
+
+[electrophoresed; ;Protein lysates]
+
+[electrophoresed; ;were]
+
+[electrophoresed;on;polyacrylamide gels]
+
+[gels; ;polyacrylamide]
+
+[and; ;electrophoresed]
+
+[and; ;transferred]
+
+[transferred;to;PVDF-membrane]
+
+[PVDF-membrane; ;a]
+
+[PVDF-membrane; ;Immobilon P, 0.45 microm;  Millipore, Eschborn, Germany]

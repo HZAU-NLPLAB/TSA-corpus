@@ -1,0 +1,33 @@
+The inactive precursor, lyso-platelet-activating factor, at a concentration as high as 10(-7) M had no effect on any of the membrane phospholipids.
+[precursor; ;The] 
+
+[precursor; ;inactive] 
+
+[precursor; ;lyso-platelet-activating factor] 
+
+[platelet-activating factor;-;lyso] 
+
+[factor; ;platelet-activating] 
+
+[activating;-;platelet] 
+
+[precursor;at;concentration] 
+
+[concentration; ;a] 
+
+[concentration;as high as;10(-7) M] 
+
+[M; ;10(-7)] 
+
+[had; ;precursor] 
+
+[had; ;effect] 
+
+[effect; ;no] 
+
+[effect;on;any 
+
+[any;of;membrane phospholipids] 
+
+[membrane phospholipids; ;the] 
+

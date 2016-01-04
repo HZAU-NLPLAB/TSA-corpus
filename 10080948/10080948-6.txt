@@ -1,0 +1,43 @@
+We conclude from these studies that the phosphorylation of TRAF2 is likely to play an important role in regulating signaling by virtue of its ability to influence the CD40-TRAF2 interaction.
+[conclude; ;We] 
+
+[conclude;from;studies] 
+
+[studies; ;these] 
+
+[studies; ;that] 
+
+[that; ;the@1 phosphorylation of@1 TRAF2 is likely to@1 play an important role in regulating signaling by virtue of@2 its ability to@2 influence the@2 CD40-TRAF2 interaction] 
+
+[phosphorylation; ;the@1] 
+
+[phosphorylation;of@1;TRAF2] 
+
+[is; ;phosphorylation] 
+
+[is; ;likely] 
+
+[is likely;to@1;play] 
+
+[play; ;role] 
+
+[role; ;an] 
+
+[role; ;important] 
+
+[play an important role;in;regulating] 
+
+[regulating; ;signaling] 
+
+[regulating;by;virtue] 
+
+[virtue;of@2;ability] 
+
+[ability; ;its] 
+
+[ability;to@2;influence] 
+
+[influence; ;CD40-TRAF2 interaction] 
+
+[CD40-TRAF2 interaction; ;the@2] 
+

@@ -1,0 +1,44 @@
+
+The coordinated production of all blood cells from a common stem cell is a highly regulated process involving successive stages of commitment and differentiation.
+[production; ;The] 
+
+[production; ;coordinated] 
+
+[production;of@1;blood cells] 
+
+[blood cells; ;all] 
+
+[cells; ;blood] 
+
+[production;from;common stem cell] 
+
+[common stem cell; ;a@1] 
+
+[stem cell; ;common] 
+
+[cell; ;stem] 
+
+[is; ;production] 
+
+[is; ;process] 
+
+[process; ;a@2] 
+
+[process; ;regulated] 
+
+[regulated; ;highly] 
+
+[involving; ;process] 
+
+[involving; ;stages] 
+
+[stages; ;successive] 
+
+[stages;of@2;commitment] 
+
+[stages;of@2;differentiation] 
+
+[and; ;commitment] 
+
+[and; ;differentiation] 
+

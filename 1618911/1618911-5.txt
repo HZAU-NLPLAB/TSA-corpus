@@ -1,0 +1,42 @@
+These experiments emphasize the role of NF-kappa B dimerization as a distinct level of transcriptional control that may permit functional diversification of a limited number of regulatory proteins.
+[experiments; ;These] 
+
+[emphasize; ;experiments] 
+
+[emphasize; ;role] 
+
+[role; ;the] 
+
+[role;of;dimerization] 
+
+[dimerization; ;NF-kappa B] 
+
+[dimerization;as;level] 
+
+[level; ;distinct] 
+
+[level; ;a] 
+
+[level;of;control] 
+
+[control; ;transcriptional] 
+
+[control; ;that] 
+
+[permit; ;that] 
+
+[permit; ;may] 
+
+[permit; ;diversification] 
+
+[diversification; ;functional] 
+
+[diversification;of;number] 
+
+[number; ;limited] 
+
+[number; ;a] 
+
+[number; ;proteins] 
+
+[proteins; ;regulatory]

@@ -1,0 +1,18 @@
+
+Recently NF-kappaB has been shown to have both proapoptotic and antiapoptotic functions.
+[shown; ;Recently] 
+
+[shown; ;NF-kappaB] 
+
+[shown;been;has] 
+
+[shown;to;have] 
+
+[have; ;functions] 
+
+[both¡­and; ;proapoptotic] 
+
+[both¡­and; ;antiapoptotic] 
+
+[functions;  ;both proapoptotic and antiapoptotic] 
+

@@ -1,0 +1,77 @@
+RO1_ Promotes Tumor Growth and Survival through Activation of PRO2_, NFkappaB, and PRO3_ Pathways
+To explore which pathways were required for the enhanced growth and survival of PRO4_-induced lymphomas, splenocytes from wild-type and PRO5_ transgenic mice were cultured in the presence of inhibitors for PRO6_, NFkappaB, PRO7_, PRO8_, or MAPK and assayed for growth and survival by the MTS assay.
+[Promotes; ;PRO1_] 
+
+[Promotes; ;Growth and Survival] 
+
+[and; ;Growth] 
+
+[and; ;Survival] 
+
+[Growth and Surviva; ;Tumor] 
+
+[Promotes;through;Activation] 
+
+[Activation;of;PRO2_, NFkappaB, and PRO3_ Pathways To] 
+
+[and; ;PRO2_] 
+
+[and; ;NFkappaB] 
+
+[and; ;Pathways] 
+
+[Pathways; ;PRO3_] 
+
+[cultured; ;splenocytes] 
+
+[cultured; ;were] 
+
+[cultured;in;presence] 
+
+[splenocytes;from;mice] 
+
+[mice; ;wild-type] 
+
+[mice; ;transgenic] 
+
+[mice; ;PRO5_] 
+
+[and; ;wild-type] 
+
+[and; ;transgenic] 
+
+[presence; ;the] 
+
+[presence;of;inhibitors] 
+
+[inhibitors;for;PRO6_, NFkappaB, PRO7_, PRO8_, or MAPK] 
+
+[or; ;PRO6_] 
+
+[or; ;NFkappaB] 
+
+[or; ;PRO7_]
+[or; ;PRO8_] 
+
+[or; ;MAPK]
+
+and; ;cultured 
+
+and; ;assayed 
+
+assayed; ;mice 
+
+assayed; ;were 
+
+assayed;for;growth and survival 
+
+and; ;growth 
+
+and; ;survival 
+
+assayed;by;assay  
+
+assay;; ;MTS 
+
+assay;  ;the 
+

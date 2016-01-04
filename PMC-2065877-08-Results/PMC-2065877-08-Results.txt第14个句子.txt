@@ -1,0 +1,45 @@
+This finding suggests that inhibition of NFkappaB can induce cell death in PRO27_ transgenic lymphocytes and lymphoma cells without significant effects on activation of PRO28_ or PRO29_.
+[finding; ;This] 
+
+[suggests; ;finding] 
+
+[suggests; ;that] 
+
+[that; ;inhibition of NFkappaB can induce cell death in PRO27_] (transgenic lymphocytes and lymphoma cells without significant (effects on activation of PRO28_ or PRO29_]
+
+[inhibition;of;NFkappaB] 
+
+[induce; ;inhibition] 
+
+[induce; ;can]
+
+[induce; ;death] 
+
+[death; ;cell] 
+
+[death;in;lymphocytes] 
+
+[death;in;cells] 
+
+[and; ;lymphocytes] 
+
+[and; ;cells]
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO27_] 
+
+[cells; ;and lymphoma] 
+
+[cells;without;effects] 
+
+[effects; ;significant]
+
+[effects;on;activation] 
+
+[activation;of;PRO28_ or PRO29_]  
+
+[or; ;PRO28_] 
+
+[or; ;PRO29_]  
+

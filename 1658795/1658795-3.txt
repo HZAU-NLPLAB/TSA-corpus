@@ -1,0 +1,12 @@
+The pAT 133 gene is immediately induced, with FOS-like kinetics, in human T cells and in fibroblasts. 
+[gene; ;pAT 133]
+[pAT 133 gene; ;The]
+[induced; ;pAT 133 gene]
+[induced; ;is]
+[induced; ;immediately]
+[induced;with;FOS-like kinetics]
+[kinetics; ;FOS-like]
+[like;-;FOS]
+[induced;in@1;human T cells]
+[induced;in@2;fibroblasts]
+[T cells; ;human]

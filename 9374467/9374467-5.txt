@@ -1,0 +1,7 @@
+The c-Jun amino-terminal kinase (JNK) phosphorylates NFAT4 on two sites. 
+[c-Jun amino-terminal kinase; ;The]
+[c-Jun amino-terminal kinase; ;JNK]
+[phosphorylates; ;c-Jun amino-terminal kinase]
+[phosphorylates; ;NFAT4]
+[ ;on;sites]
+[sites; ;two]

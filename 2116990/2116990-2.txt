@@ -1,0 +1,48 @@
+
+A powerful enhancer has been mapped to an 18-bp DNA segment located 11 kb 5' to the human epsilon-globin gene within the dominant control or locus-activating region.
+
+
+[enhancer; ;A] 
+
+[enhancer; ;powerful] 
+
+[mapped; ;enhancer] 
+
+[mapped; ;has] 
+
+[mapped; ;been] 
+
+[mapped;to@1;18-bp DNA segment] 
+
+[18-bp DNA segment; ;an] 
+
+[segment; ;DNA] 
+
+[segment; ;18-bp] 
+
+[located; ;segment] 
+
+[located; ;11 kb 5'] 
+
+[located;to;human epsilon-globin gene]
+
+[human epsilon-globin gene; ;the@1] 
+
+[gene; ;epsilon-globin] 
+
+[gene; ;human] 
+
+[gene;within;control] 
+
+[control; ;the@2]
+
+[control; ;dominant] 
+
+[or; ;control] 
+
+[or; ;region]  
+
+[region ; ;locus-activating] 
+
+[locus;-;activating] 
+

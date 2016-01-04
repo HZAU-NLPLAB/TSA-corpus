@@ -1,0 +1,25 @@
+The following antibodies were used for immunoblotting: antiPRO11_ (Abcam),   anti-PRO12_ (Abcam),   and anti-Pol-II (Santa Cruz Biotechnology, Inc.
+[antibodies; ;following] 
+
+[antibodies; ;The] 
+
+[used; ;antibodies] 
+
+[used; ;were] 
+
+[used;for;immunoblotting] 
+
+[:; ;immunoblotting] 
+
+[:; ;antiPRO11_ (Abcam),   anti-PRO12_ (Abcam),   and anti-Pol-II (Santa Cruz Biotechnology, Inc)]  
+
+[and; ;antiPRO11_] 
+
+[and; ;i-PRO12_] 
+
+[and; ;anti-Pol-II] 
+
+[antiPRO11_; ;Abcam] 
+
+[anti-PRO12_; ;Abcam] 
+

@@ -1,0 +1,43 @@
+Here we present a review of the mechanism of retinoic acid receptor action and the major evidence showing that normal retinoid signaling is required for neutrophil maturation.
+[present; ;we] 
+
+[present; ;review] 
+
+[review; ;a] 
+
+[present; ;Here] 
+
+[review;of@1;mechanism] 
+
+[mechanism; ;the] 
+
+[mechanism;of@2;action] 
+
+[action; ;retinoic acid]
+
+[action; ;receptor]
+
+[and; ;we present a review of@1 the mechanism of@2 retinoic acid receptor action] 
+
+[and; ;the major evidence showing that normal retinoid signaling is required for neutrophil maturation] 
+
+[evidence; ;major] 
+
+[showing; ;evidence] 
+
+[showing; ;that] 
+
+[that; ;normal retinoid signaling is required for neutrophil maturation] 
+
+[signaling; ;normal] 
+
+[signaling; ;retinoid] 
+
+[required; ;signaling] 
+
+[required; ;is]
+
+[required;for;neutrophil maturation]  
+
+[maturation; ;neutrophil] 
+

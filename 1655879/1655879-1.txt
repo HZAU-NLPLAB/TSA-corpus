@@ -1,0 +1,9 @@
+Nuclear transcription factors that bind to elements of the IL-2 promoter. 
+[factors; ;Nuclear]
+[factors; ;transcription]
+[Nuclear transcription factors; ;that]
+[bind; ;that]
+[bind;to;elements]
+[elements;of;IL-2 promoter]
+[IL-2 promoter; ;the]
+[promoter; ;IL-2]

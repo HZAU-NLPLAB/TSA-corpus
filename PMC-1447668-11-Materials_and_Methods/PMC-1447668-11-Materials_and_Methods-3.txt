@@ -1,0 +1,12 @@
+HTLV-I seropositivity was determined by ELISA (Abbott Laboratories, Abbott Park, Illinois, United States), with confirmation by Western blot analysis (Genelabs Technologies, Redwood City, California, United States).
+[determined; ;HTLV-I]
+[determined; ;seropositivity]
+[determined; ;was]
+[determined;by;ELISA]
+[ELISA; ;Abbott Laboratories, Abbott Park]
+[ELISA; ;United States]
+[determined;with;confirmation]
+[confirmation;by;Western blot analysis]
+[analysis; ;Western]
+[analysis; ;blot]
+[Western blot analysis; ;Genelabs Technologies, Redwood City, California, United States]

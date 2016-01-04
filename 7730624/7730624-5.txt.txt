@@ -1,0 +1,18 @@
+The nuclear factor binds to the DR alpha and DP alpha element but not to the element in the DQ alpha gene.
+
+[factor; ;nuclear]
+[factor; ;The]
+[binds; ;factor]
+[binds;to;DR alpha@1]
+[DR alpha@1; ;the@1]
+[alpha@1; ;DR]
+[and; ;DR alpha@1]
+[and; ;DP alpha@2]
+[alpha@2; ;DP]
+[element@1; ;DP alpha]
+[ ;to;element@2]
+[element@2; ;not]
+[element@2;in;gene]
+[gene; ;the@2]
+[gene; ;DQ alpha@3]
+[alpha@3; ;DQ]

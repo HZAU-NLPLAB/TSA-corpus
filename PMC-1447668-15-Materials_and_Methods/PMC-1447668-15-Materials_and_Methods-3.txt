@@ -1,0 +1,10 @@
+PRO5_ and HTLV-I PRO6_ mRNA expression was quantified by real-time PCR using ABI PRISM 7700 Sequence Detection System (Applied Biosystems).
+[expression; ;PRO5_ and HTLV-I PRO6_ mRNA]
+[and; ;PRO5_]
+[and; ;HTLV-I PRO6_ mRNA]
+[quantified; ;PRO5_ and HTLV-I PRO6_ mRNA expression]
+[quantified; ;was]
+[quantified;by;real-time PCR]
+[PCR; ;real-time]
+[quantified;using;ABI PRISM 7700 Sequence Detection System]
+[ABI PRISM 7700 Sequence Detection System; ;Applied Biosystems]

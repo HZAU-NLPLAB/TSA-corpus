@@ -1,0 +1,8 @@
+The obtained Ct values were normalized against 18S. 
+[values; ;The]
+[values; ;Ct]
+[values; ;obtained]
+[normalized; ;were]
+[normalized; ;values]
+[normalized;against;18S]
+

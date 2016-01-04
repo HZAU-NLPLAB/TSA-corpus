@@ -1,0 +1,19 @@
+In mice deficient only of p52/NF-kappaB, BLR1 expression was unaffected.
+[ ;In;mice] 
+
+[deficient; ;mice] 
+
+[deficient; ;only] 
+
+[mice;of;p52/NF-kappaB] 
+
+[/; ;p52] 
+
+[/; ;NF-kappaB] 
+
+[expression; ;BLR1] 
+
+[unaffected; ;was] 
+
+[unaffected; ;expression] 
+

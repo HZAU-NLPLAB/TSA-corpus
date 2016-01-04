@@ -1,0 +1,21 @@
+
+The@1 transcription factor HIV-TF1, which binds to a region about 60 bp upstream from@1 the@2 enhancer of the@3 human immunodeficiency virus-1 (HIV-1), was purified from@2 human B cells.
+[transcription factor; ;
+The@1]
+[HIV-TF1; ;transcription factor]
+[HIV-TF1; ;which]
+[binds; ;which]
+[binds;to;region]
+[region; ;a]
+[region;about;60 bp]
+[bp; ;60]
+[upstream; ;60 bp]
+[upstream;from@1;enhancer]
+[enhancer; ;the@2]
+[enhancer;of;human immunodeficiency virus-1]
+[human immunodeficiency virus-1; ;the@3]
+[human immunodeficiency virus-1; ;HIV-1]
+[purified; ;HIV-TF1]
+[purified;was; ]
+[purified;from@2;B cells]
+[B cells; ;human]

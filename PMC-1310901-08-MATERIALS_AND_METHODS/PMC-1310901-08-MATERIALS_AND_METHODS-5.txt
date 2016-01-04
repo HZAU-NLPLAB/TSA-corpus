@@ -1,0 +1,15 @@
+The control construct served as an internal reference for transfection efficiency.
+
+[control construct; ;The]
+
+[served; ;control construct]
+
+[served;as;reference]
+
+[reference; ;an]
+
+[reference; ;internal]
+
+[served;for;transfection efficiency]
+
+[efficiency; ;transfection]

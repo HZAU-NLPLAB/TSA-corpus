@@ -1,0 +1,46 @@
+Splenocytes were cultured with or without inhibitors of NFkappaB (BAY11),   PRO5_ (rapamycin),   PRO6_ (triciribine),   PRO7_/PRO8_ (U0126),   p38 (SB202190),   or PRO9_ (cucurbitacin I and AG490) at the indicated concentrations.
+[cultured; ;were] 
+
+[cultured; ;Splenocytes] 
+
+[cultured;with or without;inhibitors] 
+
+[or@1; ;with] 
+
+[or@1; ;without] 
+
+[inhibitors;of;NFkappaB] 
+
+[NFkappaB; ;BAY11] 
+
+[PRO5_; ;rapamycin] 
+
+[PRO6_; ;triciribine] 
+
+[PRO7_/PRO8_; ;U0126] 
+
+[p38; ;SB202190] 
+
+[PRO9_; ;cucurbitacin I and AG490] 
+
+[PRO9_;at;concentrations]  
+
+[concentrations; ;indicated] 
+
+[concentrations; ;the] 
+
+[or@2; ;NFkappaB] 
+
+[or@2; ;PRO5_] 
+
+[or@2; ;PRO6_] 
+
+[or@2; ;PRO7_/PRO8_] 
+
+[or@2; ;p38] 
+
+[or@2; ;PRO9_] 
+
+[/; ;PRO7_] 
+
+[/; ;PRO8_]

@@ -1,0 +1,27 @@
+Three interacting proteins have recently been shown to contribute to subset-restricted expression of the IL-4 gene.
+[proteins; ;interacting] 
+
+[proteins; ;Three] 
+
+[shown; ;been] 
+
+[been; ;have] 
+
+[shown; ;recently] 
+
+[shown; ;proteins] 
+
+[shown;to@1;contribute] 
+
+[contribute;to@2;expression] 
+
+[expression; ;subset-restricted] 
+
+[restricted;-;subset] 
+
+[expression;of;IL-4 gene] 
+
+[IL-4 gene; ;the] 
+
+[gene; ;IL-4] 
+

@@ -1,0 +1,23 @@
+In view of the increasing use of antiestrogens in cancer therapy and prevention, there is obvious merit in long-term in vivo studies to be conducted.
+
+[ ;In;view]
+[view;of@1;use]
+[use; ;the]
+[use; ;increasing]
+[use;of@2;antiestrogens]
+[antiestrogens;in@1;therapy]
+[antiestrogens;in@1;prevention]
+[and; ;therapy]
+[and; ;prevention]
+[therapy; ;cancer]
+[cancer; ;prevention]
+[there;is;merit]
+[merit; ;obvious]
+[merit;in@2;long-term]
+[term;-;long]
+[long-term;in@3;studies]
+[studies; ;vivo]
+[studies;to;conducted]
+[conducted;be; ]
+
+

@@ -1,0 +1,85 @@
+All fusions splice the 5' ends of the 3q21 genes into exon 2 of the EVI1 gene, an event that is similar to the normal intergenic splicing of MDS1-EVI1 and to those previously documented in leukemias with t(3;21) and t(3;12), in which acute myelogenous leukemia 1-EVI1 fusions and ETV6-EVI1 fusions, respectively, occur.
+[fusions; ;All] 
+
+[splice; ;fusions] 
+
+[splice; ;5' ends] 
+
+[5' ends; ;the@1] 
+
+[5' ends;of@1;3q21 genes] 
+
+[3q21 genes; ;the@2] 
+
+[splice;into;exon 2] 
+
+[exon 2;of@2;gene] 
+
+[gene; ;EVI1] 
+
+[gene; ;the@2] 
+
+[exon 2; ;event] 
+
+[event; ;an] 
+
+[event; ;that] 
+
+[is similar to; ;that] 
+
+[is similar to; ;splicing] 
+
+[intergenic splicing; ;normal] 
+
+[intergenic splicing; ;the@3] 
+
+[splicing; ;intergenic] 
+
+[splicing;of@2;MDS1-EVI1] 
+
+[and; ;splicing] 
+
+[and; ;those] 
+
+[is similar to; ;those] 
+
+[documented; ;previously] 
+
+[documented; ;those] 
+
+[documented;in@1;leukemias] 
+
+[leukemias;with;t(3;21)] 
+
+[leukemias;with;t(3;12)] 
+
+[and; ;t(3;21)] 
+
+[and; ;t(3;12)] 
+
+[which; ;event] 
+
+[occur;in@2;which] 
+
+[occur; ;respectively] 
+
+[occur; ;1-EVI1 fusions] 
+
+[occur; ;ETV6-EVI1 fusions] 
+
+[and; ;1-EVI1 fusions] 
+
+[and; ;ETV6-EVI1 fusions] 
+
+[1-EVI1 fusions; ;acute myelogenous leukemia] 
+
+[ETV6-EVI1 fusions; ;acute myelogenous leukemia] 
+
+[fusions@1; ;1-EVI1] 
+
+[fusions@2; ;ETV6-EVI1] 
+
+[leukemia; ;myelogenous] 
+
+[leukemia; ;acute] 
+

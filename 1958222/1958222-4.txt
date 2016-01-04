@@ -1,0 +1,36 @@
+Treatment of T cells with mitogens (phorbol esters) or cytokines (TNF alpha) induces NF-kB nuclear translocation and the subsequent expression of NF-kB dependent T cell genes.
+
+
+[Treatment;of;T cells] 
+
+[Treatment;with;mitogens] 
+
+[mitogens; ;phorbol esters] 
+
+[or; ;mitogens] 
+
+[or; ;cytokines] 
+
+[cytokines; ;TNF alpha] 
+
+[induces; ;translocation] 
+
+[translocation; ;nuclear] 
+
+[translocation; ;NF-kB@1] 
+
+[and; ;translocation] 
+
+[and; ;expression] 
+
+[expression; ;the] 
+
+[expression; ;subsequent] 
+
+[expression;of;genes] 
+
+[genes; ;T cell] 
+
+[genes; ;dependent] 
+
+[genes; ;NF-kB@2]

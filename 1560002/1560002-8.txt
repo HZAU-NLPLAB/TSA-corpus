@@ -1,0 +1,29 @@
+Recombinant OTF-2 protein produced by in vitro transcription/translation could also enhance DRA gene transcription in vitro.
+[protein; ;OTF-2] 
+
+[protein; ;Recombinant] 
+
+[produced; ;protein] 
+
+[produced;by;transcription/translation] 
+
+[transcription/translation; ;in vitro]
+
+[/; ;transcription] 
+
+[/; ;translation] 
+
+[enhance; ;protein] 
+
+[enhance; ;could] 
+
+[enhance; ;also] 
+
+[enhance; ;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;DRA] 
+
+[transcription; ;in vitro] 
+

@@ -1,0 +1,13 @@
+cells were maintained in RPMI supplemented with 5% FBS and antibiotic-antimycotic (1000 U/ml penicillin, 1000 microg/ml streptomycin sulfate, and 250 ng/ml amphotericin B) at 37degreesC.
+[were; ;cells]
+[were; ;maintained]
+[maintained;in;RPMI]
+[supplemented; ;RPMI]
+[supplemented;with;FBS]
+[FBS; ;5%]
+[and@1; ;antibiotic-antimycotic]
+[and; ;FBS]
+[antibiotic-antimycotic; ;1000 U/ml penicillin, 1000 microg/ml streptomycin sulfate, and 250 ng/ml amphotericin B) 
+[; at;37degreesC]
+[degreesC; ;37) 
+

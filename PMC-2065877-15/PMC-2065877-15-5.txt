@@ -1,0 +1,46 @@
+The labeled probe was quantitated using a scintillation counter, and 6 x 105 cherenkov cpm was used to hybridize to 4 mug of total RNA using the RPA kit (BD Biosciences).
+[probe; ;The@1] 
+
+[probe; ;labeled] 
+
+[quantitated; ;was] 
+
+[quantitated; ;probe] 
+
+[using; ;counter]
+
+[counter; ;scintillation] 
+
+[counter; ;a] 
+
+[and; ;labeled probe was quantitated using a scintillation   counter] 
+
+[and; ;6 x 105 cherenkov cpm was used to hybridize to 4 mug of   total RNA using the RPA kit] 
+
+[used; ;was] 
+
+[used; ;cpm] 
+
+[cpm; ;cherenkov] 
+
+[cherenkov; ;6 x 105] 
+
+[x; ;6] 
+
+[x; ;105] 
+
+[used;to;hybridize] 
+
+[hybridize;to;mug] 
+
+[mug;of;RNA] 
+
+[RNA; ;total] 
+
+[mug; ;4]
+[using; ;kit] 
+
+[kit; ;RPA] 
+
+[kit; ;the@2] 
+

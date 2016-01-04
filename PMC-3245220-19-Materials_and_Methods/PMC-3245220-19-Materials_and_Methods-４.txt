@@ -1,0 +1,15 @@
+PRO4_-FITC and PI double negative cells were considered non-apoptotic cells for statistical analysis.
+[and; ;FITC]
+[FITC; ;PRO4_-]
+[and; ;cells]
+[cells@1; ;negative]
+[cells@1; ;double]
+[cells@1; ;PI]
+[considered; ;cells@1]
+[considered; ;were]
+[considered; ;cells@2]
+[cells@2; ;non-apoptotic]
+[considered;for;analysis]
+[analysis; ;statistical]
+ 
+

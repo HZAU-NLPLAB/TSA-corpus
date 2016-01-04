@@ -1,0 +1,13 @@
+Treatment of Jurkat T-cells with PMA was more potent than HK E. coli at elevating the PRO3_ levels. 
+[Treatment;of; T-cells]
+[T-cells; ;Jurkat]
+[T-cells;with;PMA]
+[was; ;Treatment]
+[was; ;potent]
+[potent; ;more]
+[potent;than;HK E. coli]
+[E. coli; ;HK]
+[was;at;elevating]
+[elevating; ;levels]
+[levels; ;the]
+[levels; ;PRO3_]

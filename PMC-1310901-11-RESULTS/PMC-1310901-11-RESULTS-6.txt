@@ -1,0 +1,11 @@
+Notably, in PRO5_-positive SD-1 cells digestion with the methylation-sensitive enzymes completely inhibited amplification of F1 and F2.
+[ ;in; digestion]
+[digestion; ;PRO5_-positive SD-1 cells]
+[digestion; with; methylation-sensitive enzymes]
+[methylation-sensitive enzymes; ;the]
+[inhibited; ;methylation-sensitive enzymes]
+[inhibited; ;completely]
+[inhibited; ;amplification]
+[amplification; of; F1]
+[and; ;F1]
+[and; ;F2]

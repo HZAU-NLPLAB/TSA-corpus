@@ -1,0 +1,7 @@
+HAM/TSP was diagnosed according to WHO guidelines (49).
+[diagnosed; ;HAM/TSP]
+[/; ;HAM]
+[/; ;TSP]
+[diagnosed; ;was]
+[diagnosed;according to;WHO guidelines]
+[guidelines; ;WHO]

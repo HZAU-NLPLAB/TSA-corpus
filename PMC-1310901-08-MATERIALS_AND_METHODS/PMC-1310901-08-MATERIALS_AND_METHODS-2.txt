@@ -1,0 +1,33 @@
+Constructs were methylated in vitro with PRO2_ (PRO3_) as recommended by the manufacturer (NE Biolabs) and complete methylation was checked via restriction analysis (Figure 5A).
+
+[methylated; ;Constructs]
+
+[methylated; ;were]
+
+[methylated;in;vitro]
+
+[methylated;with;PRO2_]
+
+[methylated;with;PRO3_) 
+[PRO2_; ;PRO3_]
+
+[methylated;as;recommended]
+
+[recommended;by;manufacturer]
+[manufacturer; ;the]
+
+[manufacturer; ;NE Biolabs]
+
+[and; ;Constructs were methylated in vitro with PRO2_ (PRO3_) as recommended by the manufacturer (NE Biolabs]]
+
+[and; ;complete methylation was checked via restriction analysis (Figure 5A]]
+
+[methylation; ;complete]
+
+[checked; ;methylation]
+
+[checked; ;was]
+
+[checked;via;restriction analysis]
+
+[analysis; ;restriction]

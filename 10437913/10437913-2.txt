@@ -1,0 +1,42 @@
+
+Tumor cell lines with a defective retinoblastoma gene are unable to transcribe the HLA class II genes in response to IFN-gamma treatment, and reconstitution of functional Rb rescues IFN-gamma-induced class II gene expression.
+[cell lines; ;Tumor] 
+
+[Tumor cell lines;with;retinoblastoma gene]
+
+[gene; ;a]
+
+[gene; ;retinoblastoma] 
+
+[transcribe; ;Tumor cell lines] 
+
+[transcribe; ;are unable to] 
+
+[retinoblastoma gene; ;defective] 
+
+[transcribe; ;HLA class II genes] 
+
+[HLA class II genes; ;the] 
+
+[genes; ;HLA class II] 
+
+[in response to; ;transcribe] 
+
+[in response to; ;IFN-gamma treatmen] 
+
+[treatment; ;IFN-gamma] 
+
+[and; ;Tumor cell lines with a defective retinoblastoma gene are unable to transcribe the HLA class II genes in response to IFN-gamma treatment] 
+
+[and; ;reconstitution of functional Rb rescues IFN-gamma-induced class II gene expression] 
+
+[reconstitution;of;functional Rb] 
+
+[Rb; ;functional] 
+
+[rescues; ;reconstitution] 
+
+[rescues; ;expression] 
+
+[expression;  ;IFN-gamma-induced class II gene] 
+

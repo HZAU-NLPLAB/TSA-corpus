@@ -1,0 +1,49 @@
+A 2-4-fold increase in IFN-beta promoter transcription was observed in Sendai virus induced extracts, and deletion of PRDI and PRDII elements decreased this induced level of transcription.
+[increase; ;A] 
+
+[increase; ;2-4-fold] 
+
+[fold;-;2-4] 
+
+[increase;in@1;transcription@1] 
+
+[transcription@1; ;IFN-beta promoter] 
+
+[promoter; ;IFN-beta] 
+
+[observed; ;was] 
+
+[observed; ;increase] 
+
+[observed;in@2;Sendai virus] 
+
+[induced; ;Sendai virus] 
+
+[induced; ;extracts] 
+
+[virus; ;Sendai] 
+
+[and@1; ;A 2-4-fold increase in IFN-beta promoter transcription was observed in Sendai virus induced extracts] 
+
+[and@1; ;deletion of PRDI and PRDII elements decreased this induced level of transcription] 
+
+[deletion;of@1;elements] 
+
+[elements; ;PRDI] 
+
+[elements; ;PRDII] 
+
+[and@2; ;PRDI] 
+
+[and@2; ;PRDII] 
+
+[decreased; ;deletion] 
+
+[decreased; ;level] 
+
+[level; ;this] 
+
+[level; ;induced] 
+
+[level;of@2;transcription@2] 
+

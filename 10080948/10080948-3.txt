@@ -1,0 +1,23 @@
+We have found that it is phosphorylated, predominantly on serine residues, when transiently overexpressed in 293 cells.
+[found; ;We] 
+
+[found; ;have] 
+
+[found; ;that] 
+
+[that; ;it is phosphorylated, predominantly on serine residues, when transiently overexpressed in 293 cells] 
+
+[phosphorylated; ;it] 
+
+[phosphorylated; ;is] 
+
+[phosphorylated; ;predominantly] 
+
+[phosphorylated;on;serine residues] 
+
+[it is phosphorylated, predominantly on serine residues;when;transiently overexpressed in 293 cells ]
+
+[overexpressed; ;transiently] 
+
+[overexpressed;in;293 cells] 
+

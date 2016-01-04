@@ -1,0 +1,23 @@
+Transcription of the germ-line IgH genes is controlled by intervening (I) regions upstream of their switch regions.
+[Transcription;of@1;germ-line IgH genes] 
+
+[germ-line IgH genes; ;the] 
+
+[controlled; ;Transcription] 
+
+[controlled; ;is]
+
+[controlled;by;intervening (I) regions] 
+
+[regions; ;intervening] 
+
+[regions; ;(I)] 
+
+[upstream;of@2;regions] 
+
+[upstream; ;regions] 
+
+[regions; ;their] 
+
+[regions; ;switch] 
+

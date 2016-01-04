@@ -1,0 +1,61 @@
+With the aim of identifying genetic targets for these transcription factors, we stably transfected cDNAs encoding EBF or a covalent homodimer of E47, individually or together, into immature hematopoietic Ba/F3 cells, which lack both factors.
+[ ;With;aim] 
+
+[aim; ;the] 
+
+[aim;of@1;identifying] 
+
+[identifying; ;targets] 
+
+[targets; ;genetic] 
+
+[identifying;for;transcription factors] 
+
+[transcription factors; ;these] 
+
+[factors; ;transcription] 
+
+[transfected; ;stably] 
+
+[transfected; ;we] 
+
+[transfected; ;cDNAs] 
+
+[encoding; ;cDNAs] 
+
+[encoding; ;EBF] 
+
+[encoding; ;homodimer] 
+
+[or@1; ;EBF] 
+
+[or@1; ;homodimer] 
+
+[homodimer; ;a] 
+
+[homodimer; ;covalent] 
+
+[homodimer;of@2;E47] 
+
+[transfected; ;individually or together] 
+
+[or@2; ;individually]
+
+[or@2; ;together] 
+
+[transfected;into;immature hematopoietic Ba/F3 cells 
+
+immature hematopoietic Ba/F3 cells; ;which] 
+
+[Ba/F3 cells; ;hematopoietic] 
+
+[Ba/F3 cells; ;immature] 
+
+[cells; ;Ba/F3] 
+
+[lack; ;which] 
+
+[lack; ;factors] 
+
+[factors; ;both] 
+

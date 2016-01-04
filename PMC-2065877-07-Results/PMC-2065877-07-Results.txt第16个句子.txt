@@ -1,0 +1,63 @@
+However, considering that PRO41_ activation did not induce PRO42_ degradation in PRO43_ transgenic B cells, PRO44_ may not be the sole regulator of PRO45_, and it may be that progression to lymphoma requires modulation of multiple pathways.
+[However; ;considering that PRO41_ activation did not induce PRO42_ degradation in PRO43_ transgenic B cells, PRO44_ may not be the sole regulator of PRO45_, and it may be that progression to lymphoma requires modulation of multiple pathways] 
+
+[considering; ;that] 
+
+[that; ;PRO41_ activation did not induce PRO42_ degradation in PRO43_ transgenic B cells, PRO44_ may not be the sole regulator of PRO45_, and it may be that progression to lymphoma requires modulation of multiple pathways]
+
+[activation; ;PRO41_] 
+
+[induce; ;activation] 
+
+[induce; ;did] 
+
+[induce; ;not] 
+
+[induce; ;degradation] 
+
+[degradation; ;PRO42_] 
+
+[degradation;in;cells] 
+
+[cells; ;B] 
+
+[cells; ;transgenic] 
+
+[be; ;PRO44_] 
+
+[be; ;may] 
+
+[be; ;not] 
+
+[be; ;regulator] 
+
+[regulator; ;be] 
+
+[regulator; ;sole] 
+
+[regulator;of;PRO45_] 
+
+[and; ;be@1] 
+
+[and; ;be@2] 
+
+[PRO44_; ;it] 
+
+[be; ;it] 
+
+[be; ;may] 
+
+[be; ;that] 
+
+[that; ;progression to lymphoma requires modulation of multiple pathways]
+
+[progression;to;lymphoma] 
+
+[requires; ;lymphoma] 
+
+[requires; ;modulation] 
+
+[modulation;of;pathways]  
+
+[pathways; ;multiple] 
+

@@ -1,0 +1,9 @@
+Human TAFII 105 is a cell type-specific TFIID subunit related to hTAFII130. 
+[is; ;Human TAFII 105]
+[is; ;cell type-specific TFIID subunit]
+[subunit; ;TFIID]
+[subunit; ;cell type-specific]
+[cell type;-;specific]
+[type; ;cell]
+[related to; ;cell type-specific TFIID subunit]
+[related to; ;hTAFII130]

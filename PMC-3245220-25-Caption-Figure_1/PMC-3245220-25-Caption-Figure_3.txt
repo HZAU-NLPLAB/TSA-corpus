@@ -1,0 +1,15 @@
+NF-kappaB DNA binding activity was analyzed by EMSA Shown is a representative blot from three independent experiments.
+[activity; ;binding]
+[activity; ;DNA]
+[activity; ;NF-kappaB]
+[analyzed; ;activity]
+[analyzed; ;was]
+[analyzed;by;Shown]
+[Shown; ;EMSA]
+[is; ;activity]
+[is; ;blot]
+[blot; ;representative]
+[blot; from;experiments]
+[experiments; ;independent]
+[experiments; ;three) 
+

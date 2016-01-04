@@ -1,0 +1,69 @@
+Here we show that deregulated expression of a single viral gene, ORF 50, which encodes a transactivator able to selectively upregulate delayed-early viral genes, suffices to disrupt latency and induce the lytic gene cascade in latently infected B cells.
+[we show that deregulated expression of a single viral gene, ORF 50, which encodes a transactivator able to selectively upregulate delayed-early viral genes, suffices to disrupt latency and induce the lytic gene cascade in latently infected B cells; ;Here] 
+
+[show; ;we] 
+
+[show; ;that] 
+
+[that; ;deregulated expression of a single viral gene, ORF 50, which encodes a transactivator able to selectively upregulate delayed-early viral genes, suffices to disrupt latency and induce the lytic gene cascade in latently infected B cells] 
+
+[expression; ;deregulated] 
+
+[expression;of;viral gene] 
+
+[viral gene; ;a@1] 
+
+[viral gene; ;single] 
+
+[viral gene; ;ORF 50] 
+
+[gene; ;viral@1] 
+
+[viral gene; ;which] 
+
+[encodes; ;which] 
+
+[encodes; ;transactivator] 
+
+[transactivator; ;a@2] 
+
+[upregulate; ;selectively] 
+
+[upregulate; ;able to] 
+
+[upregulate; ;transactivator] 
+
+[upregulate; ;delayed-early viral genes] 
+
+[viral genes; ;delayed-early] 
+
+[genes; ;viral@2] 
+
+[suffices; ;expression] 
+
+[suffices;to;latency] 
+
+[latency; ;disrupt] 
+
+[and; ;suffices] 
+
+[and; ;induce] 
+
+[induce; ;expression] 
+
+[induce; ;lytic gene cascade] 
+
+[lytic gene cascade; ;the] 
+
+[cascade; ;gene] 
+
+[cascade; ;lytic] 
+
+[suffices;in;latently infected B cells] 
+
+[induce;in;latently infected B cells] 
+
+[B cells; ;infected] 
+
+[infected; ;latently] 
+

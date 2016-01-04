@@ -1,0 +1,27 @@
+A small population of UT-7/GM cells positively stained for hemoglobin (Hb) after a 7-day exposure to TPO.
+[population; ;A] 
+
+[population; ;small] 
+
+[population;of;UT-7/GM cells] 
+
+[cells; ;UT-7/GM] 
+
+[stained; ;positively] 
+
+[stained; ;population] 
+
+[stained;for;hemoglobin] 
+
+[hemoglobin; ;Hb] 
+
+[stained;after;exposure] 
+
+[exposure; ;a] 
+
+[exposure; ;7-day] 
+
+[day;-;7] 
+
+[exposure;to;TPO] 
+

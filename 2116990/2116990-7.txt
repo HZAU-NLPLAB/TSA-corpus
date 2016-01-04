@@ -1,0 +1,33 @@
+Induction of the enhancer may have a role in the increase in globin gene transcription that characterizes erythroid maturation.
+
+
+[Induction;of;enhancer] 
+
+[enhancer; ;the@1] 
+
+[have; ;enhancer] 
+
+[have; ;may] 
+
+[have; ;role] 
+
+[role; ;a] 
+
+[role;in@1;increase] 
+
+[increase; ;the@2] 
+
+[increase;in@2;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;globin] 
+
+[transcription; ;that] 
+
+[characterizes; ;that] 
+
+[characterizes; ;maturation]
+
+[maturation; ;erythroid] 
+

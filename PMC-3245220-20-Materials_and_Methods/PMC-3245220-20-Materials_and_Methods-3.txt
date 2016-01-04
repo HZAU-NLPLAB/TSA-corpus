@@ -1,0 +1,10 @@
+The protein concentration was determined by the BCA protein assay (Bio-Rad, Hercules, CA).
+[concentration; ;The]
+[concentration; ;protein@1]
+[determined; ;concentration]
+[determined; ;was]
+[determined;by;assay]
+[assay; ;the]
+[assay; ;protein@2]
+[assay; ;BCA) 
+

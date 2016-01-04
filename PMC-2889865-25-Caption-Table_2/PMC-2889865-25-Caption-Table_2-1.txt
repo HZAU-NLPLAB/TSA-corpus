@@ -1,0 +1,25 @@
+Jurkat T-cells were treated with 10 nM NAI, 10 muM JNK-I or10 nM PKC-I for 2 h followed by induction with 162 nM PMA for 24 h.
+[T-cells; ;Jurkat]
+[treated; ;were]
+[treated; ;T-cells]
+[treated;with;NAI]
+[treated;with;JNK-I]
+[treated;with;PKC-I) 
+[,or; ;NAI]
+[,or; ;JNK-I]
+[,or; ;PKC-I) 
+[NAI; ;10@1 nM@1]
+[nM@1; ;10@1) 
+[JNK-I; ;10@2 muM]
+[muM; ;10@2) 
+[PKC-I; ;10@3 nM@2]
+[nM@2; ;10@3)    
+[treated;for@1;2 h@1]
+[h@1; ;2]
+[followed; ;treated]
+[followed;by;induction]
+[induction;with;PMA]
+[PMA; ;162 nM@3]
+[nM@3; ;162]
+[induction;for@2;24 h@2]
+[h@2; ;24]

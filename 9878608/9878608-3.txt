@@ -1,0 +1,27 @@
+The primary reservoir of infection consists of latently infected B lymphocytes and possibly other mononuclear cells.
+[reservoir; ;primary] 
+
+[reservoir; ;The] 
+
+[reservoir;of@1;infection] 
+
+[consists; ;reservoir] 
+
+[consists;of@2;B lymphocytes] 
+
+[consists;of@2;mononuclear cells] 
+
+[and; ;B lymphocytes] 
+
+[and; ;mononuclear cells] 
+
+[B lymphocytes; ;infected] 
+
+[infected; ;latently] 
+
+[mononuclear cells; ;other] 
+
+[other; ;possibly] 
+
+[cells; ;mononuclear] 
+

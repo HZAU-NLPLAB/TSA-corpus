@@ -1,0 +1,31 @@
+We concluded that CTCF expression and activity is controlled at transcriptional and post-transcriptional levels.
+[concluded; ;We] 
+
+[concluded; ;that] 
+
+[that; ;CTCF expression and@1 activity is controlled at transcriptional and@2 post-[transcriptional levels ]
+
+[expression; ;CTCF] 
+
+[and@1; ;expression] 
+
+[and@1; ;activity] 
+
+[activity; ;CTCF] 
+
+[controlled; ;CTCF expression] 
+
+[controlled; ;CTCF activity] 
+
+[controlled; ;is] 
+
+[controlled;at;levels] 
+
+[levels; ;transcriptional] 
+
+[and@2; ;transcriptional] 
+
+[and@2; ;post-transcriptional] 
+
+[levels;  ;post-transcriptional] 
+

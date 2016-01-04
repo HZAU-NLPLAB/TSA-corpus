@@ -1,0 +1,12 @@
+Transfection of an AP-2 expression construct into T-lymphocytes activated gene expression from the HTLV-I LTR.
+[Transfection;of;expression ]
+[expression; ;an ]
+[expression; ;AP-2 ]
+[construct; ;expression ]
+[construct;into;T-lymphocytes ]
+[activated; ;T-lymphocytes ]
+[activated; ;expression ]
+[expression; ;gene ]
+[expression;from;LTR ]
+[LTR; ;the ]
+[LTR; ;HTLV-I ]

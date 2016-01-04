@@ -1,0 +1,47 @@
+Peripheral blood mononuclear cells (pbmc) and bone marrow cells of 26 patients were examined for c-fos, c-myc, p53 and the hybrid bcr/abl mRNA levels.
+Peripheral blood mononuclear cells; ;pbmc] 
+
+[and; ;Peripheral blood mononuclear cells] 
+
+[and; ;bone marrow cells] 
+
+[Peripheral blood mononuclear cells;of;patients] 
+
+[bone marrow cells;of;patients] 
+
+[patients; ;26] 
+
+[examined; ;were] 
+
+[examined; ;Peripheral blood mononuclear cells] 
+
+[examined; ;bone marrow cells] 
+
+[mononuclear cells; ;Peripheral blood] 
+
+[blood; ;Peripheral] 
+
+[cells; ;mononuclear] 
+
+[cells; ;bone marrow] 
+
+[marrow; ;bone] 
+
+[examined;for;c-fos, c-myc, p53 and the hybrid bcr/abl mRNA levels] 
+
+[mRNA levels; ;c-fos, c-myc, p53 and the hybrid bcr/abl] 
+
+[and; ;c-fos] 
+
+[and; ;c-myc] 
+
+[and; ;p53] 
+
+[and; ;bcr/abl] 
+
+[bcr/abl; ;the] 
+
+[bcr/abl; ;hybrid] 
+
+[levels; ;mRNA] 
+

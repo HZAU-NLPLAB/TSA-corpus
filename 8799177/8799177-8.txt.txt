@@ -1,0 +1,12 @@
+Therefore, the mechanisms leading to disruption of EBV latency appear to be cell-type specific.
+
+[leading; ;mechanisms]
+[mechanisms; ;the]
+[leading;to;disruption]
+[disruption;of;latency]
+[latency; ;EBV]
+[appear; ;latency]
+[appear;to;be]
+[be; ;specific]
+[specific; ;cell-type]
+[type;-;cell]

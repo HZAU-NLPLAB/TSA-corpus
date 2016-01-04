@@ -1,0 +1,19 @@
+Cucurbitacin I inhibits activation of PRO30_ by suppressing the activation of its kinase PRO31_.
+[inhibits; ;Cucurbitacin I] 
+
+[inhibits; ;activation] 
+
+[activation;of;PRO30_] 
+
+[inhibits;by;suppressing] 
+
+[suppressing; ;activation] 
+
+[activation; ;the] 
+
+[activation;of;PRO31_]  
+
+[PRO31_;  ;kinase] 
+
+[PRO31_;  ;its] 
+

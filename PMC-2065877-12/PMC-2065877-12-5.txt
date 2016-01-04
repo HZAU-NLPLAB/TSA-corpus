@@ -1,0 +1,31 @@
+MTS reagent was added for 4 h and absorbance was read at 540 nm; values plotted were subtracted from blanks.
+[reagent; ;MTS] 
+
+[added; ;reagent] 
+
+[added; ;was] 
+
+[added;for;h] 
+
+[h; ;4] 
+
+[and; ;MTS reagent was added for 4 h and] 
+
+[and; ;absorbance was read at 540 nm;values plotted were]
+[subtracted;from;blanks]  
+
+[read; ;was] 
+
+[read; ;absorbance] 
+
+[read;at;nm] 
+
+[nm; ;540] 
+
+[values; ;plotted] 
+
+[subtracted; ;values] 
+
+[subtracted; ;were] 
+
+[subtracted;from;blanks]

@@ -1,0 +1,27 @@
+BF and E47 collaborate to induce expression of the endogenous immunoglobulin surrogate light chain genes.
+[collaborate; ;EBF] 
+
+[collaborate; ;E47] 
+
+[and; ;EBF] 
+
+[and; ;E47] 
+
+[collaborate;to;induce] 
+
+[induce; ;expression] 
+
+[expression;of;endogenous immunoglobulin surrogate light chain genes] 
+
+[endogenous immunoglobulin surrogate light chain genes; ;the] 
+
+[genes; ;surrogate light chain] 
+
+[genes; ;immunoglobulin] 
+
+[genes; ;endogenous] 
+
+[light chain; ;surrogate] 
+
+[chain; ;light] 
+

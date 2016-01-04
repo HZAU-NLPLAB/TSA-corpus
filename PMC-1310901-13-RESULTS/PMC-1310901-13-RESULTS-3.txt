@@ -1,0 +1,10 @@
+A complete methylation of these constructs was checked via restriction assays with methylation-sensitive endonucleases (Figure 5A).
+[methylation; ;complete]
+[methylation; ;A]
+[methylation;of;constructs]
+[constructs; ;these]
+[checked; ;constructs]
+[checked; ;was]
+[checked; ;via restriction assays]
+[assays;with;methylation-sensitive endonucleases]
+[methylation-sensitive endonucleases; ;Figure 5A]

@@ -1,0 +1,28 @@
+RO1_ Promotes B Cell Survival and Proliferation In Vitro(A) MTS assay of splenocytes from WT and PRO2_ transgenic mice.
+[Promotes; ;PRO1_] 
+
+[Promotes; ;Survival and Proliferation] 
+
+[Survival and Proliferation; ;B Cell] 
+
+[and@1; ;Survival] 
+
+[and@1; ;Proliferation] 
+
+[assay; ;MTS] 
+
+[assay; ;In Vitro] 
+
+[assay;of;splenocytes] 
+
+[splenocytes;from;WT] 
+
+[splenocytes;from;mice] 
+
+[and@2; ;WT] 
+
+[and@2; ;mice]  
+
+[mice; ;transgenic] 
+
+[mice; ;PRO2_]

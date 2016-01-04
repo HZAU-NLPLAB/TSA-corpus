@@ -1,0 +1,46 @@
+
+Monoclonal antibodies against either monomorphic or polymorphic determinants of class I antigen induced in PBMC and highly purified T lymphocytes the nuclear activity of NF-kappa B/Rel complexes.
+[Monoclonal antibodies;against;determinants] 
+
+[determinants; ;monomorphic] 
+
+[determinants; ;polymorphic] 
+
+[either...or; ;monomorphic] 
+
+[either...or; ;polymorphic] 
+
+[determinants;of@1;class I antigen] 
+
+[antigen; ;class I] 
+
+[induced; ;Monoclonal antibodies] 
+
+[induced;in;PBMC] 
+
+[and; ;induced] 
+
+[and; ;purified] 
+
+[purified; ;highly] 
+
+[purified; ;Monoclonal antibodies] 
+
+[antibodies; ;Monoclonal] 
+
+[purified; ;nuclear activity] 
+
+[nuclear activity; ;T lymphocytes] 
+
+[nuclear activity; ;the] 
+
+[nuclear activity;of@2;NF-kappa B/Rel complexes] 
+
+[activity; ;nuclear] 
+
+[complexes; ;NF-kappa B/Rel] 
+
+[/; ;NF-kappa B] 
+
+[/; ;Rel] 
+

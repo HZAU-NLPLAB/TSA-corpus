@@ -1,0 +1,15 @@
+Surprisingly, while the addition of phytohemagglutinin further enhanced the induction of AP1, the addition of PMA inhibited it.
+
+[the addition of PMA inhibited it£»while£»the addition of phytohemagglutinin further enhanced the induction of AP1]
+[addition@1£» £»the@1]
+[addition@1£»of@1£»phytohemagglutinin]
+[enhanced£» £»further]
+[enhanced£» £»addition@1]
+[enhanced£» £»induction]
+[induction£»of@2£»AP1]
+[addition@2£»of@2£»PMA]
+[addition@2£» £»the@2]
+[inhibited£» £»PMA]
+[inhibited£» £»it]
+
+

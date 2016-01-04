@@ -1,0 +1,38 @@
+Surprisingly, G28-5 sFv was a potent CD40 agonist that rapidly crosslinked CD40 on the cell surface but did not crosslink CD40-Ig in solution.
+
+
+[G28-5 sFv was a potent CD40 agonist that rapidly crosslinked CD40 on the cell surface but did not crosslink CD40-Ig in solution; ;Surprisingly]
+[was; ;G28-5 sFv] 
+
+[was; ;agonist] 
+
+[agonist; ;CD40] 
+
+[agonist; ;potent] 
+
+[agonist; ;a] 
+
+[agonist; ;that] 
+
+[crosslinked; ;that] 
+
+[crosslinked; ;rapidly] 
+
+[crosslinked; ;CD40] 
+
+[CD40;on;surface] 
+
+[surface; ;cell] 
+
+[surface; ;the]
+
+[did not crosslink CD40-Ig in solutio;but;rapidly crosslinked CD40 on the cell surface] 
+
+[crosslink; ;did] 
+
+[crosslink; ;not] 
+
+[crosslink; ;CD40-Ig] 
+
+[CD40-Ig; ;solution]   
+

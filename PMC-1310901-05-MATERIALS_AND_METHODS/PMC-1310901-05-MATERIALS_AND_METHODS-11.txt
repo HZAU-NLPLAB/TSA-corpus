@@ -1,0 +1,19 @@
+The membranes were then developed with an ECL detection kit (Amersham Pharmacia Biotech, Freiburg, Germany).
+
+[membranes; ;The]
+
+[developed; ;membranes]
+
+[developed; ;were]
+
+[developed; ;then]
+
+[developed;with;an ECL detection kit]
+
+[kit; ;an]
+
+[kit; ;ECL]
+
+[kit; ;detection]
+
+[an ECL detection kit; ;Amersham Pharmacia Biotech, Freiburg, Germany]

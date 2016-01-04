@@ -1,0 +1,25 @@
+The physiological relevance of this phenomenon is emphasized by similar CD30-mediated effects in naive B cells.
+[relevance; ;physiological] 
+
+[relevance; ;The] 
+
+[relevance;of;phenomenon] 
+
+[phenomenon; ;this] 
+
+[emphasized; ;is] 
+
+[emphasized; ;relevance] 
+
+[emphasized;by;effects] 
+
+[effects; ;similar] 
+
+[effects; ;CD30-mediated] 
+
+[mediated;-;CD30] 
+
+[emphasized;in;B cells] 
+
+[B cells; ;naive] 
+

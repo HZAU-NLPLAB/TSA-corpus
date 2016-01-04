@@ -1,0 +1,21 @@
+This report directly demonstrates that OTF-2 but not OTF-1 regulates the DRA gene.
+report; ;This] 
+
+[demonstrates; ;directly] 
+
+[demonstrates; ;report] 
+
+[demonstrates; ;that] 
+
+[that; ;OTF-2 but not OTF-1 regulates the DRA gene] 
+
+[OTF-2;but not;OTF-1] 
+
+[regulates; ;OTF-2] 
+
+[regulates; ;gene] 
+
+[gene; ;DRA] 
+
+[gene; ;the] 
+

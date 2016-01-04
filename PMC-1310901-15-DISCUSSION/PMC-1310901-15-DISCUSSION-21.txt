@@ -1,0 +1,12 @@
+Interestingly, a positive correlation between PRO30_ expression levels and hypermethylation of PRO31_ has been detected in AML (25).
+[correlation;$;a]
+[correlation;$;positive]
+[between¡­and¡­;$;PRO30_ expression levels]
+[between¡­and¡­;$;hypermethylation]
+[levels;$;PRO30_]
+[levels;$;expression]
+[hypermethylation;of;PRO31_]
+[detected;$;correlation]
+[detected;$;has]
+[detected;$;been]
+[detected;in;AML]

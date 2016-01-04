@@ -1,0 +1,36 @@
+Briefly, 50 ng of mCK-1 probe set was labeled with (alpha-32P)UTP using T7 RNA polymerase and purified using Sephadex G-50 columns (NucAway Spin column, Ambion).
+[Briefly; ;50 ng of mCK-1 probe set was labeled with (alpha-32P)UTP using T7 RNA polymerase and purified using Sephadex G-50 columns] 
+
+[ng; ;50]
+
+[ng;of;set] 
+
+[set; ;probe] 
+
+[probe; ;mCK-1] 
+
+[labeled; ;set] 
+
+[labeled; ;was] 
+
+[labeled;with;(alpha-32P]UTP] 
+
+[alpha-32P; ;UTP] 
+
+[using@1; ;polymerase] 
+
+[polymerase; ;RNA] 
+
+[RNA; ;T7]
+
+[and; ;using@1] 
+
+[and; ;using@2] 
+
+[using@2; ;purified] 
+
+[using@2; ;columns] 
+
+[columns; ;G-50] 
+
+[G-50; ;Sephadex]

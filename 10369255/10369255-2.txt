@@ -1,0 +1,41 @@
+Genetic variation in cytokine promoter regions is postulated to influence susceptibility to infection, but the molecular mechanisms by which such polymorphisms might affect gene regulation are unknown.
+[Genetic variation;in;cytokine promoter regions] 
+
+[variation; ;Genetic] 
+
+[regions;promoter;cytokine] 
+
+[postulated; ;Genetic variation] 
+
+[postulated; ;is] 
+
+[postulated;to@1;influence] 
+
+[influence; ;susceptibility] 
+
+[influence;to@2;infection] 
+
+[the molecular mechanisms by which such polymorphisms might affect gene regulation are unknown;but;Genetic variation in cytokine promoter regions is postulated to@1 influence susceptibility [to@2 infection] 
+
+[molecular mechanisms; ;the] 
+
+[mechanisms; ;molecula]r 
+
+[molecular mechanisms;by;which] 
+
+[polymorphisms; ;which] 
+
+[polymorphisms; ;such] 
+
+[affect; ;molecular mechanisms] 
+
+[affect; ;might] 
+
+[affect; ;gene regulation] 
+
+[regulation; ;gene] 
+
+[are; ;molecular mechanisms] 
+
+[are; ;unknown] 
+

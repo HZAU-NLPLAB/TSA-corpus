@@ -1,0 +1,7 @@
+ACS-based cytotoxicity assay.
+[assay; ;cytotoxicity] 
+
+[cytotoxicity; ;FACS-based]
+
+[based;-;FACS] 
+

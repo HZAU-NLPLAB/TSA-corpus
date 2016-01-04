@@ -1,0 +1,10 @@
+The data are discussed with regard to their potential clinical relevance for gastroenterology. 
+[data; ;The]
+[discussed; ;data]
+[discussed; ;are]
+[discussed;with;regard]
+[regard;to;relevance]
+[relevance; ;their]
+[relevance; ;potential]
+[relevance; ;clinical]
+[relevance;for;gastroenterology]

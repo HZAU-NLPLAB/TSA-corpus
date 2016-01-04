@@ -1,0 +1,5 @@
+Phosphatidyl inositol 3-kinase (PI3K) is activated by IL-2. 
+[Phosphatidyl inositol 3-kinase; ;PIK3]
+[activated; ;Phosphatidyl inositol 3-kinase]
+[activated; ;is]
+[activated;by;IL-2]

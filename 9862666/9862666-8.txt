@@ -1,0 +1,27 @@
+Thus, the requirement for CD28 in IL-2 promoter activation appears to be due to RE/AP and not the NFAT or AP-1 sites.
+[requirement; ;the@1] 
+
+[requirement;for;CD28]
+
+[CD28;in;IL-2 promoter activation] 
+
+[appears; ;requirement] 
+
+[appears;to;be] 
+
+[be; ;due] 
+
+[due;to;RE/AP] 
+
+[and; ;RE/AP] 
+
+[and; ;not the@2 NFAT or AP-1 sites] 
+
+[not¡­or; ;NFAT] 
+
+[not¡­or; ;AP-1 sites] 
+
+[NFAT; ;the@2] 
+
+[sites; ;NFAT] 
+

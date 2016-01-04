@@ -1,0 +1,33 @@
+andem AP-1-binding sites within the human beta-globin dominant control region function as an inducible enhancer in erythroid cells.
+
+
+[sites; ;AP-1-binding] 
+
+[sites; ;Tandem] 
+
+[AP-1;-;binding]
+
+[sites;within;dominant] 
+
+[dominant; ;beta-globin] 
+
+[dominant; ;human] 
+
+[dominant; ;the] 
+
+[control; ;dominant] 
+
+[control; ;function] 
+
+[function; ;region] 
+
+[function;as;enhancer] 
+
+[enhancer; ;an]
+
+[enhancer; ;inducible] 
+
+[enhancer;in;cells] 
+
+[cells; ;erythroid] 
+

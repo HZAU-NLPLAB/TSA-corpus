@@ -1,0 +1,9 @@
+Cell activation and apoptosis by bacterial lipoproteins through toll-like receptor-2.
+[activation; ;Cell]
+[and; ;Cell activation]
+[and; ;apoptosis]
+[Cell activation;by;lipoproteins]
+[apoptosis;by;lipoproteins]
+[lipoproteins; ;bacterial]
+[lipoproteins;through;receptor-2]
+[receptor-2; ;toll-like]

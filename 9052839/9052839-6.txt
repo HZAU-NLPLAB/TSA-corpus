@@ -1,0 +1,12 @@
+Overexpression of TRAMP leads to two major responses, NF-kappaB activation and apoptosis. 
+[Overexpression;of;TRAMP]
+[leads; ;Overexpression]
+[leads;to;responses]
+[responses; ;two]
+[responses; ;major]
+[responses; ;activation]
+[responses; ;apoptosis]
+[and; ;activation]
+[and; ;apoptosis]
+[activation; ;NF-kappaB]
+[apoptosis; ;NF-kappaB]

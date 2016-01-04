@@ -1,0 +1,63 @@
+
+Constitutive expression of IFN-alpha5 and IFN-beta was detected in different lymphoid cells including peripheral blood mononuclear cells from normal individuals following amplification of IFN mRNA by reverse transcriptase-polymerase chain reaction and direct sequencing of the amplified product.
+
+
+[expression; ;Constitutive]
+
+[expression;of@1;IFN-alpha5] 
+
+[and@1; ; IFN-alpha5] 
+
+[and@1; ;IFN-beta] 
+
+[detected; ;expression] 
+
+[detected; ;was] 
+
+[detected;in;cells] 
+
+[cells; ;lymphoid] 
+
+[cells; ;different] 
+
+[including; ;cells] 
+
+[including; ;cells] 
+
+[cells@2; ;mononuclear] 
+
+[cells@2; ;blood ]
+
+[cells@2; ;peripheral] 
+
+[cells;from;individuals] 
+
+[individuals; ;normal] 
+
+[following; ;individuals] 
+
+[following; ;amplification]
+
+[amplification;of@2;IFN mRNA]
+
+[mRNA; ;IFN] 
+
+[mRNA;by;reverse transcriptase-polymerase chain reaction] 
+
+[reaction; ;chain]
+
+[chain; ;transcriptase-polymerase] 
+
+[transcriptase-polymerase; ;reverse] 
+
+[and@2; ;reaction] 
+
+[and@2; ;sequencing] 
+
+[sequencing; ;direct] 
+
+[sequencing;of;product]  
+
+[product; ;the] 
+
+[product ; ;amplified]

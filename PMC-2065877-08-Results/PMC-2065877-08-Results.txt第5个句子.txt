@@ -1,0 +1,58 @@
+The effects of triciribine on cell growth of the transgenic lymphocytes and lymphomas were apparent as low as 1 muM, suggesting that activation of PRO12_ is required for the survival and growth of PRO13_ transgenic lymphocytes and lymphoma cells (Figure 7).
+[effects; ;The] 
+
+[effects;of;triciribine] 
+
+[effects;on;growth] 
+
+[growth; ;cell] 
+
+[growth;of;lymphocytes] 
+
+[cell growth;of;lymphomas] 
+
+[lymphocytes; ;transgenic] 
+
+[and; ;lymphocytes] 
+
+[and; ;lymphomas] 
+
+[were; ;effects] 
+
+[were; ;apparent] 
+
+[were;as;low] 
+
+[low;as;muM] 
+
+[muM; ;1] 
+
+[suggesting;suggesting;The effects of triciribine on cell growth of the transgenic lymphocytes and lymphomas were apparent as low as 1 muM] 
+
+[suggesting; ;that] 
+
+[that; ;activation of PRO12_ is required for the survival and growth of PRO13_ transgenic lymphocytes and lymphoma cells] 
+
+[activation;of;PRO12_] 
+
+[is required for; ;activation] 
+
+[is required for; ;survival and growth] 
+
+[and; ;survival] 
+
+[and; ;growth] 
+
+[survival; ;the] 
+
+[growth;of;lymphocytes] 
+
+[growth;of;cells] 
+
+[lymphocytes; ;transgenic] 
+
+[cells; ;lymphoma] 
+
+[and; ;lymphocytes] 
+
+[and; ;cells]

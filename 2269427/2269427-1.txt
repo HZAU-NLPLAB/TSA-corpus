@@ -1,0 +1,23 @@
+n in vitro globin gene switching model based on differentiated embryonic stem cells.
+
+
+[model; ;An] 
+
+[model; ;switching] 
+
+[switching; ;gene] 
+
+[gene; ;globin] 
+
+[globin; ;in vitro] 
+
+[based; ;model] 
+
+[based;on;cells]  
+
+[cells ; ;stem] 
+
+[cells ; ;differentiated] 
+
+[cells; ;embryonic] 
+

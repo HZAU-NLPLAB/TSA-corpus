@@ -1,0 +1,31 @@
+Within the upstream promoter region of Bcl-x, a potential NF-kappaB-binding sequence was found to support NF-kappaB-dependent transcriptional activation.
+[ ;Within;upstream promoter region] 
+
+[region;promoter;upstream] 
+
+[upstream promoter region;of;Bcl-x] 
+
+[Bcl-x; ;a potential NF-kappaB-binding sequence was found to support NF-kappaB-dependent transcriptional activation] 
+
+[a; ;NF-kappaB-binding sequence] 
+
+[NF-kappaB-binding sequence; ;potential 
+
+[sequence; ;NF-kappaB-binding] 
+
+[binding;-;NF-kappaB] 
+
+[found; ;NF-kappaB-binding sequence] 
+
+[found; ;was] 
+
+[found;to;support] 
+
+[NF-kappaB-dependent transcriptional activation; ;support] 
+
+[activation;  ;NF-kappaB-dependent] 
+
+[activation; ;transcriptional] 
+
+[dependent;-;NF-kappaB] 
+

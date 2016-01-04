@@ -1,0 +1,34 @@
+In contrast, OTF-1-enriched protein fractions did not affect DRA gene transcription although it functionally enhanced the transcription of another gene.
+[In contrast; ;OTF-1-enriched protein fractions did not affect DRA gene transcription although it functionally enhanced the transcription of another gene]  
+
+[fractions; ;protein]
+
+[protein; ;OTF-1-enriched] 
+
+[enriched;-;OTF-1] 
+
+[affect; ;did] 
+
+[affect; ;not] 
+
+[affect; ;fractions] 
+
+[affect; ;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;DRA] 
+
+[OTF-1-enriched protein fractions did not affect DRA gene transcription;although;it functionally enhanced the transcription of another gene] 
+
+[enhanced; ;it] 
+
+[enhanced; ;functionally] 
+
+[enhanced; ;transcription] 
+
+[transcription; ;the] 
+
+[transcription;of;gene] 
+
+[gene; ;another]

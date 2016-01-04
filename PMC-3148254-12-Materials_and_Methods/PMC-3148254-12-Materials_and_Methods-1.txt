@@ -1,0 +1,12 @@
+The PRO2_-simulated activation of PRO3_ transcription was evaluated as previously reported (33).
+[activation; ;PRO2_-simulated) 
+[simulated; ;PRO2_-]
+[activation; ;The) 
+[activation; of;transcription) 
+[transcription; ;PRO3_) 
+[evaluated; ;transcription) 
+[evaluated; ;was) 
+[evaluated; ;as) 
+[reported; ;as) 
+[reported; ;previously) 
+

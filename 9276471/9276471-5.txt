@@ -1,0 +1,63 @@
+In neutrophils undergoing the phagocytosis of opsonized yeasts, the onset of NF-kappa B activation was paralleled by a decline in immunoreactive I kappa B-alpha protein levels, and the cellular I kappa B-alpha pool was replenished by 30 min, in agreement with our gel shift data.
+[ ;In;neutrophils] 
+
+[undergoing; ;neutrophils] 
+
+[undergoing; ;phagocytosis] 
+
+[phagocytosis; ;the@1] 
+
+[phagocytosis;of@1;yeasts] 
+
+[yeasts; ;opsonized] 
+
+[onset; ;the@2] 
+
+[onset;of@2;activation] 
+
+[activation; ;NF-kappa B] 
+
+[paralleled; ;was@1] 
+
+[paralleled; ;onset] 
+
+[paralleled;by@1;decline] 
+
+[decline; ;a] 
+
+[decline;in@1;levels] 
+
+[levels; ;immunoreactive] 
+
+[levels; ;I kappa B-alpha protein] 
+
+[alpha protein;-;I kappa B@1] 
+
+[and; ;the onset of NF-kappa B activation was paralleled by a decline in immunoreactive I kappa B-alpha protein levels] 
+
+[and; ;the cellular I kappa B-alpha pool was replenished by 30 min, in agreement with our gel shift data] 
+
+[I kappa B-alpha pool; ;the@3] 
+
+[I kappa B-alpha pool; ;cellular] 
+
+[replenished; ;was@2] 
+
+[replenished; ;I kappa B-alpha pool] 
+
+[alpha pool;-;I kappa B@2] 
+
+[replenished;by@2;30 min] 
+
+[30; ;min] 
+
+[replenished;in@2;agreement] 
+
+[agreement;with;data] 
+
+[data; ;our] 
+
+[data; ;gel] 
+
+[data; ;shif] 
+

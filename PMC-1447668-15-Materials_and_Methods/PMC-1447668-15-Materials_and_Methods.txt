@@ -1,0 +1,8 @@
+PRO1_ and HTLV-I PRO2_ expression analysis by real-time RT-PCR.
+[expression; ;PRO1_]
+[expression; ;HTLV-I PRO2_]
+[and; ;PRO1_]
+[and; ;HTLV-I PRO2_]
+[analysis; ;expression]
+[analysis;by;real-time RT-PCR]
+[RT-PCR; ;real-time]

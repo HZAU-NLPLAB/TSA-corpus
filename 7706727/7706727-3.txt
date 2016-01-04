@@ -1,0 +1,9 @@
+A new gene, TINUR, was cloned from apoptotic PEER cells. 
+[gene; ;A]
+[gene; ;new]
+[gene; ;TINUR]
+[cloned; ;gene]
+[cloned; ;was]
+[cloned;from;apoptotic PEER cells]
+[cells; ;PEER]
+[cells; ;apoptotic]

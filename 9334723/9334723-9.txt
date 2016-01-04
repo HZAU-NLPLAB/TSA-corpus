@@ -1,0 +1,41 @@
+Our finding that Vpr can regulate NF-kappa B supports the hypothesis that some aspects of viral pathogenesis are the consequence of cell dysregulation by Vpr.
+[finding; ;Our] 
+
+[finding; ;that@1] 
+
+[that@1; ;Vpr can regulate NF-kappa B] 
+
+[regulate; ;can] 
+
+[regulate; ;Vpr@1] 
+
+[regulate; ;NF-kappa B] 
+
+[supports; ;finding] 
+
+[supports; ;hypothesis] 
+
+[hypothesis; ;the@1] 
+
+[hypothesis; ;that@2] 
+
+[that@2; ;some aspects of viral pathogenesis are the consequence of cell dysregulation by Vpr] 
+
+[aspects; ;some] 
+
+[aspects;of@1;pathogenesis] 
+
+[pathogenesis; ;viral] 
+
+[are; ;aspects] 
+
+[are; ;consequence] 
+
+[consequence; ;the@2] 
+
+[consequence;of@2;dysregulation] 
+
+[dysregulation; ;cell] 
+
+[dysregulation;by;Vpr@2] 
+

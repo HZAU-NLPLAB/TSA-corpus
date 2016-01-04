@@ -1,0 +1,12 @@
+The effect appeared within 30 min and returned to basal levels after 2 h. 
+[effect; ;The]
+[appeared; ;effect]
+[appeared;within;30 min]
+[min; ;30] 
+[returned; ;effect]
+[and; ;appeared]
+[and; ;returned]
+[returned;to;levels]
+[levels; ;basal]
+[returned;after;2 h]
+[h; ;2]

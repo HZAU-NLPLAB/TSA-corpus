@@ -1,0 +1,11 @@
+An IRF-1-dependent pathway of DNA damage-induced apoptosis in mitogen-activated T lymphocytes.
+[IRF-1-dependent pathway; ;An]
+[pathway; ;IRF-1-dependent]
+[IRF-1;-;dependent]
+[IRF-1-dependent pathway;of;DNA damage-induced apoptosis]
+[apoptosis; ;DNA damage-induced]
+[induced;-;DNA damage]
+[damage; ;DNA]
+[DNA damage-induced apoptosis;in;mitogen-activated T lymphocytes]
+[T lymphocytes; ;mitogen-activated]
+[activated;-;mitogen]

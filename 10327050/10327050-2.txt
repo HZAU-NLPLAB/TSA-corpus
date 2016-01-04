@@ -1,0 +1,36 @@
+
+Initiation of DNA replication requires the function of MCM gene products, which participate in ensuring that DNA replication occurs only once in the cell cycle.
+[Initiation;of@1;DNA replication] 
+
+[replication; ;DNA] 
+
+[requires; ;Initiation] 
+
+[requires; ;function] 
+
+[function; ;the] 
+
+[function;of@2;MCM gene products] 
+
+[products; ;MCM gene] 
+
+[MCM gene products; ;which] 
+
+[participate; ;which] 
+
+[participate;in@1;ensuring] 
+
+[ensuring; ;that] 
+
+[that; ;DNA replication occurs only once in@2 the cell cycle] 
+
+[occurs; ;DNA replication] 
+
+[occurs; ;once] 
+
+[once; ;only] 
+
+[occurs;in@2;cell cycle] 
+
+[cell cycle; ;the] 
+

@@ -1,0 +1,33 @@
+The B3 factor was only slightly evident in nuclei of uninfected cells but was readily detectable in nuclei of infected monocytes.
+
+
+[factor; ;The]
+
+[factor; ;B3] 
+
+[was@1; ;factor] 
+
+[was@1; ;evident] 
+
+[evident; ;only] 
+
+[evident; ;slightly] 
+
+[evident in@1;nuclei] 
+
+[nuclei@1;of@1]
+
+[cells; ;uninfected] 
+
+[was@1;but;was@2] 
+
+[was@2; ;detectable] 
+
+[detectable; ;readily] 
+
+[detectable;in@2;nuclei@2] 
+
+[nuclei@2;of@2;monocytes] 
+
+[monocytes; ;infected] 
+

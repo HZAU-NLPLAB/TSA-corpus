@@ -1,0 +1,17 @@
+This liberates NF-kappa B to translocate to the nucleus and initiate transcription of genes important for the defense of the organism.
+
+[NF-kappa B; ;This]
+[NF-kappa B; ;liberates]
+[NF-kappa B;to@1;translocate]
+[translocate;to@2;transcription]
+[transcription; ;nucleus]
+[transcription; ;initiate]
+[nucleus; ;the@1]
+[and; ;nucleus]
+[and; ;initiate]
+[transcription;of;genes]
+[genes; ;important]
+[important;for;defense]
+[defense; ;the@2]
+[defense;of;organism]
+[organism; ;the@3]

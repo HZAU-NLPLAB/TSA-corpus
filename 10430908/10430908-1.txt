@@ -1,0 +1,23 @@
+NF-kappaB-mediated up-regulation of Bcl-x and Bfl-1/A1 is required for CD40 survival signaling in B lymphocytes.
+[NF-kappaB-mediated up-regulation;of;Bcl-x and Bfl-1/A1] 
+
+[up-regulation; ;NF-kappaB-mediated] 
+
+[mediated;-;NF-kappaB] 
+
+[regulation;-;up] 
+
+[and; ;Bcl-x] 
+
+[and; ;Bfl-1/A1] 
+
+[required; ;NF-kappaB-mediated up-regulation] 
+
+[required; ;is] 
+
+[required;for;CD40 survival signaling] 
+
+[signaling;survival;CD40] 
+
+[required;in;B lymphocytes] 
+

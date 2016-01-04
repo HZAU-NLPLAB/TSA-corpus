@@ -1,0 +1,12 @@
+Half of the supernatant was removed before the addition of BrefeldinA for use in an ELISA assay. 
+[supernatant; ;the@1]
+[supernatant;of@1;Half]
+[removed; ;supernatant]
+[removed; ;was]
+[removed;before;addition]
+[addition; ;the@2]
+[addition;of@2;BrefeldinA]
+[removed;for;use]
+[use;in;assay]
+[assay; ;an]
+[assay; ;ELISA]

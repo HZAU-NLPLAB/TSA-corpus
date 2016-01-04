@@ -1,0 +1,8 @@
+Functional Myc-Max heterodimer is required for activation-induced apoptosis in T cell hybridomas.
+[Myc-Max heterodimer; ;Functional]
+[required; ;Myc-Max heterodimer]
+[required; ;is]
+[required;for;apoptosis]
+[apoptosis; ;activation-induced]
+[induced;-;activation]
+[apoptosis;in;T cell hybridomas]

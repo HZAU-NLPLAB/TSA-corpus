@@ -1,0 +1,23 @@
+To investigate whether PRO51_ affected cell cycle regulation through the PRO52_ pathway in B cells, immunoblot analyses for PRO53_, PRO54_, and PRO55_ were performed on splenic PRO56_+ MACS-purified B cells.
+[analyses; ;immunoblot] 
+
+[analyses;for;PRO53_, PRO54_, and PRO55_] 
+
+[and; ;PRO53_] 
+
+[and; ;PRO54_] 
+
+[and; ;PRO55] 
+
+[performed; ;analyses] 
+
+[performed; ;were] 
+
+[performed;on;cells] 
+
+[cells; ;B] 
+
+[cells; ;MACS-purified] 
+
+[PRO56_+; ;splenic] 
+

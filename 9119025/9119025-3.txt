@@ -1,0 +1,23 @@
+HIV-1 LTR transcription is controlled by a complex array of virus-encoded and cellular proteins.
+
+
+[transcription; ;HIV-1 LTR] 
+
+[controlled; ;transcription] 
+
+[controlled; ;is] 
+
+[controlled;by;array] 
+
+[array; ;complex] 
+
+[array; ;a] 
+
+[array;of;proteins] 
+
+[proteins; ;virus-encoded and cellular] 
+
+[and; ;virus-encoded] 
+
+[and; ;cellular] 
+

@@ -1,0 +1,12 @@
+The enhancer activity of the PRE was completely suppressed when the NRE was present.
+[activity; ;The]
+[activity; ;enhancer]
+[activity;of;PRE]
+[PRE; ;the@1]
+[suppressed; ;was]
+[suppressed; ;completely]
+[suppressed; ;activity]
+[The enhancer activity of the PRE was completely suppressed;when;the NRE was present]
+[NRE; ;the@2]
+[was; ;present]
+[was; ;NRE]

@@ -1,0 +1,13 @@
+Examples for such aberrated genes are PRO18_, PRO19_, PRO20_, PRO21_, PRO22_, PRO23_, PRO24_ and PRO25_ (17-19).
+[Examples;for;genes]
+[genes; ;aberrated]
+[genes;such;PRO18_]
+[genes;such;PRO19_]
+[genes;such;PRO20_]
+[genes;such;PRO21_]
+[genes;such;PRO22_]
+[genes;such;PRO23_]
+[genes;such;PRO24_]
+[and; ;PRO25_]
+[and; ;PRO24_]
+[genes;such;PRO25_]

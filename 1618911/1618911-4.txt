@@ -1,0 +1,52 @@
+Furthermore, using DNA templates containing two copies of the PRDII domain linked to the rabbit beta globin gene, the purified polypeptides specifically stimulated NF-kappa B dependent transcription in an in vitro reconstitution assay as heterodimers but not as p50 homodimers.
+[Furthermore; ;using DNA templates containing two copies of the PRDII domain linked to the rabbit beta globin gene, the purified polypeptides specifically stimulated NF-kappa B dependent transcription in an in vitro reconstitution assay as heterodimers but not as p50 homodimers] 
+
+[using; ;templates] 
+
+[templates; ;DNA] 
+
+[containing; ;templates] 
+
+[containing; ;copies] 
+
+[copies; ;two] 
+
+[copies;of;domain] 
+
+[domain; ;the@1] 
+
+[domain; ;PRDII] 
+
+[linked; ;domain] 
+
+[linked;to;gene] 
+
+[gene; ;globin] 
+
+[polypeptides; ;the@2] 
+
+[polypeptides; ;purified] 
+
+[stimulated; ;specifically] 
+
+[stimulated; ;transcription] 
+
+[transcription; ;dependent] 
+
+[transcription; ;NF-kappa B] 
+
+[transcription;in;assay] 
+
+[assay; ;reconstitution] 
+
+[assay; ;in vitro] 
+
+[assay; ;an] 
+
+[assay;as;heterodimers] 
+
+[as heterodimers;but not;as p50 homodimers] 
+
+[homodimers; ;p50] 
+
+[homodimers; ;as]

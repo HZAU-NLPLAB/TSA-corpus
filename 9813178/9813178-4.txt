@@ -1,0 +1,29 @@
+We determined whether Hsp70 induction by TS was mediated by the activation of the HS transcription factor, HSF.
+[determined; ;We] 
+
+[determined; ;whether] 
+
+[whether; ;Hsp70 induction by TS was mediated by the activation of the HS transcription factor, HSF] 
+
+[induction; ;Hsp70] 
+
+[induction;by;TS] 
+
+[mediated; ;was] 
+
+[mediated; ;Hsp70] 
+
+[mediated;by;activation] 
+
+[activation; ;the@1] 
+
+[activation;of;HS transcription factor] 
+
+[HS transcription factor; ;the@2] 
+
+[HS transcription factor; ;HSF] 
+
+[transcription factor,; ;HS] 
+
+[factor; ;transcription] 
+

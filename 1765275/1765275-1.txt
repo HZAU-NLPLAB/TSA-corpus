@@ -1,0 +1,17 @@
+ranscription factor requirements for U2 snRNA-encoding gene activation in B lymphoid cells.
+
+
+[factor; ;Transcription] 
+
+[requirements; ;factor] 
+
+[requirements;for;activation] 
+
+[activation; ;gene] 
+
+[gene; ;U2 snRNA-encoding] 
+
+[encoding;-;snRNA] 
+
+[activation;in;B lymphoid cells] 
+

@@ -1,0 +1,10 @@
+Protein kinase C is not a downstream effector of p21ras in activated T cells.
+
+[kinase C; ;Protein]
+[is; ;effector]
+[effector; ;downstream]
+[effector; ;a]
+[effector; ;not]
+[effector;of;p21ras]
+[p21ras;in;T cells]
+[T cells; ;activated]

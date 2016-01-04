@@ -1,0 +1,16 @@
+alcium signalling in T cells stimulated by a cyclophilin B-binding protein.
+
+[signalling; ;Calcium] 
+
+[signalling;in;T cells] 
+
+[stimulated; ;signalling] 
+
+[stimulated;by;protein] 
+
+[protein; ;a] 
+
+[protein; ;cyclophilin] 
+
+[protein; ;B-binding]
+

@@ -1,0 +1,27 @@
+G28-5 IgG partially blocked, whereas G28-5 sFv augmented CD40 responses during stimulation with natural ligand (gp39-CD8 fusion protein).
+
+
+[blocked; ;partially] 
+
+[blocked; ;G28-5 IgG] 
+
+[G28-5 IgG partially blocked;whereas;G28-5 sFv augmented CD40 responses during stimulation with natural ligand (gp39-CD8 fusion protein)] 
+
+[augmented; ;G28-5 sFv] 
+
+[augmented; ;responses] 
+
+[responses; ;CD40] 
+
+[responses;during;stimulation] 
+
+[stimulation;with;ligand] 
+
+[ligand; ;natural] 
+
+[natural ligand; ;gp39-CD8 fusion protein]
+
+[protein; ;fusion] 
+
+[fusion; ;gp39-CD8] 
+

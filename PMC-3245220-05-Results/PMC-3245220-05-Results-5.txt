@@ -1,0 +1,17 @@
+Western blots of identical samples using an antibody recognizing PKCalpha demonstrated that equal amounts of PKCalpha were assayed (Figure 4, middle panel).
+[blots; ;Western]
+[blots;of;samples]
+[samples; ;identical]
+[using; ;samples]
+[using; ;antibody]
+[antibody; ;an]
+[recognizing; ;antibody]
+[recognizing; ;PKCalpha]
+[demonstrated; ;PKCalpha]
+[demonstrated; ;that]
+[that; ;equal amounts of PKCalpha were assayed]
+[amounts of; ;equal]
+[;amounts of;PKCalpha]
+[were; ;PKCalpha]
+[were; ;assayed]
+

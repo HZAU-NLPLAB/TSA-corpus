@@ -1,0 +1,8 @@
+Transcription factor NF-kappaB regulation of renal fibrosis during ureteral obstruction.
+[regulation; ;NF-kappaB]
+[NF-kappaB; ;Transcription factor]
+[factor; ;Transcription]
+[regulation;of;fibrosis]
+[fibrosis; ;renal]
+[regulation;during;ureteral obstruction]
+[obstruction; ;ureteral]

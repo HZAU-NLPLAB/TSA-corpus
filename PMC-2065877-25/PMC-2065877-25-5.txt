@@ -1,0 +1,18 @@
+
+ This analysis was repeated with PRO12_ transgenic lymphoma 4 yielding similar results.
+[repeated; ;analysis] 
+
+[repeated; ;was] 
+
+[analysis; ;This] 
+
+[repeated;with;lymphoma 4] 
+
+[lymphoma 4; ;transgenic] 
+
+[lymphoma 4; ;PRO12_] 
+
+[results; ;similar] 
+
+[results; ;yielding] 
+

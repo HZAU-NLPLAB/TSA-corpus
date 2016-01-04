@@ -1,0 +1,27 @@
+The cells were restimulated with 100 ng/ml M-CSF and total mRNA was extracted from cells with Trizol (Invitrogen) and 1-2 microg of total RNA was used to synthesized cDNA using SuperScript III (Invitrogen).
+[cells@1; ;The]
+[restimulated; ;cells@1]
+[restimulated; ;were]
+[restimulated;with@1;M-CSF]
+[M-CSF; ;100 ng/ml]
+[ng/ml; ;100]
+[and@1; ;mRNA]
+[and@1; ;M-CSF]
+[mRNA; ;total@1]
+[extracted; ;mRNA]
+[extracted; ;was@1]
+[extracted;from;cells@2]
+[cells@2;with;Trizol]
+[and@2; ;RNA]
+[and@2; ;Trizol]
+[RNA; ;total@2]
+[RNA; ;microg]
+[microg; ;1-2]
+[microg;of;RNA]
+[used; ;RNA]
+[used; ;was@2]
+[used;to;cDNA]
+[synthesized; ;cDNA) 
+[using; ;cDNA]
+[using; ;SuperScript III) 
+

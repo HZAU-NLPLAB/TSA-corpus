@@ -1,0 +1,17 @@
+
+Prior studies have identified several elements that contribute to the@1 activity of the@2 IL-2 promoter in the@3 stimulated T cell line, Jurkat.
+[studies; ;
+Prior]
+[identified; ;studies]
+[identified; ;have]
+[identified; ;elements]
+[elements; ;several]
+[elements; ;that]
+[contribute; ;that]
+[contribute;to;activity]
+[activity; ;the@1]
+[activity;of;IL-2 promoter]
+[IL-2 promoter; ;the@2]
+[IL-2 promoter;in;T cell line]
+[T cell line, Jurkat; ;the@3]
+[T cell line, Jurkat; ;stimulated]

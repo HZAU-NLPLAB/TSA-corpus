@@ -1,0 +1,13 @@
+Real-time PCR analysis of HTLV-I (PRO1_) proviral load was performed as previously described (47,50).
+[analysis; ;Real-time]
+[analysis; ;PCR]
+[analysis;of;HTLV-I]
+[analysis;of;PRO1_]
+[HTLV-I; ;PRO1_]
+[load; ;analysis]
+[load; ;proviral]
+[performed; ;load]
+[performed; ;was]
+[performed;as;described]
+[described; ;previously]
+[load; ;47,50]

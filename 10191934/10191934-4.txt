@@ -1,0 +1,21 @@
+When activated, glucocorticoid receptors form a dimer and bind to DNA after migration into the nucleus.
+[ ;When;activated] 
+
+[form; ;glucocorticoid receptors] 
+
+[form; ;dimer] 
+
+[and; ;form] 
+
+[and; ;bind] 
+
+[bind; ;glucocorticoid receptors] 
+
+[bind;to;DNA] 
+
+[bind;after;migration] 
+
+[bind;into;nucleus] 
+
+[nucleus; ;the] 
+

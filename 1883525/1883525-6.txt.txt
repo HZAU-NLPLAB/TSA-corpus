@@ -1,0 +1,11 @@
+To date, little is known about the intracellular pathway of M-CSF signal transduction.
+
+[ ;To;date]
+[known;is;little]
+[known;about;pathway]
+[pathway; ;the]
+[pathway; ;intracellular]
+[pathway;of;transduction]
+[transduction; ;signal]
+[signal; ;M-CSF]
+

@@ -1,0 +1,10 @@
+Quantitative real-time (qRT]-PCR was performed using SYBR Green Master Mix (Applied BioSystems, Carlsbad, CA).
+[[qRT]-PCR; ;real-time]
+[[qRT]-PCR; ;Quantitative]
+[performed; ;(qRT]-PCR]
+[performed; ;was]
+[performed; ;using SYBR Green Master Mix]
+[Mix; ;SYBR]
+[Mix; ;Green]
+[Mix; ;Master) 
+

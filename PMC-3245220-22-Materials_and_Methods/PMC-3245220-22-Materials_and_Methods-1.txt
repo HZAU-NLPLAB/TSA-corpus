@@ -1,0 +1,17 @@
+MDMs or RAW 264.7 cells were serum-starved overnight or for 2 hours, respectively, prior to incubating with inhibitors for 30 minutes.
+[or@1; ;MDMs]
+[or@1; ;cells]
+[cells; ;RAW 264.7]
+[serum-starved; ;cells]
+[serum-starved; ;were]
+[serum-starved; ;overnight]
+[or@2; ;overnight]
+[or@2; ;hours]
+[hours; ;2]
+[serum-starved ;for;hours]
+[prior; ;respectively]
+[prior;to;incubating]
+[incubating;with;inhibitors]
+[incubating;for;minutes]
+[minutes; ;30) 
+

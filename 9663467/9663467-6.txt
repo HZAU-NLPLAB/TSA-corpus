@@ -1,0 +1,15 @@
+Using UT-7/GMT cells, we examined how TPO promotes hemoglobinization.
+[Using; ;UT-7/GMT cells] 
+
+[cells; ;UT-7/GMT] 
+
+[examined; ;we] 
+
+[examined; ;how] 
+
+[how; ;TPO promotes hemoglobinization] 
+
+[promotes; ;TPO] 
+
+[promotes; ;hemoglobinization] 
+

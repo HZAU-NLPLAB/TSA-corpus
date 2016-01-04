@@ -1,0 +1,8 @@
+Gene expression was analysed using Stratagene (Mx3000p[TM]) (AH diagnostics). 
+[expression; ;Gene]
+[analysed; ;was]
+[analysed; ;expression]
+[analysed; ; using Stratagene]
+[using; ;Stratagene]
+[Stratagene; ;AH diagnostics]
+[diagnostics; ;AH]

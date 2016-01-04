@@ -1,0 +1,19 @@
+Arrows indicate the positions of the alpha and beta isoforms of PRO17_.
+[indicate; ;Arrows] 
+
+[indicate; ;positions] 
+
+[positions; ;the@1] 
+
+[alpha; ;the@2] 
+
+[and; ;alpha] 
+
+[positions;of;alpha] 
+
+[and; ;isoforms] 
+
+[isoforms; ;beta] 
+
+[isoforms;of;PRO17_] 
+

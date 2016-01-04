@@ -1,0 +1,29 @@
+Forced expression of E2F1 could induce expression of all members of the endogenous MCM genes in rat embryonal fibroblast REF52 cells.
+[expression; ;Forced] 
+
+[expression;of@1;E2F1] 
+
+[induce; ;expression] 
+
+[induce; ;could] 
+
+[induce; ;expression] 
+
+[expression;of@2;members] 
+
+[members; ;all] 
+
+[members;of@3;endogenous MCM genes] 
+
+[endogenous MCM genes; ;the] 
+
+[MCM genes; ;endogenous] 
+
+[induce;in;rat embryonal fibroblast REF52 cells] 
+
+[cells; ;rat] 
+
+[fibroblast; ;embryonal] 
+
+[cells;REF52;fibroblast] 
+

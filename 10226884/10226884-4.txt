@@ -1,0 +1,23 @@
+Two types of effector cells characterized by their distinct expression of cytokine profiles have been described.
+[types; ;Two] 
+
+[types;of@1;effector cells] 
+
+[cells; ;effector] 
+
+[characterized; ;types] 
+
+[characterized;by;expression] 
+
+[expression; ;their] 
+
+[expression; ;distinct] 
+
+[expression;of@2;cytokine profiles] 
+
+[profiles; ;cytokine] 
+
+[described;  ;types] 
+
+[described;been;have] 
+

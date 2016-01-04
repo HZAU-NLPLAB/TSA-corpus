@@ -1,0 +1,31 @@
+Human peripheral B cells became capable of constitutively producing p40 by in vitro transformation with EBV, coincident with the expression of latent membrane protein 1 (LMP1) of EBV.
+[became; ;Human peripheral B cells] 
+
+[B cells;peripheral;Human]
+
+[became; ;capable] 
+
+[capable;of@1;p40] 
+
+[producing; ;constitutively] 
+
+[p40; ;producing] 
+
+[p40;by;in vitro transformation] 
+
+[in vitro transformation;with;EBV] 
+
+[became; ;coincident] 
+
+[coincident;with;expression] 
+
+[expression; ;the] 
+
+[expression;of@2;latent membrane protein 1 (LMP1)] 
+
+[latent membrane protein 1; ;LMP1] 
+
+[protein 1;membrane;latent] 
+
+[latent membrane protein 1;of@3;EBV]
+

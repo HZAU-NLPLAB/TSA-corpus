@@ -1,0 +1,10 @@
+Lymphoid differentiation is one of the best studied examples of mammalian development. 
+[is; ;Lymphoid differentiation]
+[differentiation; ;Lymphoid]
+[is; ;one]
+[one;of@1;examples]
+[examples; ;the]
+[examples; ;best]
+[examples; ;studied]
+[examples;of@2;mammalian development]
+[development; ; mammalian]

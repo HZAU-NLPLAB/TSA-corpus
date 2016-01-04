@@ -1,0 +1,33 @@
+In contrast, the characterization of transcription factors selectively regulating cytokine production by CD4+ T cell subsets is at a very early stage.
+[ ;In;contrast] 
+
+[characterization; ;the] 
+
+[characterization;of;transcription factors] 
+
+[regulating; ;transcription factors] 
+
+[factors; ;transcription] 
+
+[regulating; ;selectively] 
+
+[regulating; ;production] 
+
+[production; ;cytokine] 
+
+[regulating;by;subsets] 
+
+[subsets; ;T cell] 
+
+[subsets; ;CD4+] 
+
+[is; ;characterization] 
+
+[is;at;stage] 
+
+[stage; ;at a] 
+
+[stage; ;early] 
+
+[early; ;very] 
+

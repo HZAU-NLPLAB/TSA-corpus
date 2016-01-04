@@ -1,0 +1,45 @@
+Phosphorylated PRO34_, PRO35_, and total PRO36_ were not detectable past 1 muM and at higher doses all protein levels were greatly decreased, indicative of the total loss of viability (Figure 8).
+[PRO34_, PRO35_, and total PRO36_; ;Phosphorylated] 
+
+[and; ;PRO34_]
+[and; ;PRO35_]
+
+[and; ;PRO36_] 
+
+[PRO36_; ;total] 
+
+[were; ;PRO34_, PRO35_, and total PRO36_] 
+
+[were; ;detectable] 
+
+[were; ;not] 
+
+[detectable;past;muM] 
+
+[muM; ;1] 
+
+[and; ;Phosphorylated PRO34_, PRO35_, and total PRO36_ were not detectable past 1 muM] 
+
+[and; ;at higher doses all protein levels were greatly decreased, indicative of the total loss of viability] 
+
+[levels; ;protein] 
+
+[levels; ;all] 
+
+[were; ;levels] 
+
+[were; ;decreased] 
+
+[decreased; ;greatly] 
+
+[decreased,;at;doses] 
+
+[doses; ;higher] 
+
+[indicative;of;loss] 
+
+[loss; ;total] 
+
+[loss; ;the] 
+
+[loss;of;viability]

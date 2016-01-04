@@ -1,0 +1,28 @@
+
+Retinoid-like receptors play a central role in hormonal responses by forming heterodimers with other nuclear hormone receptors.
+[play; ;Retinoid-like receptors] 
+
+[receptors; ;Retinoid-like] 
+
+[like;-;Retinoid] 
+
+[play; ;role] 
+
+[role; ;a] 
+
+[role; ;central] 
+
+[role;in;hormonal responses] 
+
+[play;by;forming] 
+
+[forming; ;heterodimers] 
+
+[heterodimers;with;nuclear hormone receptors] 
+
+[nuclear hormone receptors; ;other] 
+
+[receptors; ;nuclear hormone] 
+
+[hormone; ;nuclear] 
+

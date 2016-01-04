@@ -1,0 +1,47 @@
+The previously defined minimal enhancer containing the muA, muE3, and muB sites is transactivated by a combination of the ETS-domain proteins PU.1 and Ets-1 in nonlymphoid cells.
+
+
+[enhancer; ;The] 
+
+[enhancer; ;minimal] 
+
+[enhancer; ;defined] 
+
+[defined; ;previously] 
+
+[containing; ;enhancer] 
+
+[containing; ;sites] 
+
+[sites; ;the@1] 
+
+[sites; ;muA, muE3, and muB] 
+
+[and; ;muA ]
+
+[and@1; ;muE3] 
+
+[and@1; ;muB] 
+
+[transactivated; ;sites] 
+
+[transactivated; ;is] 
+
+[transactivated;by;combination] 
+
+[combination; ;a]
+
+[combination;of;ETS-domain proteins PU.1]  
+
+[ETS-domain proteins PU.1; ;the@2] 
+
+[PU.1;  ;proteins]
+[and@2; ;ETS-domain proteins PU.1]
+[and@2; ;Ets-1] 
+
+[Ets-1;in;cells]
+[cells; ;nonlymphoid]
+[proteins; ;ETS-domain] 
+
+[domain;-;ETS] 
+

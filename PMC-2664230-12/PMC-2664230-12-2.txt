@@ -1,0 +1,59 @@
+The addition PTX to LPS-stimulated cells resulted in a reduction in PRO3_, similar to that observed in our previous experiments (529 pg/mL +/- 112 vs, 37 pg/mL +/- 10; P < 0,01).
+[addition; ;The@1] 
+
+[addition; ;PTX] 
+
+[PTX;to;cells]
+
+[cells; ;LPS-stimulated] 
+
+[stimulated;-;LPS] 
+
+[resulted; ;cells] 
+
+[resulted;in;reduction] 
+
+[reduction; ;a] 
+
+[reduction;in;PRO3_] 
+
+[similar;to;that] 
+
+[that; ;observed in our previous experiments (529 pg/mL +/- 112 vs, (37 pg/mL +/- 10; P < 0,01)] 
+
+[observed;in;experiments] 
+
+[experiments; ;previous] 
+
+[experiments; ;our] 
+
+[pg/mL; ;529]
+
+[vs; ;112] 
+
+[+/-; ;pg/mL] 
+
+[+/-; ;vs] 
+
+[/; ;+] 
+
+[/; ;-] 
+
+[+/-; ;pg/mL] 
+
+[+/-; ;10] 
+
+[pg/mL; ;37] 
+
+[/; ;pg]
+
+[/; ;mL] 
+
+[/; ;pg] 
+
+[/; ;mL]
+
+[/; ;-] 
+
+[P;<;0.01] 
+

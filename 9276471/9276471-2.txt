@@ -1,0 +1,24 @@
+
+Phagocytosis represents an important physiological trigger for the inducible expression of several genes in human neutrophils.
+[represents; ;Phagocytosis] 
+
+[represents; ;trigger] 
+
+[trigger; ;an] 
+
+[trigger; ;important] 
+
+[trigger; ;physiological] 
+
+[trigger;for;expression] 
+
+[expression; ;inducible] 
+
+[expression;of;genes] 
+
+[genes; ;several] 
+
+[expression;in;human neutrophils] 
+
+[neutrophils; ;human] 
+

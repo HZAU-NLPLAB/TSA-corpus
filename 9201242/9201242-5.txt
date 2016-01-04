@@ -1,0 +1,31 @@
+No virus replication and no transcription of the Ad2 early genes was observed in either of the cells.
+
+
+[replication; ;No] 
+
+[replication; ;virus] 
+
+[transcription; ;no] 
+
+[and; ;replication] 
+
+[and; ;transcription] 
+
+[transcription;of;genes] 
+
+[genes; ;the@1] 
+
+[genes; ;Ad2] 
+
+[genes; ;early] 
+
+[observed; ;genes] 
+
+[observed; ;was] 
+
+[observed;in;either] 
+
+[either;of;cells]  
+
+[cells;  ;the@2] 
+

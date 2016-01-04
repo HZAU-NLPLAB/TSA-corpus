@@ -1,0 +1,38 @@
+In the examination of the induction of autoimmunity in transgenic mice, evidence has been obtained further implicating the lymphokine interferon-gamma in the etiology of autoimmunity.
+
+
+[ ;In;examination] 
+
+[examination; ;the@1] 
+
+[examination;of@1;induction] 
+
+[induction; ;the@2] 
+
+[induction;of@2;autoimmunity] 
+
+[autoimmunity;in@1;mice] 
+
+[mice; ;transgenic] 
+
+[obtained; ;evidence] 
+
+[obtained; ;has] 
+
+[obtained; ;been] 
+
+[implicating; ;evidence] 
+
+[implicating; ;further] 
+
+[implicating; ;lymphokine interferon-gamma] 
+
+[lymphokine interferon-gamma; ;the@3] 
+
+[interferon-gamma; ;lymphokine] 
+
+[interferon-gamma;in;etiology] 
+
+[etiology; ;the@4] 
+
+[etiology;of@3;autoimmunity]

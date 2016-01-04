@@ -1,0 +1,7 @@
+NA Isolation and Quantitative Real-time PCR.
+[Isolation; ;RNA]
+[and; ;Isolation]
+[and; ;PCR]
+[PCR; ;Real-time]
+[PCR; ;Quantitative) 
+

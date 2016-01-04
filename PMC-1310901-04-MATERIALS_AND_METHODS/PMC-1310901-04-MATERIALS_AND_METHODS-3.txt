@@ -1,0 +1,7 @@
+The products were cloned with the 'TOPO TA cloning kit' (Invitrogen, Groningen, The Netherlands).
+[products; ;The]
+[cloned; ;products) 
+[cloned; ;were]
+[cloned;with;cloning kit']
+[cloning kit'; ;TOPO TA]
+[TOPO TA cloning kit'; ;Invitrogen, Groningen, The Netherlands]

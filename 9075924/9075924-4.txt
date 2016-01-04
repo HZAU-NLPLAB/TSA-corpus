@@ -1,0 +1,50 @@
+The hypothesis that the nuclear factor of activated T cells (NF-AT) may influence HIV-1 replication is therefore compelling given the tight correlation of HIV-1 transcriptional induction to T cell activation.
+
+
+[hypothesis; ;The]
+
+[hypothesis; ;that] 
+
+[that; ;the nuclear factor of activated T cells (NF-AT) may influence HIV-1 replication is therefore compelling given the tight correlation of HIV-1 transcriptional induction to T cell activation] 
+
+[factor; ;the@1] 
+
+[factor; ;nuclear] 
+
+[factor;of@1;T cells@1] 
+
+[T cells@1; ;activated] 
+
+[nuclear factor of activated T cells; ;NF-AT] 
+
+[influence; ;NF-AT] 
+
+[influence; ;may] 
+
+[influence; ;replication] 
+
+[replication; ;HIV-1] 
+
+[given; ;that] 
+
+[given; ;is] 
+
+[given; ;therefore] 
+
+[given; ;compelling] 
+
+[given; ;correlation] 
+
+[correlation; ;the@2] 
+
+[correlation; ;tight] 
+
+[correlation;of@2;induction] 
+
+[induction; ;transcriptional] 
+
+[induction; ;HIV-1] 
+
+[induction;to;activation] 
+
+[activation; ;T cell]

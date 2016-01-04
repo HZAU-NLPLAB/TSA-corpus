@@ -1,0 +1,31 @@
+Ligand activation of c-ErbB induced the tyrosine phosphorylation, DNA-binding, and reporter gene transcription of Stat 5b in erythroblasts.
+
+
+[activation; ;Ligand] 
+
+[activation;of@1;c-ErbB] 
+
+[induced; ;activation] 
+
+[induced; ;phosphorylation] 
+
+[phosphorylation; ;the] 
+
+[phosphorylation; ;tyrosine] 
+
+[and; ;phosphorylation] 
+
+[and; ;DNA-binding] 
+
+[and; ;transcription] 
+
+[binding;-;DNA] 
+
+[reporter; ;gene transcription] 
+
+[transcription; ;gene] 
+
+[transcription;of@2;Stat 5b] 
+
+[Stat 5b;in;erythroblasts]  
+

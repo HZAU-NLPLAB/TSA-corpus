@@ -1,0 +1,42 @@
+
+The HIV-1 accessory gene product Vpr can influence viral pathogenesis by affecting viral replication as well as host cell transcription and proliferation.
+[Vpr; ;accessory gene product] 
+
+[Vpr; ;HIV-1] 
+
+[Vpr; ;The] 
+
+[gene product; ;accessory] 
+
+[product; ;gene] 
+
+[influence; ;can] 
+
+[influence; ;Vpr] 
+
+[influence; ;pathogenesis] 
+
+[pathogenesis; ;viral@1] 
+
+[influence;by;affecting] 
+
+[affecting; ;viral replication] 
+
+[affecting; ;host cell transcription and proliferation] 
+
+[as well as; ;viral replication] 
+
+[as well as; ;host cell transcription and proliferation] 
+
+[replication; ;viral@2] 
+
+[transcription; ;host cell] 
+
+[proliferation; ;host cell] 
+
+[cell; ;host] 
+
+[and; ;transcription] 
+
+[and; ;proliferation] 
+

@@ -1,0 +1,17 @@
+Affinity-driven peptide selection of an NFAT inhibitor more selective than cyclosporin A [see comments].
+[Affinity-driven peptide selection;of;NFAT inhibitor] 
+
+[selection; ;Affinity-driven] 
+
+[selection; ;peptide] 
+
+[NFAT inhibitor; ;an] 
+
+[inhibitor; ;NFAT] 
+
+[selective; ;more]
+
+[selective;than;cyclosporin A] 
+
+[selective; ;Affinity-driven peptide selection] 
+

@@ -1,0 +1,22 @@
+After short-term, in vitro exposure to therapeutical levels, distinct changes in P-glycoprotein, steroid receptors, p53 and Bcl-2 expression take place.
+
+[in vitro exposure to therapeutical levels;After;short-term]
+[term;-;short]
+[ ;in@1;exposure]
+[exposure;to;levels]
+[levels; ;therapeutical]
+[changes; ;distinct]
+[changes;in@2;P-glycoprotein]
+[glycoprotein;-;P]
+[,,and; ;P-glycoprotein]
+[,,and; ;receptors]
+[receptors; ;steroid]
+[,,and; ;p53]
+[,,and; ;Bcl-2]
+[expression; ;Bcl-2]
+[expression; ;P53]
+[expression; ;receptors]
+[expression; ;P-glycoprotein]
+[take place; ;expression]
+
+

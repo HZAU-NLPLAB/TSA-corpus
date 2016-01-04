@@ -1,0 +1,33 @@
+We show that increased transcription of the NF-IL6 gene is responsible, at least in part, for induction of NF-IL6 mRNA following activation of U937 promonocytic cells.
+[show; ;We] 
+
+[show; ;that] 
+
+[that; ;increased transcription of@1 the NF-IL6 gene is responsible, at least in part, for induction of@2 NF-IL6 mRNA following activation of@3 U937 promonocytic cells] 
+
+[transcription; ;increased] 
+
+[transcription;of@1;NF-IL6 gene] 
+
+[NF-IL6 gene; ;the] 
+
+[is; ;transcription]
+
+[is; ;responsible] 
+
+[ ;at least;for induction of@2 NF-IL6 mRNA following activation of@3 U937 promonocytic cells 
+]
+[ ;in part;for induction of@2 NF-IL6 mRNA following activation of@3 U937 promonocytic cells] 
+
+[responsible;for;induction] 
+
+[induction;of@2;NF-IL6 mRNA] 
+
+[following; ;NF-IL6 mRNA] 
+
+[following; ;activation] 
+
+[activation;of@3;U937 promonocytic cells] 
+
+[cells;promonocytic;U937] 
+

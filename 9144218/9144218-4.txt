@@ -1,0 +1,39 @@
+BEAD-1 blocked the ability of the TCR delta enhancer (Edelta) to activate a promoter when located between the two in a chromatin-integrated construct.
+
+
+[blocked; ;BEAD-1] 
+
+[blocked; ;ability] 
+
+[ability; ;the@1] 
+
+[ability;of;TCR delta enhancer] 
+
+[enhancer; ;delta] 
+
+[enhancer; ;TCR] 
+
+[enhancer; ;the@2] 
+
+[enhancer; ;Edelta] 
+
+[enhancer;to;activate] 
+
+[activate; ;promoter] 
+
+[promoter; ;a@1] 
+
+[BEAD-1 blocked the ability of the TCR delta enhancer (Edelta) to activate a promoter;when;located between the two in a chromatin-integrated construct]  
+
+[located;between;two] 
+
+[two; ;the@3] 
+
+[two;in;construct]  
+
+[construct;  ;chromatin-integrated] 
+
+[chromatin;-;integrated] 
+
+[construct; ;a@2] 
+

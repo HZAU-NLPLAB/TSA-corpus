@@ -1,0 +1,14 @@
+The other factor bound to a putative AP-1 recognition sequence predicted for the HIV-1 NRE.
+
+[factor; ;other]
+[factor; ;The]
+[bound; ;factor]
+[bound;to;sequence]
+[sequence; ;recognition]
+[recognition; ;AP-1]
+[AP-1; ;putative]
+[sequence; ;a]
+[predicted; ;sequence]
+[predicted;for;NRE]
+[NRE; ;the]
+[NRE; ;HIV-1]

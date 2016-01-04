@@ -1,0 +1,9 @@
+We show that M-CSF activates and translocates PKC.
+
+[show; ;We]
+[show; ;that]
+[that; ;M-CSF activates and translocates PKC]
+[activates; ;M-CSF]
+[and; ;activates]
+[and; ;translocates]
+[translocates; ;PKC]

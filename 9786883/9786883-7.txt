@@ -1,0 +1,67 @@
+Thus our data demonstrate that BLR1 is a target gene for Oct-2, Bob1, and members of the NF-kappaB/Rel family and provides a link to the impaired B cell functions in mice deficient for these factors.
+[our data demonstrate that BLR1 is a target gene for Oct-2, Bob1, and members of the NF-kappaB/Rel family and provides a link to the impaired B cell functions in mice deficient for these factors; ;Thus] 
+
+[data; ;our] 
+
+[demonstrate; ;data] 
+
+[demonstrate; ;that] 
+
+[that; ;BLR1 is a target gene for Oct-2, Bob1, and members of the NF-kappaB/Rel family and provides a link to the impaired B cell functions in mice deficient for these factors] 
+
+[is; ;BLR1] 
+
+[is; ;gene] 
+
+[gene; ;a@1] 
+
+[gene; ;target] 
+
+[gene;for;Oct-2] 
+
+[gene;for;Bob1] 
+
+[gene;for;members] 
+
+[and@1; ;Oct-2] 
+
+[and@1; ;Bob1] 
+
+[and@1; ;members] 
+
+[members;of;NF-kappaB/Rel family] 
+
+[NF-kappaB/Rel family; ;the@1] 
+
+[family; ;NF-kappaB/Rel] 
+
+[/; ;NF-kappaB] 
+
+[/; ;Rel] 
+
+[and@2; ;is] 
+
+[and@2; ;provides] 
+
+[provides; ;BLR1] 
+
+[provides; ;link] 
+
+[link; ;a@2] 
+
+[link;to;B cell functions] 
+
+[B cell functions; ;impaired] 
+
+[B cell functions; ;the@2] 
+
+[functions; ;B cell]
+
+[link;in;mice] 
+
+[deficient; ;mice] 
+
+[deficient;for;factors] 
+
+[factors; ;these] 
+

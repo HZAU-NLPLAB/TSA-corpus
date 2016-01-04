@@ -1,0 +1,65 @@
+Although the PRO2_-PRO3_ translocation has been shown to be the causative genetic aberration in chronic myeloid leukemia (CML), there is mounting evidence that the deregulation of other genes, such as the transcription factor PRO4_ (PRO5_), is also implicated in the pathogenesis of CML.
+[Although; ; the PRO2_-PRO3_ translocation has been shown to be the causative genetic aberration in chronic myeloid leukemia (CML]]
+
+[Although; ; there is mounting evidence that the deregulation of other genes, such as the transcription factor PRO4_ (PRO5_), is also implicated in the pathogenesis of CML)  
+
+[PRO2_-PRO3_ translocation; ; the 
+]
+[translocation; ; PRO2_-PRO3_) 
+
+[shown; ; PRO2_-PRO3_ translocation]
+
+[shown; ; has been) 
+
+[shown;to ;be) 
+
+[be; ; aberration) 
+
+[aberration; ; the) 
+
+[aberration; ; causative]
+
+[aberration; ; genetic) 
+
+[be;in ;chronic myeloid leukemia) 
+
+[be;in ;CML) 
+
+[chronic myeloid leukemia; ;  CML) 
+
+[is; ; there) 
+
+[is; ; mounting evidence) 
+
+[evidence; ; mounting) 
+
+[mounting evidence; ; that) 
+
+[that; ; is  implicated) 
+
+[deregulation; ; the) 
+
+[deregulation;of; genes) 
+
+[genes; ; other) 
+
+[genes; ; such as) 
+
+[such as; ; the transcription factor PRO4_) 
+
+[such as; ; PRO5_) 
+
+[PRO4_; ; PRO5_) 
+
+[factor; ; transcription) 
+
+[implicated; ; is) 
+
+[implicated; ; also) 
+
+[implicated;in; the pathogenesis) 
+
+[pathogenesis; ; the) 
+
+[pathogenesis;of; CML)  
+

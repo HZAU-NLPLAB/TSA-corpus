@@ -1,0 +1,51 @@
+Minimizing energy studies of BMT structure reveal that a trans-disulfide of thiamine (holo drug) disulfide (TDS, protodrug) is allosterically transited to the reactive twisted disulfide of BMT (allo drug) by o,o'-bismyristoyl esterification of TDS.
+[studies; ;energy] 
+
+[studies; ;Minimizing] 
+
+[studies;of@1;structure] 
+
+[structure; ;BMT] 
+
+[reveal; ;studies] 
+
+[reveal; ;that] 
+
+[that; ;a trans-disulfide of thiamine (holo drug) disulfide (TDS, protodrug) is allosterically transited to the reactive twisted disulfide of BMT (allo drug) by o,o'-bismyristoyl esterification of TDS] 
+
+[trans-disulfide; ;a] 
+
+[trans-disulfide;of@2;thiamine (holo drug) disulfide (TDS, protodrug)] 
+
+[thiamine; ;holo drug]
+
+[drug@1; ;holo]
+
+[disulfide; ;TDS] 
+
+[disulfide; ;protodrug] 
+
+[transited; ;allosterically] 
+
+[transited; ;is] 
+
+[transited; ;trans-disulfide] 
+
+[transited;to;reactive twisted disulfide] 
+
+[reactive twisted disulfide; ;the] 
+
+[reactive twisted disulfide;of@3;BMT] 
+
+[disulfide; ;twisted] 
+
+[disulfide; ;reactive] 
+
+[BMT; ;allo drug] 
+
+[drug@2; ;allo] 
+
+[transited;by;o,o'-bismyristoyl esterification] 
+
+[o,o'-bismyristoyl esterification;of@4;TDS] 
+

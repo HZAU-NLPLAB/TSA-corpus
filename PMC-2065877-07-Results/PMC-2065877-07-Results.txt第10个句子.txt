@@ -1,0 +1,19 @@
+To identify other potential PRO27_ targets, immunoblot analysis for PRO28_ was performed.
+[analysis; ;immunoblot] 
+
+[analysis;for;PRO28_]
+
+[performed; ;analysis] 
+
+[performed; ;was] 
+
+[performed;To;identify] 
+
+[identify; ;targets] 
+
+[targets,; ;PRO27_] 
+
+[targets,; ;potential] 
+
+[targets,; ;other] 
+

@@ -1,0 +1,15 @@
+The crux of transcriptional activation is how the locus control region communicates with the gene-proximal regulatory elements.
+
+[crux; ;The]
+[crux;of;activation]
+[activation; ;transcriptional]
+[is; ;how]
+[how; ;the locus control region communicates with the gene-proximal regulatory elements.]
+[region; ;control]
+[control; ;locus]
+[region; ;the]
+[communicates; ;region]
+[communicates;with;elements]
+[elements; ;regulatory]
+[regulatory; ;gene-proximal]
+[proximal;-;gene]

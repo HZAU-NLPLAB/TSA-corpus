@@ -1,0 +1,7 @@
+All other antibodies used were described  (6).
+[antibodies; ;All]
+[antibodies; ;other]
+[used; ;antibodies]
+[described; ;were]
+[described; ;antibodies)   
+[described; ;previously]

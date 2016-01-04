@@ -1,0 +1,29 @@
+nduction of nuclear factor kappa B/Rel nuclear activity in human peripheral blood T lymphocytes by anti-HLA class I monoclonal antibodies.
+[Induction;of;nuclear activity] 
+
+[nuclear activity; ;nuclear factor kappa B/Rel] 
+
+[activity; ;nuclear@1] 
+
+[kappa B/Rel; ;nuclear factor] 
+
+[factor; ;nuclear@1] 
+
+[/; ;kappa B] 
+
+[/; ;Rel] 
+
+[Induction;in;human peripheral blood T lymphocytes] 
+
+[T lymphocytes; ;human] 
+
+[T lymphocytes; ;peripheral blood] 
+
+[blood; ;peripheral] 
+
+[Induction;by;anti-HLA class I monoclonal antibodies] 
+
+[monoclonal antibodies; ;anti-HLA class I] 
+
+[antibodies; ;monoclonal] 
+

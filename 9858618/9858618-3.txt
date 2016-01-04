@@ -1,0 +1,23 @@
+The master switch for the expression of these genes is the class II transactivator (CIITA).
+master switch; ;The@1 
+
+[switch; ;master] 
+
+[master switch;for;expression] 
+
+[expression; ;the@2] 
+
+[expression;of;genes] 
+
+[genes; ;these] 
+
+[is; ;master switch] 
+
+[is; ;class II transactivator] 
+
+[class II transactivator; ;the@3] 
+
+[class II transactivator; ;CIITA] 
+
+[transactivator; ;class II] 
+

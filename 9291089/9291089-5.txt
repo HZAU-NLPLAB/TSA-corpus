@@ -1,0 +1,36 @@
+Few of these factors are expressed exclusively in myeloid cells; instead it appears that they cooperatively regulate transcription of myeloid-specific genes.
+[factors; ;Few of] 
+
+[factors; ;these] 
+
+[expressed; ;are] 
+
+[expressed; ;factors] 
+
+[expressed; ;exclusively] 
+
+[expressed;in;myeloid cells] 
+
+[cells; ;myeloid@2]
+[Few of these factors are expressed exclusively in myeloid cells;instead;it appears that they cooperatively regulate transcription of myeloid-specific genes] 
+
+[appears; ;it] 
+
+[appears; ;that] 
+
+[that; ;they cooperatively regulate transcription of myeloid-specific genes] 
+
+[regulate; ;cooperatively] 
+
+[regulate; ;they] 
+
+[regulate; ;transcription] 
+
+[transcription;of;myeloid-specific genes] 
+
+[they; ;factors] 
+
+[genes; ;myeloid-specific 
+
+[specific;-;myeloid@2] 
+

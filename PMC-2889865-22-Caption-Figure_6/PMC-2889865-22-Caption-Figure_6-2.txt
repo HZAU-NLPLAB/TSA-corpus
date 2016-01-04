@@ -1,0 +1,11 @@
+[A) PRO1_ expression was inhibited in a dose-dependent manner by both inhibitors. 
+[PRO1_; ;[A]]
+[expression; ;PRO1_]
+[inhibited; ;was]
+[inhibited; ;expression]
+[inhibited;in;manner]
+[manner; ;a]
+[manner; ;dose-dependent]
+[dependent;-;dose]
+[inhibited;by;inhibitors]
+[inhibitors; ;both]

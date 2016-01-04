@@ -1,0 +1,31 @@
+n enhancer-blocking element between alpha and delta gene segments within the human T cell receptor alpha/delta locus.
+
+
+[element; ;An] 
+
+[element; ;enhancer-blocking] 
+
+[blocking; ;enhancer] 
+
+[between...and; ;alpha@1] 
+
+[between...and; ;delta@1] 
+
+[gene segments; ;alpha@1 and delta@1] 
+
+[segments; ;gene] 
+
+[segments;within;locus]  
+
+[locus;  ;the] 
+
+[locus;  ;alpha@2/delta@2] 
+
+[locus; ;receptor] 
+
+[receptor; ;T cell] 
+
+[/; ;alpha@2] 
+
+[/; ;delta@2] 
+

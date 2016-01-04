@@ -1,0 +1,32 @@
+
+The expression of the hematopoietic transcription factors GATA-1, GATA-2, and GATA-3 was studied in eosinophils and basophils.
+
+
+[expression; ;The] 
+
+[expression;of;factors] 
+
+[factors; ;transcription] 
+
+[factors; ;hematopoietic] 
+
+[factors; ;the] 
+
+[transcription factors; ;GATA-1, GATA-2, and GATA-3] 
+
+[and@1; ;GATA-1] 
+
+[and@1; ;GATA-2] 
+
+[and@1; ;GATA-3] 
+
+[studied; ;factors] 
+
+[studied; ;was] 
+
+[studied;in;eosinophils and basophils]
+
+[and@2; ;eosinophils] 
+
+[and@2; ;basophils]  
+

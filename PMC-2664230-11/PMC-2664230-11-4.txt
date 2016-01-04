@@ -1,0 +1,28 @@
+When LPS and PTX exposure occurred simultaneously, CREB phosphorylation was significantly higher than with LPS stimulation alone (543 +/- 92 vs).
+[When; ;LPS and PTX exposure occurred simultaneously] 
+[and@1; ;LPS] 
+
+[and@1; ;PTX] 
+
+[occurred; ;exposure] 
+
+[exposure; ;LPS and PTX] 
+
+[occurred; ;simultaneously] 
+
+[phosphorylation; ;CREB]
+
+[was; ;phosphorylation] 
+
+[was; ;higher] 
+
+[higher; ;significantly] 
+
+[higher;than;stimulation] 
+
+[higher;with;stimulation] 
+
+[stimulation; ;LPS] 
+
+[stimulation; ;alone] 
+

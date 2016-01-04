@@ -1,0 +1,40 @@
+Taken together, these results demonstrate that MyD88 is a critical component in the signaling cascade that is mediated by IL-1 receptor as well as IL-18 receptor.
+[these results demonstrate that MyD88 is a critical component in the signaling cascade that is mediated by IL-1 receptor as well as IL-18 receptor; ;Taken together] 
+
+[together; ;Taken]
+[results; ;these] 
+
+[demonstrate; ;results] 
+
+[demonstrate; ;that] 
+
+[that; ;MyD88 is a critical component in the signaling cascade that is mediated by IL-1 receptor as well as IL-18 receptor]    
+
+[is; ;MyD88]
+
+[is; ;component] 
+
+[component; ;a] 
+
+[component; ;critical] 
+
+[component;in;cascade] 
+
+[cascade;;signaling] 
+
+[cascade; ;the] 
+
+[cascade; ;that] 
+
+[mediated; ;is] 
+
+[mediated; ;that] 
+
+[mediated;by;receptor] 
+
+[receptor; ;IL-1] 
+
+[mediated;as well as;receptor] 
+
+[receptor; ;IL-18] 
+

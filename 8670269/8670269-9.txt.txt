@@ -1,0 +1,17 @@
+We raise the hypothesis that delta Spi-B might affect Spi-B function by recruiting factors involved in Spi-B activity.
+
+[raise; ;We]
+[raise; ;hypothesis]
+[hypothesis; ;the]
+[hypothesis; ;that]
+[that; ;delta Spi-B@1 might affect Spi-B@2 function]
+[Spi-B@1; ;delta]
+[affect; ;Spi-B@1]
+[affect; ;might]
+[affect; ;function]
+[function; ;Spi-B@2]
+[affect;by;recruiting]
+[recruiting; ;factors]
+[involved; ;factors]
+[involved;in;activity]
+[activity; ;Spi-B@3]

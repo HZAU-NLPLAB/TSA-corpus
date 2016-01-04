@@ -1,0 +1,13 @@
+Thus, OBF-1 has all the properties expected for a B cell-specific transcriptional coactivator protein. 
+[OBF-1 has all the properties expected for a B cell-specific transcriptional coactivator protein; ;Thus]
+[has; ;OBF-1]
+[has; ;properties]
+[properties; ;all]
+[properties; ;the]
+[expected; ;properties]
+[expected;for;B cell-specific transcriptional coactivator protein]
+[B cell-specific transcriptional coactivator protein; ;a]
+[protein; ;coactivator]
+[coactivator; ;transcriptional]
+[coactivator; ;B cell-specific]
+[B cell;-;specific]

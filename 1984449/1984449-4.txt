@@ -1,0 +1,33 @@
+PMA treatment, and not retinoic acid treatment of the U937 cells acts in inducing NF-KB expression in the nuclei.
+
+
+[treatment@1; ;PMA] 
+
+[and; ;treatment@1] 
+
+[and; ;treatment@2] 
+
+[treatment@2; ;acid] 
+
+[treatment@2; ;retinoic] 
+
+[treatment@2; ;not] 
+
+[treatment;of;U937 cells acts] 
+
+[acts; ;cells] 
+
+[cells; ;U937] 
+
+[acts; ;the@1] 
+
+[acts;in@1;inducing] 
+
+[inducing; ;expression] 
+
+[expression; ;NF-KB] 
+
+[expression;in@2;nuclei] 
+
+[nuclei; ;the@2] 
+

@@ -1,0 +1,28 @@
+Additionally, activated PRO6_ is frequently detected in NPC and the neoplastic Reed-Sternberg cells of classical HD (39,40).
+Additionally; ;activated PRO6_ is frequently detected in NPC and the neoplastic Reed-Sternberg cells of classical HD (39,40)]  
+
+[PRO6_; ;activated] 
+  
+[detected; ;PRO6_]
+
+[detected; ;is] 
+
+[detected; ;frequently] 
+
+[detected;in;NPC]
+[detected;in;cells] 
+
+[and; ;NPC] 
+
+[and; ;cells] 
+
+[cells; ;the] 
+
+[cells; ;Reed-Sternberg] 
+
+[cells; ;neoplastic] 
+
+[cells;of;HD (39,40)]  
+
+[HD (39,40); ;classical] 
+

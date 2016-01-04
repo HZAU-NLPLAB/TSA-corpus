@@ -1,0 +1,31 @@
+Retinoic acid can directly modulate gene expression via binding to its nuclear receptors, which can, in turn, activate transcription of target genes.
+[acid; ;Retinoic] 
+
+[modulate; ;Retinoic acid] 
+
+[modulate; ;directly] 
+
+[modulate; ;gene expression] 
+
+[modulate;via;binding] 
+
+[binding;to;receptors] 
+
+[receptors; ;its] 
+
+[receptors; ;nuclear]
+
+[receptors; ;which] 
+
+[activate; ;which] 
+
+[activate; ;can] 
+
+[activate;in;turn] 
+
+[activate; ;transcription] 
+
+[[transcription;of;target genes] 
+
+[genes; ;target] 
+

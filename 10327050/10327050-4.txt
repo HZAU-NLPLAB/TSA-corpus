@@ -1,0 +1,21 @@
+In this study, we examined the transcriptional activities of isolated human MCM gene promoters.
+[ ;In;study] 
+
+[study; ;this] 
+
+[examined; ;we] 
+
+[examined; ;activities] 
+
+[activities; ;the] 
+
+[activities; ;transcriptional] 
+
+[activities;of;isolated human MCM gene promoters] 
+
+[gene; ;isolated] 
+
+[gene;MCM;human] 
+
+[promoters; ;human MCM gene] 
+

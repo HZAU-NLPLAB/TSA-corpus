@@ -1,0 +1,8 @@
+NFAT activation is mediated in part by induced nuclear import. 
+[activation; ;NFAT]
+[mediated; ;activation]
+[mediated; ;is]
+[mediated; ;in part]
+[mediated;by;nuclear import]
+[nuclear import; ;induced]
+[import; ;nuclear]

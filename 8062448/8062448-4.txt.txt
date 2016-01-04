@@ -1,0 +1,17 @@
+Induction of HIV-1-LTR-driven transcription in THP-1 cells by superantigens was associated with the induction of nuclear factor-kappa B DNA-binding activity.
+
+[Induction;of@1;transcription]
+[transcription; ;HIV-1-LTR-driven]
+[driven;-;LTR]
+[LTR;-;HIV-1]
+[transcription;in;cells]
+[cells; ;THP-1]
+[cells;by;superantigens]
+[associated;was;cells]
+[associated;with;induction]
+[induction;of@2;activity]
+[activity; ;DNA-binding]
+[binding;-;DNA]
+[DNA-binding; ;factor-kappa B]
+[kappa;-;factor]
+[factor-kappa B; ;nuclear]

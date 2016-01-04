@@ -1,0 +1,10 @@
+In transgenic mice, PRO6_ promotes increased lymphoma development by 12 mo of age.
+[$;In;transgenic mice]
+[mice; ;transgenic]
+[promotes; ;PRO6_]
+[promotes; ;development]
+[development; ;increased]
+[development; ;lymphoma]
+[promotes;by;12 mo]
+[mo; ;12]
+[mo;of;age]

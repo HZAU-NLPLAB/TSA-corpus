@@ -1,0 +1,33 @@
+Thus, stimulation of monocyte cell lines by phorbol esters or TNF alpha induces cell differentiation and activates HIV transcription.
+
+
+[stimulation of monocyte cell lines by phorbol esters or TNF alpha induces cell differentiation and activates HIV][transcription; ;Thus] 
+
+[stimulation;of;monocyte cell lines] 
+
+[lines; ;cell] 
+
+[cell; ;monocyte]
+
+[lines;by;esters] 
+
+[esters; ;phorbol] 
+
+[or; ;esters] 
+
+[or; ;TNF alpha] 
+
+[induces; ;alpha] 
+
+[induces; ;cell differentiation] 
+
+[differentiation; ;cell] 
+
+[and; ;induces] 
+
+[and; ;activates] 
+
+[activates; ;HIV transcription] 
+
+[transcription; ;HIV] 
+

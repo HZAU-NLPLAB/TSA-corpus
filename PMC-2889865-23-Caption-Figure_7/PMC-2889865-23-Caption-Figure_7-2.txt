@@ -1,0 +1,18 @@
+Levels of intracellular protein were assessed following 24 h stimulation with PMA (162 nM) or HK E. coli (5 x 107 CFU/ml). 
+[Levels;of;protein]
+[protein; ;intracellular]
+[assessed; ;were]
+[assessed; ;Levels) 
+[assessed; ;following 24 h stimulation with PMA (162 nM) or HK E. coli (5 x 107 CFU/ml]) 
+[following; ;stimulation) 
+[stimulation; ;24 h) 
+[h; ;24]
+[stimulation;with;PMA]
+[stimulation;with;HK E. coli ) 
+[or; ;PMA) 
+[or; ;HK E. coli ]
+[E. coli; ;HK]
+[PMA; ;162 nM) 
+[HK E. coli; ;5 x 107 CFU/ml) 
+[nM; ;162]
+[CFU/ml; ;5 x 107]

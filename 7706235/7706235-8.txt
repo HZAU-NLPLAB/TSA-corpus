@@ -1,0 +1,9 @@
+These studies identify p21ras as a target of the same cell. 
+[studies; ;These]
+[identify; ;studies]
+[identify; ;p21ras]
+[identify;as;target]
+[target; ;a]
+[target;of;cell]
+[cell; ;the]
+[cell; ;same]

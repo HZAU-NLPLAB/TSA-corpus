@@ -1,0 +1,31 @@
+In addition to Bcl-x, a known CD40-regulated antiapoptotic molecule, we identified a related antiapoptotic molecule, A1/Bfl-1, as a CD40-inducible gene.
+[ ;In addition to;Bcl-x] 
+
+[CD40-regulated antiapoptotic molecule; ;a@1] 
+
+[CD40-regulated antiapoptotic molecule; ;known] 
+
+[molecule; ;CD40-regulated] 
+
+[molecule; ;antiapoptotic] 
+
+[regulated;-;CD40] 
+
+[identified; ;we] 
+
+[identified; ;antiapoptotic molecule] 
+
+[antiapoptotic molecule; ;a@2] 
+
+[antiapoptotic molecule; ;related] 
+
+[antiapoptotic molecule; ;A1/Bfl-1] 
+
+[identified;as;CD40-inducible gene] 
+
+[CD40-inducible gene; ;a@3] 
+
+[gene; ;CD40-inducible] 
+
+[inducible;-;CD40] 
+

@@ -1,0 +1,38 @@
+CL-01 cells are IgM+ IgD+ CD30+ and switch to IgG, IgA, and IgE when exposed to CD40L and IL-4.
+[are; ;CL-01 cells] 
+
+[are; ;IgM+ IgD+ CD30+] 
+
+[and; ;are] 
+
+[and; ;switch] 
+
+[switch; ;CL-01 cells] 
+
+[cells; ;CL-01] 
+
+[switch;to@1;IgG] 
+
+[switch;to@1;IgA] 
+
+[switch;to@1;IgE] 
+
+[,,and; ;IgG] 
+
+[,,and; ;IgA] 
+
+[,,and; ;IgE]
+[CL-01 cells are IgM+ IgD+ CD30+ and switch to IgG, IgA, and IgE;when;exposed to CD40L and IL-4]
+[exposed; ;are] 
+
+[exposed; ;CL-01 cells] 
+
+[exposed;to@2;CD40L] 
+
+[exposed;to@2;IL-4] 
+
+[and; ;CD40L] 
+
+[and; ;IL-4]  
+
+

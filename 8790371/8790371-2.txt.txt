@@ -1,0 +1,25 @@
+
+Expression of the human immunodeficiency virus type 1 (HIV) protease in cultured cells leads to apoptosis, preceded by cleavage of bcl-2, a key negative regulator of cell death.
+
+[
+Expression;of@1;protease]
+[protease; ;type 1]
+[type 1; ;human immunodeficiency virus]
+[human immunodeficiency virus; ;HIV]
+[virus; ;immunodeficiency]
+[immunodeficiency; ;human]
+[protease; ;the]
+[protease;in;cells]
+[cells; ;cultured]
+[leads;to;apoptosis]
+[leads; ;cells]
+[preceded; ;apoptosis]
+[preceded;by;cleavage]
+[cleavage;of@2;bcl-2]
+[regulator; ;bcl-2]
+[regulator;of@3;death]
+[death; ;cell]
+[regulator; ;a]
+[regulator; ;negative]
+[negative; ;key]
+

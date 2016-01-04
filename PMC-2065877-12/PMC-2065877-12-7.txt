@@ -1,0 +1,19 @@
+Cultures were pulsed for 4 h with MTS reagent 1 d post-seeding.
+[pulsed; ;Cultures] 
+
+[pulsed; ;were] 
+
+[pulsed;for;h] 
+
+[h; ;4]
+
+[h;with;reagent] 
+
+[reagent; ;MTS] 
+
+[reagent; ;1 d post-seeding] 
+
+[post-seeding; ;1 d] 
+
+[seeding;-;post] 
+

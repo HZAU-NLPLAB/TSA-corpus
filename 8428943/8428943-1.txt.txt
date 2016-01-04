@@ -1,0 +1,12 @@
+ras protein activity is essential for T-cell antigen receptor signal transduction.
+
+[activity; ;protein]
+[protein; ;ras]
+[is; ;activity]
+[is; ;essential]
+[essential;for;transduction]
+[transduction; ;signal]
+[signa; ;receptor]
+[receptor; ;antigen]
+[antigen; ;T-cell]
+[cell;-;T]

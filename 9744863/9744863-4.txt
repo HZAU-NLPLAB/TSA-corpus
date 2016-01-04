@@ -1,0 +1,31 @@
+Members of a protein family, characterized by three zinc fingers highly homologous to those found in transcription factor Sp1, interact with these motifs.
+
+
+[Members;of;family] 
+
+[family; ;protein] 
+
+[characterized;by;fingers] 
+
+[fingers; ;zinc] 
+
+[fingers; ;three] 
+
+[homologous; ;highly] 
+
+[fingers; ;homologous] 
+
+[homologous;to;those] 
+
+[found; ;those] 
+
+[found;in;factor] 
+
+[factor; ;transcription] 
+
+[transcription factor; ;Sp1] 
+
+[interact;with;motifs]  
+
+[motifs; ;these] 
+

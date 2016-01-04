@@ -1,0 +1,19 @@
+This may explain, at least in part, the increased rate of HIV transmission in women with BV.
+[explain; ;This] 
+
+[explain; ;may]
+
+[explain; ;rate] 
+
+[at least; ;in part] 
+
+[rate; ;the] 
+
+[rate; ;increased] 
+
+[rate;of;HIV transmission] 
+
+[rate;in;women with BV] 
+
+[women;with;BV] 
+

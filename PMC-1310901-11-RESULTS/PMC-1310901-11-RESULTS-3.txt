@@ -1,0 +1,13 @@
+EcoRI, which has no recognition site within the PRO3_ promoter, and the methylation-resistant enzyme MspI served as controls.
+[EcoRI; ;which]
+[has; ;which]
+[has; ;recognition site]
+[recognition site; ;no]
+[ ; within; PRO3_ promoter]
+[PRO3_ promoter; ;the@1]
+[and; ;PRO3_ promoter]
+[and; ;methylation-resistant enzyme MspI]
+[methylation-resistant enzyme MspI; ;the@2]
+[served; as; controls]
+[served; ;methylation-resistant enzyme MspI]
+[served; ;PRO3_ promoter]

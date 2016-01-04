@@ -1,0 +1,52 @@
+We show that the function of such closely related proteins can be distinguished in vivo by matching point mutations in 5'HS3 with amino acid changes in the zinc fingers of Sp1 and EKLF.
+
+
+[show; ;We] 
+
+[show; ;that] 
+
+[that; ;the function of such closely related proteins can be distinguished in vivo by matching point mutations in 5'HS3 with amino acid changes in the zinc fingers of Sp1 and EKLF] 
+
+[function; ;the@1] 
+
+[function;of@1;proteins] 
+
+[proteins; ;such] 
+
+[proteins; ;related] 
+
+[related; ;closely] 
+
+[distinguished; ;function] 
+
+[distinguished; ;can] 
+
+[distinguished; ;be] 
+
+[distinguished; ;in vivo] 
+
+[distinguished;by;mutations] 
+
+[mutations; ;matching] 
+
+[mutations; ;point] 
+
+[mutations;in@2;5'HS3] 
+
+[5'HS3;with;changes] 
+
+[changes; ;acid] 
+
+[amino; ;acid] 
+
+[changes;in@3;fingers]
+
+[fingers; ;zinc] 
+
+[fingers; ;the@2] 
+
+[fingers;of@2;Sp1 and EKLF]  
+
+[and; ;Sp1] 
+
+[and; ;EKLF]

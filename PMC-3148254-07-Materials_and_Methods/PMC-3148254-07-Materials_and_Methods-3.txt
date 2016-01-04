@@ -1,0 +1,7 @@
+HI-5 insect cells (Invitrogen) expressing PRO1_ have been described 
+[PRO1_; ;HI-5 insect cells ]
+[cells; ;insect]
+[cells; ;HI-5]
+[HI-5 insect cells; ;Invitrogen]
+[PRO1_; ;expressing]
+[described; ;have been]

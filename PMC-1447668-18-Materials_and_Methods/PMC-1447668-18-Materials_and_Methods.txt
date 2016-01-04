@@ -1,0 +1,5 @@
+Transcription factor DNA-binding analysis (TF-ELISA).
+[Transcription factor DNA-binding analysis; ;TF-ELISA]
+[analysis; ;Transcription]
+[analysis; ;factor]
+[analysis; ;DNA-binding]

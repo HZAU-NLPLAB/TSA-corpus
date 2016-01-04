@@ -1,0 +1,25 @@
+A polymorphism that affects OCT-1 binding to the TNF promoter region is associated with severe malaria [see comments].
+[polymorphism; ;A] 
+
+[polymorphism; ;that] 
+
+[affects; ;that] 
+
+[affects; ;OCT-1 binding] 
+
+[binding; ;OCT-1] 
+
+[affects;to;TNF promoter region] 
+
+[TNF promoter region; ;the] 
+
+[region;promoter;TNF] 
+
+[associated; ;polymorphism] 
+
+[associated; ;is] 
+
+[associated;with;severe malaria] 
+
+[severe malaria; ;see comments] 
+

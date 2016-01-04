@@ -1,0 +1,34 @@
+TACI-induced activation of NF-AT was specifically blocked by a dominant-negative CAML mutant, thus implicating CAML as a signaling intermediate.
+
+
+[activation; ;TACI-induced] 
+
+[activation;of;NF-AT] 
+
+[TACI;-;induced] 
+
+[blocked; ;activation] 
+
+[blocked; ;was] 
+
+[blocked; ;specifically] 
+
+[blocked;by;mutant] 
+
+[mutant; ;CAML] 
+
+[CAML; ;dominant-negative] 
+
+[dominant;-;negative] 
+
+[mutant; ;a@1] 
+
+[blocked;thus;implicating] 
+
+[implicating; ;CAML] 
+
+[CAML;as;intermediate] 
+
+[intermediate; ;signaling] 
+
+[intermediate; ;a@2]

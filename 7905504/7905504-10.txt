@@ -1,0 +1,9 @@
+Additionally, infected T cells displayed lower levels of CD45 on their surfaces. 
+[T cells; ;infected]
+[displayed; ;T cells]
+[displayed; ;levels]
+[levels; ;lower]
+[lecels;of;CD45]
+[CD45;on;surfaces]
+[surfaces; ;their]
+[their; ;CD45]

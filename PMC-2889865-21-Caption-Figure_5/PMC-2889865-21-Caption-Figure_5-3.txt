@@ -1,0 +1,7 @@
+[B]TNF expression was not affected by NAI. 
+[TNF; ;[B]]
+[expression; ;TNF]
+[affected; ;was]
+[affected; ;not]
+[affected; ;expression]
+[affected;by;NAI]

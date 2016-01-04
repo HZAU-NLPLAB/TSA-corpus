@@ -1,0 +1,49 @@
+A 4- or 10-bp insertion between muE3 and muB inactivated the mu enhancer in S194 plasma cells but did not affect in vitro binding of Ets-1, PU.1, or the muE3-binding protein TFE3, alone or in pairwise combinations.
+
+
+[insertion; ;A 4- or 10-bp]
+
+[or; ;A 4-] 
+
+[or; ;10-] 
+
+[insertion;between...and...;muE3] 
+
+[insertion;between...and...;muB] 
+
+[inactivated; ;insertion] 
+
+[inactivated; ;mu enhancer] 
+
+[enhancer; ;mu] 
+
+[enhancer; ;the] 
+
+[enhancer;in;S194 plasma cells] 
+
+[cells; ;plasma] 
+
+[cells; ;S194] 
+
+[inactivated;but;affect] 
+
+[affect; ;did] 
+
+[affect; ;not] 
+
+[affect; ;binding] 
+
+[binding; ;in vitro] 
+
+[binding;of;Ets-1] 
+
+[or; ;Ets-1]
+[or; ;PU.1]
+[or; ;TFE3]
+[TFE3; ;protein]
+[protein; ;muE3-binding]
+[muE3;-;binding]
+[protein; ;the]
+[TFE3; ;alone]
+[or@2;in;pairwise combinations]
+[combinations; ;pairwise

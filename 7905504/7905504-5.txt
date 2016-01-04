@@ -1,0 +1,9 @@
+In this study, we examined interrelationships between CD45 and HIV-1 further. 
+[ ;In;study]
+[study; ;this]
+[examined; ;we]
+[examined; ;interrelationships]
+[interrelationships;between;CD45]
+[and; ;CD45]
+[and; ;HIV-1]
+[examined; ;further]

@@ -1,0 +1,43 @@
+The data indicate that cellular genes might be activated by Ad2 virus infection in nonpermissive cells where no viral gene products could be detected.
+
+
+[data; ;The] 
+
+[indicate; ;that] 
+
+[that; ;cellular genes might be activated by Ad2 virus infection in nonpermissive cells where no viral gene products could be detected] 
+
+[genes; ;cellular] 
+
+[activated; ;genes] 
+
+[activated; ;might] 
+
+[activated; ;be] 
+
+[activated;by;infection] 
+
+[infection; ;virus] 
+
+[infection; ;Ad2] 
+
+[infection;in;cells] 
+
+[cells; ;nonpermissive] 
+
+[cells; ;where 
+
+[where; ;no viral gene products could be detected] 
+
+[products; ;no] 
+
+[products; ;viral] 
+
+[products; ;gene] 
+
+[detected; ;products] 
+
+[detected; ;could] 
+
+[detected; ;be] 
+

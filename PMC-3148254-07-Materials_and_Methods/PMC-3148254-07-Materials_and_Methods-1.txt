@@ -1,0 +1,8 @@
+The mouse B cell line A20.2J has been previously described (26),(27).
+[A20.2J; ;The]
+[A20.2J; ;mouse B cell line]
+[B cell line; ;mouse]
+[line; ;B cell]
+[described; ;has been]
+[described; ;previously]
+[described; ;A20.2J]

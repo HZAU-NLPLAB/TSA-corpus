@@ -1,0 +1,50 @@
+An enhancer-blocking element (BEAD-1, for blocking element alpha/delta 1) was localized to a 2.-kb region 3' of TCR delta gene segments and 5' of TCR alpha joining gene segments within this locus.
+
+
+[element; ;An] 
+
+[element; ;enhancer-blocking] 
+
+[blocking;-;enhancer] 
+
+[BEAD-1;for;blocking element alpha/delta 1] 
+
+[element; ;blocking] 
+
+[alpha/delta 1; ;element] 
+
+[/; ;alpha] 
+
+[/; ;delta] 
+
+[localized; ;element] 
+
+[localized; ;was] 
+
+[localized;to;region 3']
+[region 3'; ;2.-kb]
+[region 3'; ;a]
+[region 3';of;segments] 
+
+[segments; ;TCR] 
+
+[segments; ;delta] 
+
+[segments; ;gene] 
+
+[and; ;3'] 
+
+[and; ;5'] 
+
+[5';of;gene segments] 
+
+[gene segments; ;joining] 
+
+[gene segments; ;alpha]
+
+[alpha; ;TCR] 
+
+[segments; ;locus]
+[locus;   ;this] 
+ 
+

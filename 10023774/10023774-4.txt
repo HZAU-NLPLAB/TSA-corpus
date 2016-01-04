@@ -1,0 +1,35 @@
+Using expression cloning, we identified the first "late" T lymphocyte associated transcription factor and named it "RANTES Factor of Late Activated T Lymphocytes-1" (RFLAT-1).
+[ ;Using;expression cloning] 
+
+[cloning; ;expression] 
+
+[identified; ;we] 
+
+[identified; ;T lymphocyte] 
+
+[T lymphocyte; ;the] 
+
+[late; ;first] 
+
+[T lymphocyte; ;late] 
+
+[associated; ;T lymphocyte] 
+
+[associated; ;transcription factor] 
+
+[factor; ;transcription] 
+
+[and; ;identified] 
+
+[and; ;named] 
+
+[named; ;we]
+
+[named; ;it] 
+
+[it; ;T lymphocyte] 
+
+[it; ;RANTES Factor of Late Activated T Lymphocytes-1] 
+
+[RANTES Factor of Late Activated T Lymphocytes-1; ;RFLAT-1] 
+

@@ -1,0 +1,9 @@
+CTLA-4-Mediated inhibition of early events of T cell proliferation.
+[inhibition; ;CTLA-4-Mediated] 
+
+[CTLA-4-Mediated inhibition;of@1;events] 
+
+[events; ;early] 
+
+[events;of@2;T cell proliferation] 
+

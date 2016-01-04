@@ -1,0 +1,10 @@
+Transcriptional activity and constitutive nuclear localization of the ETS protein Elf-1. 
+[and; ;activity]
+[activity; ;Transcriptional]
+[and; ;localization]
+[localization; ;constitutive]
+[localization; ;nuclear]
+[localization;of;Elf-1]
+[Elf-1; ;the]
+[Elf-1; ;ETS]
+[Elf-1; ;protein]

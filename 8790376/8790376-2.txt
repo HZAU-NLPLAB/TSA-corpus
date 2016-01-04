@@ -1,0 +1,40 @@
+
+Self renewal of normal erythroid progenitors is induced by the receptor tyrosine kinase c-ErbB, whereas other receptors (c-Kit/Epo-R) regulate erythroid differentiation.
+
+
+[renewal; ;Self] 
+
+[renewal;of;progenitors] 
+
+[progenitors; ;normal] 
+
+[progenitors; ;erythroid] 
+
+[induced; ;progenitors] 
+
+[induced; ;is] 
+
+[induced;by;receptor] 
+
+[receptor; ;the] 
+
+[receptor; ;tyrosine kinase c-ErbB] 
+
+[kinase; ;tyrosine]
+
+[Self renewal of normal erythroid progenitors is induced by the receptor tyrosine kinase c-ErbB;whereas;other receptors (c-Kit/Epo-R) regulate erythroid differentiation] 
+
+[receptors; ;other] 
+
+[receptors; ;c-Kit/Epo-R] 
+
+[/; ;c-Kit] 
+
+[/; ;Epo-R] 
+
+[regulate; ;receptors] 
+
+[regulate; ;differentiation] 
+
+[differentiation; ;erythroid] 
+

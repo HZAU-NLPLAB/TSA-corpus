@@ -1,0 +1,65 @@
+nhibition of NF-kappa B by sodium salicylate and aspirin [see comments] 
+The transcription factor nuclear factor-kappa B (NF-kappa B) is critical for the inducible expression of multiple cellular and viral genes involved in inflammation and infection including interleukin-1 (IL-1), IL-6, and adhesion molecules.
+
+
+[Inhibition;of;NF-kappa B] 
+
+[Inhibition;by;sodium salicylate] 
+
+[and; ;sodium salicylate] 
+
+[and; ;aspirin] 
+
+[factor@1; ;The] 
+
+[factor@1; ;transcription] 
+
+[factor@1; ;nuclear factor-kappa B] 
+
+[nuclear factor-kappa B; ;NF-kappa B] 
+
+[nuclear factor;-;kappa B] 
+
+[factor@2; ;nuclear] 
+
+[is; ;factor@1] 
+
+[is; ;critical] 
+
+[critical;for;expression] 
+
+[expression; ;inducible] 
+
+[expression; ;the] 
+
+[expression;of;genes] 
+
+[genes; ;multiple cellular and viral] 
+
+[and@1; ;multiple] 
+
+[and@1; ;cellular] 
+
+[and@1; ;viral] 
+
+[involved; ;genes] 
+
+[involved;in;inflammation] 
+
+[and@2; ;inflammation] 
+
+[and@2; ;infection] 
+
+[including; ;infection] 
+
+[including; ;infection including interleukin-1 (IL-1), IL-6, and adhesion molecules] 
+
+[and@3; ;interleukin-1] 
+
+[and; ;IL-6] 
+
+[and; ;adhesion molecules] 
+
+[molecules; ;adhesion] 
+
+[interleukin-1; ;IL-1]

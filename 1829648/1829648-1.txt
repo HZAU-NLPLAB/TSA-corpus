@@ -1,0 +1,12 @@
+Characterization of an immediate-early gene induced in adherent monocytes that encodes I kappa B-like activity. 
+[Characterization;of;gene]
+[gene; ;an]
+[gene; ;immediate-early]
+[induced; ;gene]
+[induced;in;monocytes]
+[monocytes; ;adherent]
+[monocytes; ;that]
+[encodes; ;that]
+[encodes; ;activity]
+[activity; ;I kappa B-like]
+[like;-;I kappa B]

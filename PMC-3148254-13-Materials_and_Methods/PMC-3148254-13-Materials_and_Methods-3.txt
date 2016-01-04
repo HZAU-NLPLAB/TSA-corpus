@@ -1,0 +1,8 @@
+Following stimulation, cells were chilled on ice for 2 minutes.
+[stimulation; ;Following]
+[chilled; ;cells]
+[chilled; ;were]
+[chilled;on;ice]
+[chilled;for;minutes]
+[minutes; ;2) 
+

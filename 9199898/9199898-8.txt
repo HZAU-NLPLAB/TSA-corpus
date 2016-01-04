@@ -1,0 +1,31 @@
+Our data suggest that SAC may act via antioxidant mechanisms to block NF-kappa B activation in Jurkat cells.
+
+
+[data; ;Our] 
+
+[suggest; ;data] 
+
+[suggest; ;that] 
+
+[that; ;SAC may act via antioxidant mechanisms to block NF-kappa B activation in Jurkat cells] 
+
+[act; ;SAC] 
+
+[act; ;may] 
+
+[act; ;mechanisms] 
+
+[mechanisms; ;antioxidant] 
+
+[mechanisms; ;via] 
+
+[mechanisms;to;block] 
+
+[block; ;activation] 
+
+[activation; ;NF-kappa B] 
+
+[activation;in;Jurkat cells] 
+
+[cells; ;Jurkat] 
+

@@ -1,0 +1,27 @@
+Biochemical analysis by Western blotting of fetal and adult hematopoietic populations shows several runt isoforms.
+
+
+[analysis; ;Biochemical] 
+
+[analysis;by;blotting] 
+
+[blotting; ;Western] 
+
+[blotting;of;populations] 
+
+[populations; ;hematopoietic] 
+
+[populations; ;fetal and adult] 
+
+[and; ;fetal] 
+
+[and; ;adult] 
+
+[shows; ;populations] 
+
+[shows; ;isoforms]  
+
+[isoforms  ; ;runt] 
+
+[isoforms; ;several] 
+

@@ -1,0 +1,29 @@
+Electrophoretic mobility shift assays demonstrated a strong increase of NF-kappa B DNA binding after triggering of HLA-DR antigens.
+
+
+[mobility; ;Electrophoretic] 
+
+[shift; ;mobility] 
+
+[assays; ;shift] 
+
+[demonstrated; ;assays] 
+
+[demonstrated; ;increase] 
+
+[increase; ;a] 
+
+[strong increase; ;strong] 
+
+[increase;of@1;binding] 
+
+[binding; ;DNA] 
+
+[DNA; ;NF-kappa B] 
+
+[binding;after;triggering] 
+
+[triggering;of@2;antigens]  
+
+[antigens; ;HLA-DR] 
+

@@ -1,0 +1,5 @@
+Patients and cell preparation.
+[and; ;Patients]
+[and; ;cell]
+[preparation; ;Patients]
+[preparation; ;cell]

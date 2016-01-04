@@ -1,0 +1,44 @@
+This finding may provide a tool to improve current protocols of immunotherapy and insights to how tumor cells are or are not killed by LAK cells.
+[finding; ;This] 
+
+[provide; ;finding] 
+
+[provide; ;may] 
+
+[provide; ;tool] 
+
+[tool; ;a] 
+
+[provide;to@1;improve] 
+
+[improve; ;protocols] 
+
+[protocols; ;current] 
+
+[protocols;of;immunotherapy]
+
+[provide; ;insights] 
+
+[and; ;tool] 
+
+[and; ;insights] 
+
+[insights;to@2;how] 
+
+[how; ;tumor cells are or are not killed by LAK cells] 
+
+[killed; ;tumor cells] 
+
+[or; ;are@1] 
+
+[or; ;are@2 not] 
+
+[killed; ;are@1] 
+
+[killed; ;not] 
+
+[killed; ;are@2]
+[killed;by;LAK cells] 
+
+[cells; ;LAK] 
+

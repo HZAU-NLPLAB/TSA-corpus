@@ -1,0 +1,21 @@
+An aliquot of 1 mug total RNA was used for cDNA synthesis as described previously (27).
+
+[aliquot; ;An]
+
+[aliquot;of;RNA]
+
+[RNA; ;1 mug]
+
+[RNA; ;total]
+
+[used; ;aliquot]
+
+[used; ;was]
+
+[used;for;cDNA synthesis]
+
+[synthesis; ;cDNA]
+
+[used;as;described]
+
+[described; ;previously]

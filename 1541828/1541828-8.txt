@@ -1,0 +1,11 @@
+These data may have implications for the stringent control of IL-4 expression in T cells.
+[data; ;These]
+[have; ;may]
+[have; ;data]
+[have; ;implications]
+[implications;for;control]
+[control; ;the]
+[control; ;stringent]
+[control;of;expression]
+[expression; ;IL-4]
+[expression;in;T cells]

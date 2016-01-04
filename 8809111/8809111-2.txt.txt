@@ -1,0 +1,23 @@
+
+MNDA (myeloid cell nuclear differentiation antigen) is an interferon alpha regulated nuclear protein expressed only in cells of the human myelomonocytic lineage.
+
+[
+MNDA; ;myeloid cell nuclear differentiation antigen]
+[antigen; ;differentiation]
+[differentiation; ;nuclear]
+[nuclear; ;cell]
+[cell; ;myeloid]
+[is; ;MNDA]
+[is; ;alpha]
+[alpha; ;interferon]
+[alpha; ;an]
+[regulated; ;alpha]
+[regulated; ;protein]
+[protein; ;nuclear]
+[expressed; ;protein]
+[expressed;in;cells]
+[expressed; ;only]
+[cells;of;lineage]
+[lineage; ;myelomonocytic]
+[myelomonocytic; ;human]
+[human; ;the]

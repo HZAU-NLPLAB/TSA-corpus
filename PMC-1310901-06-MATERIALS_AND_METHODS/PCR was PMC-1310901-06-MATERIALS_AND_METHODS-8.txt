@@ -1,0 +1,8 @@
+PCR was performed with an annealing temperature of 62degreesC and 35 cycles.
+[performed; ;PCR]
+[performed; ;was]
+[performed;with;temperature]
+[temperature; ;annealing]
+[temperature;of;62degreesC]
+[and; ;62degreesC]
+[and; ;35 cycles]

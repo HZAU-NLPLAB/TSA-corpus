@@ -1,0 +1,17 @@
+Data analysis was performed with FlowJo software (Tree Star, Inc).
+[analysis; ;Data] 
+
+[performed; ;analysis] 
+
+[performed; ;was] 
+
+[performed;with;software] 
+
+[software; ;FlowJo] 
+
+[software; ;Tree Star, Inc] 
+
+[Tree Star; ;Inc]  
+
+[Star; ;Tree] 
+

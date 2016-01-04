@@ -1,0 +1,52 @@
+Site-directed mutagenesis of the wild-type IL-2R alpha kappa B enhancer (GGGGAATCTCCC) has revealed that the binding of p50 and p55 (B2 complex) is particularly sensitive to alteration of the 5' triplet of deoxyguanosine residues.
+
+
+[mutagenesis; ;Site-directed] 
+
+[directed;-;Site] 
+
+[mutagenesis;of@1;enhancer] 
+
+[enhancer; ;IL-2R alpha kappa B] 
+
+[enhancer; ;wild-type] 
+
+[enhancer; ;the@1] 
+
+[enhancer; ;GGGGAATCTCCC] 
+
+[revealed; ;enhancer] 
+
+[revealed; ;has]
+
+[revealed; ;that] 
+
+[that; ;the binding of p50 and p55 (B2 complex) is particularly sensitive to alteration of the 5' triplet of deoxyguanosine residues] 
+
+[binding; ;the@2] 
+
+[binding;of@2;p50 and p55] 
+
+[and; ;p50] 
+
+[and; ;p55] 
+
+[B2 complex; ;p50 and p55] 
+
+[is; ;binding] 
+
+[is; ;sensitive] 
+
+[sensitive; ;particularly] 
+
+[sensitive;to;alteration] 
+
+[alteration;of@3;triplet] 
+
+[triplet; ;the@3] 
+
+[triplet; ;5'] 
+
+[triplet;of@4;residues] 
+
+[residues; ;deoxyguanosine]

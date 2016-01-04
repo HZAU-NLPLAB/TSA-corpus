@@ -1,0 +1,41 @@
+-Rel and p65 subunits bind to an upstream NF-kappaB site in human granulocyte macrophage-colony stimulating factor promoter involved in phorbol ester response in 5637 cells.
+
+
+[subunits; ;c-Rel and p65] 
+
+[and; ;c-Rel] 
+
+[and; ;p65] 
+
+[bind; ;subunits] 
+
+[bind;to;site] 
+
+[site; ;NF-kappaB] 
+
+[site; ;upstream] 
+
+[site;in@1;promoter] 
+
+[promoter; ;factor] 
+
+[factor; ;stimulating] 
+
+[factor; ;macrophage-colony] 
+
+[macrophage-colony; ;human granulocyte] 
+
+[granulocyte; ;human] 
+
+[involved; ;promoter] 
+
+[involved;in@2;response] 
+
+[response; ;ester] 
+
+[ester; ;phorbol] 
+
+[response;in@3;cells] 
+
+[cells; ;5637] 
+

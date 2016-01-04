@@ -1,0 +1,19 @@
+One of these clones, pZVH14, activated the HIV promoter construct containing a mutation in the NF kappa B site.
+
+[clones£» £»these]
+[clones£» £»One]
+[One£»of£»clones]
+[clones£» £»pZVH14]
+[activated£» £»pZVH14]
+[activated£» £»construct]
+[construct£» £»promoter]
+[promoter£» £»HIV]
+[promoter£» £»the@1]
+[containing£» £»construct]
+[containing£» £»mutation]
+[mutation£» £»a]
+[construct£»in£»site]
+[site£» £»B]
+[site£» £»NF kappa ]
+[site£» £»the@2]
+	

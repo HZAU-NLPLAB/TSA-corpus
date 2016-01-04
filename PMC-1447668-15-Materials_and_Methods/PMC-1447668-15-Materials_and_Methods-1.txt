@@ -1,0 +1,10 @@
+Real-time RT-PCR analysis of PRO3_ and HTLV-I PRO4_ expression was performed as previously described (8,47).
+[RT-PCR analysis; ;Real-time]
+[Real-time RT-PCR analysis;of;PRO3_ and HTLV-I PRO4_ expression]
+[and; ;PRO3_]
+[and; ;HTLV-I PRO4_]
+[expression; ;PRO3_ and HTLV-I PRO4_]
+[performed; ;Real-time RT-PCR analysis]
+[performed; ;was]
+[performed;as;previously described]
+[described; ;previously]

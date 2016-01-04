@@ -1,0 +1,33 @@
+Transcription of a minimal promoter from the NF-IL6 gene is regulated by CREB/ATF and SP1 proteins in U937 promonocytic cells.
+[Transcription;of;minimal promoter] 
+
+[minimal promoter; ;a] 
+
+[promoter; ;minimal] 
+
+[Transcription;from;NF-IL6 gene] 
+
+[NF-IL6 gene; ;the] 
+
+[regulated; ;Transcription] 
+
+[regulated; ;is] 
+
+[regulated;by;proteins] 
+
+[proteins; ;CREB/ATF] 
+
+[proteins; ;SP1] 
+
+[/; ;CREB]
+
+[/; ;ATF] 
+
+[and; ;CREB/ATF] 
+
+[and; ;SP1] 
+
+[regulated;in;U937 promonocytic cells] 
+
+[cells;promonocytic;U937] 
+

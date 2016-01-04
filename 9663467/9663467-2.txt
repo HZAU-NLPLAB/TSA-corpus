@@ -1,0 +1,22 @@
+
+Thrombopoietin (TPO) acts on megakaryopoiesis and erythropoiesis in vitro and in vivo.
+[Thrombopoietin; ;TPO] 
+
+[acts; ;Thrombopoietin] 
+
+[acts;on;megakaryopoiesis] 
+
+[acts;on;erythropoiesis] 
+
+[and@1; ;megakaryopoiesis] 
+
+[and@1; ;erythropoiesis] 
+
+[acts;in@1;vitro] 
+
+[acts;in@2;vivo] 
+
+[and@2; ;in vitro] 
+
+[and@2; ;in vivo] 
+

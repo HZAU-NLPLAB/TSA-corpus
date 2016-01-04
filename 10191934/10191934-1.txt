@@ -1,0 +1,16 @@
+[Corticoids and allergy] 
+Inflammation is constantly observed in allergic reactions.
+[and; ;Corticoids] 
+
+[and; ;allergy] 
+
+[observed; ;Inflammation] 
+
+[observed; ;is] 
+
+[observed; ;constantly] 
+
+[observed;in;reactions]  
+
+[reactions; ;allergic] 
+

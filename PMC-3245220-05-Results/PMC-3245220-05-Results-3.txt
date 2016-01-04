@@ -1,0 +1,17 @@
+As shown in Figure 4 (upper panel),  the peptide substrate was maximally phosphorylated within 10 minutes of stimulation (1.8-fold over resting cells, lower panel),  and then returned to basal levels by 15 minutes.
+[shown;in;Figure]
+[shown; ;As]
+[Figure; ;4]
+[substrate; ;the]
+[substrate; ;peptide]
+[was; ;substrate]
+[was; ;phosphorylated]
+[phosphorylated; ;maximally]
+[phosphorylated;within;minutes]
+[minutes; ;10]
+[minutes;of;stimulation]
+[and; ;returned to]
+[returned;to;levels]
+[levels; ;basal]
+[levels;by;minutes]
+[minutes; ;15) 

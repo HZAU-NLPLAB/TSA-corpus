@@ -1,0 +1,18 @@
+ Activated ras expression also replaced the requirement for PKC stimulation in activation of the T-cell transcription factor NF-AT.
+
+[ras; ;Activated]
+[expression; ;ras]
+[replaced; ;also]
+[replaced; ;expression]
+[replaced; ;requirement]
+[requirement; ;the@1]
+[requirement;for;stimulation]
+[stimulation; ;PKC]
+[stimulation;in;activation]
+[activation;of;NF-AT]
+[NF-AT; ;factor]
+[factor; ;transcription]
+[transcription; ;T-cell]
+[cell;-;T]
+[AT;-;NF]
+[NF-AT; ;the@2]

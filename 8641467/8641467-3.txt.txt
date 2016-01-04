@@ -1,0 +1,16 @@
+In Jurkat cells this effect was rapid and transient, but in Wurzburg cells the response was slow and sustained.
+
+[ ;In;cells@1]
+[cells@1; ;Jurkat]
+[effect; ;this]
+[rapid;was;effect]
+[and@1; ;rapid]
+[and@1; ;transient]
+[transient;was;effect]
+[ ;in;cells@2]
+[cells@2; ;Wurzburg]
+[response; ;the]
+[was; ;slow]
+[and@2; ;slow]
+[and@2; ;sustained]
+[was; ;sustained]

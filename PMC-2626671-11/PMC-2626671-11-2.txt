@@ -1,0 +1,65 @@
+To measure cytotoxicity, EL4 thymoma target cells were loaded with 0 or 1 muM Gp33 peptide for 2 h before a 2-h coincubation with P14 PRO1_+ T cells at the effector-to-target ratios indicated in the figures in 96-well round-bottom plates.
+[cells; ;target] 
+
+[cells; ;thymoma] 
+
+[thymoma; ;EL4] 
+
+[loaded; ;were] 
+
+[loaded; ;cells] 
+
+[loaded;with;peptide] 
+
+[peptide; ;Gp33] 
+
+[peptide; ;muM] 
+
+[muM; ;0 or 1] 
+
+[or; ;0] 
+
+[or; ;1] 
+
+[peptide;for;h] 
+
+[h; ;2] 
+
+[h;before;coincubation] 
+
+[coincubation; ;2-h] 
+
+[coincubation; ;a] 
+
+[h;-;2] 
+
+[coincubation;with;T cells] 
+
+[T cells; ;PRO1_+] 
+
+[PRO1_+; ;P14] 
+
+[T cells;at;ratios] 
+
+[ratios; ;effector-to-target] 
+
+[ratios; ;the] 
+
+[effector;to;target] 
+
+[indicated;in;ratios] 
+
+[indicated;in;figures] 
+
+[figures; ;the@2] 
+
+[figures;in;plates]  
+
+[plates; ;round-bottom] 
+
+[plates; ;96-well] 
+
+[bottom;-;round] 
+
+[well; ;96] 
+

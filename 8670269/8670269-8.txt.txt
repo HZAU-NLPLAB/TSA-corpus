@@ -1,0 +1,12 @@
+DeltaSpi-B product was not able to bind DNA and was recovered in cytoplasmic cellular extracts.
+
+[product; ;DeltaSpi-B]
+[bind; ;was...able to]
+[bind; ;not]
+[bind; ;DNA]
+[and; ;recovered]
+[and; ;bind]
+[recovered;was; ]
+[recoveredl;in;extracts]
+[extracts; ;cellular]
+[cellular; ;cytoplasmic]

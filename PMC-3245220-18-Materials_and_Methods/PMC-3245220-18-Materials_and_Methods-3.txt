@@ -1,0 +1,9 @@
+The chemiluminence signal was recorded using a luminometer.
+[signal; ;The]
+[signal; ;chemiluminence]
+[recorded; ;signal]
+[recorded; ;was]
+[using; ;recorded]
+[using; ;luminometer]
+[luminometer; ;a]
+

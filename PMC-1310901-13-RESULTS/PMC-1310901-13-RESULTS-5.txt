@@ -1,0 +1,11 @@
+The silencing effect of CpG methylation was not restricted to PRO6_-positive cells, since in vitro methylation led to a 92.
+[effect; ;silencing]
+[effect; ;The]
+[effect;of;CpG methylation]
+[restricted; ;not]
+[restricted; ;was]
+[restricted; ;CpG methylation]
+[restricted;to;PRO6_-positive cells]
+[$;in;vitro methylation]
+[led; ;vitro methylation]
+[led;to;92]

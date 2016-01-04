@@ -1,0 +1,44 @@
+The results showed that the activation of U2 snRNA transcription in B-cells also requires an enhancer comprising both the Oct and at least one Sp 1-binding site.
+
+
+[results; ;The] 
+
+[showed; ;results] 
+
+[showed; ;that] 
+
+[that; ;the activation of U2 snRNA transcription in B-cells also requires an enhancer comprising both the Oct and at least one Sp 1-binding site] 
+
+[activation; ;the@1] 
+
+[activation;of;transcription] 
+
+[transcription; ;snRNA] 
+
+[transcription; ;U2] 
+
+[transcription;in;B-cells] 
+
+[requires; ;also] 
+
+[requires; ;enhancer] 
+
+[enhancer; ;an] 
+
+[comprising; ;enhancer] 
+
+[comprising; ;both the Oct and at least one Sp 1-binding site] 
+
+[both...and; ;Oct] 
+
+[both...and; ;site] 
+
+[Oct; ;the@2] 
+
+[one; ;at least] 
+
+[site; ;one] 
+
+[site; ;Sp 1-binding] 
+
+[binding;-;Sp 1]

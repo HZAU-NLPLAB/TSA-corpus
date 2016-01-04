@@ -1,0 +1,14 @@
+This effect was not seen in M-CSF-stimulated monocytes when isogenic antibodies (IgG) were used for immunoprecipitation.
+[effect; ;This]
+[was; ;effect]
+[was; ;not]
+[was; ;seen]
+[seen;in;monocytes]
+[monocytes; ;stimulated]
+[stimulated; ;M-CSF-]
+[; when;isogenic antibodies (IgG) were used for immunoprecipitation]
+[were; ;antibodies]
+[antibodies; ;isogenic]
+[were; ;used]
+[used; for;immunoprecipitation]
+

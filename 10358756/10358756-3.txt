@@ -1,0 +1,15 @@
+Since 1988, several families of functionally important T cell transcription factors have been identified.
+[ ;Since;1988] 
+
+[families; ;several] 
+
+[families;of;T cell transcription factors] 
+
+[important; ;functionally] 
+
+[T cell transcription factors; ;important] 
+
+[identified;  ;families] 
+
+[identified;been;have] 
+

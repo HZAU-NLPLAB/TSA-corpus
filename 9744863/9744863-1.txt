@@ -1,0 +1,38 @@
+ltered DNA-binding specificity mutants of EKLF and Sp1 show that EKLF is an activator of the beta-globin locus control region in vivo.
+
+
+[mutants; ;Altered] 
+
+[mutants; ;specificity] 
+
+[specificity; ;DNA-binding] 
+
+[mutants;of@1;EKLF] 
+
+[and; ;EKLF] 
+
+[and; ;Sp1] 
+
+[show; ;Altered DNA-binding specificity mutants of EKLF and Sp1] 
+
+[show; ;that]
+
+[that; ;EKLF is an activator of the beta-globin locus control region in vivo] 
+
+[is; ;EKLF] 
+
+[is; ;activator] 
+
+[activator; ;an] 
+
+[activator;of;region] 
+
+[region; ;the] 
+
+[region; ;control] 
+
+[control; ;locus] 
+
+[locus; ;beta-globin] 
+
+[region; ;in vivo]

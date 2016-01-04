@@ -1,0 +1,27 @@
+We conclude that CBP, a histone acetyltransferase, plays an important role in the transcription of class II genes.
+[conclude; ;We] 
+
+[conclude; ;that] 
+
+[that; ;CBP, a histone acetyltransferase, plays an important role in the transcription of class II genes] 
+
+[CBP; ;histone acetyltransferase] 
+
+[histone acetyltransferase; ;a] 
+
+[acetyltransferase; ;histone] 
+
+[plays; ;CBP] 
+
+[plays; ;role]
+
+[role; ;an] 
+
+[role; ;important] 
+
+[plays;in;transcription] 
+
+[transcription; ;the] 
+
+[transcription;of;class II genes] 
+

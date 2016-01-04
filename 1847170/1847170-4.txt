@@ -1,0 +1,21 @@
+In this report we begin to uncover the influence of platelet-activating factor on B lymphocytes.
+[ ;In;report] 
+
+[report; ;this] 
+
+[begin; ;we] 
+
+[begin;to;uncover] 
+
+[uncover; ;influence] 
+
+[influence; ;the] 
+
+[influence;of;platelet-activating factor] 
+
+[factor; ;platelet-activating] 
+
+[activating;-;platelet] 
+
+[uncover;on;B lymphocytes] 
+

@@ -1,0 +1,33 @@
+Immunoblot analysis of splenic B cells did not consistently detect p-PRO34_ levels, a signal that targets PRO35_ for degradation.
+[analysis; ;Immunoblot] 
+
+[analysis;of;cells] 
+
+[cells; ;B] 
+
+[cells; ;splenic] 
+
+[detect; ;cells] 
+
+[detect; ;did] 
+
+[detect; ;not] 
+
+[detect; ;consistently] 
+
+[detect; ;levels] 
+
+[levels; ;p-PRO34_] 
+
+[signal; ;Immunoblot analysis of splenic B cells did not consistently detect p-PRO34_ levels] 
+
+[signal; ;that] 
+
+[signal; ;a] 
+
+[signal; ;targets PRO35_ for degradation]  
+
+[targets; ;PRO35_] 
+
+[PRO35_;for;degradation]
+

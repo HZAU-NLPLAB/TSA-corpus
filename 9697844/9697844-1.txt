@@ -1,0 +1,22 @@
+argeted disruption of the MyD88 gene results in loss of IL-1- and IL-18-mediated function.
+[disruption; ;Targeted]
+
+[disruption;of;gene]
+[gene; ;the]
+[gene; ;MyD88] 
+
+[results; ;gene] 
+
+[results;in;loss] 
+
+[loss;of@2;function] 
+
+[function; ;IL-1-mediated] 
+
+[function; ;IL-18-mediated] 
+
+[and; ;IL-1-mediated]
+[and; ;IL-18-mediated] 
+
+[mediated;-;IL-1]
+[mediated;-;IL-18] 

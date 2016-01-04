@@ -1,0 +1,19 @@
+
+We have demonstrated that native envelope glycoproteins of HIV-1, gp160 can induce activation of the transcription factor, NF-kappa B.
+
+[demonstrated; ;have]
+[demonstrated; ;that]
+[demonstrated; ;We]
+[that; ;native envelope glycoproteins of HIV-1]
+[glycoproteins; ;envelope]
+[envelope; ;native]
+[glycoproteins;of@1;HIV-1]
+[glycoproteins;of@1;gp160]
+[induce; ;can]
+[induce; ;activation]
+[activation;of@2;factor]
+[factor; ;transcription]
+[factor; ;the]
+[factor; ;NF-kappa B]
+[kappa;-;NF]
+

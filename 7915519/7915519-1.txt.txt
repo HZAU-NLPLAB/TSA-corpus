@@ -1,0 +1,10 @@
+Signals transduced through the CD4 molecule on T lymphocytes activate NF-kappa B.
+
+[transduced; ;Signals]
+[transduced;through;molecule]
+[molecule; ;the]
+[molecule; ;CD4]
+[transduced;on;T lymphocytes]
+[activate; ;NF-kappa B]
+[kappa;-;NF]
+[activate; ;T lymphocytes]

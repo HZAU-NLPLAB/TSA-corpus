@@ -1,0 +1,19 @@
+PPARgamma activation induces the expression of the adipocyte fatty acid binding protein gene in human monocytes.
+[activation; ;PPARgamma] 
+
+[induces; ;PPARgamma activation] 
+
+[induces; ;expression] 
+
+[expression; ;the] 
+
+[expression;of;adipocyte fatty acid binding protein gene] 
+
+[acid;fatty;adipocyte] 
+
+[protein;binding;adipocyte fatty acid]
+
+[gene; ;adipocyte fatty acid binding protein] 
+
+[induces;in;human monocytes] 
+

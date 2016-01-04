@@ -1,0 +1,29 @@
+The identification of this gene opens the way to studies of the physiologic mechanisms controlling reactvation of KSHV from latency.
+[identification; ;The] 
+
+[identification;of@1;gene] 
+
+[gene; ;this] 
+
+[opens; ;identification] 
+
+[opens; ;way] 
+
+[way; ;the@1] 
+
+[way;to;studies] 
+
+[studies;of;physiologic mechanisms] 
+
+[physiologic mechanisms; ;the@2] 
+
+[mechanisms; ;physiologic] 
+
+[physiologic mechanisms; ;controlling] 
+
+[controlling; ;reactvation] 
+
+[reactvation;of@3;KSHV] 
+
+[controlling;from;latency] 
+

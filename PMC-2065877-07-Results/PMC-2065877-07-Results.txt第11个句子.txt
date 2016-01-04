@@ -1,0 +1,56 @@
+Activated PRO29_ was not increased in PRO30_ transgenic lymphocytes or lymphoma cells, indicating that this pathway is not affected by PRO31_-induced PRO32_ activation and does not contribute to lymphoma development (Figure 6B).
+[PRO29_; ;Activated] 
+
+[increased; ;PRO29_] 
+
+[increased; ;was] 
+
+[increased; ;not] 
+
+[increased;in;lymphocytes] 
+
+[increased;in;cells] 
+
+[or; ;lymphocytes] 
+
+[or; ;cells] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO30_] 
+
+[cells; ;lymphoma] 
+
+[indicating; ;Activated PRO29_ was not increased in PRO30_ transgenic lymphocytes or lymphoma cells] 
+
+[indicating; ;that] 
+
+[that; ;this pathway is not affected by PRO31_-induced PRO32_ activation and does not contribute to lymphoma development] 
+
+[pathway; ;this] 
+
+[affected; ;pathway] 
+
+[affected; ;is] 
+
+[affected; ;not] 
+
+[affected;by;activation] 
+
+[activation; ;PRO32_] 
+
+[PRO32_; ;PRO31_-induced] 
+
+[induced;-;PRO31_] 
+
+[and; ;affected] 
+
+[and; ;contribute] 
+
+[contribute; ;does] 
+
+[contribute; ;not] 
+
+[contribute; ;development] 
+
+[development; ;lymphoma]

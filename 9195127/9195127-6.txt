@@ -1,0 +1,30 @@
+Moreover, the upregulation of NF-kappa B binding activity is regulated by the triggering of selected epitopes of HLA-DR antigens.
+
+
+[the upregulation of NF-kappa B binding activity is regulated by the triggering of selected epitopes of HLA-DR antigens; 
+;Moreover] 
+
+[upregulation; ;the@1] 
+
+[upregulation;of@1;activity] 
+
+[activity; ;binding] 
+
+[binding; ;NF-kappa B] 
+
+[regulated; ;activity] 
+
+[regulated; ;is] 
+
+[regulated;by;triggering] 
+
+[triggering; ;the@2] 
+
+[triggering;of@2;epitopes] 
+
+[epitopes; ;selected] 
+
+[epitopes;of@3;antigens]  
+
+[antigens; ;HLA-DR] 
+

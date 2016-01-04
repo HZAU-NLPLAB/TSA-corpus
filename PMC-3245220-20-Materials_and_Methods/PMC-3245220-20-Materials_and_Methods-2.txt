@@ -1,0 +1,10 @@
+[Cell Signaling Technology) and incubated for 10 minutes on ice then centrifuged to remove the insoluble fraction.
+[incubated;for;minute]
+[minutes; ;10]
+[incubated;on;ice]
+[centrifuged; ;then]
+[centrifuged;to;remove) 
+[remove; ;fraction]
+[fraction; ;the]
+[fraction; ;insoluble) 
+

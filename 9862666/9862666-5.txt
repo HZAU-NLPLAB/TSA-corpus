@@ -1,0 +1,23 @@
+Interestingly, CTLA4Ig did not significantly inhibit the activation of either NF of activated T cells (NFAT) or AP-1 reporters.
+[inhibit; ;CTLA4Ig] 
+
+[inhibit; ;did] 
+
+[inhibit; ;not] 
+
+[inhibit; ;significantly] 
+
+[inhibit; ;activation] 
+
+[activation; ;the] 
+
+[activation;of;either NF of activated T cells (NFAT) or AP-1 reporters] 
+
+[either¡­or; ;NF] 
+
+[NF;of;activated T cells 
+
+[NF of activated T cells; ;NFAT] 
+
+[either¡­or; ;AP-1 reporters] 
+

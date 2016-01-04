@@ -1,0 +1,49 @@
+Inhibition of the NF-kappaB pathway by overexpression of a dominant-active inhibitor of NF-kappaB abolished CD40-induced up-regulation of both the Bfl-1 and Bcl-x genes and also eliminated the ability of CD40 to rescue Fas-induced cell death.
+[Inhibition;of@1;NF-kappaB pathway] 
+
+[pathway; ;NF-kappaB] 
+
+[NF-kappaB pathway; ;the@1] 
+
+[Inhibition;by;overexpression] 
+
+[overexpression;of@2;inhibitor] 
+
+[inhibitor; ;a] 
+
+[inhibitor; ;dominant-active] 
+
+[inhibitor;of@3;NF-kappaB] 
+
+[abolished; ;Inhibition] 
+
+[abolished; ;CD40-induced up-regulation] 
+
+[up-regulation; ;CD40-induced] 
+
+[CD40-induced up-regulation;of@4;genes] 
+
+[both¡­and; ;Bfl-1] 
+
+[both¡­and; ;Bcl-x] 
+
+[genes; ;both the@2 Bfl-1 and Bcl-x] 
+
+[and; ;abolished] 
+
+[and; ;eliminated] 
+
+[eliminated; ;the@3 ability] 
+
+[ability; ;the@3] 
+
+[ability;of@5;CD40] 
+
+[eliminated;to;rescue] 
+
+[rescue; ;Fas-induced cell death] 
+
+[cell death; ;Fas-induced] 
+
+[death; ;cell] 
+

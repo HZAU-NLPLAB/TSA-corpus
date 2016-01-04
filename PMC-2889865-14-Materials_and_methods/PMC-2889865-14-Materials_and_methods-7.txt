@@ -1,0 +1,10 @@
+yield and ratio (A260/A280) was determined using NanoVue (GE Healthcare, UK). 
+[and; ;yield]
+[and; ;ratio]
+[ratio; ;A260/A280]
+[determined; ;was]
+[determined; ;yield]
+[determined; ;ratio]
+[determined; ;using NanoVue]
+[using; ;NanoVue]
+

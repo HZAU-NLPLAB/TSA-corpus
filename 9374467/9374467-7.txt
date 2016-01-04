@@ -1,0 +1,9 @@
+In contrast, JNK activation in calcineurin-stimulated cells caused nuclear exclusion of NFAT4. 
+[activation; ;JNK]
+[activation;in;calcineurin-stimulated cells]
+[cells; ;calcineurin-stimulated]
+[stimulated;-;calcineurin]
+[caused; ;activation]
+[caused; ;exclusion]
+[exclusion; ;nuclear]
+[exclusion;of;NFAT4]

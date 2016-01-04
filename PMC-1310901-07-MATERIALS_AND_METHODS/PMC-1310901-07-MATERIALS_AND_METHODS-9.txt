@@ -1,0 +1,11 @@
+The purified DNA was subsequently mixed with 1 M NaOH to a final concentration of 0.
+[DNA; ;;The purified]
+[DNA; ;;The]
+[mixed; ;;DNA]
+[mixed; ;;subsequently]
+[mixed; ;;was]
+[mixed;with;1 M NaOH]
+[ ;to;concentration]
+[concentration; ;;final]
+[concentration; ;;a]
+[concentration;of; ;;]

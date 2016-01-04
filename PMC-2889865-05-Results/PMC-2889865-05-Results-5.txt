@@ -1,0 +1,12 @@
+This suggests that PRO9_ is involved in the PMA dependent inhibition of NF-kappaB activation.
+[suggests; ;This]
+[suggests; ;that]
+[that; ;PRO9_ is involved in the PMA dependent inhibition of NF-kappaB activation]
+[involved; ;is]
+[involved; ;PRO9_]
+[involved;in;PMA dependent inhibition]
+[PMA dependent inhibition; ;the]
+[dependent inhibition; ;PMA]
+[inhibition; ;dependent]
+[inhibition;of; activation]
+[activation; ;NF-kappaB]

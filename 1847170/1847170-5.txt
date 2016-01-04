@@ -1,0 +1,44 @@
+Employing the EBV-transformed human B cell line SKW6.4, we demonstrate that platelet-activating factor significantly alters membrane phospholipid metabolism indicated by the incorporation of 32P into phosphatidylcholine, phosphatidylinositol, and phosphatidic acid but not significantly into phosphatidylethanolamine at concentrations ranging from 10(-9) to 10(-6) M.
+[demonstrate; ;Employing] 
+
+[Employing; ;SKW6.4] 
+
+[SKW6; ;the@1] 
+
+[SKW6; ;EBV-transformed human B cell line] 
+
+[human B cell; ;EBV-transformed] 
+
+[transformed;-;EBV] 
+
+[B cell line; ;human] 
+
+[demonstrate; ;we] 
+[demonstrate; ;that] 
+[that; ;platelet-activating factor significantly alters membrane phospholipid metabolism indicated by the incorporation of 32P into phosphatidylcholine, phosphatidylinositol, and phosphatidic acid but not significantly into phosphatidylethanolamine at concentrations ranging from 10(-9) to 10(-6) M] 
+[alters; ;significantly] 
+[alters; ;platelet-activating factor] 
+[factor; ;platelet-activating] 
+[activating;-;platelet]
+[alters; ;metabolism] 
+[metabolism; ;membrane phospholipid] 
+[indicated; ;metabolism] 
+[indicated;by;incorporation] 
+[incorporation; ;the@2] 
+[incorporation;of;32P] 
+[alters;into@1;phosphatidylcholine] 
+[alters;into@1;phosphatidylinositol] 
+[alters;into@1;phosphatidic acid] 
+[and; ;phosphatidylcholine] 
+[and; ;phosphatidylinositol] 
+[and; ;phosphatidic acid] 
+[but not; ;into phosphatidylcholine, phosphatidylinositol, and phosphatidic acid] 
+[but not; ;into phosphatidylethanolamine] 
+[alters; ;significantly] 
+[alters;into@2;phosphatidylethanolamine] 
+[alters;at;concentrations] 
+[ranging; ;concentrations] 
+[ranging;from;10(-9) M] 
+[10(-9);to;10(-6) M] 
+[M; ;10(-9)] 
+[M; ;10(-6)] 

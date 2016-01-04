@@ -1,0 +1,29 @@
+Expression levels were quantified with a phosphorimager and values were normalized to the ribosomal housekeeping gene PRO9_.
+[quantified; ;levels] 
+
+[levels; ;Expression] 
+
+[quantified; ;were] 
+
+[quantified;with;phosphorimager] 
+
+[phosphorimager; ;a] 
+
+[and; ;Expression levels were quantified with a phosphorimager] 
+
+[and; ;values were normalized to the ribosomal housekeeping gene PRO9_]
+
+[normalized; ;were] 
+
+[normalized; ;values] 
+
+[normalized; ;gene] 
+
+[gene; ;PRO9_] 
+
+[gene; ;the] 
+
+[gene; ;housekeeping] 
+
+[gene; ;ribosomal] 
+

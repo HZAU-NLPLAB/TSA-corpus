@@ -1,0 +1,7 @@
+pecific CpG sites in the PRO1_ promoter are methylated in hematopoietic cells.
+[CpG sites; ;Specific]
+[CpG sites; in@1; PRO1_ promoter]
+[PRO1_ promoter; ;the]
+[methylated; ;are]
+[methylated; ;PRO1_ promoter]
+[methylated; in; hematopoietic cells]

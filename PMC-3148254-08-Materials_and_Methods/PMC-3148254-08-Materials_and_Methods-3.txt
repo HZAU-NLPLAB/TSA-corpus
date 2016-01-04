@@ -1,0 +1,9 @@
+Rabbit anti-HOIP Ab (6) was the kind gift of Dr. 
+[Ab; ;anti-HOIP]
+[Ab; ;Rabbit]
+[HOIP;-;anti]
+[was; ;Ab]
+[was; ;gift]
+[gift; ;the]
+[gift; ;kind]
+[gift;of;Dr]

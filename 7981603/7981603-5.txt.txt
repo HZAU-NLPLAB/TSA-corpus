@@ -1,0 +1,17 @@
+In addition, the clinical importance of glucocorticoid-induced apoptosis in the treatment of lymphoid neoplasms has recently received increased attention.
+
+[importance; ;the@1]
+[importance; ;clinical]
+[importance;of@1;apoptosis]
+[apoptosis; ;glucocorticoid-induced]
+[induced;-;glucocorticoid]
+[apoptosis;in;treatment]
+[treatment; ;the@2]
+[treatment;of@2;neoplasms]
+[neoplasms; ;lymphoid]
+[received; ;has]
+[received; ;neoplasms]
+[received; ;recently]
+[received; ;attention]
+[attention; ;increased]
+

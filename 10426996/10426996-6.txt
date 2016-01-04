@@ -1,0 +1,10 @@
+Thus, hTLR2 is a molecular link between microbial products, apoptosis, and host defense mechanisms.
+[is; ;hTLR2]
+[is; ;link]
+[link; ;a]
+[link; ;molecular]
+[between¡­and; ;microbial products]
+[between¡­and; ;apoptosis]
+[between¡­and; ;host defense mechanisms]
+[products; ;microbial]
+[mechanisms;defense;host]

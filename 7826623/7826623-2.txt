@@ -1,0 +1,11 @@
+The human interleukin-3 (IL-3) gene is expressed almost exclusively in activated T cells. 
+[human interleukin-3 (IL-3) gene; ;The]
+[gene; ;human]
+[gene; ;interleukin-3]
+[interleukin-3; ;IL-3]
+[expressed; ;human interleukin-3 (IL-3) gene]
+[expressed; ;is]
+[expressed; ;exclusively]
+[exclusively; ;almost]
+[expressed;in;T cells]
+[T cells; ;activated]

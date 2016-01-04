@@ -1,0 +1,52 @@
+This inhibitor did not affect protein kinase C-mediated gene transcription, suggesting that cyclic AMP-dependent protein kinases are involved in the signal transduction pathway for IL-1 in a number of responsive cell types.
+
+
+[inhibitor; ;This] 
+
+[affect; ;inhibitor] 
+
+[affect; ;did] 
+
+[affect; ;not] 
+
+[affect; ;transcription] 
+
+[transcription; ;gene] 
+
+[protein kinase@1; ;C-mediated] 
+
+[kinase@1; ;protein@1] 
+
+[gene transcription; ;C-mediated] 
+
+[suggesting; ;that]
+
+[that; ;cyclic AMP-dependent protein kinases are involved in the signal transduction pathway for IL-1 in a number of responsive cell types] 
+
+[protein kinases@2; ;AMP-dependent] 
+
+[protein kinases@2; ;cyclic] 
+
+[dependent;-;AMP] 
+
+[involved; ;kinases@2] 
+
+[involved; ;are] 
+
+[involved;in@1;pathway] 
+
+[pathway; ;transduction] 
+
+[pathway; ;signal] 
+
+[pathway; ;the] 
+
+[pathway;for;IL-1] 
+
+[IL-1;in@2;types] 
+
+[types; ;cell] 
+
+[types; ;responsive] 
+
+[types; ;a number of]

@@ -1,0 +1,23 @@
+To address this issue, we have investigated IL-12 expression in B cells during in vitro transformation with EBV.
+[ ;To;address] 
+
+[address; ;issue] 
+
+[issue; ;this] 
+
+[[investigated; ;we] 
+
+[investigated; ;have] 
+
+[investigated; ;IL-12 expression] 
+
+[investigated;in;B cells] 
+
+[investigated;during;in vitro transformation] 
+
+[ ;in;vitro] 
+
+[transformation; ;in vitro] 
+
+[investigated;with;EBV] 
+

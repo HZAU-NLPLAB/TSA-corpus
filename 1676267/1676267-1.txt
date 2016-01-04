@@ -1,0 +1,6 @@
+Towards a molecular understanding of T-cell differentiation.
+[Towards; ;molecular understanding]
+[molecular understanding; ;a]
+[understanding; ;molecular]
+[understanding;of;T-cell differentiation]
+[differentiation; ;T-cell]

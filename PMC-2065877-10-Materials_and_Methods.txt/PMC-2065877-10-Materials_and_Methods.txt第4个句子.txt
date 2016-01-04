@@ -1,0 +1,27 @@
+PRO2_ mice were genotyped by Southern blot and PCR analysis of tail DNA as described previously (26).
+[mice; ;PRO2_] 
+
+[genotyped; ;mice] 
+
+[genotyped; ;were] 
+
+[genotyped;by;blot] 
+
+[genotyped;by;analysis] 
+
+[and; ;blot] 
+
+[and; ;analysis] 
+
+[blot; ;Southern] 
+
+[analysis; ;PCR] 
+
+[analysis;of]
+
+[DNA; ;tail] 
+
+[DNA;as;described] 
+
+[described; ;previously] 
+

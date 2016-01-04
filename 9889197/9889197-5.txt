@@ -1,0 +1,65 @@
+We demonstrate that a fusion protein composed of a C-terminal Hsp70 peptide and the p50 subunit of NF-kappaB was directed into the nucleus of cells, could bind DNA specifically, and activated Igkappa expression and TNFalpha production.
+[demonstrate; ;We] 
+
+[demonstrate; ;that] 
+
+[that; ;a@1 fusion protein composed of@1 a@2 C-terminal Hsp70 peptide and@1 the p50 subunit of@2 NF-kappaB was directed into the@2 nucleus of@3 cells, could bind DNA specifically, and@2 activated Igkappa expression and@3 TNFalpha production] 
+
+[fusion protein; ;a@1] 
+
+[protein; ;fusion] 
+
+[composed; ;fusion protein] 
+
+[composed;of@1;C-terminal Hsp70 peptide] 
+
+[C-terminal Hsp70 peptide; ;a@2] 
+
+[peptide; ;C-terminal] 
+
+[peptide; ;Hsp70] 
+
+[and@1; ;a@2 C-terminal Hsp70 peptide] 
+
+[and@1; ;the p50 subunit of@2 NF-kappaB] 
+
+[composed;of@1;p50 subunit] 
+
+[p50 subunit; ;the] 
+
+[subunit; ;p50] 
+
+[p50 subunit;of@2;NF-kappaB]
+
+[directed; ;fusion protein] 
+
+[directed; ;was] 
+
+[directed;into;nucleus] 
+
+[nucleus; ;the@2] 
+
+[nucleus;of@3;cells] 
+
+[bind; ;could] 
+
+[bind; ;fusion protein] 
+
+[bind; ;DNA] 
+
+[bind; ;specifically] 
+
+[and@2; ;could bind DNA specifically] 
+
+[and@2; ;activated Igkappa expression and@3 TNFalpha production]
+
+[activated; ;fusion protein] 
+
+[activated; ;Igkappa expression] 
+
+[and@3; ;Igkappa expression] 
+
+[and@3; ;TNFalpha production]  
+
+[activated; ;TNFalpha production] 
+

@@ -1,0 +1,39 @@
+In addition, these data suggest that transcriptional activation of RE/AP is not mediated by NFAT, because activation of a NFAT reporter is not affected by the addition of CTLA4Ig.
+[data; ;these] 
+
+[data; ;suggest] 
+
+[suggest; ;that] 
+
+[that; ;transcriptional activation of@1 RE/AP is not mediated by NFAT] 
+
+[activation; ;transcriptional] 
+
+[transcriptional activation;of@1;RE/AP] 
+
+[mediated; ;transcriptional activation] 
+
+[mediated; ;is] 
+
+[mediated; ;not] 
+
+[mediated;by;NFAT] 
+
+[activation of@2 a NFAT reporter is not affected by the addition of@3 CTLA4Ig;because;transcriptional activation of@1 RE/AP is not mediated by NFAT] 
+
+[activation;of@2;NFAT reporter] 
+
+[NFAT reporter; ;a] 
+
+[affected; ;activation] 
+
+[affected; ;is] 
+
+[affected; ;not] 
+
+[affected;by;addition] 
+
+[addition; ;the] 
+
+[addition;of@3;CTLA4Ig] 
+

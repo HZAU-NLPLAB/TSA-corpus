@@ -1,0 +1,43 @@
+In addition to increasing our understanding of the molecular pathways that regulate T cell development and function, these results have suggested novel targets for genetic and pharmacological manipulation of T cell immunity.
+[ ;In addition to;increasing] 
+
+[increasing; ;understanding] 
+
+[understanding; ;our] 
+
+[understanding;of@1;molecular pathways] 
+
+[molecular pathways; ;the] 
+
+[molecular pathways; ;that] 
+
+[regulate; ;that 
+
+[regulate; ;T cell development] 
+
+[and; ;T cell development] 
+
+[and; ;function] 
+
+[results; ;these] 
+
+[suggested; ;results] 
+
+[suggested; ;have] 
+
+[suggested; ;novel targets] 
+
+[targets; ;novel] 
+
+[suggested;for;genetic and pharmacological manipulation] 
+
+[and; ;genetic] 
+
+[and; ;pharmacological] 
+
+[manipulation; ;genetic] 
+
+[manipulation; ;pharmacological] 
+
+[manipulation;of@2;T cell immunity] 
+

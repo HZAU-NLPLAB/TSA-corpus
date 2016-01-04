@@ -1,0 +1,14 @@
+Finally, potential targets of regulation by the zinc-finger transcription factor encoded by egr-1 include the interleukin-2, CD44, ICAM-1, and tumor necrosis factor genes. 
+[targets; ;potential]
+[targets;of;regulation]
+[regulation;by@1;zinc-finger transcription factor@1]
+[zinc-finger transcription factor@1; ;the@1]
+[encoded; ;zinc-finger transcription factor@1]
+[encoded;by@2;egr-1]
+[include; ;targets]
+[include; ;interleukin-2]
+[interleukin-2; ;the@2]
+[and; ;CD44]
+[and; ;ICAM-1]
+[and; ;tumor necrosis factor@2 genes]
+

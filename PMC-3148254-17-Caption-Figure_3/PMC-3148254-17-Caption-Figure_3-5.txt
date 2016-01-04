@@ -1,0 +1,18 @@
+Similar results were obtained in a second experiment and in an additional experiment with a second PRO13_-deficient clone.
+[results; ;Similar]
+[obtained; ;results]
+[obtained; ;were]
+[obtained;in@1;experiment]
+[experiment; ;a@1]
+[experiment; ;second]
+[and; ;in@1]
+[and; ;in@2]
+[results;in@2;experiment@1]
+[experiment@1;  ;an]
+[experiment@1; ;additional]
+[experiment@1;with;clone]
+[clone; ;a@2]
+[clone; ;second]
+[clone; ;PRO13_-deficient]
+[deficient; ;PRO13_-]
+

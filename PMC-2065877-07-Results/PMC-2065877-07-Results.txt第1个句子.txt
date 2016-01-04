@@ -1,0 +1,36 @@
+RO1_ Activates PRO2_ Signaling and Deregulates the PRO3_ Cell Cycle Pathway
+PRO4_ transformation of rodent fibroblasts requires activation of PI3K and PRO5_ (5).
+[Activates; ;PRO1_] 
+
+[Activates; ;Signaling] 
+
+[Signaling; ;PRO2_] 
+
+[and@1; ;Activates] 
+
+[and@1; ;Deregulates] 
+
+[Deregulates; ;Cell Cycle Pathway] 
+
+[Cell Cycle Pathway; ;PRO3_] 
+
+[Cell Cycle Pathway; ;the] 
+
+[transformation; ;PRO4_] 
+
+[transformation;of@1;fibroblasts] 
+
+[fibroblasts; ;rodent] 
+
+[requires; ;transformation] 
+
+[requires; ;activation] 
+
+[activation;of@2;PI3K] 
+
+[activation;of@2;PRO5_ (5)]
+
+[and@2; ;PI3K] 
+
+[and@2; ;PRO5_ (5)]  
+

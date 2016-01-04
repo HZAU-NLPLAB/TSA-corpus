@@ -1,0 +1,9 @@
+BLPs also initiated apoptosis in an epithelial cell line transfected with hTLR2.
+[initiated; ;BLPs]
+[initiated; ;also]
+[initiated; ;apoptosis]
+[initiated;in;cell line]
+[cell line; ;an]
+[cell line; ;epithelial]
+[transfected; ;cell line]
+[transfected;with;hTLR2]

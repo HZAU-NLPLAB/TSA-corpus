@@ -1,0 +1,15 @@
+Activation of NF-kappa B correlates with phosphorylation of I kappa B-alpha and requires the proteolysis of this inhibitor.
+
+[Activation;of@1;NF-kappa@1 B]
+[kappa@1;-;NF]
+[correlates; ;NF-kappa@1 B]
+[correlates;with;phosphorylation]
+[phosphorylation;of@2;I kappa@2 B-alpha]
+[B-alpha; ;kappa@2]
+[kappa@2; ;I]
+[alpha;-;B]
+[and; ;correlates]
+[and; ;requires]
+[requires; ;proteolysis]
+[proteolysis;of@3;inhibitor]
+[inhibitor; ;this]

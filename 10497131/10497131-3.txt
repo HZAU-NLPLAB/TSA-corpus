@@ -1,0 +1,27 @@
+A high-affinity calcineurin-binding peptide was selected from combinatorial peptide libraries based on the calcineurin docking motif of NFAT.
+[high-affinity calcineurin-binding peptide; ;A] 
+
+[peptide; ;high-affinity] 
+
+[peptide; ;calcineurin-binding] 
+
+[high;-;affinity] 
+
+[calcineurin;-;binding] 
+
+[selected; ;high-affinity calcineurin-binding peptide] 
+
+[selected; ;was] 
+
+[selected;from;peptide libraries] 
+
+[peptide libraries; ;combinatorial] 
+
+[based; ;peptide libraries] 
+
+[based;on;calcineurin docking motif] 
+
+[motif;docking;calcineurin] 
+
+[calcineurin docking motif;of;NFAT] 
+

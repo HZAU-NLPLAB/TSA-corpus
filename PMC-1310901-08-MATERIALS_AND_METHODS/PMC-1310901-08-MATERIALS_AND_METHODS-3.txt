@@ -1,0 +1,19 @@
+Reporter gene assays using the dual PRO4_ assay (Promega) were performed similar to previous reports (29).
+
+[using; ;Reporter gene assays]
+
+[using; ;PRO4_ assay]
+
+[PRO4_ assay; ;the]
+
+[PRO4_ assay; ;dual]
+
+[dual PRO4_ assay; ;Promega]
+
+[performed; ;Reporter gene assays]
+
+[performed; ;were]
+
+[performed; ;similar]
+
+[similar;to;previous reports]

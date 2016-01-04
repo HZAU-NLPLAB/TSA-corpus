@@ -1,0 +1,14 @@
+Transcription specific differences visualized by fluorescence in situ hybridization pattern on interphase nuclei of different cell types.
+
+[differences; ;specific]
+[differences; ;Transcription]
+[visualized; ;differences]
+[visualized;by;fluorescence]
+[visualized;in;pattern]
+[pattern; ;hybridization]
+[hybridization; ;situ]
+[pattern;on;nuclei]
+[nuclei; ;interphase]
+[nuclei;of;types]
+[types; ;cell]
+[cell; ;different]

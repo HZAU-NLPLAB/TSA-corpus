@@ -1,0 +1,81 @@
+In this study multiple NF-kappa B related polypeptides ranging from 85 to 45 kDa were examined for their capacity to interact with the PRDII regulatory element of interferon beta and were shown to possess distinct intrinsic DNA binding affinities for this NF-kappa B site and form multiple DNA binding homo- and heterodimer complexes in co-renaturation experiments.
+[study; ;this] 
+
+[ ;In;study] 
+
+[NF-kappa B; ;multiple] 
+
+[related; ;NF-kappa B]
+
+[related; ;polypeptides] 
+
+[polypeptides; ;ranging...from] 
+
+[85;from...to;45] 
+
+[kDa; ;45] 
+
+[examined; ;were] 
+
+[examined; ;kDa] 
+
+[examined;for;capacity] 
+
+[capacity; ;their] 
+
+[capacity;to;interact] 
+
+[interact;with;element] 
+
+[element; ;regulatory] 
+
+[element; ;PRDII] 
+
+[element; ;the] 
+
+[element;of;beta] 
+
+[beta; ;interferon] 
+
+[shown; ;were] 
+
+[shown;to;possess] 
+
+[possess; ;affinities] 
+
+[affinities; ;binding] 
+
+[binding; ;DNA] 
+
+[affinities; ;distinct] 
+
+[affinities; ;intrinsic] 
+
+[affinities;for;site] 
+
+[site; ;NF-kappa B] 
+
+[site; ;this] 
+
+[form; ;homo-] 
+
+[homo-; ;binding] 
+
+[binding; ;DNA] 
+
+[homo-; ;multiple]
+[and; ;homo-] 
+
+[and; ;complexes] 
+
+[complexes; ;heterodimer] 
+
+[form;in;experiments] 
+
+[experiments; ;co-renaturation] 
+
+[and; ;examined] 
+
+[and; ;shown] 
+
+[and; ;form]

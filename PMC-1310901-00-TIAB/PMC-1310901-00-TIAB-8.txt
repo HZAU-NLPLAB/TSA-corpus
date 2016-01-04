@@ -1,0 +1,11 @@
+Together, these data suggest CpG site-specific PRO16_ promoter methylation as a putative mechanism of down-regulated PRO17_ expression in leukemia.
+[data; ; these]
+[suggest; ; data]
+[suggest; ; CpG site-specific PRO16_ promoter methylation]
+[PRO16_; ; site-specific]
+[suggest;as;putative mechanism]
+[putative mechanism; ; a]
+[mechanism; ; putative]
+[mechanism;of;down-regulated PRO17_ expression]
+[PRO17_ expression; ; down-regulated]
+[mechanism;in;leukemia]

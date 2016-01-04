@@ -1,0 +1,5 @@
+nase protection assay.
+[protection; ;Rnase] 
+
+[assay; ;protection] 
+

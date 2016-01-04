@@ -1,0 +1,29 @@
+Our data suggests that NF-kappaB may function as an antiapoptotic factor in thymocytes while functioning as a proapoptotic factor in mature peripheral T cells.
+[data; ;Our] 
+
+[data; ;suggests] 
+
+[suggests; ;that]
+
+[that; ;NF-kappaB may function as@1 an antiapoptotic factor in thymocytes while functioning as@2 a proapoptotic factor in mature peripheral T cells] 
+
+[function; ;NF-kappaB] 
+
+[function; ;may 
+
+[function;as@1;antiapoptotic factor] 
+
+[antiapoptotic factor; ;an] 
+
+[function;in;thymocytes] 
+
+[NF-kappaB may function as@1 an antiapoptotic factor in thymocytes;while;functioning as@2 a proapoptotic factor in mature peripheral T cells 
+
+[functioning;as@2;proapoptotic factor] 
+
+[proapoptotic factor; ;a] 
+
+[functioning;in;mature peripheral T cells] 
+
+[T cells;peripheral;mature] 
+

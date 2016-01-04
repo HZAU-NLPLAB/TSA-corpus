@@ -1,0 +1,49 @@
+PRO11_ transgenic B cells had increased levels of PRO12_ compared to wild-type lymphocytes; however, progression to lymphoma in both PRO13_-positive and -negative lymphoma cells did not further i
+[B cells; ;transgenic] 
+
+[transgenic; ;PRO11_] 
+
+[B cells; ;increased] 
+
+[increased; ;had] 
+
+[increased; ;levels] 
+
+[levels;of;PRO12_] 
+
+[compared; ;PRO12_] 
+
+[compared;to;lymphocytes] 
+
+[lymphocytes; ;wild-type] 
+
+[however; ;progression to lymphoma in both PRO13_-positive and -[negative lymphoma cells did not further increase PRO14_ level]  
+
+[progression;to;lymphoma] 
+
+[lymphoma;in;cells] 
+
+[cells; ;lymphoma] 
+
+[cells; ;both PRO13_-positive and -negative] 
+
+[both...and; ;PRO13_-positive] 
+
+[both...and; ;-negative] 
+
+[positive;-;PRO13_] 
+
+[negative;-;PRO13_] 
+
+[increase; ;cells] 
+
+[increase; ;did] 
+
+[increase; ;not] 
+
+[increase; ;levels]  
+
+[increase; ;further] 
+
+[levels; ;PRO14_] 
+

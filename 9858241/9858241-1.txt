@@ -1,0 +1,19 @@
+Activation of the human delta-globin gene promoter in primary adult erythroid cells.
+[Activation;of;gene] 
+
+[promoter; ;the] 
+
+[promoter; ;human] 
+
+[promoter; ;delta-globin] 
+
+[promoter; ;gene] 
+
+[Activation;in;cells] 
+
+[cells; ;primary] 
+
+[cells; ;adult] 
+
+[cells; ;erythroid] 
+

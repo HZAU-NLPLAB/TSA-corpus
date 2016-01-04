@@ -1,0 +1,13 @@
+AR-independent transactivation by Tat in cells derived from the CNS: a novel mechanism of HIV-1 gene regulation.
+[transactivation; ;TAR-independent ]
+[transactivation;by;Tat ]
+[transactivation;in;cells ]
+[derived;from;CNS ]
+[derived; ;transactivation ]
+[:; ;CNS ]
+[:; ;a novel mechanism of HIV-1 gene regulation ]
+[mechanism; ;a ]
+[mechanism; ;novel ]
+[mechanism;of;regulation ]
+[regulation; ;HIV-1 ]
+[regulation; ;gene ]

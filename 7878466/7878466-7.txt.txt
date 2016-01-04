@@ -1,0 +1,16 @@
+These results suggest that phosphorylation at one or both of these residues is critical for activation of NF-kappa B.
+
+[results; ;These]
+[suggest; ;results]
+[results; ;that]
+[that; ;phosphorylation at one or both of these residues is critical for activation of NF-kappa B]
+[phosphorylation;at;one]
+[or; ;one]
+[or; ;both]
+[both;of;residues]
+[residues; ;these]
+[is; ;residues]
+[is; ;critical]
+[critical;for;activation]
+[activation;of;NF-kappa B]
+[kappa;-;NF]

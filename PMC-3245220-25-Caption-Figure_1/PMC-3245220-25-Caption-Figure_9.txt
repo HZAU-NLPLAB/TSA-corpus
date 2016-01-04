@@ -1,0 +1,8 @@
+Culture media was collected to measure SEAP production.
+[collected; ;media]
+[media; ;Culture]
+[collected; ;was]
+[collected;to;measure SEAP production]
+[measure; ;production]
+[production; ;SEAP) 
+

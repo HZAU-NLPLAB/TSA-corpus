@@ -1,0 +1,41 @@
+PPARgamma induces the expression of many genes involved in lipid anabolism, including the adipocyte fatty acid binding protein (aP2), and is a key regulator of adipocyte differentiation.
+[induces; ;PPARgamma] 
+
+[induces; ;expression] 
+
+[expression; ;the@1] 
+
+[expression;of@1;genes] 
+
+[genes; ;many] 
+
+[involved; ;genes] 
+
+[involved;in;lipid anabolism] 
+
+[lipid anabolism;including;adipocyte fatty acid binding protein] 
+
+[adipocyte fatty acid binding protein; ;the@2] 
+
+[acid;fatty;adipocyte] 
+
+[protein;binding;adipocyte fatty acid] 
+
+[adipocyte fatty acid binding protein; ;aP2] 
+
+[and; ;induces] 
+
+[and; ;is] 
+
+[is; ;PPARgamma] 
+
+[is; ;regulator] 
+
+[regulator; ;a] 
+
+[regulator; ;key] 
+
+[regulator;of@2;adipocyte differentiation] 
+
+[differentiation; ;adipocyte] 
+

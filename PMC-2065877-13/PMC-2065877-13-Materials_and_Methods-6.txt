@@ -1,0 +1,11 @@
+ Stains were developed with BCIP/NBT and counterstained in Nuclear Fast Red (Dako).
+[developed; ;were ]
+[developed; ;Stains ]
+[developed;with;BCIP/NBT ]
+[/; ;BCIP ]
+[/; ;NBT ]
+[and; ;developed ]
+[and; ;counterstained ]
+[counterstained;in;Red ]
+[Red; ;Fast ]
+[Red; ;Nuclear ]

@@ -1,0 +1,25 @@
+iphasic control of NF-kappa B activation induced by the triggering of HLA-DR antigens expressed on B cells.
+
+
+[control; ;Biphasic] 
+
+[control;of@1;activation] 
+
+[activation; ;NF-kappa B] 
+
+[induced; ;activation] 
+
+[induced;by;triggering] 
+
+[triggering; ;the] 
+
+[triggering;of@2;antigens] 
+
+[antigens; ;HLA-DR] 
+
+[antigens; ;expressed] 
+
+[expressed;on;B cells] 
+
+[cells; ;B] 
+

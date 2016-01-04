@@ -1,0 +1,47 @@
+The promoter sequence analysis of these two genes revealed that they are embedded within a CpG island and share structural features often found in the promoters of housekeeping genes.
+[analysis; ;sequence] 
+
+[analysis; ;promoter] 
+
+[analysis; ;The] 
+
+[analysis;of@1;genes@1] 
+
+[genes; ;these] 
+
+[genes; ;two] 
+
+[revealed; ;analysis] 
+
+[revealed; ;that] 
+
+[that; ;they are embedded within a CpG island and share structural features often found in the promoters of housekeeping genes] 
+
+[and; ;embedded] 
+
+[and; ;share] 
+
+[embedded; ;are] 
+
+[embedded;within;CpG island] 
+
+[CpG island; ;a] 
+
+[island; ;CpG] 
+
+[share; ;features] 
+
+[features; ;structural] 
+
+[found; ;often] 
+
+[found; ;features] 
+
+[found;in;promoters] 
+
+[promoters; ;the] 
+
+[promoters;of@2;housekeeping genes] 
+
+[genes@2; ;housekeeping] 
+

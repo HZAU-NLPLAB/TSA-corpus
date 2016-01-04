@@ -1,0 +1,37 @@
+This protein, termed calcium-signal modulating cyclophilin ligand (CAML), acts downstream of the TCR and upstream of calcineurin by causing an influx of calcium.
+
+
+[protein; ;This] 
+
+[termed; ;protein] 
+
+[termed; ;calcium-signal modulating cyclophilin ligand] 
+
+[calcium-signal modulating cyclophilin ligand; ;CAML] 
+
+[ligand; ;cyclophilin] 
+
+[cyclophilin; ;modulating] 
+
+[modulating; ;calcium-signal]
+
+[acts; ;downstream] 
+
+[downstream;of@1;TCR] 
+
+[TCR; ;the@1] 
+
+[and; ;downstream] 
+
+[and; ;upstream] 
+
+[upstream;of@2;calcineurin] 
+
+[calcineurin;by;causing] 
+
+[causing; ;influx] 
+
+[influx; ;an] 
+
+[influx;of@3;calcium]  
+

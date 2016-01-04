@@ -1,0 +1,29 @@
+In addition, we identified a novel E2F-like sequence in human MCM6 promoter which cooperates with the authentic E2F sites in E2F-dependent regulation.
+[identified; ;we] 
+
+[identified; ;sequence] 
+
+[sequence; ;a] 
+
+[sequence; ;novel] 
+
+[sequence; ;E2F-like] 
+
+[like;-;E2F] 
+
+[identified;in@1;human MCM6 promoter] 
+
+[human MCM6 promoter; ;which] 
+
+[cooperates; ;which] 
+
+[cooperates;with;E2F sites] 
+
+[E2F sites; ;authentic] 
+
+[E2F sites;in@2;E2F-dependent regulation] 
+
+[dependent;-;E2F] 
+
+[regulation; ;E2F-dependent] 
+

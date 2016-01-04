@@ -1,0 +1,7 @@
+ of 8 with 89% methylated CpGs) but totally non-methylated in PRO11_-positive cells (Figure 4A and B).
+[ ;but;non-methylated]
+[non-methylated; ; totally]
+[non-methylated;in;PRO11_-positive cells]
+[PRO11_-positive cells; ;Figure 4A and B]
+[and; ;Figure 4A]
+[and; ;B]

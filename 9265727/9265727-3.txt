@@ -1,0 +1,33 @@
+Several small molecules, an antisense oligonucleotide, and gene therapeutic agents that inhibit NF-kappa b activation have been described.
+[molecules; ;Several] 
+
+[molecules; ;small] 
+
+[antisense oligonucleotide; ;an] 
+
+[and; ;molecules] 
+
+[and; ;antisense oligonucleotide] 
+
+[and; ;agents] 
+
+[agents; ;therapeutic] 
+
+[agents; ;gene] 
+
+[agents; ;that] 
+
+[inhibit; ;activation] 
+
+[activation; ;NF-kappa b] 
+
+[described; ;been] 
+
+[been; ;have] 
+
+[described; ;molecules] 
+
+[described; ;antisense oligonucleotide] 
+
+[described; ;agents] 
+

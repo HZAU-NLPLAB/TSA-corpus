@@ -1,0 +1,31 @@
+DNA-protein binding assays with nuclear extracts from induced cells demonstrate a high molecular weight complex on the enhancer.
+
+
+[DNA-protein; ;binding] 
+
+[binding; ;assays] 
+
+[binding;with;extracts] 
+
+[extracts; ;nuclear] 
+
+[extracts;from;cells] 
+
+[cells; ;induced] 
+
+[demonstrate; ;cells] 
+
+[demonstrate; ;complex] 
+
+[complex; ;a] 
+
+[complex; ;weight] 
+
+[complex; ;molecular] 
+
+[complex; ;high] 
+
+[complex;on;enhancer]  
+
+[enhancer ; ;the] 
+

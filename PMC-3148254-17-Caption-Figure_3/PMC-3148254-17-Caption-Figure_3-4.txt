@@ -1,0 +1,15 @@
+Symbols indicate the values from duplicate cultures (a line indicates the mean of the two values).
+[indicate; ;Symbols]
+[indicate; ;the values from duplicate cultures]
+[values; ;the@1]
+[values;from;cultures]
+[cultures; ;duplicate]
+[cultures; ;a line indicates the mean of the two values]
+[line; ;a]
+[indicates; ;line]
+[indicates; ;the mean of the two values]
+[mean; ;the@2]
+[mean; of;values]
+[values; ;the@3]
+[values; ;two) 
+

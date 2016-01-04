@@ -1,0 +1,13 @@
+Molecular regulation of cytokine gene expression during the immune response.
+[regulation; ;Molecular] 
+
+[Molecular regulation;of;cytokine gene expression] 
+
+[expression; ;cytokine gene] 
+
+[gene; ;cytokine] 
+
+[Molecular regulation;during;immune response] 
+
+[immune response; ;the] 
+

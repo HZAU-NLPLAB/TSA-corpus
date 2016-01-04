@@ -1,0 +1,9 @@
+[A, B) NF-kappaB, but not (C, D) AP-1 was inhibited. 
+[NF-kappaB;but not;AP-1]
+[NF-kappaB; ;A]
+[NF-kappaB; ;B]
+[AP-1; ;C]
+[AP-1; ;D]
+[inhibited; ;was]
+[inhibited; ;NF-kappaB]
+[inhibited; ;AP-1]

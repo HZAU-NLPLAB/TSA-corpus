@@ -1,0 +1,41 @@
+Spleen and liver sections were fixed in 4% paraformaldehyde and embedded in paraffin, and 5-mum sections were stained with hematoxylin and eosin for histopathological analysis.
+[fixed; ;Spleen and sections] 
+
+[fixed; ;were]
+
+[sections; ;liver] 
+
+[fixed;in;paraformaldehyd] 
+
+[paraformaldehyde; ;4%] 
+
+[and; ;Spleen] 
+
+[and; ;sections] 
+
+[embedded; ;were] 
+
+[embedded;in;paraffin] 
+
+[and; ;Spleen and liver sections were fixed in 4% paraformaldehyde and embedded in paraffin]
+[and; ;5-mum sections were stained with hematoxylin and eosin for histopathological analysis] 
+
+[stained; ;sections] 
+
+[sections; ;5-mum] 
+
+[mum;-;5] 
+
+[stained; ;were] 
+
+[stained;with;hematoxylin] 
+
+[stained;with;eosin]
+
+[and; ;hematoxylin] 
+
+[and; ;eosin] 
+
+[eosin;for;analysis] 
+
+[analysis;; ;histopathological]

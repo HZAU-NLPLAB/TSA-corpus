@@ -1,0 +1,10 @@
+These results indicate the involvement of CpG methylation in the regulation of PRO15_ expression in leukemic cells.
+[results; ;These]
+[indicate; ;results]
+[indicate; ;involvement]
+[involvement; ;the@1]
+[involvement;of;CpG methylation]
+[CpG methylation;in;regulation]
+[regulation; ;the@2]
+[regulation;of;PRO15_ expression]
+[PRO15_ expression;in@1;leukemic cells]

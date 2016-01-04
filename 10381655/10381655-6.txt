@@ -1,0 +1,43 @@
+Inhibition of NF-kappaB activity inhibits the P/I mediated induction of FasL mRNA and decreases the level of apoptosis in these cultures, thus establishing NF-kappaB as a proapoptotic factor in this context.
+Inhibition;of@1;NF-kappaB activity 
+
+[activity; ;NF-kappaB] 
+
+[inhibits; ;Inhibition] 
+
+[inhibits; ;induction] 
+
+[induction; ;P/I] 
+
+[induction; ;mediated] 
+
+[induction;of@2;FasL mRNA] 
+
+[and; ;inhibits] 
+
+[and; ;decreases] 
+
+[decreases; ;Inhibition] 
+
+[decreases; ;level] 
+
+[level; ;the@2] 
+
+[level;of@3;apoptosis] 
+
+[apoptosis;in@1;cultures] 
+
+[cultures; ;these] 
+
+[establishing; ;thus] 
+
+[establishing; ;NF-kappaB] 
+
+[establishing;as;proapoptotic factor] 
+
+[proapoptotic factor; ;a] 
+
+[establishing;in@2;context] 
+
+[context; ;this] 
+

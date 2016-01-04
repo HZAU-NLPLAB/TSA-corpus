@@ -1,0 +1,36 @@
+To analyze the PRO1_ transcriptional level, RNA was extracted from cells using the commercial RNAzol-kit (Paesel, Frankfurt, Germany).
+
+[extracted;To;analyze]
+
+
+[analyze; ;PRO1_ transcriptional level]
+
+
+[PRO1_ transcriptional level; ;the]
+
+
+[level; ;PRO1_]
+
+
+[level; ;transcriptional]
+
+
+[extracted; ;RNA]
+
+
+[extracted; ;was]
+
+
+[extracted;from;cells]
+
+
+[cells;using;RNAzol-kit]
+
+
+[RNAzol-kit; ;the]
+
+
+[RNAzol-kit; ;commercial]
+
+
+[RNAzol-kit; ;Paesel, Frankfurt, Germany]

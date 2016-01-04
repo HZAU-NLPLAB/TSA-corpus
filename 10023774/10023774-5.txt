@@ -1,0 +1,32 @@
+RFLAT-1 is a novel, phosphorylated, zinc finger transcription factor that is expressed in T cells 3 days after activation, coincident with RANTES expression.
+[is@1; ;RFLAT-1] 
+
+[is@1; ;zinc finger transcription factor] 
+
+[factor; ;novel] 
+
+[factor; ;phosphorylated] 
+
+[factor; ;zinc] 
+
+[factor; ;finger] 
+
+[zinc finger transcription factor; ;that] 
+
+[expressed; ;that] 
+
+[expressed; ;is@2] 
+
+[expressed;in;T cells] 
+
+[expressed; ;3 days] 
+
+[days; ;3] 
+
+[3 days;after;activation] 
+
+[is@1; ;coincident] 
+[coincident;with;RANTES expression] 
+
+[expression; ;RANTES] 
+

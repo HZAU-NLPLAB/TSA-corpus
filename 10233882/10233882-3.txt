@@ -1,0 +1,13 @@
+However, a role for NF-kappaB in human CD34(+) bone marrow cells has not been described.
+[role; ;a] 
+
+[role;for;NF-kappaB 
+
+[role;in;human CD34(+) bone marrow cells] 
+
+[described;  ;role] 
+
+[described; been;has] 
+
+[been; ;not] 
+

@@ -1,0 +1,11 @@
+They play an important role in the regulation of various genes (such as IFNs, interleukins, MHC class I/II), apoptosis and differentiation/maturation (4-6).
+[play an...role; ;important]
+[play an...role;in;regulation]
+[regulation;of;genes]
+[genes; ;various]
+[genes;such as;IFNs]
+[genes;such as;interleukins]
+[genes;such as;MHC class I/II]
+[apoptosis; ;genes]
+[and; ;apoptosis]
+[and; ;differentiation/maturation]

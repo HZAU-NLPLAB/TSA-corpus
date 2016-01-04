@@ -1,0 +1,18 @@
+After centrifugation, protein concentration of the supernatant was determined by BCA-method (Pierce, Rockford, IL) as recommended.
+[ ;After;centrifugation]
+
+[concentration; ;protein]
+
+[concentration;of;supernatant]
+
+[supernatant; ;the]
+
+[determined; ;supernatant]
+
+[determined; ;was]
+
+[determined;by;BCA-method]
+
+[BCA-method; ;Pierce, Rockford, IL]
+
+[determined;as;recommended]

@@ -1,0 +1,19 @@
+For activation of PRO1_ signaling, 5x104 HI5 insect cells or HI5 insect cells expressing mouse PRO2_ (PRO3_) were added to 1x106 B cells.
+[;For;activation) 
+[activation;of;signaling) 
+[signaling; ;PRO1_) 
+[cells@1; ;insect@1) 
+[cells@1; ;HI5@1]
+[cells@1; ;5x104) 
+[or; ;cells@2]
+[or; ;cells@1) 
+[cells@2; ;insect@2) 
+[cells@2; ;HI5@2) 
+[PRO2_; ;mouse) 
+[PRO2_; ;expressing) 
+[PRO2_; ;PRO3_) 
+[added; ;PRO2_) 
+[added; ;were) 
+[added;to;B cells) 
+[B cells; ;1x106) 
+

@@ -1,0 +1,55 @@
+Our results demonstrate that the altered CCAAT box (CCAAC) and the lack of an EKLF binding site in delta-globin contribute to its low level of expression in the hAEC model as well.
+[results; ;Our 
+
+[demonstrate; ;results] 
+
+[demonstrate; ;that] 
+
+[that; ;the@1 altered CCAAT box (CCAAC) and the@2 lack of@1 an EKLF binding site in@1 delta-globin contribute to its low level of@2 expression in@2 the@3 hAEC model as well] 
+
+[CCAAT box; ;the@1] 
+
+[CCAAT box; ;altered] 
+
+[box; ;CCAAT] 
+
+[CCAAT box; ;CCAAC] 
+
+[and; ;the@1 altered CCAAT box] 
+
+[and; ;the@2 lack] 
+
+[lack; ;the@2] 
+
+[lack;of@1;EKLF binding site]
+
+[site; ;an] 
+
+[site; ;EKLF] 
+
+[site; ;binding] 
+
+[CCAAT box;in@1;delta-globin] 
+
+[lack;in@1;delta-globin] 
+
+[contribute; ;CCAAT box] 
+
+[contribute; ;lack] 
+
+[contribute;to;level] 
+
+[level; ;its] 
+
+[level; ;low] 
+
+[level;of@2;expression] 
+
+[contribute;in@2;hAEC model] 
+
+[model; ;the@3] 
+
+[model; ;hAEC] 
+
+[contribute; ;as well] 
+

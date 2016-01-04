@@ -1,0 +1,11 @@
+Other factors are induced by lectin, antibody, and/or PMA alone. 
+[factors; ;Other]
+[induced; ;factors]
+[induced;are; ]
+[induced;by;lectin]
+[and; ;lectin]
+[and; ;antibody]
+[and/or; ;PMA]
+[/; ;and]
+[/; ;or]
+[induced; ;alone]

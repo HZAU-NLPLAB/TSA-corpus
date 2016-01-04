@@ -1,0 +1,11 @@
+The promoter region between -173 and -60 contained the strongest activating elements. 
+[promoter region; ;The]
+[region; ;promoter]
+[promoter region;between;-173]
+[and; ;-173]
+[and; ;-60]
+[contained; ;promoter region]
+[contained; ;activating elements]
+[activating elements; ;the]
+[activating elements; ;strongest]
+[elements; ;activating]

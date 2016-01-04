@@ -1,0 +1,8 @@
+Danazol decreases transcription of estrogen receptor gene in human monocytes.
+[decreases; ;Danazol]
+[decreases; ;transcription]
+[transcription;of;estrogen receptor gene]
+[gene; ;estrogen receptor]
+[receptor; ;estrogen]
+[gene;in;human monocytes]
+[monocytes; ;human]

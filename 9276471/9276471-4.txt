@@ -1,0 +1,49 @@
+Under these conditions, NF-kappa B activation was found to be a rapid and transient response, reaching a maximum by 10-15 min, and returning to near-basal levels by 30 min.[
+[ ;Under;conditions] 
+
+[conditions; ;these] 
+
+[activation; ;NF-kappa B] 
+
+[found; ;was] 
+
+[found; ;activation] 
+
+[found;to;be] 
+
+[be; ;response] 
+
+[response; ;a@1] 
+
+[response; ;rapid] 
+
+[response; ;transient] 
+
+[and@1; ;rapid] 
+
+[and@1; ;transient] 
+
+[reaching; ;response] 
+
+[reaching; ;maximum] 
+
+[maximum; ;a@2] 
+
+[maximum;by@1;10-15 min] 
+
+[10-15; ;min@1] 
+
+[and@2; ;reaching] 
+
+[and@2; ;returning] 
+
+[returning; ;response] 
+
+[returning;to;levels] 
+
+[levels; ;near-basal] 
+
+[levels;by@2;30 min] 
+
+[30; ;min@2] 
+

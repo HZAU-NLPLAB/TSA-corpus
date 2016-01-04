@@ -1,0 +1,23 @@
+ct2 transactivation from a remote enhancer position requires a B-cell-restricted activity.
+[transactivation; ;Oct2] 
+
+[transactivation;from;position] 
+
+[position; ;enhancer] 
+
+[position; ;remote] 
+
+[position; ;a] 
+
+[requires; ;transactivation] 
+
+[requires; ;activity] 
+
+[activity; ;B-cell-restricted] 
+
+[restricted;-;B-cell] 
+
+[cell;-;B] 
+
+[activity; ;a] 
+

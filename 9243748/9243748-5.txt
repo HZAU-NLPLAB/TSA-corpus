@@ -1,0 +1,35 @@
+The mAb failed to induce NF-kappa B/Rel nuclear activity in cells incubated in the presence of 3,4-dichloroisocoumarin, an inhibitor of I kappa B-alpha degradation.
+[mAb; ;The] 
+
+[failed; ;mAb] 
+
+[failed;to;induce] 
+
+[induce; ;nuclear activity] 
+
+[nuclear activity; ;NF-kappa B/Rel] 
+
+[activity; ;nuclear] 
+
+[/; ;NF-kappa B] 
+
+[/; ;Rel] 
+
+[induce;in@1;cells] 
+
+[incubated; ;mAb] 
+
+[incubated;in@2;presence] 
+
+[presence; ;the] 
+
+[presence;of@1;3,4-dichloroisocoumarin] 
+
+[3,4-dichloroisocoumarin; ;an inhibitor of I kappa B-alpha degradation] 
+
+[inhibitor; ;an] 
+
+[inhibitor;of@2;degradation] 
+
+[degradation; ;I kappa B-alph] 
+

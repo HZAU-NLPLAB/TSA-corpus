@@ -1,0 +1,14 @@
+Therefore, we investigated whether PRO6_ promoter methylation or mutation may be involved in the regulation of PRO7_ expression in leukemia cells.
+[investigated; ; we) 
+[whether; ; involved) 
+[methylation; ; PRO6]_ 
+[methylation; ; promoter) 
+[or; ; methylation) 
+[or; ; mutation) 
+[involved; ; may) 
+[involved; ; be) 
+[involved;in; regulation) 
+[regulation; ; the) 
+[regulation;of; PRO7_ expression) 
+[PRO7_ expression;in;leukemia cells)       
+[cells; ;leukemia]

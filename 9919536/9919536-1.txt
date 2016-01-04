@@ -1,0 +1,11 @@
+Inhibition of@1 NF-kappa B activation in@1 vitro@1 and in@2 vivo@2: role of@2 26S proteasome. 
+[Inhibition;of@1;activation]
+[activation; ;NF-kappa B]
+[Inhibition;in@1;vitro@1]
+[and; ;in@1 vitro@1]
+[and; ;in@2 vivo@2]
+[Inhibition;in@2;vitro@2]
+[:; ;vivo@2]
+[:; ;role]
+[role;of@2;26S proteasome]
+[proteasome; ;26S]

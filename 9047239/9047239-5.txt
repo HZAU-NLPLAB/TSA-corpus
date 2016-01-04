@@ -1,0 +1,7 @@
+Four NFAT-like elements exist within the enhancer.
+[NFAT-like elements; ;Four]
+[elements; ;NFAT-like]
+[NFAT;-;like]
+[exist; ;NFAT-like elements]
+[exist;within;enhancer]
+[enhancer; ;the] 

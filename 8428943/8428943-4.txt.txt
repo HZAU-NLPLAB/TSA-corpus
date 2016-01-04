@@ -1,0 +1,17 @@
+In cotransfection experiments, oncogenic rats obviated the need for PKC stimulation but did not replace either the calcium signal or interleukin-1.
+
+[ ;In;experiments]
+[experiments; ;cotransfection]
+[rats; ;oncogenic]
+[obviated; ;rats]
+[obviated; ;need]
+[need; ;the]
+[need;for;stimulation]
+[stimulation; ;PKC]
+[did; ;but]
+[did; ;replace]
+[replace; ;not]
+[either...or; ;signal]
+[either...or; ;interleukin-1]
+[signal; ;the]
+[signal; ;calcium]

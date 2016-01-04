@@ -1,0 +1,43 @@
+In this review, we summarize our current understanding of the transcriptional regulation of T cell development and function with particular emphasis on the results of recent gene targeting and transgenic experiments.
+[ ;In;review] 
+
+[review; ;this] 
+
+[summarize; ;we] 
+
+[summarize; ;understanding] 
+
+[understanding; ;our] 
+
+[understanding; ;current] 
+
+[understanding;of@1;transcriptional regulation] 
+
+[transcriptional regulation; ;the@1] 
+
+[transcriptional regulation;of@2;T cell development] 
+
+[and@1; ;T cell development] 
+
+[and@1; ;function] 
+
+[function;with;emphasis] 
+
+[emphasis; ;particular] 
+
+[particular emphasis;on;results] 
+
+[results; ;the@2] 
+
+[results;of@3;gene targeting and@2 transgenic experiments] 
+
+[gene targeting and@2 transgenic experiments; ;recent] 
+
+[and@2; ;gene targeting] 
+
+[and@2; ;transgenic experiments] 
+
+[targeting; ;gene] 
+
+[experiments; ;transgenic] 
+

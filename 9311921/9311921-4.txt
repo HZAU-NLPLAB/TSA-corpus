@@ -1,0 +1,29 @@
+A member of the tumor necrosis factor receptor superfamily was isolated by virtue of its affinity for CAML.
+
+
+[member; ;A] 
+
+[member;of@1;tumor necrosis factor receptor superfamily] 
+
+[tumor necrosis factor receptor superfamily; ;the] 
+
+[necrosis; ;tumor] 
+
+[factor; ;necrosis] 
+
+[receptor; ;factor] 
+
+[superfamily; ;receptor] 
+
+[isolated; ;superfamily] 
+
+[isolated; ;was] 
+
+[isolated;by;virtue] 
+
+[virtue;of@2;affinity] 
+
+[affinity; ;its] 
+
+[affinity;for;CAML]  
+

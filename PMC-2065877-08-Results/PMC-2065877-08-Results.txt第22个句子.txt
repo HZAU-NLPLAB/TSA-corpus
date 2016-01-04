@@ -1,0 +1,60 @@
+PRO45_ has also been shown to activate JNK and p38 MAPK pathways (13,48),   and PRO46_ transgenic lymphocytes were mildly susceptible to growth inhibition by SB202190, an inhibitor of p38 MAPK, but not U0126, an inhibitor of PRO47_/PRO48_ activity.
+[shown; ;PRO45_] 
+
+[shown; ;has] 
+
+[shown; ;also] 
+
+[shown; ;been] 
+
+[shown;to;activate] 
+
+[activate; ;JNK] 
+
+[activate; ;pathways] 
+
+[pathways; ;MAPK] 
+
+[pathways; ;p38] 
+
+[and; ;PRO45_ has also been shown to activate JNK and p38 MAPK pathways] 
+
+[and; ;PRO46_ transgenic lymphocytes were mildly susceptible to growth inhibition by SB202190, an inhibitor of p38 MAPK, but not U0126, an inhibitor of PRO47_/PRO48_ activity]  
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO46_]
+
+[lymphocytes; ;were] 
+
+[were; ;susceptible] 
+
+[susceptible; ;mildly] 
+
+[susceptible;to;inhibition] 
+
+[inhibition; ;growth] 
+
+[susceptible;by;SB202190] 
+
+[SB202190; ;inhibitor] 
+
+[inhibitor; ;an] 
+
+[inhibitor;of;MAPK] 
+
+[MAPK; ;p38] 
+
+[SB202190;but not;U0126] 
+
+[U0126; ;inhibitor] 
+
+[inhibitor; ;an]
+[inhibitor;of;activity] 
+
+[activity;; ;PRO47_/PRO48_] 
+
+[/; ;PRO47_] 
+
+[/; ;PRO48_] 
+

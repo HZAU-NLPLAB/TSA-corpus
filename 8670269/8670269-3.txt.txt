@@ -1,0 +1,14 @@
+The Ets proteins share a conserved Ets domain that mediates specific DNA binding.
+
+[proteins; ;Ets@1]
+[proteins; ;The]
+[share; ;proteins]
+[share; ;Ets@2]
+[Ets@2; ;a]
+[Ets@2; ;conserved]
+[domain; ;Ets@2]
+[domain; ;that]
+[that; ;mediates specific DNA binding]
+[binding; ;DNA]
+[DNA; ;specific]
+[DNA; ;mediates]

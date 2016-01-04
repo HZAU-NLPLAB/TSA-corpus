@@ -1,0 +1,15 @@
+Host defense mechanisms triggered by microbial lipoproteins through toll-like receptors.
+[triggered; ;Host defense mechanisms] 
+
+[mechanisms; ;Host] 
+
+[mechanisms; ;defense] 
+
+[triggered;by;lipoproteins] 
+
+[lipoproteins; ;microbial] 
+
+[triggered;through;receptors] 
+
+[receptors; ;toll-like] 
+

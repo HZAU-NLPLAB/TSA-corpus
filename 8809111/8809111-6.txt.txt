@@ -1,0 +1,11 @@
+In addition, DNA methylation was revealed as one of the possible factors in establishing MNDA expression.
+
+[methylation; ;DNA]
+[revealed;was;methylation]
+[revealed;as;one]
+[one;of;factors]
+[factors; ;the]
+[factors; ;possible]
+[factors;in;expression]
+[expression; ;MNDA]
+[MNDA; ;establishing]

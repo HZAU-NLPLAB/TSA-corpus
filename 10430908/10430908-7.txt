@@ -1,0 +1,25 @@
+Furthermore, expression of physiological levels of Bcl-x protected B cells from Fas-mediated apoptosis in the absence of NF-kappaB signaling.
+expression;of@1;levels 
+
+[levels; ;physiological] 
+
+[levels;of@2;Bcl-x] 
+
+[protected; ;Bcl-x] 
+
+[protected; ;B cells] 
+
+[protected;from;apoptosis] 
+
+[apoptosis; ;Fas-mediated] 
+
+[mediated;-;Fas] 
+
+[protected;in;absence] 
+
+[absence; ;the] 
+
+[absence;of@3;NF-kappaB signaling] 
+
+[signaling; ;NF-kappaB] 
+

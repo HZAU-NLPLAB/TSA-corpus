@@ -1,0 +1,10 @@
+Percentages of B-1a and B-1b or B2 subsets are shown in each quadrant.
+[Percentages;of;B-1a and B-1b or B2 subsets ]
+[and; ;B-1a ]
+[and; ;B-1b ]
+[or; ;B-1a and B-1b ]
+[or; ;subsets ]
+[subsets; ;B2 ]
+[shown; ;Percentages of B-1a and B-1b or B2 subsets ]
+[shown;in;quadrant]
+[quadrant; ;each ]

@@ -1,0 +1,39 @@
+This enhancer is inducible in K562 human erythroleukemia cells, increasing linked gamma-globin promoter/luciferase gene expression to 170-fold over an enhancerless construct.
+
+
+[enhancer; ;This] 
+
+[is; ;enhancer] 
+
+[is; ;inducible] 
+
+[inducible;in;K562 human erythroleukemia cells] 
+
+[cells; ;erythroleukemia] 
+
+[cells; ;human] 
+
+[cells; ;K562] 
+
+[increasing; ;gene expression] 
+
+[expression; ;gene] 
+
+[expression; ;linked] 
+
+[gene; ;promoter/luciferase] 
+
+[promoter/luciferase; ;gamma-globin] 
+
+[/; ;promoter] 
+
+[/; ;luciferase] 
+
+[expression;to;170-fold] 
+
+[170-fold;over;construct]  
+
+[construct; ;an] 
+
+[construct; ;enhancerless] 
+

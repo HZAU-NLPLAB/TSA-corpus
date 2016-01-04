@@ -1,0 +1,38 @@
+The three jun genes showed a similar time course in their induction by PMA, maximal mRNA levels being reached after 60 min of induction.
+
+
+[genes; ;The] 
+
+[genes; ;jun] 
+
+[genes; ;three] 
+
+[showed; ;genes] 
+
+[showed; ;course] 
+
+[course; ;time] 
+
+[course; ;similar] 
+
+[course; ;a] 
+
+[course;in;induction@1] 
+
+[induction; ;their] 
+
+[induction;by;PMA] 
+
+[levels; ;mRNA] 
+
+[levels; ;maximal] 
+
+[reached; ;levels] 
+
+[reached; ;being] 
+
+[reached;after;60 min] 
+
+[min; ;60] 
+
+[min;of;induction@2]

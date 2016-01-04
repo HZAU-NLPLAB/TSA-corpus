@@ -1,0 +1,6 @@
+The PCR conditions were described elsewhere (3).
+[conditions; ;PCR]
+[conditions; ;The]
+[described; ;conditions]
+[described; ;were]
+[described; ;elsewhere]

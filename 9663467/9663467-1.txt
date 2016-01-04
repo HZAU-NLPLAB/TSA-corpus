@@ -1,0 +1,27 @@
+hrombopoietin supports in vitro erythroid differentiation via its specific receptor c-Mpl in a human leukemia cell line.
+[supports; ;Thrombopoietin] 
+
+[supports;in;vitro] 
+
+[supports; ;erythroid differentiation] 
+
+[differentiation; ;erythroid] 
+
+[supports;via;receptor] 
+
+[receptor; ;specific] 
+
+[receptor; ;its] 
+
+[its; ;Thrombopoietin] 
+
+[receptor; ;c-Mpl] 
+
+[supports;in;human leukemia cell line] 
+
+[human leukemia cell line; ;a] 
+
+[cell line; ;human leukemia] 
+
+[leukemia; ;human] 
+

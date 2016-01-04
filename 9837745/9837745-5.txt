@@ -1,0 +1,35 @@
+These B cells expressed p40 and p35 mRNA, and phorbol myristate acetate (PMA) stimulation strongly enhanced p40 and p70 production.
+[B cells; ;These] 
+
+[expressed; ;B cells] 
+
+[expressed; ;mRNA] 
+
+[mRNA; ;p40 and@1 p35] 
+
+[and@1; ;p40] 
+
+[and@1; ;p35] 
+
+[and@2; ;These B cells expressed p40 and@1 p35 mRNA] 
+
+[and@2; ;phorbol myristate acetate (PMA) stimulation strongly enhanced p40 and@3 p70 production] 
+
+[stimulation; ;phorbol myristate acetate] 
+
+[phorbol;myristate;acetate] 
+
+[phorbol myristate acetate; ;PMA] 
+
+[enhanced; ;phorbol myristate acetate (PMA) stimulation] 
+
+[enhanced; ;strongly] 
+
+[enhanced; ;production] 
+
+[production; ;p40 and@3 p70] 
+
+[and@3; ;p40]
+
+[and@3; ;p70] 
+

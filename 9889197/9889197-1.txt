@@ -1,0 +1,17 @@
+Intranuclear targeted delivery of functional NF-kappaB by 70 kDa heat shock protein.
+[delivery; ;Intranuclear] 
+
+[delivery; ;targeted] 
+
+[delivery;of;NF-kappaB] 
+
+[NF-kappaB; ;functional] 
+
+[delivery;by;70 kDa heat shock protein] 
+
+[kDa; ;70] 
+
+[protein; ;70 kDa] 
+
+[protein;shock;heat] 
+

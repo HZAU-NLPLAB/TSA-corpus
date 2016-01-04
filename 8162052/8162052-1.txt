@@ -1,0 +1,27 @@
+enes encoding general initiation factors for RNA polymerase II transcription are dispersed in the human genome.
+
+
+[encoding; ;Genes] 
+
+[factors; ;general] 
+
+[factors; ;initiation] 
+
+[factors; ;Genes encoding] 
+
+[factors;for;transcription] 
+
+[transcription; ;RNA polymerase II] 
+
+[polymerase II; ;RNA] 
+
+[dispersed; ;factors] 
+
+[dispersed; ;are] 
+
+[dispersed;in;genome]  
+
+[genome; ;the] 
+
+[genome ; ;human] 
+

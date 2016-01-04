@@ -1,0 +1,19 @@
+Inhibition of NFkappaB signaling rapidly induces cell death of EBV-transformed lymphocytes (17,18).
+[Inhibition;of;signaling] 
+
+[signaling; ;NFkappaB] 
+
+[induces; ;Inhibition] 
+
+[induces; ;rapidly] 
+
+[induces; ;death] 
+
+[death; ;cell] 
+
+[death;of;lymphocytes] 
+
+[lymphocytes; ;EBV-transformed] 
+
+[transformed;-;EBV] 
+

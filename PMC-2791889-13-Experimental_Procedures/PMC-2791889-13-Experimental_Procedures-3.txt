@@ -1,0 +1,7 @@
+The inguinal lymph nodes were removed 48 hr later. 
+[inguinal lymph nodes; ;The]
+[removed; ;The]
+[removed; ;were]
+[removed; ;48 hr later]
+[48 hr; ;later]
+[hr; ;48]

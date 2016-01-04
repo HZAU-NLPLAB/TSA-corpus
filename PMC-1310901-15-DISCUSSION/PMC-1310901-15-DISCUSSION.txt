@@ -1,0 +1,11 @@
+Many genetic lesions are known to influence gene expression of tumor suppressor genes.
+[lesions; ;Many]
+[lesions; ;genetic]
+[known; ;lesions]
+[known; ;are]
+[known;to;influence]
+[influence; ;gene expression]
+[expression; ;gene]
+[expression;of;tumor suppressor genes]
+[genes; ;tumor]
+[genes; ;suppressor]

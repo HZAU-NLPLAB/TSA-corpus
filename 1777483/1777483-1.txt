@@ -1,0 +1,36 @@
+ctivity of the kappa B enhancer of the interleukin-2 receptor alpha chain in somatic cell hybrids is accompanied by the nuclear localization of NF-kappa B.
+
+
+[Activity;of@1;enhancer] 
+
+[enhancer; ;kappa B] 
+
+[enhancer; ;the@1] 
+
+[enhancer;of@2;chain] 
+
+[chain; ;alpha] 
+
+[chain; ;interleukin-2 receptor] 
+
+[receptor; ;interleukin-2] 
+
+[chain; ;the@2] 
+
+[chain;in;hybrids] 
+
+[hybrids; ;cell] 
+
+[hybrids; ;somatic] 
+
+[accompanied; ;hybrids] 
+
+[accompanied;is; ]
+
+[accompanied;by;localization] 
+
+[localization; ;nuclear] 
+
+[localization; ;the@3] 
+
+[localization;of@3;NF-kappa B]

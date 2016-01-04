@@ -1,0 +1,25 @@
+gonistic activity of a CD40-specific single-chain Fv constructed from the variable regions of mAb G28-5.
+activity; ;Agonistic 
+
+
+
+[activity;of@1;CD40-specific single-chain] 
+
+[single-chain; ;CD40-specific] 
+
+[CD40;-;specific] 
+
+[chain;-;single] 
+
+[CD40-specific single-chain; ;Fv] 
+
+[Fv; ;a] 
+
+[constructed; ;activity] 
+
+[constructed;from;regions] 
+
+[regions; ;variable] 
+
+[regions;of@2;mAb G28-5]  
+

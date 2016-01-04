@@ -1,0 +1,12 @@
+Expression of Tip and Tap in Jurkat-T cells induced dramatic cell aggregation.
+
+[Expression;of;Tip]
+[and; ;Tip]
+[and; ;Tap]
+[Expression;in;cells]
+[cells; ;Jurkat-T]
+[T;-;Jurkat]
+[induced; ;cells]
+[induced; ;aggregation]
+[aggregation; ;cell]
+[cell; ;dramatic]

@@ -1,0 +1,8 @@
+Purified bcl-2 is cleaved by HIV protease between phenylalanine 112 and alanine 113.
+
+[bcl-2; ;Purified]
+[cleaved;is;bcl-2]
+[cleaved;by;protease]
+[protease; ;HIV]
+[between...and; ;phenylalanine 112]
+[between...and; ;alanine 113]

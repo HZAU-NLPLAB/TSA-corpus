@@ -1,0 +1,10 @@
+Shown are the results from WT lymphoma 1 and PRO5_ transgenic lymphoma 4.
+[are; ;Shown ]
+[are; ;results ]
+[results; ;the ]
+[results;from;lymphoma 1 ]
+[lymphoma 1; ;WT ]
+[and; ;lymphoma 1 ]
+[and; ;lymphoma 4;]
+[lymphoma 4; ;transgenic ]
+[lymphoma 4; ;PRO5_ ]

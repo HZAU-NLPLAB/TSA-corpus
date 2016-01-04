@@ -1,0 +1,33 @@
+Activation of PPARgamma may play a role in the induction of differentiation of macrophages to foam cells that are associated with atherosclerotic lesions.
+Activation;of@1;PPARgamma] 
+
+[play; ;Activation] 
+
+[play; ;may] 
+
+[play; ;role] 
+
+[role; ;a] 
+
+[role;in;induction] 
+
+[induction; ;the] 
+
+[induction;of@2;differentiation] 
+
+[differentiation;of@3;macrophages] 
+
+[induction;to;foam cells] 
+
+[cells; ;foam] 
+
+[foam cells; ;that]
+
+[associated; ;that] 
+
+[associated; ;are] 
+
+[associated;with;atherosclerotic lesions] 
+
+[lesions; ;atherosclerotic] 
+

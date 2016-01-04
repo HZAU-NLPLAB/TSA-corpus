@@ -1,0 +1,17 @@
+Infection with the human immunodeficiency virus (HIV) has been shown to induce production of several cytokines both in vitro and in vivo.
+
+[Infection;with;human immunodeficiency virus]
+[human immunodeficiency virus; ;the]
+[human immunodeficiency virus; ;HIV]
+[virus; ;immunodeficiency]
+[virus; ;human]
+[shown;been;has]
+[shown; ;virus]
+[shown;to;induce]
+[induce; ;production]
+[production;of;cytokines]
+[cytokines; ;several]
+[both...and; ;in@1 vitro]
+[both...and; ;in@2 vivo]
+[cytokines;in@1;vitro]
+[cytokines;in@1;vivo]

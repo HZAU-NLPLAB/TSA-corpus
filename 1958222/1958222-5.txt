@@ -1,0 +1,21 @@
+Here we examined the activation of NF-kB in human T cell thymic progenitors.
+
+
+[examined; ;we] 
+
+[examined; ;Here] 
+
+[examined; ;activation] 
+
+[activation; ;the] 
+
+[activation;of;NF-kB] 
+
+[NF-kB;in;T cell thymic progenitors] 
+
+[T cell thymic progenitors; ;human] 
+
+[progenitors; ;thymic] 
+
+[progenitors;  ;T cell] 
+

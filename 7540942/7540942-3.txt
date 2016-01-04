@@ -1,0 +1,42 @@
+We demonstrate that cross-linking CD30 with an anti-CD30-specific monoclonal antibody, which mimics the described biological activities of the CD30 ligand (CD30L), results in HIV expression.
+
+
+[demonstrate; ;We] 
+
+[demonstrate; ;that] 
+
+[that; ;cross-linking CD30 with an anti-CD30-specific [monoclonal antibody] 
+
+[CD30; ;cross-linking] 
+
+[CD30;with;antibody] 
+
+[antibody; ;an] 
+
+[antibody; ;monoclonal] 
+
+[antibody; ;anti-CD30-specific] 
+
+[mimics; ;which] 
+
+[mimics; ;activities] 
+
+[activities; ;the@1] 
+
+[ ; ;biological] 
+
+[activities; ;described] 
+
+[activities;of;CD30 ligand] 
+
+[CD30 ligand; ;CD30L] 
+
+[results; ;CD30 ligand] 
+
+[results; ;the@2] 
+
+[results;in; ]
+
+[expression;  ;HIV
+ 
+

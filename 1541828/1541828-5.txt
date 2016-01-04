@@ -1,0 +1,12 @@
+Furthermore, a positive regulatory element was found 45 bp downstream of the NRE. 
+[Furthermore; ;a positive regulatory element was found 45 bp downstream of the NRE]
+[element; ;a]
+[element; ;positive]
+[element; ;regulatory]
+[found; ;element]
+[found; ;was]
+[found; ;downstream]
+[downstream; ;45 bp]
+[bp; ;45]
+[downstream;of;NRE]
+[NRE; ;the]

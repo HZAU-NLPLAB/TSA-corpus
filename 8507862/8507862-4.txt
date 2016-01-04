@@ -1,0 +1,11 @@
+Basophils express GATA-2 and GATA-3.
+
+
+[express; ;Basophils] 
+
+[express; ;GATA-2 and GATA-3] 
+
+[and; ;GATA-2] 
+
+[and; ;GATA-3] 
+

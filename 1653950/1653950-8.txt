@@ -1,0 +1,13 @@
+The@1 disruption of@1 HIV-TF1-binding site induced a 60% decrease in@1 the@2 level of@2 transcription from the@3 HIV promoter in@2 vivo.
+[disruption; ;The@1]
+[disruption;of@1;site]
+[site; ;HIV-TF1-binding]
+[induced; ;disruption]
+[induced; ;decrease]
+[decrease; ;a]
+[decrease; ;60%]
+[induced;in@1;level]
+[level;of@2;transcription]
+[induced;from;HIV promoter]
+[HIV promoter; ;the@3]
+[HIV promoter;in@2;vivo]

@@ -1,0 +1,35 @@
+Irrespective of the human cell partner used for fusion, a certain number of hybrids lost CD5 surface expression over a period of time in culture.
+
+
+[Irrespective;of;human cell partner] 
+
+[human cell partner; ;the@1] 
+
+[partner; ;cell] 
+
+[cell; ;human] 
+
+[used; ;partner]
+
+[used;for;fusion] 
+
+[hybrids; ;a number of] 
+
+[a number of@1; ;certain] 
+
+[lost; ;hybrids]
+
+[lost; ;expression] 
+
+[expression; ;surface] 
+
+[expression; ;CD5] 
+
+[expression;over;period] 
+
+[period; ;a] 
+
+[period;of@2;time] 
+
+[time;in;culture] 
+

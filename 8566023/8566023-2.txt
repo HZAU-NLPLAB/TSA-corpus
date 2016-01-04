@@ -1,0 +1,13 @@
+Activation through the Ca2+/calcineurin pathway is essential to the transcription of many cytokine genes. 
+[Activation;through;pathway]
+[pathway; ;the@1]
+[pathway; ;Ca2+/calcineurin]
+[/; ;Ca2+]
+[/; ;calcineurin]
+[is; ;Activation]
+[is; ;essential]
+[essential;to;transcription]
+[transcription; ;the@2]
+[transcription;of;cytokine genes]
+[cytokine genes; ;many]
+[genes; ;cytokine]

@@ -1,0 +1,31 @@
+Signaling by hToll is shown to occur through sequential recruitment of the adapter molecule MyD88 and the IL-1R-associated kinase.
+
+
+[Signaling;by;hToll] 
+
+[shown; ;Signaling by hToll] 
+
+[shown; ;is] 
+
+[shown;to;occur] 
+
+[occur;through;recruitment] 
+
+[recruitment; ;sequential] 
+[recruitment;of;molecule] 
+
+[molecule; ;adapter] 
+
+[molecule; ;the@1] 
+
+[adapter molecule; ;molecule] 
+
+[and; ;adapter molecule] 
+
+[and; ;IL-1R-associated kinase] 
+
+[kinase; ;the@2] 
+
+[kinase; ;IL-1R-associated] 
+
+[associated;-;IL-1R]

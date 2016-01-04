@@ -1,0 +1,10 @@
+An alternatively spliced isoform of the Spi-B transcription factor.
+
+[isoform;of;factor]
+[isoform; ;spliced]
+[spliced; ;alternatively]
+[isoform; ;An]
+[factor; ;transcription]
+[transcription; ;Spi-B]
+[B;-;Spi]
+[factor; ;the]

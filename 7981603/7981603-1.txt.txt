@@ -1,0 +1,6 @@
+Glucocorticoid-induced apoptosis of lymphoid cells.
+
+[apoptosis; ;Glucocorticoid-induced]
+[induced;-;Glucocorticoid]
+[apoptosis;of;cells]
+[cells; ;lymphoid]

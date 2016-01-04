@@ -1,0 +1,45 @@
+
+
+(B) EMA exclusion of PRO6_+ gated splenocytes from WT and PRO7_ transgenic mice showing percentage of viable B cells cultured with (white bars) or without (black bars) PRO8_ for 2 d.
+[exclusion; ;EMA] 
+
+[exclusion;of;splenocytes] 
+
+[splenocytes; ;gated] 
+
+[splenocytes; ;PRO6_+] 
+
+[splenocytes;from;WT] 
+
+[and@1; ;WT] 
+
+[and@1; ;mice] 
+
+[mice; ;transgenic] 
+
+[mice; ;PRO7_] 
+
+[showing; ;exclusion] 
+
+[showing; ;percentage of viable B cells cultured with (white bars) or without (black bars) PRO8_ for 2 d]  
+
+[percentage;of;B cells] 
+
+[B cells; ;viable] 
+
+[cultured; ;percentage] 
+
+[cultured; ;with] 
+
+[or; ;with] 
+
+[or; ;without] 
+
+[with; ;white bars] 
+
+[without; ;black bars] 
+
+[;with or without;PRO8_] 
+
+[PRO8_;for;2 d] 
+

@@ -1,0 +1,27 @@
+PPARgamma is also expressed in hematopoietic cells and is up-regulated in activated monocytes/macrophages.
+[expressed; ;PPARgamma] 
+
+[expressed; ;is] 
+
+[expressed; ;also] 
+
+[expressed;in;hematopoietic cells] 
+
+[cells; ;hematopoietic] 
+
+[and; ;is expressed] 
+
+[and; ;is up-regulated] 
+
+[up-regulated; ;PPARgamma] 
+
+[up-regulated; ;is] 
+
+[regulated;-;up] 
+
+[up-regulated;in;activated monocytes/macrophages] 
+
+[/; ;monocytes] 
+
+[/; ;macrophages] 
+

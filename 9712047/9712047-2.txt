@@ -1,0 +1,30 @@
+
+Expression of the IL-2 gene requires activation of T cells through stimulation of the TCR and costimulation through accessory receptors.
+[Expression;of@1;IL-2 gene] 
+
+[IL-2 gene; ;the@1] 
+
+[gene; ;IL-2] 
+
+[requires; ;Expression] 
+
+[requires; ;activation] 
+
+[activation;of@2;T cells] 
+
+[activation;through@1;stimulation] 
+
+[stimulation;of@3;TCR] 
+
+[TCR; ;the@2] 
+
+[and; ;activation] 
+
+[and; ;costimulation] 
+
+[requires; ;costimulation] 
+
+[requires;through@2;accessory receptors] 
+
+[receptors; ;accessory] 
+

@@ -1,0 +1,17 @@
+
+The hierarchy of transcriptional control in B-cell development has recently been analyzed by targeted gene inactivation in the mouse.
+
+[hierarchy; ;The]
+[hierarchy;of;control]
+[control; ;transcriptional]
+[control;in@1;development]
+[development; ;B-cell]
+[cell;-;B]
+[analyzed; ;development]
+[analyzed;been;has]
+[analyzed; ;recently]
+[analyzed;by;inactivation]
+[inactivation; ;gene]
+[gene; ;targeted]
+[inactivation;in@2;mouse]
+[mouse; ;the]

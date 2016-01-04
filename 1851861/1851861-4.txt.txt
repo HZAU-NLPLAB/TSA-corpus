@@ -1,0 +1,12 @@
+Two different strains of HHV-6, GS and Z29, transactivated the HIV promoter.
+
+[strains£» £»Two]
+[strains£» £»different]
+[strains£»of£»HHV-6]
+[and£» £»HHV-6]
+[and£» £»GS]
+[and£» £»Z29]
+[transactivated£» £»strains]
+[transactivated£» £»promoter]
+[promoter£» £»HIV]
+[HIV£» £»the]

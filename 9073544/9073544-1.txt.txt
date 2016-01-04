@@ -1,0 +1,11 @@
+T-lymphocytes from individuals with filarial inflammatory disease have increased transendothelial migration in vitro.
+
+[T-lymphocytes;from;individuals]
+[individuals;with;disease]
+[disease; ;inflammatory]
+[inflammatory; ;filarial]
+[increased; ;have]
+[increased; ;disease]
+[increased; ;migration]
+[migration; ;transendothelial]
+[migration;in;vitro]

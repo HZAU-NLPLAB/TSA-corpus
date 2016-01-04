@@ -1,0 +1,16 @@
+These findings should be useful for therapeutic strategies and the development of immunosuppressants targeting the CD28 costimulatory pathway.
+
+[findings; ;These]
+[should;be;findings]
+[be; ;useful]
+[useful;for;strategies]
+[strategies; ;therapeutic]
+[and; ;strategies]
+[and; ;development]
+[development; ;the@1]
+[development;of;immunosuppressants]
+[targeting; ;immunosuppressants]
+[targeting; ;pathway]
+[pathway; ;the@2]
+[pathway; ;costimulatory]
+[costimulatory; ;CD28]

@@ -1,0 +1,44 @@
+he human toll signaling pathway: divergence of nuclear factor kappaB and JNK/SAPK activation upstream of tumor necrosis factor receptor-associated factor 6 (TRAF6).
+
+
+[pathway; ;human] 
+
+[pathway; ;toll] 
+
+[pathway; ;signaling 
+
+[pathway; ;The] 
+
+[:; ;The human toll signaling pathway] 
+
+[:; ;divergence of nuclear factor kappaB and JNK/SAPK activation upstream of tumor necrosis factor receptor-associated factor 6 (TRAF6)] 
+
+[divergence;of@1;factor@1] 
+
+[factor@1; ;nuclear] 
+
+[factor@1; ;kappaB] 
+
+[and; ;nuclear factor kappaB] 
+
+[and; ;JNK/SAPK activation upstream] 
+
+[activation; ;JNK/SAPK] 
+
+[upstream; ;activation] 
+
+[/; ;JNK] 
+
+[/; ;SAPK] 
+
+[upstream;of@2;factor@2]
+
+[factor@2; ;necrosis] 
+
+[factor@2; ;tumor] 
+
+[tumor necrosis factor; ;receptor-associated factor 6] 
+
+[factor 6; ;receptor-associated] 
+
+[receptor;-;associated]

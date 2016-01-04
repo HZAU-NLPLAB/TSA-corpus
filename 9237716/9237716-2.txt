@@ -1,0 +1,46 @@
+
+Because candidiasis and cryptococcosis are common in human immunodeficiency virus (HIV)-infected persons, the effect of Cryptococcus neoformans and Candida albicans on HIV expression in monocytic cells was examined.
+the effect of Cryptococcus neoformans and Candida albicans on HIV expression in monocytic cells was [examined;Because;candidiasis and cryptococcosis are common in human immunodeficiency virus (HIV)-infected persons] 
+
+[and@1; ;candidiasis] 
+
+[and@1; ;cryptococcosis] 
+
+[are; ;candidiasis] 
+
+[are; ;cryptococcosis] 
+
+[are; ;common] 
+
+[common;in@1;human immunodeficiency virus (HIV)-infected persons] 
+
+[persons; ;human immunodeficiency virus (HIV)-infected] 
+
+[infected;-;human immunodeficiency virus] 
+
+human immunodeficiency virus; ;HIV@2] 
+
+[effect; ;the] 
+
+[effect;of;Cryptococcus neoformans] 
+
+[effect;of;Candida albicans] 
+
+[and@2; ;Cryptococcus neoformans] 
+
+[and@2; ;Candida albicans] 
+
+[Cryptococcus neoformans;on;HIV expression] 
+
+[HIV expression;on;Candida albicans] 
+
+[HIV expression;in@2;monocytic cells] 
+
+[expression; ;HIV@2] 
+
+[cells; ;monocytic] 
+
+[examined; ;was] 
+
+[examined; ;effect] 
+

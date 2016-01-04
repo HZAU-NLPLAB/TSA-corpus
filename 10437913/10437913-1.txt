@@ -1,0 +1,25 @@
+Retinoblastoma protein expression leads to reduced Oct-1 DNA binding activity and enhances interleukin-8 expression.
+[expression; ;Retinoblastoma protein] 
+
+[protein; ;Retinoblastoma] 
+
+[leads; ;Retinoblastoma protein expression] 
+
+[leads;to;Oct-1 DNA binding activity] 
+
+[Oct-1 DNA binding activity; ;reduced] 
+
+[DNA binding activity; ;Oct-1] 
+
+[activity;binding;DNA] 
+
+[and; ;leads] 
+
+[and; ;enhances] 
+
+[enhances; ;Retinoblastoma protein expression] 
+
+[enhances; ;enhances interleukin-8 expression] 
+
+[expression; ;interleukin-8] 
+

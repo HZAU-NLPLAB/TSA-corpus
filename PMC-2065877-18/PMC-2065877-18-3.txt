@@ -1,0 +1,47 @@
+APC-conjugated rat IgG2akappa anti-mouse PRO1_ (clone 6D5),   PE-conjugated mouse IgG2akappa anti-PRO2_ (clone S12),   un-conjugated mouse IgG2a anti-PRO3_ (clone 2),   and anti-PRO4_ (clone 55) were purchased from BD Bioscience.
+[purchased; ;were] 
+
+[purchased; ;APC-conjugated rat IgG2akappa anti-mouse PRO1_ (clone 6D5),   PE-conjugated mouse IgG2akappa anti-PRO2_ (clone S12),   un-conjugated mouse IgG2a anti-PRO3_ (clone 2),   and anti-PRO4_ 
+]
+[purchased;from;Bioscience] 
+
+[Bioscience; ;from BD] 
+
+[and; ;PRO1_] 
+
+[and; ;anti-PRO2_] 
+
+[and; ;anti-PRO3_] 
+
+[and; ;anti-PRO4_] 
+
+[PRO1_; ;anti-mouse] 
+
+[anti-mouse; ;IgG2akappa] 
+
+[IgG2akappa; ;rat] 
+
+[rat; ;APC-conjugated] 
+
+[anti-PRO2_; ;IgG2akappa] 
+
+[IgG2akappa; ;mouse] 
+
+[mouse; ;PE-conjugated] 
+
+[anti-PRO3_; ;mouse IgG2a] 
+
+[IgG2a; ;mouse] 
+
+[mouse; ;un-conjugated] 
+
+[mouse;-;anti] 
+
+[conjugated;-;PE] 
+
+[PRO2_; ;anti] 
+
+[PRO3_; ;anti] 
+
+[PRO4_;-;anti]
+

@@ -1,0 +1,29 @@
+In this study, we analyzed whether activities of these phosphatases are necessary for the expression of the IL-2 gene.
+[ ;In;study] 
+
+[study; ;this] 
+
+[analyzed; ;we] 
+
+[analyzed; ;whether] 
+
+[whether; ;activities of these phosphatases are necessary for the expression of the IL-2 gene] 
+
+[activities;of@1;phosphatases] 
+
+[phosphatases; ;these] 
+
+[are; ;activities] 
+
+[are; ;necessary] 
+
+[necessary;for;expression] 
+
+[expression; ;the@1] 
+
+[expression;of@2;IL-2 gene] 
+
+[IL-2 gene; ;the@2] 
+
+[gene; ;IL-2] 
+

@@ -1,0 +1,33 @@
+Thymocytes, activated peripheral T lymphocytes, or an activated T-cell clone were used as human partners, respectively, in three independent fusions.
+
+
+[or; ;Thymocytes] 
+
+[or; ;T lymphocytes] 
+
+[T lymphocytes; ;peripheral] 
+
+[T lymphocytes; ;activated@1] 
+
+[or; ;T-cell] 
+
+[T-cell; ;activated@2] 
+
+[clone; ;Thymocytes, activated peripheral T lymphocytes, or an activated T-cell] 
+
+[used; ;clone] 
+
+[used; ;were] 
+
+[used;as;partners] 
+
+[partners; ;human] 
+
+[in three independent fusions;  ;respectively] 
+
+[ ;in;fusions] 
+
+[fusions; ;three] 
+
+[fusions; ;independent] 
+

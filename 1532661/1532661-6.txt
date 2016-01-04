@@ -1,0 +1,13 @@
+The plasmids carrying multiple copies of the P sequence showed higher responsiveness to the stimulation.
+[copies; ;The ]
+[copies; ;multiple ]
+[copies; ;carrying ]
+[copies; ;plasmids ]
+[copies;of;sequence ]
+[ sequence; ;P ]
+[sequence; ;the@1 ]
+[showed; ;sequence ]
+[showed; ;higher ]
+[responsiveness; ;higher ]
+[showed;to;stimulation ]
+[stimulation; ;the@2 ]

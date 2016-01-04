@@ -1,0 +1,38 @@
+These motifs are regulatory sequences within the so-called AU-rich elements (AREs) often found in 3' untranslated regions of genes such as cytokines, proto-oncogenes, and transcription factors.
+[motifs; ;These] 
+ 
+
+[are; ;regulatory sequences] 
+
+[sequences; ;regulatory] 
+
+[motifs;within;AU-rich elements] 
+
+[AU-rich elements; ;the] 
+
+[AU-rich elements; ;so-called] 
+
+[AU-rich elements; ;AREs] 
+
+[found; ;often] 
+
+[found; ;are] 
+
+[found; ;motifs] 
+
+[found;in;3' untranslated regions] 
+
+[regions; ;3'] 
+
+[regions; ;untranslated] 
+
+[3' untranslated regions;of;genes] 
+
+[genes;such as;cytokines] 
+
+[and; ;cytokines] 
+
+[and; ;proto-oncogenes] 
+
+[and; ;transcription factors] 
+

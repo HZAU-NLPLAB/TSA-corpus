@@ -1,0 +1,10 @@
+The cells were fixed and stained as before. 
+[cells; ;The]
+[fixed; ;cells]
+[fixed; ;were]
+[stained; ;cells]
+[stained; ;were]
+[and; ;fixed]
+[and; ;stained]
+[fixed;as;before]
+[stained;as;before]

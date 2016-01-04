@@ -1,0 +1,18 @@
+The induction of cell death in lymphoid cells by glucocorticoids is one of the earliest and most thoroughly studied models of apoptosis.
+
+[induction; ;The]
+[induction;of@1;death]
+[death; ;cell]
+[induction;in;cells]
+[cells; ;lymphoid]
+[cells;by;glucocorticoids]
+[is; ;induction]
+[is; ;models]
+[one;of@2;models]
+[studies; ;earliest]
+[thoroughly; ;most]
+[studies; ;thoroughly]
+[and; ;earliest]
+[and ;;most thorouthly]
+[models; ;studied]
+[models;of@3;apoptosis]

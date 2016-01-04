@@ -1,0 +1,10 @@
+In addition, BMT exhibited antiviral activity against SIVmac251.
+[BMT exhibited antiviral activity against SIVmac251; ;In addition ]
+[exhibited; ;BMT] 
+
+[exhibited; ;activity] 
+
+[activity; ;antiviral] 
+
+[exhibited;against;SIVmac251] 
+

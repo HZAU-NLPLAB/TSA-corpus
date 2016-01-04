@@ -1,0 +1,59 @@
+As determined by transient expression and RNA analyses, the activation of protein kinase C (PKC) also increased rates of transcription from the wild-type DRA promoter but not from a DRA promoter bearing clustered point mutations in the X2 box.
+[ ;As;determined] 
+
+[determined;by;expression] 
+
+[expression; ;transient] 
+
+[determined;by;analyses] 
+
+[analyses; ;RNA] 
+
+[and; ;expression] 
+
+[and; ;analyses] 
+
+[activation; ;the@1] 
+
+[activation;of@1;protein kinase C] 
+
+[protein kinase C; ;PKC] 
+
+[protein; ;kinase C] 
+
+[increased; ;also] 
+
+[increased; ;activation] 
+
+[increased; ;rates] 
+
+[rates;of@2;transcription] 
+
+[increased;from@1;DRA promoter@1] 
+
+[DRA promoter@1; ;the@2] 
+
+[DRA promoter@1; ;wild-type] 
+
+[but not; ;from the wild-type DRA promoter] 
+
+[but not; ;from a DRA promoter] 
+
+[increased;from@2;DRA promoter@2] 
+
+[DRA promoter@2; ;a] 
+
+[bearing; ;DRA promoter@2] 
+
+[bearing; ;mutations] 
+
+[mutations; ;clustered] 
+
+[mutations; ;point] 
+
+[DRA promoter@2;in;X2 box] 
+
+[X2 box; ;the@3] 
+
+[box; ;X2] 
+

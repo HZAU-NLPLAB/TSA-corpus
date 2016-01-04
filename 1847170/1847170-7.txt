@@ -1,0 +1,52 @@
+We also show that platelet-activating factor from 10(-12) to 10(-6) M induced rapid and significant elevation in intracellular calcium levels, whereas lyso-platelet-activating factor was again ineffective.
+[show; ;also] 
+
+[show; ;We] 
+
+[show; ;that] 
+
+[that; ;platelet-activating factor from 10(-12) to 10(-6) M induced rapid and significant elevation in intracellular calcium levels, whereas lyso-platelet-activating factor was again ineffective] 
+
+[platelet-activating factor from 10(-12) to 10(-6) M induced rapid and significant elevation in intracellular calcium levels;whereas;lyso-platelet-activating factor was again ineffective ]
+
+[platelet-activating factor;from;10(-12) M] 
+
+[10(-12) M;to;10(-6) M] 
+
+[M; ;10(-12)] 
+
+[M; ;10(-6)] 
+
+[induced; ;platelet-activating factor@1] 
+
+[factor@1; ;platelet-activating] 
+
+[activating@1;-;platelet@1 
+
+[induced; ;elevation] 
+
+[elevation; ;rapid] 
+
+[elevation; ;significant] 
+
+[and; ;rapid] 
+
+[and; ;significant] 
+
+[induced;in;intracellular calcium levels] 
+
+[levels; ;intracellular calcium] 
+
+[calcium; ;intracellular] 
+
+[was; ;lyso-platelet-activating factor] 
+
+[factor@2; ;lyso-platelet-activating]
+[lyso;-;platelet-activating@2] 
+
+[activating@2;-;platelet@2] 
+
+[was; ;ineffective]
+
+[was; ;again] 
+

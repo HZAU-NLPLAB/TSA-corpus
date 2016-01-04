@@ -1,0 +1,51 @@
+Our results emphasize the multiple levels at which NFAT-dependent transactivation is regulated, and predict significant differences in the architecture of cooperative transcription complexes containing different NFAT-family proteins.
+[results; ;Our] 
+
+[emphasize; ;results] 
+
+[emphasize; ;levels] 
+
+[levels; ;the@1] 
+
+[levels; ;multiple] 
+
+[levels; ;which] 
+
+[regulated; ;is] 
+
+[regulated; ;transactivation] 
+
+[transactivation; ;NFAT-dependent] 
+
+[dependent;-;NFAT] 
+
+[regulated;at;which] 
+
+[and; ;emphasize] 
+
+[and; ;predict] 
+
+[predict; ;results] 
+
+[predict; ;differences] 
+
+[differences; ;significant] 
+
+[differences;in;architecture] 
+
+[architecture; ;the@2] 
+
+[architecture;of;transcription complexes] 
+
+[transcription complexes; ;cooperative] 
+
+[containing; ;transcription complexes] 
+
+[complexes; ;transcription] 
+
+[containing; ;NFAT-family proteins] 
+
+[NFAT-family proteins; ;different] 
+
+[proteins; ;NFAT-family] 
+

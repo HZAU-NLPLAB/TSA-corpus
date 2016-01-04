@@ -1,0 +1,11 @@
+In vivo Th1 response is also impaired.
+[impaired;In;vivo] 
+
+[response; ;Th1]
+
+[impaired; ;also] 
+
+[impaired; ;is] 
+
+[impaired; ;response] 
+

@@ -1,0 +1,19 @@
+5% acrylamide gel, dried, and imaged using a phosphorImager (Molecular Dynamics).
+[using; ;phosphorImager] 
+
+[phosphorImager; ;a] 
+
+[acrylamide; ;75%] 
+
+[gel; ;acrylamide] 
+
+[dried; ;acrylamide] 
+
+[imaged; ;acrylamide] 
+
+[and; ;gel] 
+
+[and; ;dried] 
+
+[and; ;imaged] 
+

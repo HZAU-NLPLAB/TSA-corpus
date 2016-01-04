@@ -1,0 +1,13 @@
+This review summarizes data on specific regulation of promoters and enhancers by nuclear trans-acting factors in lymphocytes.
+[review; ;This]
+[summarizes; ;review]
+[summarizes; ;data]
+[data;on;regulation]
+[regulation; ;specific]
+[regulation;of;promoters]
+[and; ;promoters]
+[and; ;enhancers]
+[summarizes;by;nuclear trans-acting factors]
+[factors; ;nuclear]
+[factors; ;trans-acting]
+[ ;in;lymphocytes]

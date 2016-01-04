@@ -1,0 +1,23 @@
+The best characterized are the B cell-specific OTF-2 and the ubiquitous OTF-1.
+[characterized; ;The@1] 
+
+[characterized; ;best] 
+
+[are; ;characterized] 
+
+[are; ;OTF-2] 
+
+[OTF-2; ;the@2] 
+
+[OTF-2; ;B cell-specific] 
+
+[B cel;-;specific] 
+
+[OTF-1; ;the@3] 
+
+[OTF-1; ;ubiquitous] 
+
+[and; ;OTF-2] 
+
+[and; ;OTF-1] 
+

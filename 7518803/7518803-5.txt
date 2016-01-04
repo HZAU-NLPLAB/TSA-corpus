@@ -1,0 +1,53 @@
+Analysis at the phenotype and genetic level showed that lack of CD5 expression was due neither to segregation of human autosome 11, on which the CD5 gene has been mapped, nor to deletion of the CD5 structural gene.
+
+
+[Analysis;at;phenotype] 
+
+[phenotype; ;the@1] 
+
+[and; ;phenotype] 
+
+[and; ;level] 
+
+[level; ;genetic] 
+
+[showed; ;Analysis] 
+
+[showed; ;that] 
+
+[that; ;lack of CD5 expression was due neither to segregation of human autosome 11, on which the CD5 gene has been mapped, nor to deletion of the CD5 structural gene] 
+
+[lack;of;expression] 
+
+[expression; ;CD5]
+
+[was; ;due] 
+
+[due;to;segregation] 
+
+[due; ;neither] 
+
+[segregation;of@2;human autosome 11] 
+
+[autosome 11; ;human] 
+
+[ ;on which;nor to deletion of the CD5 structural gene] 
+
+[CD5 gene; ;the@2] 
+
+[mapped; ;CD5 gene@1] 
+[gene@1; ;
+CD5]
+[mapped; ;has] 
+
+[mapped; ;been] 
+
+[nor;to;deletion] 
+
+[deletion;of@3;gene] 
+
+[gene@2; ;the@3] 
+
+[gene@2; ;structura] 
+
+[gene@2; ;CD5]

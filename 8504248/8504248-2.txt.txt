@@ -1,0 +1,20 @@
+
+Transcription of the human beta-globin gene cluster depends upon upstream regulatory sequences, which are collectively termed the locus control region.
+
+[
+Transcription;of;cluster]
+[cluster; ;gene]
+[gene; ;beta-globin]
+[gene; ;human]
+[globin; ;beta]
+[depends; ;cluster]
+[depends;upon;sequences]
+[sequences; ;regulatory]
+[regulatory; ;upstream]
+[sequences; ;which]
+[termed; ;which]
+[termed;are; ]
+[termed; ;collectively]
+[termed; ;region]
+[control; ;locus]
+[region; ;control]

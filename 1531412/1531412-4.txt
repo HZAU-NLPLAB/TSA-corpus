@@ -1,0 +1,33 @@
+Major recent developments, including the identification of novel families of transcription factors that regulate multiple T-cell genes during thymocyte ontogeny and T-cell activation, are described.
+[developments; ;Major] 
+
+[developments; ;recent] 
+
+[developments;including;identification] 
+
+[identification; ;the ]
+
+[identification;of;novel families] 
+
+[families; ;novel] 
+
+[families;of;transcription factors] 
+
+[factors; ;transcription] 
+
+[transcription factors; ;that] 
+
+[that; ;regulate multiple T-cell genes during thymocyte ontogeny and T-cell activation, are described] 
+
+[genes; ;regulate] 
+
+[genes; ;multiple] 
+
+[genes; ;T-cell] 
+
+[genes;during;thymocyte ontogeny and T-cell activation] 
+
+[described; ;developments] 
+
+[described ; ;are] 
+

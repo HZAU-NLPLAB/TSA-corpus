@@ -1,0 +1,33 @@
+G28-5 sFv was a more potent agonist than G28-5 IgG and was able to stimulate CD40 responses by B cells and monocytes.
+
+
+[was@1; ;G28-5 sFv] 
+
+[was@1; ;agonist] 
+
+[agonist; ;potent] 
+
+[potent; ;more] 
+
+[agonist; ;a] 
+
+[potent;than;G28-5 IgG] 
+
+[and@1; ;was@1] 
+
+[and@1; ;was@2] 
+
+[was@2; ;able] 
+
+[able;to;stimulate] 
+
+[stimulate; ;responses] 
+
+[responses; ;CD40] 
+
+[responses;by;B cells and monocytes] 
+
+[and@2; ;B cells] 
+
+[and@2; ;monocytes] 
+

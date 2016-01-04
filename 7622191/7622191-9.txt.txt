@@ -1,0 +1,17 @@
+In toto, these results suggest that TG induces IL-2R alpha in human T cells through a PKC-independent pathway.
+
+[ ;In;toto]
+[results; ;these]
+[suggest; ;results]
+[suggest; ;that]
+[that; ;TG induces IL-2R alpha in human T cells through a PKC-independent pathway]
+[induces; ;TG]
+[induces; ;alpha]
+[alpha; ;IL-2R]
+[2R;-;IL]
+[alpha;in;T cells]
+[T cells; ;human]
+[T cells;through;pathway]
+[pathway; ;a]
+[pathway; ;PKC-independent]
+[independent;-;PKC]

@@ -1,0 +1,10 @@
+Danazol did not alter the degradation rate of ER mRNA in monocytes. 
+[alter; ;Danazol]
+[alter; ;did]
+[alter; ;not]
+[alter; ;rate]
+[rate; ;the]
+[rate; ;degradation]
+[rate;of;ER mRNA]
+[mRNA; ;ER]
+[ER mRNA;in;monocytes]

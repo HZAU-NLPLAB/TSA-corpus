@@ -1,0 +1,34 @@
+G.vaginalis lysates activated HIV long-terminal repeat transcription in HIV-infected cells and increased NF-kappaB binding activity, indicating an effect by G.vaginalis on HIV transcription.
+[activated; ;G.vaginalis lysates] 
+
+[activated; ;HIV long-terminal repeat transcription] 
+
+[long;-;terminal] 
+
+[transcription; ;HIV] 
+
+[transcription; ;long-terminal] 
+
+[transcription; ;repeat] 
+
+[activated;in;HIV-infected cells] 
+
+[HIV;-;infected] 
+
+[cells; ;HIV-infected] 
+
+[and; ;activated] 
+
+[and; ;increased] 
+
+[increased; ;vaG.ginalis lysates] 
+
+[increased; ;NF-kappaB binding activity]
+
+[activity;NF-kappaB binding;NF-kappaB] 
+
+[ ;indicating;effect] 
+
+[effect; ;an] 
+[effect;by;G.vaginalis]
+[indicating;on;HIV transcription]

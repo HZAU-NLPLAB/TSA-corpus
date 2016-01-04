@@ -1,0 +1,29 @@
+The altered cytokine profile observed in smokers may relate to an HSF/Hsp70-mediated inhibition of NFkappaB activity.
+[cytokine profile; ;altered] 
+
+[cytokine profile; ;The] 
+
+[observed; ;cytokine profile] 
+
+[observed;in;smokers] 
+
+[relate; ;may] 
+
+[relate; ;cytokine profile] 
+
+[profile; ;cytokine] 
+
+[relate;to;inhibition] 
+
+[inhibition; ;HSF/Hsp70-mediated] 
+
+[mediated;-;HSF/Hsp70] 
+
+[/; ;Hsp70] 
+
+[/; ;HSF] 
+
+[inhibition;of;activity] 
+
+[activity; ;NFkappaB] 
+

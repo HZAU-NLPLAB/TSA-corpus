@@ -1,0 +1,11 @@
+PRO1_, PRO2_ and TNF expression following long-term stimulation with PMA. 
+[,and; ;PRO2_]
+[,and; ;TNF]
+[expression; ;PRO1_]
+[expression; ;PRO2_]
+[expression; ;TNF]
+[expression; ;following long-term stimulation with PMA]
+[following; ;stimulation]
+[stimulation; ;long-term]
+[term;-;long]
+[stimulation;with;PMA]

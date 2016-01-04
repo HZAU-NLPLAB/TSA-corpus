@@ -1,0 +1,33 @@
+CAML appears to be a new participant in the calcium-signal transduction pathway, implicating cyclophilin B in calcium signalling, even in the absence of cyclosporin.
+
+
+[appears; ;CAML] 
+
+[appears;to;be] 
+
+[be; ;participant] 
+
+[participant; ;a] 
+
+[participant; ;new] 
+
+[participant;in;pathway] 
+
+[pathway; ;the@1] 
+
+[pathway; ;transduction] 
+
+[transduction; ;calcium-signal] 
+
+[implicating; ;cyclophilin B] 
+
+[cyclophilin B;in;signalling] 
+
+[signalling; ;calcium] 
+
+[even;in;absence] 
+
+[absence; ;the@2] 
+
+[absence;of;cyclosporin]  
+

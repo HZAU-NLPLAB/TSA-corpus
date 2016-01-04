@@ -1,0 +1,17 @@
+ Recent studies have provided new insights into how the individual genes of the cluster are regulated through development.
+
+[studies; ;Recent]
+[provided; ;studies]
+[provided; ;have]
+[provided; ;insights]
+[insights; ;new]
+[insights;into;how]
+[how; ;the individual genes of the cluster are regulated through development]
+[genes; ;individual]
+[genes; ;the@1]
+[genes;of;cluster]
+[cluster; ;the@2]
+[regulated;are; ]
+[regulated; ;cluster]
+[regulated;throught;development]
+

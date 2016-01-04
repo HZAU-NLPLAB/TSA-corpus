@@ -1,0 +1,21 @@
+On first encounter with antigen, naive CD4+ T helper (Th) cells differentiate into cytokine-producing effector cells.
+[ ;On;encounter] 
+
+[encounter; ;first] 
+
+[encounter;with;antigen] 
+
+[differentiate; ;naive CD4+ T helper (Th) cells] 
+
+[T helper; ;Th] 
+
+[cells; ;naive CD4+] 
+
+[cells; ;T helper] 
+
+[differentiate;into;cells] 
+
+[cells; ;cytokine-producing] 
+
+[cells; ;effector] 
+

@@ -1,0 +1,20 @@
+
+ The white line indicates that intervening lanes have been spliced out.
+[line; ;The] 
+
+[line; ;white] 
+
+[indicates; ;line] 
+
+[indicates; ;that] 
+
+[that; ;intervening lanes have been spliced out] 
+
+[spliced; ;have been] 
+
+[spliced; ;lanes] 
+
+[lanes; ;intervening] 
+
+[spliced;out; ] 
+

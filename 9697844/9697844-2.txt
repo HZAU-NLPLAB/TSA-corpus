@@ -1,0 +1,54 @@
+
+MyD88, originally isolated as a myeloid differentiation primary response gene, is shown to act as an adaptor in interleukin-1 (IL-1) signaling by interacting with both the IL-1 receptor complex and IL-1 receptor-associated kinase (IRAK).
+[isolated; ;originally]
+[isolated; ;MyD88]
+[isolated;as@1;response gene] 
+
+[response gene; ;primary] 
+
+[response gene; ;myeloid differentiation] 
+
+[differentiation; ;myeloid] 
+
+[gene; ;response] 
+
+[shown; ;is] 
+
+[shown; ;MyD88] 
+
+[shown;to;act] 
+
+[act;as@2;adaptor] 
+
+[adaptor; ;an] 
+
+[act;in;signaling] 
+
+[signaling; ;interleukin-1] 
+
+[interleukin-1; ;IL-1] 
+
+[shown;by;interacting] 
+
+[interacting;with;IL-1 receptor complex] 
+
+[interacting;with;IL-1 receptor-associated kinase] 
+
+[IL-1 receptor complex;;the] 
+
+[both...and; ;IL-1 receptor complex] 
+
+[both...and; ;IL-1 receptor-associated kinase] 
+
+[IL-1 receptor-associated kinase; ;IRAK] 
+
+[complex; ;IL-1 receptor] 
+
+[receptor@1; ;IL-1@1] 
+
+[kinase; ;IL-1 receptor-associated] 
+
+[associated;-;IL-1 receptor@2] 
+
+[receptor@2; ;IL-1@2] 
+

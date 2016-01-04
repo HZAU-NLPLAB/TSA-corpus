@@ -1,0 +1,9 @@
+It can bind to DNA target sequences within a variety of cytokine genes. 
+[bind; ;It]
+[bind; ;can]
+[bind;to;sequences]
+[sequences; ;DNA]
+[sequences; ;target]
+[sequences;within;genes]
+[genes; ;a variety of]
+[genes; ;cytokine]

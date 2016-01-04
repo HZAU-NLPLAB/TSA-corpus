@@ -1,0 +1,14 @@
+Jak3 is associated with CD40 and is critical for CD40 induction of gene expression in B cells.
+
+[associated; ;Jak3]
+[is@1;associated; ]
+[associated;with;CD40@1]
+[and; ;is@1]
+[and; ;is@2]
+[is@2; ;critical]
+[critical;for;induction]
+[induction; ;CD40@2]
+[induction;of;expression]
+[expression; ;gene]
+[expression;in;B cells]
+[cells; ;B]

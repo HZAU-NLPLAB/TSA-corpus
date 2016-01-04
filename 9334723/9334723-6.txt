@@ -1,0 +1,29 @@
+This regulation of apoptosis is linked to Vpr suppression of NF-kappa B activity via the induction of I kappa B, an inhibitor of NF-kappa B.
+[regulation; ;This] 
+
+[regulation;of@1;apoptosis] 
+
+[linked; ;is] 
+
+[linked; ;regulation] 
+
+[linked;to;suppression] 
+
+[suppression; ;Vpr] 
+
+[suppression;of@2;activity] 
+
+[activity; ;NF-kappa B@1] 
+
+[linked;via;induction] 
+
+[induction; ;the] 
+
+[induction;of@3;I kappa B] 
+
+[I kappa B; ;an inhibitor of NF-kappa B] 
+
+[inhibitor; ;an] 
+
+[inhibitor;of@4;NF-kappa B@2] 
+

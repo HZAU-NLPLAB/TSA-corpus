@@ -1,0 +1,12 @@
+Except for the conserved zinc-finger domains, the amino acid sequences of the three proteins are distinct. 
+[Except for; ;zinc-finger domains]
+[zinc-finger domains; ;the@1]
+[zinc-finger domains; ;conserved]
+[domains; ;zinc-finger]
+[amino acid sequences; ;the@2]
+[sequences; ;amino acid]
+[amino acid sequences;of;proteins]
+[proteins; ;the@3]
+[proteins; ;three]
+[are; ;sequences]
+[are; ;distinct]

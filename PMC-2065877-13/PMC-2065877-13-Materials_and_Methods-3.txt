@@ -1,0 +1,7 @@
+) for 15 min (PRO1_ staining) and 10 min (pStat3 staining).
+[PRO1_ staining;for;15 min ]
+[min; ;15 ]
+[pStat3 staining;for;10 min ]
+[min; ;10 ]
+[and; ;15 min (PRO1_ staining] ]
+[and; ;10 min (pStat3 staining] ]

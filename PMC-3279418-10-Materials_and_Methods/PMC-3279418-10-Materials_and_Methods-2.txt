@@ -1,0 +1,10 @@
+The primer sequences were forward, 5'-CC ATG GCG ATG TCG CCG CCC GCC GGC GGT; reverse, 5'- AAG CTT CTA GGT GGA AGC TGC AGC AAG A.
+[sequences; ;primer]
+[sequences; ;The]
+[were; ;forward]
+[were; ;sequences]
+[; ;5'-CC ATG GCG ATG TCG CCG CCC GCC GGC GGT]
+[; ;everse]
+[reverse; ;5'- AAG CTT CTA GGT GGA AGC TGC AGC AAG A]
+[forward; ;5'-CC ATG GCG ATG TCG CCG CCC GCC GGC GGT) 
+

@@ -1,0 +1,19 @@
+Similarly, PRO33_ transgenic lymphocytes and lymphoma cells were susceptible to cucurbitacin I treatment starting at 0.
+[Similarly; ;PRO33_ transgenic lymphocytes and lymphoma cells were susceptible to cucurbitacin I treatment starting at 0]
+
+[were; ;lymphocytes and cells] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO33_] 
+
+[cells; ;lymphoma] 
+
+[were; ;susceptible] 
+
+[susceptible;to;treatment] 
+
+[treatment; ;cucurbitacin I] 
+
+[starting;at;0]  
+

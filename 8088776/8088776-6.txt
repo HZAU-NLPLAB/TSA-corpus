@@ -1,0 +1,25 @@
+The human and mouse GATA3 transcription units start at a major initiation site.
+[units; ;The] 
+
+[units; ;transcription] 
+
+[units; ;GATA3] 
+
+[GATA3; ;human] 
+
+[GATA3; ;mouse] 
+
+[and; ;human] 
+
+[and; ;mouse] 
+
+[start; ;units] 
+
+[start;at;site] 
+
+[site; ;a] 
+
+[site; ;major] 
+
+[site; ;initiation] 
+

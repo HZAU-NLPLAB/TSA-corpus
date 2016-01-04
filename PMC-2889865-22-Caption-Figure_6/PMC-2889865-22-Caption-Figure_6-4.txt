@@ -1,0 +1,8 @@
+[C) TNF expression was not affected by either inhibitor.
+[TNF; ;[C]]
+[expression; ;TNF]
+[affected; ;was]
+[affected; ;not]
+[affected; ;expression]
+[affected;by;inhibitor]
+[inhibitor; ;either]

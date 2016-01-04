@@ -1,0 +1,16 @@
+
+CTCF is a transcriptional repressor of the c-myc gene.
+[is; ;CTCF] 
+
+[is; ;repressor] 
+
+[repressor; ;a] 
+
+[repressor; ;transcriptional] 
+
+[repressor;of;c-myc gene] 
+
+[c-myc gene; ;the] 
+
+[gene; ;c-myc] 
+

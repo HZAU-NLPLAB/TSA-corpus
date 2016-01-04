@@ -1,0 +1,52 @@
+Electrophoretic mobility shift assays and Southwestern blotting experiments were used to detect the binding of cellular transactivation factor NF-KB to the double repeat-KB enhancer sequence located in the long terminal repeat.
+
+
+[assays; ;shift] 
+
+[assays; ;mobility] 
+
+[assays; ;Electrophoretic] 
+
+[and; ;Electrophoretic mobility shift assays] 
+
+[and; ;Southwestern blotting experiments] 
+
+[experiments; ;blotting] 
+
+[experiments; ;Southwestern] 
+
+[used; ;were] 
+
+[used;to@1;detect] 
+
+[detect; ;binding] 
+
+[binding; ;the@1] 
+
+[binding;of;cellular transactivation factor NF-KB] 
+
+[NF-KB; ;factor] 
+
+[factor; ;transactivation]
+
+[transactivation; ;cellular] 
+
+[factor NF-KB;to@2;repeat-KB enhancer sequence] 
+
+[repeat-KB enhancer sequence; ;the@2] 
+
+[sequence; ;enhancer] 
+
+[enhancer; ;repeat-KB] 
+
+[sequence; ;double] 
+
+[located; ;sequence] 
+
+[located;in;repeat] 
+
+[repeat;  ;the@3] 
+
+[repeat; ;terminal] 
+
+[repeat; ;long]

@@ -1,0 +1,10 @@
+Inhibition of PI3K inhibits phosphorylation of Rb, induction of cyclin D3, and degradation of p27kip1. 
+[Inhibition;of@1;PI3K]
+[inhibits; ;Inhibition]
+[inhibits; ;phosphorylation]
+[phosphorylation;of@2;Rb]
+[,...and; ;phosphorylation]
+[,...and; ;induction]
+[,...and; ;degradation]
+[induction;of@2;cyclin D3]
+[degradation;of@3;p27kip1]

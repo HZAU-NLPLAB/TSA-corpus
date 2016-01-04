@@ -1,0 +1,23 @@
+IV-1 Vpr suppresses immune activation and apoptosis through regulation of nuclear factor kappa B [see comments].
+[Vpr; ;HIV-1] 
+
+[suppresses; ;Vpr] 
+
+[suppresses; ;immune activation] 
+
+[suppresses; ;apoptosis] 
+
+[and; ;immune activation] 
+
+[and; ;apoptosis] 
+
+[activation; ;immune] 
+
+[suppresses;through;regulation] 
+
+[regulation;of;nuclear factor kappa B] 
+
+[kappa B; ;nuclear factor] 
+
+[factor; ;nuclear] 
+

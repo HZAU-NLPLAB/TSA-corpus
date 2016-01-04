@@ -1,0 +1,49 @@
+PtdIns binding to mCD14 can be blocked by anti-CD14 monoclonal antibodies that inhibit LPS-mCD14 binding, and PtdIns can inhibit both LPS-mCD14 binding and LPS-induced responses in monocytes.
+[and   ;PtdIns binding to mCD14 can be blocked by anti-CD14 monoclonal antibodies that inhibit LPS-mCD14 binding] 
+
+[and; ;PtdIns can inhibit both LPS-mCD14 binding and LPS-induced responses in monocytes] 
+
+[binding@1; ;PtdIns@1] 
+
+[binding@1;to;mCD14] 
+
+[blocked; ;be] 
+
+[be; ;can@1] 
+
+[blocked; ;PtdIns@1] 
+
+[blocked;by;anti-CD14 monoclonal antibodies] 
+
+[anti-CD14 monoclonal antibodies; ;that] 
+
+[monoclonal antibodies; ;anti-CD14] 
+
+[antibodies; ;monoclonal] 
+
+[inhibit@1; ;that] 
+
+[inhibit@1; ;binding@2] 
+
+[binding@2; ;LPS-mCD14] 
+
+[inhibit@2; ;can] 
+
+[inhibit@2; ;PtdIns] 
+
+[inhibit@2; ;LPS-mCD14 binding] 
+
+[inhibit@2; ;LPS-induced responses] 
+
+[both...and; ;LPS-mCD14 binding] 
+
+[both...and; ;LPS-induced responses] 
+
+[binding@3; ;LPS-mCD14] 
+
+[induced responses;-;LPS] 
+
+[responses; ;induced] 
+
+[inhibit@2;in;monocytes] 
+

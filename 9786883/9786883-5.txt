@@ -1,0 +1,23 @@
+In all of these animals, the expression of BLR1 was reduced or absent.
+[ ;In;all] 
+
+[all;of;animals] 
+
+[animals; ;these] 
+
+[expression; ;the] 
+
+[expression;of;BLR1] 
+
+[reduced; ;was] 
+
+[reduced; ;expression] 
+
+[or; ;reduced] 
+
+[or; ;absent] 
+
+[absent; ;was] 
+
+[absent; ;expression] 
+

@@ -1,0 +1,31 @@
+Several lipoproteins stimulated TLR-dependent transcription of inducible nitric oxide synthase and the production of nitric oxide, a powerful microbicidal pathway.
+[lipoproteins; ;Several] 
+
+[stimulated; ;lipoproteins] 
+
+[stimulated; ;transcription] 
+
+[transcription; ;TLR-dependent] 
+
+[TLR;-;dependent] 
+
+[transcription;of@1;inducible nitric oxide synthase] 
+
+[and; ;transcription] 
+
+[and; ;production] 
+
+[production; ;the] 
+
+[stimulated; ;production] 
+
+[production;of@2;nitric oxide] 
+
+[production; ;pathway] 
+
+[pathway; ;a]
+
+[pathway; ;powerful] 
+
+[pathway; ;microbicidal]
+

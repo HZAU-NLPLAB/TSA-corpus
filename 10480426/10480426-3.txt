@@ -1,0 +1,27 @@
+A variety of factors are known to play a role in terminal neutrophil maturation, including the vitamin A derivative, retinoic acid.
+[variety; ;A@1] 
+
+[variety;of;factors] 
+
+[known; ;factors] 
+
+[known; ;are] 
+
+[known;to;play] 
+
+[play; ;role] 
+
+[role; ;a@2] 
+
+[play;in;maturation
+]
+[maturation; ;terminal] 
+
+[maturation; ;neutrophi] 
+
+[factors;including;vitamin A] 
+
+[factors; ;retinoic acid] 
+
+[retinoic acid; ;derivative] 
+

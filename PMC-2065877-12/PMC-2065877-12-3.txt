@@ -1,0 +1,19 @@
+Cells were seeded on day 3 in triplicate in a 96-well plate at 2.
+[seeded; ;were] 
+
+[seeded; ;Cells] 
+
+[seeded;on;day 3] 
+
+[seeded;in;triplicate] 
+
+[triplicate;in;plate] 
+
+[plate; ;a] 
+
+[plate; ;96-well] 
+
+[well;-;96] 
+
+[plate;at;2] 
+

@@ -1,0 +1,17 @@
+The PRO1_ promoter-reporter gene construct was generously provided by J.
+
+[PRO1_ promoter-reporter gene construct; ;The]
+
+[construct; ;PRO1_]
+
+[construct; ;promoter-reporter]
+
+[construct; ;gene]
+
+[provided; ;PRO1_ promoter-reporter gene construct]
+
+[provided; ;was]
+
+[provided; ;generously]
+
+[provided;by;J. Hiscott]

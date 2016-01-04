@@ -1,0 +1,19 @@
+There was no competition between TPO and EPO for binding to EPO receptor.
+[There;was;competition] 
+
+[competition; ;no] 
+
+[competition;between;TPO] 
+
+[competition;between;EPO@1] 
+
+[and; ;TPO] 
+
+[and; ;EPO@1] 
+
+[competition;for;binding] 
+
+[binding;to;receptor] 
+
+[receptor; ;EPO@2] 
+

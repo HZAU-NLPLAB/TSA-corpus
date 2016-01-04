@@ -1,0 +1,10 @@
+Furthermore, the PRO8_ release was down-regulated by inhibition of JNK activity. 
+[ ;Furthermore;the PRO8_ release was down-regulated by inhibition of JNK activity]
+[down-regulated; ;was]
+[down-regulated; ;PRO8_ release]
+[PRO8_ release; ;the]
+[release; ;PRO8_]
+[down-regulated;by;inhibition]
+[regulated;-;down]
+[inhibition;of;activity]
+[activity; ;JNK]

@@ -1,0 +1,42 @@
+Shown are the results for (A and B) WT lymphoma 1, (C and D) PRO10_ transgenic lymphoma 2, and (E and F) one out of two PRO11_ transgenic mice analyzed.
+[are; ;Shown] 
+
+[are; ;results] 
+
+[results; ;the] 
+
+[results;for;lymphoma 1] 
+
+[and@1; ;A] 
+
+[and@1; ;B] 
+
+[lymphoma 1; ;WT] 
+
+[and@2; ;C] 
+
+[and@2; ;D] 
+
+[lymphoma 2; ;transgenic] 
+
+[lymphoma 2; ;PRO10_] 
+
+[and@3; ;lymphoma 1] 
+
+[and@3; ;lymphoma 2] 
+
+[and@3; ;PRO11_] 
+
+[and@4; ;E] 
+
+[and@4; ;F] 
+
+[one;out of;mice] 
+
+[mice; ;two] 
+
+[mice; ;transgenic] 
+
+[transgenic; ;PRO11_] 
+
+[analyzed; ;results]

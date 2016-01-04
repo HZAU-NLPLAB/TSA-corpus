@@ -1,0 +1,42 @@
+Progression to lymphoma in both wild-type and PRO61_ transgenic lymphoma cells led to increased levels of PRO62_, correspondingly high levels of PRO63_, and decreased levels of PRO64_ (Figure 6C).
+[Progression;to;lymphoma] 
+
+[lymphoma;in;cells] 
+
+[cells; ;lymphoma] 
+
+[cells; ;transgenic] 
+
+[cells; ;PRO61_]
+
+[cells; ;wild-type] 
+
+[both...and; ;wild-type] 
+
+[both...and; ;transgenic] 
+
+[Progression;led to;increased] 
+
+[increased; ;levels] 
+
+[levels;of;PRO62_] 
+
+[Progression;led to;correspondingly] 
+
+[Progression;led to;decreased] 
+
+[and; ;increased] 
+
+[and; ;correspondingly] 
+
+[and; ;decreased] 
+
+[levels; ;high] 
+
+[levels; ;correspondingly] 
+
+[levels;of;PRO63_] 
+
+[decreased; ;levels] 
+
+[levels;of;PRO64_]

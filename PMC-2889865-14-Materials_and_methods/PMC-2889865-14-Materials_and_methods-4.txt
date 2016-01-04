@@ -1,0 +1,12 @@
+The solutions were mixed by vortexing followed by centrifugation at 12,000 rpm for 15 min at 4degreesC. 
+[solutions; ;The]
+[mixed; ;were]
+[mixed; ;solutions]
+[mixed;by;vortexing]
+[followed; ;vortexing]
+[followed;by;centrifugation]
+[centrifugation;at@1;12,000 rpm]
+[rpm; ;12,000]
+[centrifugation;for;15 min]
+[min; ;15]
+[centrifugation;at@2;4degreesC]

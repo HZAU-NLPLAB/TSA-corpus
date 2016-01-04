@@ -1,0 +1,7 @@
+Murine and human T-lymphocyte GATA-3 factors mediate transcription through a cis-regulatory element within the human T-cell receptor delta gene enhancer.
+[mediate; ;Murine and human@1 T-lymphocyte GATA-3 factors]
+[mediate; ;transcription]
+[mediate;through;cis-regulatory element]
+[cis-regulatory element; ;a]
+[cis-regulatory element;within;human@2 T-cell receptor delta gene enhancer]
+[human T-cell receptor delta gene enhancer; ;the]

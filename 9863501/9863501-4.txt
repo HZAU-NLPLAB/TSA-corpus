@@ -1,0 +1,50 @@
+These observations can be linked with the inhibition of NF-kappa B activation when uninfected monocytes are induced by either tumor necrosis factor alpha (TNF-alpha) phorbol 12-myristate 13-acetate (PMA) or lipopolysaccharide (LPS).
+
+
+[observations; ;These] 
+
+[linked; ;observations] 
+
+[linked; ;can] 
+
+[linked; ;be] 
+
+[linked;with;inhibition] 
+
+[inhibition; ;the] 
+
+[inhibition;of;activation] 
+
+[activation; ;NF-kappa B] 
+
+[These observations can be linked with the inhibition of NF-kappa B activation;when;uninfected monocytes are induced by either tumor necrosis factor alpha (TNF-alpha) phorbol 12-myristate 13-acetate (PMA) or lipopolysaccharide (LPS)]  
+
+[monocytes; ;uninfected] 
+
+[induced; ;monocytes] 
+
+[induced; ;are] 
+
+[induced;by;either tumor necrosis factor alpha (TNF-alpha) phorbol 12-myristate 13-acetate (PMA) or lipopolysaccharide (LPS)] 
+
+[either...or; ;tumor necrosis factor alpha (TNF-alpha) phorbol 12-myristate 13-acetate] 
+
+[either...or; ;lipopolysaccharide (LPS)] 
+
+[factor; ;necrosis] 
+
+[factor; ;tumor] 
+
+[tumor necrosis factor alpha; ;TNF-alpha] 
+
+[alpha; ;factor] 
+
+[phorbol; ;alpha] 
+
+[phorbol; ;12-myristate] 
+
+[phorbol; ;13-acetate] 
+
+[PMA; ;phorbol 12-myristate 13-acetate] 
+
+[lipopolysaccharide; ;LPS]

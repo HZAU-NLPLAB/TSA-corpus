@@ -1,0 +1,18 @@
+Thus, C. neoformans and C. albicans enhance HIV expression in monocytic cells through a TNF-alpha- and NF-kappaB-dependent mechanism.
+[C. neoformans and C. albicans enhance HIV expression in monocytic cells through a TNF-alpha- and NF-kappaB-dependent [mechanism; ;Thus] 
+
+[and@1; ;C. neoformans] 
+[and@1; ;C. albicans] 
+[enhance; ;C. neoformans] 
+[enhance; ;C. albicans] 
+[enhance; ;expression] 
+[expression; ;HIV] 
+[expression;in;monocytic cells] 
+[cells; ;monocytic] 
+[enhance;through;TNF-alpha- and NF-kappaB-dependent mechanism] 
+[TNF-alpha- and NF-kappaB-dependent mechanism; ;a] 
+[mechanism; ;TNF-alpha- and NF-kappaB-dependent] 
+[and@2; ;TNF-alpha-dependent] 
+[and@2; ;NF-kappaB-dependent] 
+[dependent;-;TNF-alpha] 
+[dependent;-;NF-kappaB] 

@@ -1,0 +1,73 @@
+NFAT1 possesses two transactivation domains whose sequences are not conserved in the other NFAT-family proteins, and a conserved DNA-binding domain that mediates the recruitment of cooperating nuclear transcription factors even when it is expressed in the absence of other regions of the protein.
+[possesses; ;NFAT1] 
+
+[possesses; ;domains] 
+
+[domains; ;two] 
+
+[domains; ;transactivation] 
+
+[domains; ;whose] 
+
+[sequences; ;whose] 
+
+[conserved@1; ;are] 
+
+[are; ;not] 
+
+[conserved@1; ;sequences] 
+
+[conserved@1;in@1;NFAT-family proteins] 
+
+[NFAT-family proteins; ;the@1] 
+
+[NFAT-family proteins; ;other] 
+
+[proteins; ;NFAT-family] 
+
+[and; ;domains] 
+
+[and; ;DNA-binding domain] 
+
+[DNA-binding domain; ;a] 
+
+[DNA-binding domain; ;conserved@2] 
+
+[DNA-binding domain; ;that] 
+
+[domain; ;DNA-binding] 
+
+[binding;-;DNA] 
+
+[mediates; ;that] 
+
+[mediates; ;recruitment] 
+
+[recruitment; ;the@2] 
+
+[recruitment;of@1;nuclear transcription factors] 
+
+[transcription factors; ;nuclear] 
+
+[factors; ;transcription] 
+
+[that mediates the recruitment of cooperating nuclear transcription factors;even when;it is expressed in the absence of other regions of the protein] 
+
+[it; ;DNA-binding domain] 
+
+[expressed; ;is] 
+
+[expressed; ;it] 
+
+[expressed;in@2;absence] 
+
+[absence; ;the@3] 
+
+[absence;of@2;regions] 
+
+[regions; ;other] 
+
+[regions;of@3;protein] 
+
+[protein; ;the@4] 
+

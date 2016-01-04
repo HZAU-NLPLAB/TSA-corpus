@@ -1,0 +1,11 @@
+All protocols were approved by the Institutional Animal Care and Use Committee.
+[protocols; ;All] 
+
+[approved; ;protocols] 
+
+[approved; ;were] 
+
+[approved;by;Institutional Animal Care and Use Committee] 
+
+[Institutional Animal Care and Use Committee; ;the] 
+

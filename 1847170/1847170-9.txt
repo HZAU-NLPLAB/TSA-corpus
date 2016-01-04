@@ -1,0 +1,35 @@
+Moreover, platelet-activating factor was capable of inducing transcription of the nuclear proto-oncogenes c-fos and c-jun.
+[platelet-activating factor was capable of inducing transcription of the nuclear proto-oncogenes c-fos and c-jun; ;Moreover] 
+
+[was; ;platelet-activating factor] 
+
+[factor; ;platelet-activating] 
+
+[activating;-;platelet] 
+
+[was; ;capable] 
+
+[capable;of@1;inducing] 
+
+[inducing; ;transcription] 
+
+[transcription;of@2;c-fos] 
+
+[transcription;of@2;c-jun] 
+
+[c-fos; ;the] 
+
+[c-jun; ;the] 
+
+[and; ;c-fos] 
+
+[and; ;c-jun] 
+
+[c-fos; ;nuclear proto-oncogenes] 
+
+[c-jun; ;nuclear proto-oncogenes] 
+
+[proto-oncogenes; ;nuclear] 
+
+[oncogenes;-;proto] 
+

@@ -1,0 +1,12 @@
+The mechanism of activation is due to S-nitrosylation of a critical cysteine residue which stimulates guanine nucleotide exchange. 
+[mechanism; ;The]
+[mechanism;of@1;activation]
+[is due to; ;mechanism]
+[is due to; ;S-nitrosylation]
+[S-nitrosylation;of@2;cysteine residue]
+[cysteine residue; ;a]
+[cysteine residue; ;critical]
+[cysteine residue; ;which]
+[stimulates; ;which]
+[stimulates; ;exchange]
+[exchange; ;guanine nucleotide]

@@ -1,0 +1,55 @@
+Since the co-expression with a dominant negative c-Fos abolished the responsiveness to TPA, we conclude that activated transcription of the DRA gene depends on interactions between the X2 box and NF-X2, which contains c-Fos.
+[we conclude that activated transcription of the DRA gene depends on interactions between the X2 box and NF-X2, which contains c-Fos;Since;the co-expression with a dominant negative c-Fos abolished the responsiveness to TPA] 
+
+[co-expression; ;the@1] 
+
+[co-expression;with;c-Fos@1] 
+
+[c-Fos@1; ;a] 
+
+[c-Fos@1; ;dominant] 
+
+[c-Fos@1; ;negative] 
+
+[abolished; ;co-expression] 
+
+[abolished; ;responsiveness] 
+
+[responsiveness; ;the@2] 
+
+[responsiveness;to;TPA] 
+
+[conclude; ;we] 
+
+[conclude; ;that] 
+
+[that; ;activated transcription of the DRA gene depends on interactions between the X2 box and NF-X2, which contains c-Fos] 
+
+[transcription; ;activated] 
+
+[transcription;of;DRA gene] 
+
+[DRA gene; ;the@3] 
+
+[depends; ;transcription] 
+
+[depends;on;interactions] 
+
+[interactions;between;X2 box] 
+
+[X2 box; ;the@4] 
+
+[interactions;between;NF-X2] 
+
+[and; ;X2 box] 
+
+[and; ;NF-X2] 
+
+[box; ;X2] 
+
+[depends; ;which] 
+
+[contains; ;which] 
+
+[contains; ;c-Fos@2] 
+

@@ -1,0 +1,28 @@
+In macrophages, a slight enhancement of TNF-alpha production was seen, whereas IL-1 beta was not detected.
+
+
+[a slight enhancement of TNF-alpha production was seen, whereas IL-1 beta was not detected;In;In macrophages] 
+
+[ ;In;macrophages] 
+
+[enhancement; ;a] 
+
+[enhancement; ;slight]
+
+[enhancement;of;production] 
+
+[production; ;TNF-alpha]
+
+[seen; ;production] 
+
+[seen; ;was] 
+
+[a slight enhancement of TNF-alpha production was seen;whereas;IL-1 beta was not detected] 
+
+[beta; ;IL-1] 
+
+[detected ; ;beta]
+[detected  ; ;was] 
+
+[detected; ;not]
+

@@ -1,0 +1,44 @@
+
+Cell-to-cell contact between peripheral blood lymphocytes and transfected human colonic carcinoma cell line HT29 activates transcription of the long terminal repeats (LTR) of human immunodeficiency virus.
+
+
+[contact; ;Cell-to-cell] 
+
+[contact;between...and...;peripheral blood lymphocytes] 
+
+[contact;between...and..;human colonic carcinoma cell line HT29] 
+
+[lymphocytes; ;blood] 
+
+[lymphocytes; ;peripheral] 
+
+[human colonic carcinoma cell line; ;HT29] 
+
+[line; ;cell] 
+
+[cell; ;carcinoma]
+
+[carcinoma; ;colonic] 
+
+[carcinoma; ;human] 
+
+[HT29; ;transfected] 
+
+[activates; ;transcription] 
+
+[transcription;of;long terminal repeats] 
+
+[long terminal repeats; ;the] 
+
+[long terminal repeats; ;LTR] 
+
+[repeats; ;terminal] 
+
+[repeats; ;long] 
+
+[LTR;of;human immunodeficiency virus] 
+
+[virus; ;immunodeficiency] 
+
+[immunodeficiency; ;human] 
+

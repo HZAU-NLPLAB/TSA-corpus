@@ -1,0 +1,8 @@
+Further analysis was conducted on the Summit v4,2 program (Dako).
+[analysis; ;Further ]
+[conducted; ;analysis ]
+[conducted; ;was ]
+[conducted;on;program ]
+[program; ;the ]
+[v4,2 program; ;v4.2 ]
+[program; ;Summit £©

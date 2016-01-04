@@ -1,0 +1,21 @@
+The production of both cytokines, measured by ELISA tests, was enhanced in monocytes.
+
+
+[production; ;The] 
+
+[production;of;cytokines] 
+
+[cytokines; ;both] 
+
+[measured; ;production] 
+
+[measured;by;tests] 
+
+[tests; ;ELISA] 
+
+[enhanced; ;production] 
+
+[enhanced; ;was] 
+
+[enhanced;in;monocytes] 
+

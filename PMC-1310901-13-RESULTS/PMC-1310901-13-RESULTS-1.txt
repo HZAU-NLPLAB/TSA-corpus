@@ -1,0 +1,7 @@
+In vitro methylation of an PRO1_ promoter-reporter construct decreases its activity.
+[ ;In;vitro methylation]
+[vitro methylation;of;construct]
+[construct; ;PRO1_ promoter-reporter]
+[decreases; ;construct]
+[decreases; ;activity]
+[activity; ;its]

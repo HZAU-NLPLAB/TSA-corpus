@@ -1,0 +1,51 @@
+
+The production of human immunodeficiency virus type 1 (HIV-1) progeny was followed in the U937 promonocytic cell line after stimulation either with retinoic acid or PMA, and in purified human monocytes and macrophages.
+
+
+[production; ;The] 
+
+[production;of;progeny] 
+
+[progeny; ;human immunodeficiency virus type 1] 
+
+human immunodeficiency virus type 1; ;HIV-1] 
+
+[followed; ;progeny] 
+
+[followed; ;was
+]
+[followed;in@1;U937 promonocytic cell line] 
+
+[U937 promonocytic cell line; ;the@1] 
+
+[line; ;cell] 
+
+[cell; ;promonocytic] 
+
+[cell; ;U937] 
+
+[line;after;stimulation]
+
+[stimulation; ;either] 
+
+[either;with;acid] 
+
+[acid; ;retinoic] 
+
+[or; ;acid]
+
+[or; ;PMA] 
+
+[and@1; ;in@1] 
+
+[and@1; ;in@2] 
+
+[in@2; ;human monocytes and macrophages] 
+
+[human monocytes and macrophages; ;purified] 
+
+[and@2; ;monocytes] 
+
+[and@2; ;macrophages] 
+
+[monocytes; ;human]

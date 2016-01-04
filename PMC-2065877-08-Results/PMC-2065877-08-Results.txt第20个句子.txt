@@ -1,0 +1,43 @@
+A second reported inhibitor of PRO37_, AG490, had no effect on growth (Figure 7),   but activation of PRO38_, PRO39_, or levels of PRO40_ were also not affected (Figure 8).
+[inhibitor; ;A] 
+
+[inhibitor; ;second] 
+
+[inhibitor; ;reported] 
+
+[inhibitor;of;PRO37_] 
+
+[inhibitor; ;AG490] 
+
+[had; ;AG490] 
+
+[had; ;no] 
+
+[had; ;effect] 
+
+[effect;on;growth] 
+
+[but; ;A second reported inhibitor of PRO37_, AG490, had no effect on growth] 
+
+[but; ;activation of PRO38_, PRO39_, or levels of PRO40_ were also not affected]
+
+[activation;of;PRO38_] 
+
+[activation;of;PRO39_] 
+
+[activation;of;levels] 
+
+[or; ;PRO38_] 
+
+[or; ;PRO39_] 
+
+[or; ;levels] 
+
+[affected; ;PRO38_, PRO39_, or levels] 
+
+[affected; ;were] 
+
+[affected; ;also] 
+
+[affected; ;not] 
+

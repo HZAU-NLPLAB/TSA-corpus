@@ -1,0 +1,49 @@
+These results indicate that CTLA-4 signaling inhibits events early in T cell activation both at IL-2 transcription and at the level of IL-2-independent events of the cell cycle, and does not simply oppose CD28-mediated costimulation.
+[results; ;These] 
+
+[indicate; ;results] 
+
+[indicate; ;that] 
+
+[that; ;CTLA-4 signaling inhibits events early in T cell activation both at IL-2 transcription and at the@1 level of@1 IL-2-independent events of@2 the@2 cell cycle, and does not simply oppose CD28-mediated costimulation] 
+
+[inhibits; ;CTLA-4 signaling] 
+
+[inhibits; ;events] 
+
+[inhibits; ;early] 
+
+[inhibits;in;T cell activation] 
+
+[inhibits; ;both at IL-2 transcription and at the@1 leve] 
+
+[inhibits;at@1;IL-2 transcription] 
+
+[inhibits;at@2;level] 
+
+[both¡­and; ;at@1 IL-2 transcription] 
+
+[both¡­and; ;at@2 the@1 level] 
+
+[level; ;the@1] 
+
+l[evel;of@1;IL-2-independent events] 
+
+[IL-2-independent events;of@2;cell cycle] 
+
+[cell cycle; ;the@2] 
+
+[and; ;inhibits] 
+
+[and; ;does] 
+
+[oppose; ;CTLA-4 signaling] 
+
+[oppose; ;does] 
+
+[oppose; ;not] 
+
+[oppose; ;simply] 
+
+[oppose; ;CD28-mediated costimulation] 
+

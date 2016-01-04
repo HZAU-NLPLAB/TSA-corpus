@@ -1,0 +1,37 @@
+
+Cytokines, the peptide hormones which control the homeostasis of the immune system and also play a fundamental role in inflammatory and immune mediated reactions, have been involved at multiple levels in the pathogenesis of the acquired immune deficiency syndrome (AIDS).
+
+[
+Cytokines; ;hormones]
+[hormones; ;the@1]
+[hormones; ;peptide]
+[hormones; ;which]
+[control; ;which]
+[control; ;homeostasis]
+[homeostasis; ;the@2]
+[homeostasis;of;system]
+[system; ;immune]
+[system; ;the@3]
+[and@1; ;control]
+[and@1; ;play]
+[play; ;also]
+[play; ;role]
+[role; ;a]
+[role; ;fundamental]
+[play;in;reactions]
+[reactions; ;mediated]
+[and@2; ;inflammatory]
+[and@2; ;immune]
+[involved;been;have]
+[involved; ;reactions]
+[involved;at;levels]
+[levels; ;multiple]
+[levels;in;pathogenesis]
+[pathogenesis; ;the@4]
+[pathogenesis;of;syndrome]
+[acquired immune deficiency syndrome; ;AIDS]
+[syndrome; ;deficiency]
+[immune; ;acquired]
+[syndrome; ;immune]
+
+

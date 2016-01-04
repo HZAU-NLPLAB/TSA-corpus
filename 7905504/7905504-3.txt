@@ -1,0 +1,13 @@
+Increased levels of replication of the HIV type 1 are observed after the activation of infected T cells through the TCR. 
+[levels; ;Increased]
+[levels;of@1;replication]
+[replication;of@2;HIV type 1]
+[HIV type 1; ;the@1]
+[observed; ;levels]
+[observed; ;are]
+[observed;after;activation]
+[activation; ;the@2]
+[activation;of@3;T cells]
+[T cells; ;infected]
+[observed;through;TCR]
+[TCR; ;the@3]

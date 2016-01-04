@@ -1,0 +1,42 @@
+These findings suggest that triciribine specifically targets PRO21_ and that PRO22_ activation is required for the enhanced viability of the transgenic lymphocytes and lymphoma cells.
+[findings; ;These] 
+
+[suggest; ;findings] 
+
+[suggest; ;that@1] 
+
+[that@1; ;triciribine specifically targets PRO21_] 
+
+[and; ;that@1] 
+
+[and@1; ;that@2] 
+
+[that@2; ;PRO22_ activation is required for the enhanced viability of the transgenic lymphocytes and lymphoma cells]  
+
+[targets; ;triciribine] 
+
+[targets; ;specifically] 
+
+[targets; ;PRO21_] 
+
+[activation; ;PRO22_] 
+
+[is required for; ;activation] 
+
+[is required for; ;viability] 
+
+[viability; ;enhanced] 
+
+[viability; ;the] 
+
+[viability;of;lymphocytes] 
+
+[viability;of;cells] 
+
+[lymphocytes; ;transgenic] 
+
+[cells;   ;lymphoma] 
+
+[and; ;lymphocytes] 
+
+[and; ;cells]

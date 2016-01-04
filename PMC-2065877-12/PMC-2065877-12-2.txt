@@ -1,0 +1,24 @@
+For PRO1_ studies, splenocytes were cultured for 3 d in the presence or absence of 100 ng/ml PRO2_.
+[cultured; ;splenocytes]
+[cultured; ;were] 
+
+[cultured;for;3 d] 
+
+[cultured;in;presence] 
+
+[presence; ;the] 
+
+[or; ;presence] 
+
+[or; ;absence] 
+
+[absence;of;PRO2_] 
+
+[PRO2_; ;ng/ml] 
+
+[ng/ml; ;100] 
+
+[;For;studies] 
+
+[studies; ;PRO1_] 
+

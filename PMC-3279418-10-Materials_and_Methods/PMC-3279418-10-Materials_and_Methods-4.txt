@@ -1,0 +1,10 @@
+Murine fibroblasts and macrophages were were used to express recombinant PRO3_ protein.
+[and; ;fibroblasts]
+[fibroblasts; ;Murine]
+[and; ;macrophages]
+[used; ;macrophages]
+[used;to;express]
+[express; ;protein]
+[protein; ;PRO3_]
+[protein; ;recombinant) 
+

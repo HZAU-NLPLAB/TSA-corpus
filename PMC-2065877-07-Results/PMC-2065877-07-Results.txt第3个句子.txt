@@ -1,0 +1,20 @@
+To determine if PRO7_ signaling is activated in PRO8_ transgenic mice, PRO9_ and several of its targets were assessed by immunoblotting of splenic PRO10_+ MACS-purified B cells.
+[and; ;PRO9_] 
+[and; ;several]
+
+[several;of@1;targets] 
+
+[targets; ;its] 
+
+[assessed; ;targets] 
+
+[assessed; ;were] 
+
+[assessed;by;immunoblotting] 
+
+[immunoblotting;of;B cells]  
+
+[PRO10_+; ;splenic] 
+
+[B cells; ;MACS-purified] 
+

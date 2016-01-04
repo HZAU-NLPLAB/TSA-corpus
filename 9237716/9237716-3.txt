@@ -1,0 +1,31 @@
+Stimulation of the latently HIV-infected myelomonocytic cell line OM-10.1 with C. neoformans and C. albicans in the presence of pooled human serum caused a ratio-dependent increase in HIV production.
+[Stimulation;of@1;OM-10.1] 
+
+[OM-10.1; ;the@1] 
+
+[OM-10.1; ;latently] 
+
+[OM-10.1; ;HIV-infected myelomonocytic cell line] 
+
+[myelomonocytic cell line; ;HIV-infected] 
+
+[cell line; ;myelomonocytic] 
+
+[infected;-;HIV] 
+
+[OM-10.1;with;C. neoformans] 
+[OM-10.1;with;C. albicans] 
+[and; ;C. neoformans] 
+[and; ;C. albicans] 
+[Stimulation; in@1;presence] 
+[presence; ;the@2] 
+[presence;of@2;serum] 
+[serum; ;pooled] 
+[serum; ;human] 
+[caused; ;Stimulation]  
+[caused; ;increase] 
+[increase; ;a] 
+[increase; ;ratio-dependent] 
+[dependent;-;ratio] 
+[increase;in@2;production] 
+[production; ;HIV] 

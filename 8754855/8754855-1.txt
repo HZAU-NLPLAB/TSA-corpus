@@ -1,0 +1,19 @@
+recise alignment of sites required for mu enhancer activation in B cells.
+
+
+[alignment; ;Precise] 
+
+[alignment;of;sites] 
+
+[required; ;sites] 
+
+[required;for;activation] 
+
+[activation; ;enhancer] 
+
+[enhancer; ;mu] 
+
+[activation;in;B cells]
+
+[cells; ;B] 
+

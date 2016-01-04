@@ -1,0 +1,71 @@
+We found that: (i) both CTCF mRNA and protein are down-regulated during terminal differentiation in most cell lines tested; (ii) CTCF down-regulation is retarded and less pronounced than that of c-myc; (iii) CTCF protein is differentially phosphorylated and the phosphorylation profiles depend on the differentiation pathway.
+[found; ;We] 
+
+[found; ;that@1] 
+
+[that@1; ;(i) both CTCF mRNA and protein are down-regulated during terminal differentiation in most cell lines tested] 
+
+[that@1; ;(ii) CTCF down-regulation is@1 retarded and@1 less pronounced than that@2 of c-myc] 
+
+[that@1; ;iii) CTCF protein is@2 differentially phosphorylated and@2 the@1 phosphorylation profiles depend on the@2 differentiation pathway] 
+
+[both¡­and; ;CTCF mRNA] 
+
+[both¡­and; ;protein] 
+
+[down-regulated; ;CTCF mRNA] 
+
+[down-regulated; ;protein] 
+
+[down-regulated; ;are] 
+
+[down-regulated;during;differentiation] 
+
+[differentiation; ;terminal] 
+
+[differentiation;in;cell lines] 
+
+[cell lines; ;most] 
+
+[tested; ;cell lines] 
+
+[down-regulation; ;CTCF] 
+
+[is@1; ;CTCF down-regulation] 
+
+[is@1; ;retarded] 
+
+[and@1; ;retarded] 
+
+[and@1; ;pronounced] 
+
+[is@1; ;pronounced] 
+
+[pronounced; ;less] 
+
+[pronounced;than;that@2] 
+
+[that@2;of;c-myc] 
+
+[is@2; ;CTCF protein] 
+
+[is@2; ;phosphorylated] 
+
+[phosphorylated; ;differentially] 
+
+[and@2; ;CTCF protein is@2 differentially phosphorylated] 
+
+[and@2; ;the@1 phosphorylation profiles depend on the@2 differentiation pathway 
+
+[phosphorylation profiles; ;the@1 
+
+[profiles; ;phosphorylation 
+
+depend; ;phosphorylation profiles 
+
+depend;on;differentiation pathway 
+
+pathway; ;the@2 
+
+pathway; ;differentiation 
+

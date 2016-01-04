@@ -1,0 +1,11 @@
+Phosphorylation of TRAF2 inhibits binding to the CD40 cytoplasmic domain.
+[Phosphorylation;of;TRAF2] 
+
+[inhibits; ;Phosphorylation] 
+
+[inhibits; ;binding] 
+
+[binding;to;CD40 cytoplasmic domain] 
+
+[CD40 cytoplasmic domain; ;the] 
+

@@ -1,0 +1,12 @@
+This was followed by addition of 100 mul chloroform/isoamylalcohol (24/1).
+[followed; ;was]
+[followed; ;This]
+[followed;by;addition]
+[addition;of;chloroform/isoamylalcohol]
+[chloroform/isoamylalcohol; ;100 mul]
+[chloroform/isoamylalcohol; ;24/1]
+[/@1; ;chloroform]
+[/@1; ;isoamylalcohol]
+[/@2; ;24]
+[/@2; ;1]
+[mul; ;100]

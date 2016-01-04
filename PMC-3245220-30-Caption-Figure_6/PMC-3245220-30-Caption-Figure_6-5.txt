@@ -1,0 +1,15 @@
+Data are expressed as relative fold increase of PRO3_ or PRO4_ gene expression upon treatment over non-stimulated cells.
+[expressed; ;Data]
+[expressed; ;are]
+[expressed;as;fold]
+[fold; ;relative]
+[increase; ;fold]
+[increase;of;expression]
+[or; ;PRO3_]
+[or; ;PRO4_]
+[expression; ;gene]
+[gene; ;PRO4_]
+[increase;upon;treatment]
+[treatment;over;cells]
+[cells; ;non-stimulated) 
+

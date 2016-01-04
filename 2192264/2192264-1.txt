@@ -1,0 +1,23 @@
+nvolvement of cyclic AMP-dependent protein kinases in the signal transduction pathway for interleukin-1.
+
+
+[Involvement;of;kinases] 
+
+[kinases; ;protein] 
+
+[kinases; ;cyclic] 
+
+[kinases; ;AMP-dependent] 
+
+[dependent;-;AMP] 
+
+[kinases;in;pathway] 
+
+[pathway; ;transduction] 
+
+[transduction; ;signal] 
+
+[pathway; ;the] 
+
+[pathway;for;interleukin-1] 
+

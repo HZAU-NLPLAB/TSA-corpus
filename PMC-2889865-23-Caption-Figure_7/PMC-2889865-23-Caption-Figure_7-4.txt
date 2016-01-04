@@ -1,0 +1,9 @@
+(B) IkappaB decreased following with HK E. coli indicating NF-kappaB activation.
+[IkappaB; ;(B)]
+[decreased; ;IkappaB]
+[decreased; ;stimulation]
+[stimulation; ;following with HK E. coli]
+[decreased;with;HK E. coli]
+[decreased; ;indicating NF-kappaB activation]
+[indicating; ;activation]
+[activation; ;NF-kappaB]

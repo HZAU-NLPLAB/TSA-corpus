@@ -1,0 +1,29 @@
+Thus, our results suggest that CD40-mediated cell survival proceeds through NF-kappaB-dependent up-regulation of Bcl-2 family members.
+[results; ;our] 
+
+[suggest; ;results] 
+
+[suggest; ;that] 
+
+[that; ;CD40-mediated cell survival proceeds through NF-kappaB-dependent up-regulation of Bcl-2 family members] 
+
+[proceeds; ;CD40-mediated cell survival] 
+
+[cell; ;CD40-mediated] 
+
+[survival; ;CD40-mediated cell] 
+
+[mediated;-;CD40] 
+
+[proceeds;through;NF-kappaB-dependent up-regulation] 
+
+[up-regulation; ;NF-kappaB-dependent] 
+
+[dependent;-;NF-kappaB] 
+
+[regulation;-;up] 
+
+[NF-kappaB-dependent up-regulation;of;Bcl-2 family members] 
+
+[members;family;Bcl-2] 
+

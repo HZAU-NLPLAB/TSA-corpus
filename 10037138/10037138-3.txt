@@ -1,0 +1,25 @@
+Although CTCF has been characterized in some detail, there is very little information about the regulation of CTCF activity.
+there is very little information about the regulation of CTCF activity;Although;CTCF has been characterized in some detail 
+
+[characterized; ;CTCF] 
+
+[characterized;been;has] 
+
+[characterized;in;detail] 
+
+[detail; ;some] 
+
+[there¡­is; ;information] 
+
+[little; ;very] 
+
+[information; ;little] 
+
+[information;about;regulation] 
+
+[regulation; ;the] 
+
+[regulation;of;CTCF activity] 
+
+[activity;  ;CTCF] 
+

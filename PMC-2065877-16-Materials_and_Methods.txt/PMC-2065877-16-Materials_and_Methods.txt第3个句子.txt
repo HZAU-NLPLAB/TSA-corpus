@@ -1,0 +1,43 @@
+PCR reactions contained 100 ng of genomic DNA, 0,2 muM each primer, 0,2 mM dNTPs, and 2,5 U PRO1_ (NEB) performed in 1X ThermoPol buffer (NEB).
+
+[reactions; ;PCR ]
+
+[contained; ;reactions ]
+
+[contained; ;ng ]
+
+[ng; ;100 ]
+
+[ng;of;DNA ]
+
+[DNA; ;genomic ]
+
+[muM; ;0.2 ]
+
+[primer; ;each ]
+
+[primer; ;muM ]
+
+[mM; ;0.2 ]
+
+[dNTPs; ;mM ]
+
+[and; ;DNA ]
+
+[and; ;primer ]
+
+[and; ;dNTPs ]
+
+[and; ;PRO1_ ]
+
+[PRO1_; ;U ]
+
+[U; ;2.5 ]
+
+[performed; ;PRO1_ ]
+
+[performed;in;buffer ]
+
+[buffer; ;ThermoPol ]
+
+[ThermoPol; ;1X ]

@@ -1,0 +1,7 @@
+Scale bar, 20 mum.
+[bar; ;Scale] 
+
+[Scale bar; ;20 mum] 
+
+[mum; ;20] 
+

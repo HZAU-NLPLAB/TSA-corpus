@@ -1,0 +1,14 @@
+Furthermore, NF-kappaB transcriptional factor of aggregated cells had approximately 40-fold higher activity than that of parental cells.
+
+[factor; ;transcriptional]
+[factor; ;NF-kappaB]
+[kappaB;-;NF]
+[factor;of;cells@1]
+[cells@1; ;aggregated]
+[40-fold; ;approximately]
+[fold;-;40]
+[cells; ;had]
+[higher;than;that]
+[that;of;parental cells@2]
+[cells@2; ;parental]
+[activity; ;higher]

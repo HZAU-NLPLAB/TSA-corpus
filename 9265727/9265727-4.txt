@@ -1,0 +1,25 @@
+Despite this, there are still significant gaps in our understanding of this process and its consequences.
+[ ;Despite;this] 
+
+[there;are;gaps] 
+
+[there;are;still] 
+
+[gaps; ;significant] 
+
+[gaps;in;understanding] 
+
+[understanding; ;our] 
+
+[understanding;of;process] 
+
+[process; ;this] 
+
+[and; ;process] 
+
+[and; ;consequences] 
+
+[consequences; ;its] 
+
+[its; ;process] 
+

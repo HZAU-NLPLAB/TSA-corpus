@@ -1,0 +1,19 @@
+Many of the effects of CD40 are believed to be achieved through altered gene expression.
+[Many;of@1;effects] 
+
+[effects; ;the] 
+
+[effects;of@2;CD40] 
+
+[believed; ;Many] 
+
+[believed; ;are] 
+
+[believed;to;be] 
+
+[achieved; ;be] 
+
+[achieved;through;gene expression] 
+
+[gene expression; ;altered] 
+

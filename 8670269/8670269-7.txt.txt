@@ -1,0 +1,16 @@
+In B lymphoid cells, deltaspi-B and spi-B mRNAs were present simultaneously in a ratio of around 10%.
+
+[ ;In;cells]
+[cells; ;lymphoid]
+[lymphoid; ;B]
+[and; ;deltaspi-B]
+[and; ;mRNAs]
+[mRNAs; ;spi-B]
+[present;were; ]
+[present; ;mRNAs]
+[present; ;deltaspi-B]
+[present; ;simultaneously]
+[present;in;ratio]
+[ratio; ;a]
+[ratio;of;10%]
+[10%; ;around]

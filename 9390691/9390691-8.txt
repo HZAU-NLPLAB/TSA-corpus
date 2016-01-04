@@ -1,0 +1,10 @@
+The expression of an active PKB is sufficient to induce E2F activity. 
+[expression; ;The]
+[expression;of;PKB]
+[PKB; ;an]
+[PKB; ;active]
+[is; ;expression]
+[is; ;sufficient]
+[sufficient;to;induce]
+[induce; ;activity]
+[activity; ;E2F]

@@ -1,0 +1,47 @@
+The activity of the NH2-terminal transactivation domain is modulated by an adjacent regulatory region that contains several conserved sequence motifs represented only in the NFAT family.
+[activity; ;The] 
+
+[activity;of;NH2-terminal transactivation domain] 
+
+[NH2-terminal transactivation domain; ;the@1] 
+
+[domain; ;transactivation] 
+
+[domain; ;NH2-terminal] 
+
+[terminal;-;NH2] 
+
+[modulated; ;is] 
+
+[modulated; ;activity] 
+
+[modulated;by;regulatory region] 
+
+[regulatory region; ;an] 
+
+[regulatory region; ;adjacent] 
+
+[regulatory region; ;that] 
+
+[region; ;regulatory] 
+
+[contains; ;that] 
+
+[contains; ;conserved sequence motifs] 
+
+[conserved sequence motifs; ;several] 
+
+[represented; ;conserved sequence motifs] 
+
+[sequence motifs; ;conserved] 
+
+[motifs; ;sequence] 
+
+[represented; ;only] 
+
+[represented;in;NFAT family] 
+
+[NFAT family; ;the@2] 
+
+[family; ;NFAT] 
+

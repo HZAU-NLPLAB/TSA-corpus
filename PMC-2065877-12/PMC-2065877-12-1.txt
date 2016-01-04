@@ -1,0 +1,49 @@
+The 3-(4, 5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium inner salt (MTS) cell cytotoxicity/proliferation assays were performed using the CellTiter 96 aqueous one-solution cell proliferation assay (Promega),   according to manufacturer's instructions.
+[assays; ;cytotoxicity/proliferation] 
+
+[/; ;cytotoxicity] 
+
+[/; ;proliferation] 
+
+[cytotoxicity/proliferation; ;cell] 
+
+[cell; ;salt] 
+
+[cell; ;inner] 
+
+[cell; ;3-(4, 5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium] 
+
+[The; ;assays] 
+
+[performed; ;were] 
+
+[performed; ;assays] 
+
+[performed;using;CellTiter] 
+
+[CellTiter; ;96 aqueous one-solution cell proliferation assay] 
+
+[one-solution; ;aqueous] 
+
+[one-solution; ;96] 
+
+[solution;-;one] 
+
+[assay; ;proliferation] 
+
+[proliferation; ;cell] 
+
+[according;to;instructions] 
+
+[instructions; ;manufacturer's] 
+
+[-; ;3-(4, 5-dimethylthiazol-2-yl)] 
+
+[-; ;5-(3-carboxymethoxyphenyl)] 
+
+[-; ;2-(4-sulfophenyl)] 
+
+[-; ;2H] 
+
+[-; ;tetrazolium] 
+

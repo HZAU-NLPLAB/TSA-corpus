@@ -1,0 +1,48 @@
+Restoration of the CCAAT box at -70 bp, or insertion of an EKLF binding site at -85 bp or -95 bp in the promoter significantly increased delta globin gene expression in hAEC.
+[Restoration;of@1;CCAAT box] 
+
+[CCAAT box; ;the] 
+
+[box; ;CCAAT] 
+
+[CCAAT box;at;-70 bp] 
+
+[bp; ;-70] 
+
+[or; ;Restoration] 
+
+[or; ;insertion] 
+
+[insertion;of@2;site] 
+
+[site; ;an] 
+
+[site; ;EKLF] 
+
+[site; ;binding] 
+
+[insertion;at;-85 bp] 
+
+[or; ;-85 bp]
+[bp; ;
+-85]
+[or; ;-95 bp] 
+
+[bp; ;
+-95]
+[promoter;in@1;promoter] 
+
+[promoter; ;the@2] 
+
+[increased; ;promoter] 
+
+[increased; ;significantly] 
+
+[increased; ;delta globin gene expression] 
+
+[gene expression; ;delta] 
+
+[gene expression; ;globin] 
+
+[increased;in@2;hAEC] 
+

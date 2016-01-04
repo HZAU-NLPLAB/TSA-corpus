@@ -1,0 +1,65 @@
+ffect of PTX on PRO1_ production in the presence of PKA inhibition
+The role of PKA in PTX-induced downregulation of PRO2_ production in LPS-stimulated mononuclear cells was assessed by treating mononuclear cells with H89, a PKA inhibitor, prior to LPS and PTX exposure.
+[Effect;of;PTX] 
+
+[PTX;on;production] 
+
+[production; ;PRO1_] 
+
+[production;in;presence] 
+
+[presence; ;the@1] 
+
+[presence;of@1;inhibition] 
+
+[inhibition; ;PKA]
+
+[role; ;The@2] 
+
+[role;of@2;PKA]
+
+[PKA;in;downregulation] 
+
+[downregulation; ;PTX-induced] 
+
+[induced;-;PTX] 
+
+[downregulation;of@3;production] 
+
+[production; ;PRO2_] 
+
+[production;in;cells] 
+
+[cells; ;mononuclear] 
+
+[cells; ;LPS-stimulated] 
+
+[stimulated;-;LPS] 
+
+[assessed; ;cells] 
+
+[assessed; ;was] 
+
+[assessed;by;cells] 
+
+[cells; ;mononuclear] 
+
+[cells; ;treating] 
+
+[cells;with;H89] 
+
+[inhibitor; ;PKA] 
+
+[inhibitor; ;a] 
+
+[prior;to;LPS] 
+
+[exposure;  ;PTX]
+
+[and; ;H89] 
+
+[and; ;inhibitor] 
+
+[and; ;LPS] 
+
+[and; ;exposure]

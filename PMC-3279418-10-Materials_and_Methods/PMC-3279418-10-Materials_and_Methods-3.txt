@@ -1,0 +1,9 @@
+The PRO2_ cDNA was cloned into expression vector pFLAG-CMV-2.
+[cloned; ;cDNA]
+[cDNA; ;PRO2_]
+[cloned; ;was]
+[cDNA; ;The]
+[cloned;into;pFLAG-CMV-2) 
+[pFLAG-CMV-2; ;vector]
+[pFLAG-CMV-2; ;expression]
+

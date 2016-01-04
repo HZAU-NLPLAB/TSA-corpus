@@ -1,0 +1,25 @@
+Treatment with PMA plus ionomycin (P/I) results in the upregulation of Fas Ligand (FasL) and induction of apoptosis.
+[Treatment;with;PMA] 
+
+[Treatment;plus;ionomycin] 
+
+[PMA plus ionomycin; ;P/I] 
+
+[results; ;Treatment] 
+
+[results;in;upregulation]
+
+[upregulation; ;the] 
+
+[upregulation;of;Fas Ligand] 
+
+[Fas Ligand; ;FasL] 
+
+[and; ;upregulation] 
+
+[and; ;induction] 
+
+[results;in;induction] 
+
+[induction;of;apoptosis]  
+

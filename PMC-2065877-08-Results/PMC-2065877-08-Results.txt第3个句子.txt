@@ -1,0 +1,49 @@
+However, the enhanced viability of PRO9_ transgenic lymphocytes was effectively blocked by treatment with triciribine, BAY11-7085, cucurbitacin I, and slightly with SB203580, but not by treatment with rapamycin, U0126, or AG490 (Figure 7).
+[However; ;the enhanced viability of PRO9_ transgenic lymphocytes was effectively blocked by treatment with triciribine, BAY11-7085, cucurbitacin I, and slightly with SB203580, but not by treatment with rapamycin, U0126, or AG490] 
+
+[viability;the;enhanced] 
+
+[viability; ;the]
+
+[viability;of;lymphocytes] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO9_] 
+
+[blocked; ;lymphocytes] 
+
+[blocked; ;was] 
+
+[blocked; ;effectively] 
+
+[blocked;by;treatment] 
+
+[treatment;with@1;riciribine, BAY11-7085, cucurbitacin I] 
+
+[and; ;with@1] 
+
+[and; ;with@2] 
+
+[with@2; ;slightly] 
+
+[with@2; ;SB203580] 
+
+[but; ;by@1] 
+
+[but; ;not by@2] 
+
+[blocked; ;not] 
+
+[blocked; ;by@2] 
+
+[by@2; ;treatment@2]
+
+[treatment@2;with@3;rapamycin, U0126, or AG490] 
+
+[ or; ;rapamycin] 
+
+[ or; ;U0126] 
+
+[ or; ;AG490] 
+

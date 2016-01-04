@@ -1,0 +1,67 @@
+For neutralization assays, splenocytes were seeded at 5 x 106 cells/ml at 100 mul per well on day of harvest and PRO3_, rat IgG1 anti-mouse PRO4_, or rat IgG1 isotype control (R&D Systems) were added at the concentrations indicated in the figures.
+[;For;assays] 
+
+[assays; ;neutralization] 
+
+[seeded; ;splenocytes] 
+
+[seeded; ;were] 
+
+[seeded;at;cells/ml] 
+
+[cells/ml; ;5 x 106] 
+
+[x; ;5] 
+
+[x; ;106] 
+
+[/; ;cells] 
+
+[/; ;ml] 
+
+[cells/ml;at;mul] 
+
+[mul; ;100] 
+
+[mul; ;per well] 
+
+[well; ;per] 
+
+[mul;on;day] 
+
+[day;of;harvest] 
+
+and; ;harvest 
+
+and; ;PRO3_ 
+
+or; ;rat IgG1 anti-mouse PRO4_ 
+
+or; ;rat IgG1 isotype control 
+
+added; ;were 
+
+added; ;IgG1 anti-mouse PRO4_, or rat IgG1 isotype control 
+
+added;at;concentrations 
+
+indicated; ;concentrations 
+
+indicated;in;figures;;
+
+figures;;the 
+
+PRO4_; ;anti-mouse 
+
+mouse;-;anti 
+
+PRO4_; ;IgG1 
+
+IgG1; ;rat 
+
+control; ;isotype 
+
+contro; ;IgG1 
+
+IgG1; ;rat 
+

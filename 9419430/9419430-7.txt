@@ -1,0 +1,56 @@
+These results indicate that the functional activity of ligands built from the binding site of G28-5 is highly dependent upon the size and physical properties of the molecule both in solution and on the cell surfaces.
+
+
+[results; ;These] 
+
+[indicate; ;that] 
+
+[that; ;activity] 
+
+[activity; ;functional] 
+
+[activity; ;the@1] 
+[activity;of@1;built] 
+
+[built; ;ligands] 
+
+[built;from;site] 
+
+[site; ;binding] 
+
+[site; ;the@2] 
+
+[site;of;G28-5] 
+
+[is; ;activity] 
+
+[is; ;dependent] 
+
+[dependent; ;highly] 
+
+[dependent;upon;size] 
+
+[size; ;the@3] 
+
+[and@1; ;dependent] 
+
+[and@1; ;physical] 
+
+[properties; ;physical] 
+
+[properties;of;molecule] 
+
+[molecule; ;the@4] 
+
+[molecule; ;both] 
+
+[molecule;in;solution] 
+
+[molecule;on;cell surfaces]  
+
+[both...and; ;in solution] 
+
+[both...and; ;on the cell surfaces] 
+
+[surfaces; ;cell] 
+

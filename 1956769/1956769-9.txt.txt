@@ -1,0 +1,10 @@
+Thus, each factor may function as a novel negative regulator of transcription.
+
+[factor; ;each]
+[function; ;may]
+[function; ;facotr]
+[function; ;as]
+[ ;as;novel]
+[negative; ;regulator]
+[negative; ;novel]
+[regulator;of;transcription]

@@ -1,0 +1,11 @@
+Statistical significance from the control was determined using Student's t-test.(n = 3). 
+[significance; ;Statistical]
+[significance;from;control]
+[control; ;the]
+[determined; ;was]
+[determined; ;significance]
+[determined; ;using]
+[using; ;t-test]
+[t-test; ;Student's]
+[test;-;t]
+[t-test; ;n = 3]

@@ -1,0 +1,15 @@
+PTX alone caused a marked increase in CREB phosphorylation (P < 0).
+[caused; ;alone] 
+
+[alone; ;PTX] 
+
+[caused; ;increase] 
+
+[increase; ;marked] 
+
+[increase; ;a] 
+
+[increase;in;phosphorylation] 
+
+[phosphorylation; ;CREB] 
+

@@ -1,0 +1,11 @@
+This interaction is believed to be an important component of the mechanism of transactivation.
+[interaction; ;This ]
+[believed; ;interaction ]
+[believed; ;is ]
+[believed;to;component ]
+[component; ;an ]
+[component; ;important ]
+[component;of@1;mechanism ]
+[mechanism; ;the ]
+[mechanism;of@2;transactivation ]
+[be; ;component ]

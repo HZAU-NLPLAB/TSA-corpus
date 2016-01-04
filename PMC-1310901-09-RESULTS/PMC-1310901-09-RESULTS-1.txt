@@ -1,0 +1,7 @@
+Absence of PRO1_ expression in leukemia cells is not due to promoter alterations.
+[Absence;of;PRO1_ expression]
+[PRO1_ expression;in;leukemia cells]
+[is; ;not]
+[is; ;leukemia cells]
+[ ;due to;alterations]
+[alterations; ;promoter]

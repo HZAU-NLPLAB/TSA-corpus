@@ -1,0 +1,14 @@
+We have therefore investigated the changes in protein kinase C (PKC) activity upon exposure of monocytes to M-CSF.
+
+[investigated; ;We]
+[investigated; ;have]
+[investigated; ;therefore]
+[investigated; ;changes]
+[changes; ;the]
+[changes;in;activity]
+[activity; ;protein kinase C]
+[protein kinase C; ;PKC]
+[kinase C; ;protein]
+[activity;upon;exposure]
+[exposure;of;monocytes]
+[monocytes;to;M-CSF]

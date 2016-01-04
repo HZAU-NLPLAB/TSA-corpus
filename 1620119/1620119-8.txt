@@ -1,0 +1,32 @@
+Moreover, this domain conferred enhancing activity when fused to the Oct1 protein, which by itself was unable to stimulate from a remote position.
+[Moreover; ;this domain conferred enhancing activity when fused to the Oct1 protein, which by itself was unable to stimulate from a remote position] 
+
+[domain; ;this] 
+
+[conferred; ;domain] 
+
+[conferred; ;activity] 
+
+[this domain conferred enhancing activity;when;fused to the Oct1 protein] 
+
+[fused;to;protein] 
+
+[protein; ;Oct1] 
+
+[protein; ;the] 
+
+[activity; ;which] 
+
+[which;by;itself] 
+
+[was; ;which] 
+
+[was; ;unable] 
+
+[unable;to;stimulate] 
+
+[stimulate;from;position] 
+
+[position; ;remote] 
+
+[position; ;a]

@@ -1,0 +1,9 @@
+However, anti-CD45 antibodies inhibit these effects in cells from infected individuals. 
+[antibodies; ;anti-CD45]
+[CD45;-;anti]
+[inhibit; ;antibodies]
+[inhibit; ;effects]
+[effects; ;these]
+[effects;in;cells]
+[cells;from;individuals]
+[individuals; ;infected]

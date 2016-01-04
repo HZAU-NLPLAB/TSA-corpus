@@ -1,0 +1,16 @@
+We identified a novel cellular Tip-associated protein (Tap) by a yeast two-hybrid screen.
+
+[identified; ;We]
+[identified; ;protein]
+[protein; ;Tip-associated]
+[associated;-;Tip]
+[protein; ;cellular]
+[protein; ;novel]
+[protein; ;a]
+[protein; ;Tap]
+[identified;by;screen]
+[screen; ;a]
+[screen; ;two-hybrid]
+[hybrid;-;two]
+[screen; ;yeast]
+[screen; ;a]

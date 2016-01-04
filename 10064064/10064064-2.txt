@@ -1,0 +1,32 @@
+
+The immunoglobulin heavy chain (IgH) class switch recombination of B lymphocytes preferentially targets unrearranged IgH genes that have already been rendered transcriptionally active.
+[immunoglobulin heavy chain; ;The] 
+
+[immunoglobulin heavy chain; ;IgH] 
+
+[class; ;immunoglobulin heavy chain] 
+
+[class; ;switch] 
+
+[recombination; ;switch] 
+
+[recombination;of;B lymphocytes] 
+
+[targets; ;preferentially] 
+
+[targets; ;mmunoglobulin heavy chain]
+
+[targets; ;IgH genes] 
+
+[IgH genes; ;unrearranged] 
+
+[IgH genes; ;that] 
+
+[rendered; ;that] 
+
+[rendered;been;have] 
+
+[rendered; ;already] 
+
+[rendered; ;transcriptionally active]  
+

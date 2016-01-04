@@ -1,0 +1,12 @@
+Tissue specific regulation of gene expression by transcription factors is a fascinating new field in molecular immunology. 
+[regulation; ;Tissue]
+[regulation; ;specific]
+[regulation;of;gene expression]
+[ ;by;transcription factors]
+[is; ;regulation]
+[is; ;field]
+[field; ;a]
+[field; ;fascinating]
+[field; ;new]
+[field;in;molecular immunology]
+[immunology; ;molecular]

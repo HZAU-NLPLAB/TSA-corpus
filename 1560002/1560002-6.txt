@@ -1,0 +1,38 @@
+In vitro transcription analysis using protein fractions enriched for the octamer-binding protein OTF-2 demonstrate a positive functional role for OTF-2 in DRA gene transcription.
+[transcription; ;In vitro] 
+
+[analysis; ;transcription] 
+
+[using; ;analysis] 
+
+[using; ;fractions] 
+
+[fractions; ;protein] 
+
+[enriched; ;fractions] 
+
+[enriched;for;protein] 
+
+[protein; ;octamer-binding] 
+
+[protein; ;the] 
+
+[binding;-;octamer] 
+
+[demonstrate; ;analysis] 
+
+[demonstrate; ;role] 
+
+[role; ;a] 
+
+[role; ;functional] 
+
+[role; ;positive] 
+
+[role;for;OTF-2] 
+
+[role;in;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;DRA]

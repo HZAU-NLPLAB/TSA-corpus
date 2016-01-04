@@ -1,0 +1,45 @@
+In order to define the roles of these two factors, which bind to the same kappa B enhancers, in transcription activation we have prepared somatic cell hybrids between IARC 301.]]
+
+
+[ ;In order to;define] 
+
+[define; ;roles] 
+
+[roles; ;the@1] 
+
+[roles;of@1;factors] 
+
+[factors; ;these] 
+
+[factors; ;two] 
+
+[factors; ;which] 
+
+[bind;to;enhancers] 
+
+[enhancers; ;kappa B] 
+
+[enhancers; ;same] 
+
+[enhancers; ;the@2] 
+
+[prepared; ;we] 
+
+[prepared; ;have] 
+
+[prepared; ;hybrids] 
+
+[hybrids; ;cell] 
+
+[hybrids; ;somatic] 
+
+[prepared;in;activation] 
+
+[activation; ;transcription] 
+
+[between...and; ;IARC 301.5] 
+
+[between...and; ;murine myeloma] 
+
+[murine myeloma; ;a] 
+

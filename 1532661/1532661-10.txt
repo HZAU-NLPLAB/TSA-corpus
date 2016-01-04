@@ -1,0 +1,12 @@
+We conclude that a different set of proteins recognize IL-2 and IL-4 genes.
+[conclude; ;We ]
+[conclude; ;that ]
+[that; ;a different set of proteins recognize IL-2 and IL-4 genes ]
+[proteins; ;different ]
+[proteins; ;a ]
+[proteins; ;set ]
+[recognize; ;proteins ]
+[recognize; ;IL-2 ]
+[and; ;IL-2 ]
+[and; ;IL-4 ]
+[genes; ;IL-4 ]

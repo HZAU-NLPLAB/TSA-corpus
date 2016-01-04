@@ -1,0 +1,16 @@
+Cells with no transfection and transfected with empty vector pFLAG-CMV-2 were used as negative control in all transfection experiments.
+[Cells;with;transfection]
+[transfection; ;no]
+[and; ;transfected ]
+[and; ;Cells with no transfection]
+[pFLAG-CMV-2; ;empty]
+[pFLAG-CMV-2; ;vector]
+[transfected;with;pFLAG-CMV-2]
+[used; ;pFLAG-CMV-2]
+[used; ;were]
+[used;as;control]
+[control; ;negative]
+[used;in;experiments]
+[experiments; ;all]
+[experiments; ;transfection) 
+

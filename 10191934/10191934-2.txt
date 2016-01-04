@@ -1,0 +1,17 @@
+Corticosteroids are most effective in preventing the late phase of allergic reaction.
+[are; ;Corticosteroids] 
+
+[are; ;effective] 
+
+[effective; ;most] 
+
+[effective;in;preventing] 
+
+[preventing; ;phase] 
+
+[phase; ;the] 
+
+[phase; ;late] 
+
+[phase;of;allergic reaction]  
+

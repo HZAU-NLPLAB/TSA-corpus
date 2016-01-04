@@ -1,0 +1,21 @@
+These included both p50/p50 and p50/p65 dimers, recognized by specific antibodies in EMSA.
+[included; ;These] 
+
+[included; ;dimers] 
+
+[dimers; ;p50/p50] 
+
+[dimers; ;p50/p65] 
+
+[and; ;p50/p50] 
+
+[and; ;p50/p65] 
+
+[recognized; ;dimers] 
+
+[recognized;by;specific antibodies] 
+
+[recognized;in;EMSA] 
+
+[antibodies; ;specific] 
+

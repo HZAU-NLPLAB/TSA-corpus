@@ -1,0 +1,10 @@
+Two opposite phenotypes were found, which depended on the intracellular localization of Nef.
+
+[phenotypes; ;opposite]
+[phenotypes; ;Two]
+[found;were;phenotypes]
+[found; ;which]
+[depended; ;which]
+[depended;on;localization]
+[localization; ;intracellular]
+[localization;of;Nef]

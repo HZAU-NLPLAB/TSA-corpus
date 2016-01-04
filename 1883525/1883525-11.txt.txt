@@ -1,0 +1,14 @@
+The results suggest that M-CSF induction of M-CSF involves G proteins, PKC and NF kappa B.
+
+[results; ;The]
+[suggest; ;results]
+[suggest; ;that]
+[that; ;M-CSF induction of M-CSF involves G proteins, PKC and NF kappa B]
+[induction; ;M-CSF@1]
+[induction;of;M-CSF@2]
+[involves; ;M-CSF]
+[involves; ;G proteins]
+[proteins; ;G]
+[and; ;PKC]
+[and; ;NF kappa B]
+[and; ;G proteins]

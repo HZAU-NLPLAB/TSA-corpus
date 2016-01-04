@@ -1,0 +1,17 @@
+Forty-eight hours after transfection, PRO6_ activity was measured with a LB 96 P microlumat (EG&G Berthold, Bad Wildbad, Germany).
+
+[Forty-eight hours;after;transfection]
+
+[hours; ;Forty-eight]
+
+[measured; ;PRO6_ activity]
+
+[activity; ;PRO6_]
+
+[measured; ;was]
+
+[measured;with;LB 96 P microlumat]
+
+[microlumat; ;a]
+
+[LB 96 P microlumat; ;EG&G Berthold, Bad Wildbad, Germany]

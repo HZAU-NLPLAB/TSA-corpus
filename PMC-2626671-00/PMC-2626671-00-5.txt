@@ -1,0 +1,30 @@
+PRO9_ regulates PRO10_ expression as well as expression of three cardinal markers of the effector CTL program: PRO11_, PRO12_, and PRO13_.
+[regulates; ;PRO9_] 
+
+[regulates; ;expression@1] 
+
+[expression@1; ;PRO10_] 
+
+[expression@1;as well as;expression@2] 
+
+[expression@2;of;markers] 
+
+[markers; ;cardinal] 
+
+[markers; ;three] 
+
+[markers;of@2;program] 
+
+[program; ;CTL] 
+
+[program; ;effector] 
+
+[:; ;program] 
+
+[:; ;PRO11_, PRO12_, and PRO13_] 
+
+[and@; ;PRO11_]
+[and; ;PRO12_] 
+
+[and; ;PRO13_] 
+

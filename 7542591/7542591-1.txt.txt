@@ -1,0 +1,9 @@
+Distinct signaling properties identify functionally different CD4 epitopes.
+
+[properties; ;signaling]
+[signaling; ;Distinct]
+[identify; ;properties]
+[identify; ;functionally]
+[identify; ;epitopes]
+[epitopes; ;CD4]
+[CD4; ;different]

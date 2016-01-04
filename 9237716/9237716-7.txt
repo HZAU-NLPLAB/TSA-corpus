@@ -1,0 +1,35 @@
+In HIV-infected patients, such enhancement may further impair host immunity and could accelerate the course of HIV disease.
+[ ;In;patients] 
+
+[patients; ;HIV-infected] 
+
+[infected;-;HIV@1] 
+
+[enhancement; ;such] 
+
+[impair; ;further] 
+
+[impair; ;may] 
+
+[impair; ;enhancement] 
+
+[impair; ;host immunity] 
+
+[immunity; ;host] 
+
+[and; ;impair] 
+
+[and; ;accelerate] 
+
+[accelerate; ;could] 
+
+[accelerate; ;enhancement] 
+
+[accelerate; ;course] 
+
+[course; ;the] 
+
+[course;of;disease] 
+
+[disease; ;HIV@2] 
+

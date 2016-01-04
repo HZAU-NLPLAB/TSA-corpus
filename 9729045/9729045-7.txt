@@ -1,0 +1,29 @@
+Our data suggest that CD30 critically regulates the CD40-mediated differentiation of non-antigen-selected human B cells.
+[data; ;Our] 
+
+[suggest; ;data] 
+
+[suggest; ;that] 
+
+[that; ;CD30 critically regulates the CD40-mediated differentiation of non-antigen-selected human B cells] 
+
+[regulates; ;critically] 
+
+[regulates; ;CD30] 
+
+[regulates; ;differentiation] 
+
+[differentiation; ;the] 
+
+[differentiation; ;CD40-mediated] 
+
+[mediated;-;CD40] 
+
+[differentiation;of;B cells] 
+
+[B cells; ;human] 
+
+[B cells; ;non-antigen-selected] 
+
+[selected;-;non-antigen] 
+

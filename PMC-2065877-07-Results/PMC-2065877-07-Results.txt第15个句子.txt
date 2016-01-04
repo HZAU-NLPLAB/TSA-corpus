@@ -1,0 +1,53 @@
+Immunoblot analysis indicated that total PRO38_ levels were greatly decreased in wild-type and PRO39_ transgenic lymphomas (Figure 6B), suggesting that inhibition of the Forkhead signaling pathway is an important target of PRO40_ in lymphoma development.
+[analysis; ;Immunoblot] 
+
+[indicated; ;analysis] 
+
+[indicated; ;that] 
+
+[that; ;total PRO38_ levels were greatly decreased in wild-type and PRO39_ transgenic lymphomas] 
+
+[levels; ;PRO38_] 
+
+[decreased; ;levels] 
+
+[decreased; ;were] 
+
+[decreased;in;lymphomas] 
+
+[lymphomas; ;wild-type] 
+
+[lymphomas; ;transgenic] 
+
+[lymphomas; ;PRO39_] 
+
+[and; ;wild-type] 
+
+[and; ;transgenic] 
+
+[suggesting; ;that] 
+
+[that; ;inhibition of the Forkhead signaling pathway is an important target of PRO40_ in lymphoma development]  
+
+[inhibition;of;pathway] 
+
+[pathway; ;signaling] 
+
+[pathway; ;Forkhead] 
+
+[pathway; ;the] 
+
+[is; ;pathway] 
+
+[is; ;target] 
+
+[target; ;important] 
+
+[target; ;an] 
+
+[target;of;PRO40_] 
+
+[PRO40_;in;development]  
+
+[development; ;lymphoma] 
+

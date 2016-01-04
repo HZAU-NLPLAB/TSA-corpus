@@ -1,0 +1,33 @@
+GR6 is activated in the UCSD-AML1 cell line and in a leukemic sample, both of which carry a t(3;3)(q21;q26).
+[activated; ;is] 
+
+[activated; ;GR6] 
+
+[activated;in@1;UCSD-AML1 cell line] 
+
+[UCSD-AML1 cell line; ;the] 
+
+[and; ;in the UCSD-AML1 cell line] 
+
+[and; ;in a leukemic sample] 
+
+[activated;in@2;leukemic sample] 
+
+[leukemic sample; ;a@1] 
+
+[cell line; ;UCSD-AML1] 
+
+[sample; ;leukemic] 
+
+[both;of;which] 
+
+[which; ;UCSD-AML1 cell line] 
+
+[which; ;leukemic sample] 
+
+[carry; ;which] 
+
+[carry; ;t(3;3)(q21;q26)] 
+
+[t(3;3)(q21;q26);  ;a@2] 
+

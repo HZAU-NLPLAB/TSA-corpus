@@ -1,0 +1,46 @@
+
+Reactive oxygen species are involved in signal transduction pathways leading to nuclear factor kappa B (NF-kappa B) activation which has been implicated in the regulation of gene transcription.
+
+
+[species; ;oxygen] 
+
+[species; ;Reactive] 
+
+[involved; ;species] 
+
+[involved; ;are] 
+
+[involved;in@1;pathways] 
+
+[pathways; ;transduction] 
+
+[pathways; ;signal] 
+
+[leading; ;pathways] 
+
+[leading;to;activation] 
+
+[activation; ;nuclear factor kappa B] 
+
+[nuclear factor kappa B; ;NF-kappa B] 
+
+[kappa B; ;factor] 
+
+[factor; ;nuclear] 
+
+[activation; ;which] 
+
+[implicated; ;which] 
+
+[implicated; ;has] 
+
+[implicated; ;been] 
+
+[implicated;in@2;regulation] 
+
+[regulation; ;the] 
+
+[regulation;of;transcription] 
+
+[transcription; ;gene] 
+

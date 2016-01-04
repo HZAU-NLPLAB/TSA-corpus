@@ -1,0 +1,8 @@
+Statistical comparisons were performed using analysis of variance testing (Minitab software, State Park, PA or SPSS16 software, SPSS Inc.
+[comparisons; ;Statistical]
+[performed; ;comparisons]
+[performed; ;using analysis of variance testing]
+[using; ;analysis]
+[analysis;of;testing]
+[testing; ;variance) 
+

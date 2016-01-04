@@ -1,0 +1,40 @@
+latelet-activating factor induces phospholipid turnover, calcium flux, arachidonic acid liberation, eicosanoid generation, and oncogene expression in a human B cell line.
+[induces; ;latelet-activating factor] 
+
+[factor; ;Platelet-activating] 
+
+[activating;-;Platelet] 
+
+[induces; ;turnover] 
+
+[turnover; ;phospholipid] 
+
+[induces; ;flux] 
+
+[flux; ;calcium] 
+
+[induces; ;liberation] 
+
+[liberation; ;arachidonic acid] 
+
+[induces; ;eicosanoid generation] 
+
+[generation; ;eicosanoid] 
+[induces; ;expression] 
+[expression; ;oncogene] 
+[and; ;turnover] 
+
+[and; ;flux] 
+
+[and; ;liberation] 
+
+[and; ;eicosanoid generation] 
+
+[and; ;expression] 
+
+[factor;in;human B cell line] 
+
+[human B cell line; ;a] 
+
+[B cell line; ;human] 
+

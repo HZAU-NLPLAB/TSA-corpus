@@ -1,0 +1,81 @@
+
+The results are the mean +/- SEM of triplicate samples averaged from multiple mice where "n" the number of mice analyzed is as follows: n = 2 for WT lymphocytes and WT lymphomas, n = 11 for PRO4_ transgenic lymphocytes, and n = 13 for PRO5_ transgenic lymphomas.
+[results; ;The 
+
+[are; ;results 
+
+[are; ;the mean +/- SEM of triplicate samples averaged from multiple mice where "n" the number of mice analyzed is as follows: n = 2 for WT lymphocytes and WT lymphomas, n = 11 for PRO4_ (transgenic lymphocytes, and n = 13 for PRO5_ transgenic lymphomas  mean; ;the@2] 
+
+[mean; ;+/- SEM] 
+
+[/; ;+] 
+
+[/; ;-] 
+
+[mean;of;samples] 
+
+[samples; ;triplicate] 
+
+[samples; ;averaged] 
+
+[averaged;from;mice] 
+
+[mice; ;multiple] 
+
+[mice; ;where] 
+
+[where; ;"n"] 
+
+["n"; ;number] 
+
+[number; ;the@3] 
+
+[number;of@2;mice] 
+
+[mice; ;analyzed] 
+
+[is;as;follows] 
+
+[:; ;follows] 
+
+[:; ;n = 2 for WT lymphocytes and WT lymphomas, n = 11 for PRO4_ transgenic lymphocytes, and n = 13 for PRO5_ transgenic lymphomas]  
+[ ;for;lymphocytes and  lymphomas] 
+
+[and@1; ;lymphocytes] 
+
+[and@1; ;lymphomas] 
+
+[lymphocytes; ;WT] 
+
+[lymphomas; ;WT] 
+
+[=; ;n] 
+
+[=; ;2] 
+
+[n = 11;for;lymphocytes] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO4_] 
+
+[=; ;n] 
+
+[=; ;11] 
+
+[and@2; ;n = 2] 
+
+[and@2; ;n = 11] 
+
+[and@2; ;n = 13] 
+
+[n = 13;for;lymphomas]   
+
+[lymphomas; ;transgenic] 
+
+[lymphomas; ;PRO5_] 
+
+[=; ;n] 
+
+[=; ;13] 
+

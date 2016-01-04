@@ -1,0 +1,12 @@
+Understanding how viral latency is disrupted is a central issue in herpesvirus biology.
+
+[Understanding; ;how]
+[how; ;viral latency is@1 disrupted is@2 a central issue in herpesvirus biology]
+[latency; ;viral]
+[disrupted;is@1;latency]
+[is@2; ;issue]
+[is@2; ;viral latency is@1 disrupted]
+[issue; ;a]
+[issue; ;central]
+[issue;in;biology]
+[biology; ;herpesvirus]

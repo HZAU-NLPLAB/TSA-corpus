@@ -1,0 +1,15 @@
+Eosinophils express mRNA for GATA-1, GATA-2, and GATA-3.
+
+
+[express; ;Eosinophils] 
+
+[express; ;mRNA] 
+
+[mRNA;for;GATA-1, GATA-2, and GATA-3] 
+
+[and; ;GATA-1] 
+
+[and; ;GATA-2] 
+
+[and; ;GATA-3]  
+

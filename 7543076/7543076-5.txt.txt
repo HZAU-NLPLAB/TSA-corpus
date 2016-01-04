@@ -1,0 +1,14 @@
+Delayed administration of rBPI21 also affected LPS-mediated activation of the nuclear factor, NF-kappa B.
+
+[administration; ;Delayed]
+[administration;of@1;rBPI21]
+[affected; ;also]
+[affected; ;rBPI21]
+[affected; ;activation]
+[activation; ;LPS-mediated]
+[mediated;-;LPS]
+[activation;of@2;factor]
+[factor; ;nuclear]
+[factor; ;NF-kappa B]
+[factor; ;the]
+[kappa B;-;NF]

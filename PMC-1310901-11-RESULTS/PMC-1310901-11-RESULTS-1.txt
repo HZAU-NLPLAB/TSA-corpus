@@ -1,0 +1,10 @@
+Methylation-sensitive enzymes do not cut specific sites in the PRO1_ promoter in hematopoietic cells.
+[enzymes; ;Methylation-sensitive]
+[do; ;not]
+[cut; ;do]
+[cut; ;sites]
+[sites; ;specific]
+[ ; in@1; PRO1_ promoter]
+[PRO1_ promoter; ;the]
+[ ; in@2; cells]
+[cells; ;hematopoietic]

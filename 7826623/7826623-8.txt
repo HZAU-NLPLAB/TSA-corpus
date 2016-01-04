@@ -1,0 +1,11 @@
+The transcription factor AP-1 could bind to this positive activator region of the promoter. 
+[AP-1; ;The]
+[AP-1; ;transcription factor]
+[bind; ;AP-1]
+[bind; ;could]
+[bind;to;region]
+[region; ;this]
+[region; ;positive]
+[region; ;activator]
+[region;of;promoter]
+[promoter; ;the]

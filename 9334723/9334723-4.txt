@@ -1,0 +1,35 @@
+However, we have also found that Vpr modulates T-cell receptor (TCR)-triggered apoptosis in a manner similar to that of glucocorticoids.
+[we have also found that Vpr modulates T-cell receptor (TCR)-triggered apoptosis in a manner similar to that of glucocorticoids; ;However] 
+
+[found; ;also] 
+
+[found; ;have] 
+
+[found; ;we] 
+
+[found; ;that@1] 
+
+[that@1; ;Vpr modulates T-cell receptor (TCR)-triggered apoptosis in a manner similar to that of glucocorticoids] 
+
+[modulates; ;Vpr] 
+
+[modulates; ;apoptosis] 
+
+[apoptosis; ;T-cell receptor (TCR)-triggered] 
+
+[triggered;-;T-cell receptor] 
+
+[T-cell receptor; ;TCR] 
+
+[receptor; ;T-cell] 
+
+[modulates;in;manner] 
+
+[manner; ;a] 
+
+[manner; ;similar] 
+
+[similar;to;that@2] 
+
+[that@2;of;glucocorticoids] 
+

@@ -1,0 +1,19 @@
+RANTES is expressed late (3-5 days) after activation in T lymphocytes.
+[expressed; ;RANTES] 
+
+[expressed; ;is] 
+
+[expressed; ;late] 
+
+[late; ;3-5 days] 
+
+[-; ;3] 
+
+[-; ;5] 
+
+[days; ;3-5] 
+
+[expressed;after;activation] 
+
+[expressed;in;T lymphocytes] 
+

@@ -1,0 +1,27 @@
+Therefore we investigated CTCF expression and phosphorylation during induced differentiation of human myeloid leukemia cells.
+[Therefore; ;we investigated CTCF expression and phosphorylation during induced differentiation of human myeloid leukemia cells
+]
+[investigated; ;we] 
+
+[investigated; ;CTCF expression]
+
+[expression; ;CTCF] 
+
+[and; ;expression] 
+
+[and; ;phosphorylation] 
+
+[phosphorylation; ;CTCF] 
+
+[investigated;during;differentiation] 
+
+[differentiation; ;induced] 
+
+[differentiation;of;human myeloid leukemia cells] 
+
+[cells; ;human] 
+
+[cells; ;myeloid] 
+
+[cells; ;leukemia] 
+

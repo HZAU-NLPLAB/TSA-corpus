@@ -1,0 +1,9 @@
+We eliminate both Stat5 and Raf/MEK pathways from E2F regulation. 
+[eliminate; ;We]
+[eliminate; ;pathway]
+[both...and; ;Stat5]
+[both...and; ;Raf/MEK]
+[pathway; ;Stat5]
+[pathway; ;Raf/MEK]
+[eliminate;from;regulation]
+[regulation; ;E2F]

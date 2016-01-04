@@ -1,0 +1,63 @@
+We show that effector CTL differentiation occurs in two sequential phases in vitro, characterized by early induction of PRO4_ and late induction of PRO5_ (PRO6_),   T-box transcription factors that regulate the early and late phases of PRO7_ expression, respectively.
+[show; ;We] 
+
+[show; ;that] 
+
+[that; ;effector CTL differentiation occurs in two sequential phases in vitro, characterized by early induction of PRO4_ and late induction of PRO5_ (PRO6_),   T-box transcription factors that regulate the early and late phases of PRO7_ expression, respectively] 
+
+[differentiation; ;CTL] 
+
+[differentiation; ;effector] 
+
+[occurs; ;differentiation] 
+
+[occurs;in;phases] 
+
+[phases; ;sequential] 
+
+[phases; ;two] 
+
+[phases;in;vitro] 
+
+[characterized;by;induction] 
+
+[induction; ;early] 
+
+[induction;of;PRO4_] 
+
+[and@1; ;PRO4_] 
+
+[and@1; ;induction] 
+
+[induction; ;late] 
+
+[induction;of;PRO5_] 
+
+[PRO5_; ;PRO6_]
+
+[factors; ;transcription] 
+
+[transcription; ;T-box] 
+
+[factors; ;that] 
+
+[that; ;regulate the early and late phases of PRO7_ expression, respectively] 
+
+[regulate; ;phases] 
+
+[phases; ;early] 
+
+[phases; ;late] 
+
+[and@2; ;early] 
+
+[and@2; ;late] 
+
+[phases; ;the@1] 
+
+[phases;of;expression] 
+
+[expression; ;PRO7_] 
+
+[regulate; ;respectively]  
+

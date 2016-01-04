@@ -1,0 +1,12 @@
+Colorimetric reactions were read using a VersaMax microplate reader (Molecular Devices) at an absorbance of 655 nm.
+[reactions; ;Colorimetric]
+[read; ;reactions]
+[read; ;were]
+[read;using;reader]
+[reader; ;a]
+[reader; ;VersaMax]
+[reader; ;microplate]
+[reader; ;Molecular Devices]
+[read;at;absorbance]
+[absorbance; ;an]
+[absorbance;of;655 nm]

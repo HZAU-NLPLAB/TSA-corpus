@@ -1,0 +1,9 @@
+This element has no activity in T cells of the Jurkat line. 
+[element; ;This]
+[has; ;element]
+[has; ;activity]
+[activity; ;no]
+[ ;in;T cells]
+[T cells;of;Jurkat line]
+[Jurkat line; ;the]
+[line; ;Jurkat]

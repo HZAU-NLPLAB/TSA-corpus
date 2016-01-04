@@ -1,0 +1,31 @@
+A trapoxin affinity matrix was used to isolate two nuclear proteins that copurified with histone deacetylase activity.
+
+
+[matrix; ;affinity] 
+
+[matrix; ;trapoxin] 
+
+[matrix; ;A] 
+
+[used; ; matrix] 
+
+[used; ;was] 
+
+[used;to;isolate] 
+
+[isolate; ;proteins] 
+
+[proteins; ;two] 
+
+[proteins; ;nuclear] 
+
+[proteins; ;that] 
+
+[copurified; ;that] 
+
+[copurified;with;activity] 
+
+[activity; ;deacetylase] 
+
+[activity; ;histone] 
+

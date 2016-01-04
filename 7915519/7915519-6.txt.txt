@@ -1,0 +1,28 @@
+The gp160-mediated activation of NF-kappa B in CD4 positive T cells may be involved in biological effects, e.g., enhanced HIV replication, hypergammaglobulinemia, increased cytokine secretion, hypercellularity in bone marrow and apoptosis.
+
+[activation; ;The]
+[activation; ;gp160-mediated]
+[mediated;-;gp160]
+[activation;of;NF-kappa B]
+[kappa;-;NF]
+[activation;in;T cells]
+[T cells; ;positive]
+[positive; ;CD4]
+[involved;be;may]
+[involved;in;effects]
+[effects; ;biological]
+[effects; ;e.g]
+[enhanced; ;effects]
+[enhanced; ;replication]
+[replication; ;HIV]
+[enhanced; ;hypergammaglobulinemia]
+[increased; ;secretion]
+[secretion; ;cytokine]
+[increased; ;hypergammaglobulinemia]
+[increased; ;replication]
+[hypercellularity;in;marrow]
+[marrow; ;bone]
+[and; ;marrow]
+[and; ;apoptosis]
+
+

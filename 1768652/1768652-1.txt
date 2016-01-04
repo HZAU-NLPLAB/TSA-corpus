@@ -1,0 +1,27 @@
+appa B-specific DNA binding proteins are differentially inhibited by enhancer mutations and biological oxidation.
+
+
+[DNA; ;Kappa B-specific] 
+
+[Kappa B;-;specific] 
+
+[proteins; ;DNA binding] 
+
+[binding; ;DNA] 
+
+[inhibited; ;proteins] 
+
+[inhibited;are; ]
+
+[inhibited; ;differentially] 
+
+[inhibited;by;mutations] 
+
+[mutations; ;enhancer] 
+
+[and; ;mutations] 
+
+[and; ;oxidation] 
+
+[oxidation; ;biological] 
+

@@ -1,0 +1,39 @@
+This gene, originally named AML1, is a human homologue of the Drosophila gene runt that controls early events in fly embryogenesis.
+
+
+[gene; ;This] 
+
+[named; ;originally] 
+
+[named; ;gene] 
+
+[named; ;AML1] 
+
+[is; ;gene] 
+
+[is; ;homologue] 
+
+[homologue; ;human] 
+
+[homologue; ;a] 
+
+[homologue;of;runt] 
+
+[runt; ;gene] 
+
+[runt; ;Drosophila] 
+
+[runt; ;the] 
+
+[runt; ;that] 
+
+[controls; ;that] 
+
+[controls; ;events] 
+
+[events; ;early] 
+
+[events;in;embryogenesis] 
+
+[embryogenesis; ;fly] 
+

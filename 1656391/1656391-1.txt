@@ -1,0 +1,12 @@
+An erythroid specific enhancer upstream to the@1 gene encoding the@2 cell-type specific transcription factor GATA-1.
+[enhancer; ;An]
+[enhancer; ;erythroid]
+[enhancer; ;specific]
+[enhancer;upstream to;gene]
+[gene; ;the@1]
+[gene;encoding;transcription factor GATA-1]
+[transcription factor GATA-1; ;the@2]
+[transcription factor GATA-1; ;cell-type]
+[transcription factor GATA-1; ;specific]
+[factor; ;transcription]
+[transcription factor; ;GATA-1]

@@ -1,0 +1,42 @@
+The most likely interpretation of our results is that both the ubiquitous transcription factor, OTF-1, and the B-cell-specific transcription factor, OTF-2, can activate U2 snRNA transcription.
+
+
+[interpretation; ;The] 
+
+[likely; ;most] 
+
+[interpretation; ;likely] 
+
+[interpretation;of;results] 
+
+[results; ;our] 
+
+[is; ;interpretation] 
+
+[is; ;that] 
+
+[that; ;both the ubiquitous transcription factor, OTF-1, and the B-cell-specific transcription factor, OTF-2, can activate U2 snRNA transcription] 
+
+[both...and; ;OTF-1] 
+
+[both...and; ;OTF-2] 
+
+[transcription factor@1; ;the@1] 
+
+[transcription factor@1; ;ubiquitous] 
+
+[transcription factor@1; ;OTF-1] 
+
+[transcription factor@2; ;the@2] 
+
+[transcription factor@2; ;B-cell-specific] 
+
+[B-cell;-;specific] 
+
+[transcription factor@2; ;OTF-2] 
+
+[activate; ;can] 
+
+[activate; ;transcription] 
+
+[transcription; ;U2 snRNA]

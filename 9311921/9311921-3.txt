@@ -1,0 +1,32 @@
+The CAML (calcium-modulator and cyclophilin ligand) protein is a coinducer of NF-AT activation when overexpressed in Jurkat T cells.
+
+
+[CAML; ;The] 
+
+[CAML; ;calcium-modulator and cyclophilin ligand] 
+
+[and; ;calcium-modulator] 
+
+[and; ;cyclophilin ligand] 
+
+[ligand; ;cyclophilin]
+
+[protein; ;CAML] 
+
+[protein; ;The] 
+
+[is; ;protein] 
+
+[is; ;coinducer] 
+
+[coinducer; ;a] 
+
+[coinducer;of;activation] 
+
+[activation; ;NF-AT] 
+
+[The CAML (calcium-modulator and cyclophilin ligand) protein is a coinducer of NF-AT activation;when;overexpressed in Jurkat T cells] 
+
+[overexpressed;in;T cells] 
+
+[T cells; ;Jurkat]

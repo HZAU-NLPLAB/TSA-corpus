@@ -1,0 +1,19 @@
+
+In human Jurkat T cells and its subclone Wurzburg cells oxidant challenge elevated [Ca2+]i by mobilizing Ca2+ from intracellular stores.
+
+[;In;T cells]
+[T cells; ;Jurkat]
+[Jurkat; ;human]
+[and; ;T cells]
+[and; ;its]
+[its; ;oxidant]
+[oxidant; ;cells]
+[cells; ;Wurzburg]
+[Wurzburg; ;subclone]
+[challenge; ;oxidant]
+[challenge; ;[Ca2+]i]
+[[Ca2+]i; ;elevated]
+[[Ca2+]i;by;mobilizing]
+[mobilizing; ;Ca2+]
+[mobilizing;from;stroes]
+[stroes; ;intracellular]

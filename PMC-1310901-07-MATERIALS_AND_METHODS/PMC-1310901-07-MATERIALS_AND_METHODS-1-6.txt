@@ -1,0 +1,12 @@
+Fresh solutions of 30 microl of 10 mM hydrochinon (Sigma) and 530 microl of 3 M sodium bisulfite (pH 5.
+[solutions ; Fresh]
+[solutions ;of@1;30 microl]
+[ ;of@2;hydrochinon]
+[hydrochinon; ;10 mM]
+[hydrochinon; ;Sigma]
+[and; ;hydrochinon]
+[and; ;sodium bisulfite]
+[sodium bisulfite; ;pH 5 Sigma]
+[sodium bisulfite; ;3 M]
+[sodium; ;530 microl]
+[ ;of@2;sodium bisulfite]

@@ -1,0 +1,12 @@
+[B) JNK-I revealed a stronger inhibitory effect on PRO2_ expression than the PKC-I. 
+[JNK-I; ;[B]]
+[revealed; ;JNK-I]
+[revealed; ;effect]
+[effect; ;a]
+[effect; ;inhibitory]
+[effect; ;stronger]
+[effect;on;expression]
+[expression; ;PRO2_]
+[effect;on;PKC-I]
+[PKC-I; ;the]
+[expression;than;PKC-I]

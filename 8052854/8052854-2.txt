@@ -1,0 +1,34 @@
+The anti-inflammatory drugs sodium salicylate and aspirin inhibited the activation of NF-kappa B, which further explains the mechanism of action of these drugs.
+
+
+[drugs; ;The] 
+
+[drugs; ;anti-inflammatory] 
+
+[drugs; ;sodium salicylate and aspirin]
+
+[and; ;sodium salicylate] 
+
+[and; ;aspirin] 
+
+[inhibited; ;drugs] 
+
+[inhibited; ;activation] 
+
+[activation; ;the@1] 
+
+[activation;of@1;NF-kappa B] 
+
+[explains; ;which] 
+
+[explains; ;further] 
+
+[explains; ;mechanism] 
+
+[mechanism; ;the@2] 
+
+[mechanism;of@2;action] 
+
+[action;of;drugs@2] 
+
+[drugs@2; ;these]

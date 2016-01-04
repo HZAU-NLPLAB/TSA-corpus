@@ -1,0 +1,11 @@
+This protein is immunologically distinct from IRF-1/ISGF2.
+[protein; ;This] 
+
+[is; ;protein] 
+
+[is; ;distinct] 
+
+[distinct; ;immunologically] 
+
+[distinct;from;IRF-1/ISGF2] 
+

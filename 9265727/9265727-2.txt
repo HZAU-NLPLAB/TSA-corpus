@@ -1,0 +1,42 @@
+
+A large amount of detailed information about the intracellular proteins regulating NF-kappa B activation and the cellular response to NF-kappa B activation has emerged recently.
+[information; ;A large amount of] 
+
+[amount; ;large] 
+
+[amount; ;A] 
+
+[information; ;detailed] 
+
+[information;about;intracellular proteins] 
+
+[intracellular proteins; ;the@1] 
+
+[proteins; ;intracellular] 
+
+[regulating; ;intracellular proteins] 
+
+[regulating; ;activation@1] 
+
+[activation@1; ;NF-kappa@1]  
+
+[information;about;cellular] 
+
+[cellular; ;the@2] 
+
+[and; ;intracellular proteins] 
+
+[and; ;cellular] 
+
+[response; ;cellular] 
+
+[response;to;activation@2] 
+
+[activation@2; ;NF-kappa B@2] 
+
+[emerged; ;has] 
+
+[emerged; ;information] 
+
+[emerged; ;recently] 
+

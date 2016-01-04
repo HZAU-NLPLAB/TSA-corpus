@@ -1,0 +1,61 @@
+During myelopoiesis, which includes the development of granulocytic and monocytic lineages, transcription factors from several families are active, including AML1/CBF beta, C/EBP, Ets, c-Myb, HOX, and MZF-1.
+[ ;During;myelopoiesis] 
+
+[myelopoiesis; ;which] 
+
+[includes; ;which] 
+
+[includes; ;development] 
+
+[development; ;the] 
+
+[development;of;granulocytic and monocytic lineages] 
+
+[and@1; ;granulocytic] 
+
+[and@1; ;monocytic] 
+
+[lineages; ;granulocytic] 
+
+[lineages; ;monocytic] 
+
+[transcription factors;from;families] 
+
+[families; ;several] 
+
+[are; ;transcription factors] 
+
+[are; ;active] 
+
+[factors; ;transcription] 
+
+[including; ;transcription factors] 
+
+[including; ;AML1/CBF] 
+
+[including; ;beta] 
+
+[including; ;C/EBP] 
+
+[including; ;Ets] 
+
+[including; ;c-Myb] 
+
+[including; ;HOX] 
+
+[including; ;MZF-1] 
+
+[and@2; ;AML1/CBF] 
+
+[and@2; ;beta] 
+
+[and@2; ;C/EBP] 
+
+[and@2; ;Ets] 
+
+[and@2; ;c-Myb] 
+
+[and@2; ;HOX] 
+
+[and@2; ;MZF-1] 
+

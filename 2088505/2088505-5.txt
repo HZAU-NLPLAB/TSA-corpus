@@ -1,0 +1,10 @@
+However, like NF kappa B, TCF-1 activity is induced by phorbol esters and other T-cell activators. 
+[like; ;NF kappa B]
+[activity; ;TCF-1]
+[induced; ;activity]
+[induced; ;is]
+[induced;by;phorbol esters]
+[and; ;phorbol esters]
+[and; ;T-cell activators]
+[T-cell activators; ;other]
+[activators; ;T-cell]

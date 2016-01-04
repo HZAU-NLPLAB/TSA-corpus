@@ -1,0 +1,26 @@
+The molecule bound CD40 with a high affinity (2.2 nM) and was a monomer in solution.
+
+
+[molecule; ;The] 
+
+[bound; ;molecule] 
+
+[bound; ;CD40]
+
+[bound;with;affinity] 
+
+[affinity; ;a@1] 
+
+[affinity; ;high] 
+
+[affinity; ;2.2 nM] 
+
+[and; ; ;]
+
+[and; ;was] 
+
+[was; ;monomer] 
+
+[monomer; ;a@2] 
+
+[monomer;in;solution]  

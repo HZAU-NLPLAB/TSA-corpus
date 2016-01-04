@@ -1,0 +1,43 @@
+As the predicted protein is very similar to the yeast transcriptional regulator Rpd3p, these results support a role for histone deacetylase as a key regulator of eukaryotic transcription.
+
+
+[ ;As;protein]
+[protein; ;predicted] 
+
+[protein; ;the@1] 
+
+[is similar to; ;protein] 
+
+[is similar to; ;regulator] 
+
+[is  similar to; ;very] 
+
+[regulator; ;transcriptional] 
+
+[regulator; ;yeast] 
+
+[regulator; ;the@2] 
+
+[regulator; ;Rpd3p] 
+
+[results; ;these] 
+
+[support; ;results] 
+
+[support; ;role] 
+
+[role; ;a@1] 
+
+[role;for;deacetylase] 
+
+[deacetylase; ;histone] 
+
+[deacetylase;as;regulator] 
+
+[regulator; ;key] 
+
+[regulator; ;a@2] 
+
+[regulator;of;transcription]  
+
+[transcription;  ;eukaryotic]

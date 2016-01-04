@@ -1,0 +1,21 @@
+Here, we have analyzed the mechanisms involved in CTLA-4-mediated inhibition of T cell activation of naive CD4+ T cells using Ab cross-linking.
+[analyzed; ;Here] 
+
+[analyzed; ;we] 
+
+[analyzed; ;have] 
+
+[analyzed; ;mechanisms] 
+
+[mechanisms; ;the] 
+
+[involved; ;mechanisms] 
+
+involved;in;CTLA-4-mediated inhibition] 
+
+[CTLA-4-mediated inhibition;of@1;T cell activation] 
+
+[T cell activation;of@2;naive CD4+ T cells] 
+
+[naive CD4+ T cells;using;Ab cross-linking] 
+

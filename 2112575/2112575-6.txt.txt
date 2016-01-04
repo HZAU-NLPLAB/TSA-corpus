@@ -1,0 +1,20 @@
+Secondarily, heat shock of Hyon cells stabilized the c-myc mRNA level by increasing its half-life from 24 to 45 min.
+
+[shock; ;heat]
+[shock;of;cells]
+[cells; ;Hyon]
+[stabilized; ;cells]
+[stabilized; ;level]
+[level; ;mRNA]
+[mRNA; ;c-myc]
+[level; ;the]
+[level;by;increasing]
+[increasing; ;half-life]
+[life;-;half]
+[its; ;level]
+[increasing;from;]
+[from...to; ;24]
+[from...to; ;45]
+[min; ;24]
+[min; ;45]
+

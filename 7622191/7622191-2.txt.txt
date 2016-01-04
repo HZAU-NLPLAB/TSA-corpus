@@ -1,0 +1,23 @@
+
+Thapsigargin (TG), an inhibitor of Ca(2+)-ATPase, depletes intracellular Ca2+ stores and induces a sustained Ca2+ influx without altering phosphatidyl inositol levels.
+
+[
+Thapsigargin; ;TG]
+[inhibitor; ;
+Thapsigargin]
+[inhibitor; ;an]
+[inhibitor;of;Ca(2+)-ATPase]
+[ATPase;-;Ca(2+)]
+[depletes; ;Ca(2+)-ATPase]
+[depletes; ;stores]
+[stores; ;Ca2+@1]
+[Ca2+@1; ;intracellular]
+[and; ;depletes]
+[and; ;induces]
+[induces; ;influx]
+[influx; ;Ca2+@2]
+[Ca2+@2; ;sustained]
+[influx;without;levels]
+[levels; ;inositol]
+[inositol; ;phosphatidyl]
+[phosphatidyl; ;altering]

@@ -1,0 +1,34 @@
+
+The regulation of gene expression during lymphocyte differentiation is a complex process involving interactions between multiple positive and negative transcriptional regulatory elements.
+[regulation; ;The] 
+
+[regulation;of;gene expression] 
+
+[expression; ;gene] 
+
+[regulation;during;lymphocyte differentiation] 
+
+[differentiation; ;lymphocyte] 
+
+[is; ;regulation] 
+
+[is; ;process] 
+
+[process; ;a] 
+
+[process; ;complex] 
+
+[is;involving;interactions] 
+
+[between¡­and¡­; ;multiple positive] 
+
+[between¡­and¡­; ;negative transcriptional regulatory elements] 
+
+[positive; ;multiple] 
+
+[elements; ;negative] 
+
+[elements; ;transcriptional] 
+
+[elements; ;regulatory] 
+

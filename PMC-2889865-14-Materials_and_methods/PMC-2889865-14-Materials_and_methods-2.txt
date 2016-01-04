@@ -1,0 +1,13 @@
+At sampling the cells were pelleted followed by RNA extraction using 100 mul TRI-reagent (Sigma, USA).
+[cells;At;sampling]
+[cells;;the]
+[pelleted; ;were]
+[pelleted; ;cells]
+[followed; ;pelleted]
+[followed;by;extraction]
+[extraction; ;RNA]
+[extraction; ;using]
+[using; ;100 mul TRI-reagent]
+[TRI-reagent; ;100 mul]
+[reagent;-;TRI]
+[mul; ;100]

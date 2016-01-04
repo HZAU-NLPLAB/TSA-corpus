@@ -1,0 +1,13 @@
+This may have implications for pathophysiological conditions that involve the upregulation of these molecules (e.g. inflammation and atherosclerosis).
+
+[have; ;This]
+[have; ;may]
+[have; ;implications]
+[implications;for;conditions]
+[conditions; ;pathophysiological]
+[conditions; ;that]
+[that; ;involve the upregulation of these molecules]
+[involve; ;upregulation]
+[involve; ;conditions]
+[upregulation;of;molecules]
+[molecules; ;these]

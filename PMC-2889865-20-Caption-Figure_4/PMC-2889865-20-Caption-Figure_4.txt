@@ -1,0 +1,4 @@
+Inhibition of NF-kappaB activity by NAI. 
+[Inhibition;of;activity]
+[activity; ;NF-kappaB]
+[Inhibition;by;NAI]

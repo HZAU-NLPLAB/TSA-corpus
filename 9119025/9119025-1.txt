@@ -1,0 +1,23 @@
+ell-to-cell contact activates the long terminal repeat of human immunodeficiency virus 1 through its kappaB motif.
+
+
+[contact; ;Cell-to-cell] 
+
+[activates; ;contact] 
+
+[activates; ;long terminal repeat] 
+
+[long terminal repeat; ;the] 
+
+[repeat; ;terminal] 
+
+[repeat; ;long] 
+
+[repeat;of;human immunodeficiency virus 1]
+
+[human immunodeficiency virus 1;through;motif]  
+
+[motif; ;kappaB 
+
+[motif ; ;its] 
+

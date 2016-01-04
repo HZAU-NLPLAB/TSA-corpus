@@ -1,0 +1,26 @@
+
+Class II major histocompatibility (class II) genes are regulated in a B-cell-specific and gamma interferon-inducible fashion.
+[Class II major histocompatibility; ;class II] 
+
+[genes; ;Class II] 
+
+[histocompatibility; ;major] 
+
+[genes; ;histocompatibility] 
+
+[genes; ;class II] 
+
+[regulated; ;Class II major histocompatibility (class II) genes] 
+
+[regulated; ;are] 
+
+[regulated;in;B-cell-specific and gamma interferon-inducible fashion] 
+
+[B-cell-specific and gamma interferon-inducible fashion; ;a] 
+
+[and; ;B-cell-specific] 
+
+[and; ;gamma interferon-inducible] 
+
+[fashion; ;B-cell-specific and gamma interferon-inducible] 
+

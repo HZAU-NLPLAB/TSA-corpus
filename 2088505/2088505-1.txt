@@ -1,0 +1,11 @@
+A novel T-cell trans-activator that recognizes a phorbol ester-inducible element of the interleukin-2 promoter.
+[T-cell trans-activator; ;A]
+[T-cell trans-activator; ;novel]
+[trans-activator; ;T-cell]
+[T-cell trans-activator; ;that]
+[recognizes; ;that]
+[recognizes; ;phorbol ester-inducible element]
+[phorbol ester-inducible element; ;a]
+[phorbol ester-inducible element;of;interleukin-2 promoter]
+[interleukin-2 promoter; ;the]
+[promoter; ;interleukin-2]

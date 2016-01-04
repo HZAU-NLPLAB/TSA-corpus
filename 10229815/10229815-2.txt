@@ -1,0 +1,18 @@
+
+CTLA-4 engagement by mAbs inhibits, while CD28 enhances, IL-2 production and proliferation upon T cell activation.
+[engagement; ;CTLA-4] 
+
+[CTLA-4 engagement;by;mAbs] 
+
+[inhibits; ;CTLA-4 engagement] 
+
+[inhibits; ;IL-2 production] 
+
+[and; ;IL-2 production] 
+
+[and; ;proliferation] 
+
+[proliferation;upon;T cell activation] 
+
+[CTLA-4 engagement by mAbs inhibits;while;CD28 enhances] 
+

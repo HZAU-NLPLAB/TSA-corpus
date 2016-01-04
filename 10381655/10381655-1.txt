@@ -1,0 +1,21 @@
+NF-kappaB functions as both a proapoptotic and antiapoptotic regulatory factor within a single cell type.
+[functions; ;NF-kappaB] 
+
+[NF-kappaB functions;as;regulatory factor] 
+
+[factor; ;a] 
+
+[factor; ;proapoptotic and antiapoptotic] 
+
+[and; ;proapoptotic] 
+
+[and; ;antiapoptotic] 
+
+[factor; ;regulatory] 
+
+[NF-kappaB functions;within;cell type] 
+
+[cell type; ;a] 
+
+[cell type; ;single] 
+

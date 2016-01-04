@@ -1,0 +1,46 @@
+The PRO15_ target PRO16_ (PRO17_) is inactivated by phosphorylation; however, increased phosphorylated PRO18_ was not detected in the transgenic lymphocytes and was almost absent in the lymphoma samples (Figure 6A).
+[PRO15_; ;target] 
+
+[PRO15_; ;The]
+
+[target; ;PRO16_ (PRO17_)] 
+
+[PRO16_; ;PRO17_] 
+
+[inactivated; ;PRO16_] 
+
+[inactivated; ;is] 
+
+[inactivated;by;phosphorylation] 
+
+[however,; ;increased phosphorylated PRO18_ was not detected in the transgenic lymphocytes and was almost absent in the lymphoma samples] 
+
+[PRO18_; ;phosphorylated] 
+
+[PRO18_; ;increased] 
+
+[detected; ;PRO18_] 
+
+[detected; ;was] 
+
+[detected; ;not] 
+
+[detected;in;lymphocytes] 
+
+[lymphocytes;in;transgenic] 
+
+[lymphocytes; ;the] 
+
+[and; ;detected]
+
+[and; ;absent] 
+
+[absent; ;was] 
+
+[absent; ;almost] 
+
+[absent;in;samples] 
+
+[samples; ;lymphoma] 
+
+[samples; ;the]

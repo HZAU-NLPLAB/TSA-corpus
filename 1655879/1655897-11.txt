@@ -1,0 +1,5 @@
+Induction requirements in primary human T cells.
+[requirements; ;Induction]
+[requirements;in;T cells]
+[T cells; ;human]
+[T cells; ;primary]

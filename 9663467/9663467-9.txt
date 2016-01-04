@@ -1,0 +1,29 @@
+These findings suggest that TPO has a direct effect on hemoglobinization via a specific receptor on UT-7/GMT cells.
+[findings; ;These] 
+
+[suggest; ;findings] 
+
+[suggest; ;that] 
+
+[that; ;TPO has a direct effect on hemoglobinization via a specific receptor on UT-7/GMT cells] 
+
+[has; ;TPO] 
+
+[has; ;effect] 
+
+[effect; ;a@1] 
+
+[effect; ;direct] 
+
+[effect;on@1;hemoglobinization] 
+
+[has;via;receptor] 
+
+[receptor; ;a@2] 
+
+[receptor; ;specific] 
+
+[receptor;on@2;UT-7/GMT cells] 
+
+[cells; ;UT-7/GMT] 
+

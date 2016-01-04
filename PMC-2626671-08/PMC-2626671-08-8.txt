@@ -1,0 +1,32 @@
+The Gp33 peptide (KAVYNFATC) was synthesized by the Tufts University Core Facility, and 10 mM of stock solutions was prepared in DMSO.
+[peptide; ;Gp33]
+[peptide; ;The] 
+
+[synthesized; ;peptide] 
+
+[synthesized; ;was] 
+
+[synthesized;by;Facility] 
+
+[Facility; ;Core] 
+
+[Core; ;University] 
+
+[University; ;Tufts] 
+
+[Facility; ;the] 
+
+[and; ;The Gp33 peptide (KAVYNFATC) was synthesized by the Tufts University Core Facility] 
+
+[and; ;10 mM of stock solutions was prepared in]
+[mM; ;10] 
+
+[mM;of;solutions] 
+
+[solutions; ;stock] 
+
+[prepared; ;solutions] 
+
+[prepared; ;was] 
+
+[prepared;in;DMS]

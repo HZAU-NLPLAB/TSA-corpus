@@ -1,0 +1,13 @@
+These results suggest that CMV activates these transcriptional factors, resulting in IL-8 gene expression. 
+[results; ;These]
+[suggest; ;results]
+[suggest; ;that]
+[that; ;CMV activates these transcriptional factors, resulting in IL-8 gene expression]
+[activates; ;CMV]
+[activates; ;factors]
+[factors; ;these]
+[factors; ;transcriptional]
+[activates; ;resulting]
+[resulting;in;gene expression]
+[gene expression; ;IL-8]
+[expression; ;gene]

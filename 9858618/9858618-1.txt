@@ -1,0 +1,25 @@
+Interactions between the class II transactivator and CREB binding protein increase transcription of major histocompatibility complex class II genes.
+[Interactions;between;the class II transactivator and CREB binding protein] 
+
+[and; ;class II transactivator] 
+
+[and; ;CREB binding protein] 
+
+[transactivator; ;class II] 
+
+[protein;binding;CREB] 
+
+[increase; ;Interactions] 
+
+[increase; ;transcription] 
+
+[transcription;of;major histocompatibility complex class II genes] 
+
+[histocompatibility; ;major] 
+
+[genes; ;histocompatibility] 
+
+[class II; ;complex] 
+
+[genes; ;class II] 
+

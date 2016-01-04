@@ -1,0 +1,25 @@
+T cell activation and ensuing cellular gene activation can be critical for HIV-1 replication.
+
+
+[activation@1; ;T cell] 
+
+[and; ;activation@1] 
+
+[and; ;activation@2] 
+
+[activation@2; ;gene] 
+
+[activation@2; ;cellular] 
+
+[activation@2; ;ensuing] 
+
+[be; ;activation@1 and  activation@2] 
+
+[be; ;can] 
+
+[be; ;critical] 
+
+[critical;for;replication] 
+
+[replication ; ;HIV-1] 
+

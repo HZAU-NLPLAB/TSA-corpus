@@ -1,0 +1,25 @@
+In contrast, the wild-type lymphocytes lacked activated PRO24_ but did have detectable phosphorylated PRO25_.
+In contrast,; ;the wild-type lymphocytes lacked activated PRO24_ but did have detectable phosphorylated PRO25_;;
+
+[lymphocytes; ;the] 
+
+[lymphocytes; ;wild-type] 
+
+[type;-;wild] 
+
+[lacked; ;lymphocytes] 
+
+[lacked; ;PRO24_] 
+
+[PRO24_; ;activated] 
+
+[lacked;but;have] 
+
+[have; ;did] 
+
+[have; ;PRO25_] 
+
+[PRO25_;   ;phosphorylated] 
+
+[PRO25_; ;detectable] 
+

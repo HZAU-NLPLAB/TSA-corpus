@@ -1,0 +1,35 @@
+Our data demonstrate that those cell lines lacking capability to form metastatic tumors in vivo are susceptible to TNF induced apoptosis in vitro.
+[data; ;Our] 
+
+[demonstrate; ;data] 
+
+[demonstrate; ;that] 
+
+[that; ;those cell lines lacking capability to form metastatic tumors in@1 vivo@1 are susceptible to TNF induced apoptosis in@2 vitro@2] 
+
+[cell lines; ;those] 
+
+[lacking; ;cell lines] 
+
+[lacking; ;capability] 
+
+[lacking;to;form] 
+
+[form; ;tumors] 
+
+[tumors; ;metastatic] 
+
+[to;in@1;vivo@1] 
+
+[are; ;cell lines] 
+
+[are; ;susceptible] 
+
+[susceptible;to@2;TNF] 
+
+[induced; ;TNF] 
+
+[apoptosis; ;induced] 
+
+[induced;in@2;vitro@2] 
+

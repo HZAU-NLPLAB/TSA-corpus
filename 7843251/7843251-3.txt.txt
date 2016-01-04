@@ -1,0 +1,11 @@
+It has been reported that PKC is an effector of p21ras in T cells.
+
+[reported;been;has]
+[has; ;It]
+[reported; ;that]
+[taht; ;PKC is an effector of p21ras in T cells]
+[is; ;PKC]
+[is; ;effector]
+[effector; ;an]
+[effector;of;p21ras]
+[p21ras;in;T cells]

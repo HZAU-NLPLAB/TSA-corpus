@@ -1,0 +1,14 @@
+Mouse IgG1kappa anti-PRO20_ was purchased from Upstate Biotechnology.
+[anti-PRO20_; ;IgG1kappa] 
+
+[IgG1kappa; ;Mouse] 
+
+[purchased; ;anti-PRO20_] 
+
+[purchased; ;was]
+
+[purchased;from;Biotechnology] 
+
+[Biotechnology; ;Upstate] 
+
+[PRO20_;-;anti]

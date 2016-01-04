@@ -1,0 +1,51 @@
+Membranes were blocked with 2.5% blocking reagent (Boehringer Mannheim, Germany) in TBST buffer (4.44 g/l Tris-HCL, 2.65 g/l TrisOH, 8.07 g/l NaCl, 0.2 g/l KCl and 500 microl/l Tween-20 in H2O) and subsequently incubated with primary antibody as indicated and horseradish peroxidase-conjugated secondary antibody, anti-mouse or anti-goat IgG (DAKO, Hamburg,Germany),respectively.
+
+[blocked; ;Membranes]
+
+[blocked; ;were]
+
+[blocked;with;2.5% blocking reagent]
+
+[2.5% blocking reagent; ;Boehringer Mannheim, Germany]
+
+[blocked;in;TBST buffer]
+
+[buffer; ;TBST]
+
+[TBST buffer; ;4.44 g/l Tris-HCL, 2.65 g/l TrisOH, 8.07 g/l NaCl, 0.2 g/l KCl and 500 microl/l Tween-20 in H2O]
+
+[incubated; ;Membranes]
+
+[incubated; ;were]
+
+[incubated; ;subsequently]
+
+[and; ;blocked]
+
+[and; ;incubated]
+
+[incubated; ;subsequently]
+
+[incubated;with;primary antibody]
+
+[antibody; ;primary]
+
+[incubated;as;indicated]
+
+[and,or; ;primary antibody]
+
+[and,or; ;horseradish peroxidase-conjugated secondary antibody,]
+
+[and,or; ;anti-mouse]
+
+[and,or; ;anti-goat IgG]
+
+[antibody; ;horseradish]
+
+[antibody; ;peroxidase-conjugated]
+
+[antibody; ;secondary]
+
+[incubated; ;respectively]
+
+[incubated; ;DAKO, Hamburg, Germany]

@@ -1,0 +1,35 @@
+PRO57_ transgenic B cells had enhanced levels of PRO58_ with concomitant stabilization of total PRO59_ levels and PRO60_ compared to wild-type B lymphocytes (Figure 6C).
+[cells; ;B] 
+
+[cells; ;transgenic] 
+
+[cells; ;PRO57_] 
+
+[enhanced; ;cells] 
+
+[enhanced; ;had] 
+
+[levels;of;PRO58_] 
+
+[PRO58_;with;stabilization] 
+
+[stabilization; ;concomitant] 
+
+[stabilization;of;levels] 
+
+[levels; ;PRO59_] 
+
+[PRO59_; ;total] 
+
+[levels;of;PRO60_] 
+
+[and; ;PRO58_] 
+
+[and; ;PRO60_] 
+
+[PRO60_;compared to;lymphocytes] 
+
+[lymphocytes; ;B] 
+
+[lymphocytes; ;wild-type] 
+

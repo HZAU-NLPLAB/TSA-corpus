@@ -1,0 +1,25 @@
+Through these actions glucocorticosteroids are susceptible to modify functions of cells involved in the allergic inflammatory response.
+[ ;Through;these actions glucocorticosteroids are susceptible to modify functions of cells involved in the allergic inflammatory response] 
+
+[actions glucocorticosteroids; ;these] 
+
+[glucocorticosteroids; ;actions] 
+
+[are; ;actions glucocorticosteroids] 
+
+[are; ;susceptible] 
+
+[susceptible;to;modify functions] 
+
+[functions; ;modify] 
+
+[involved; ;cells] 
+
+[involved;in;allergic inflammatory response] 
+
+[allergic inflammatory response; ;the] 
+
+[response;  ;allergic] 
+
+[response;  ;inflammatory] 
+

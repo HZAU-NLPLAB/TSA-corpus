@@ -1,0 +1,12 @@
+After overnight incubation, 200 ng pFLAG-PRO4_ plasmids were transfected with 0.5 ul Lipofectamine 2000. 
+[transfected;After;incubation]
+[incubation; ;overnight]
+[ng; ;200]
+[plasmids; ;200 ng]
+[plasmids; ;pFLAG-PRO4_]
+[transfected; ;plasmids]
+[transfected; ;were]
+[transfected;with;Lipofectamine 2000]
+[ul; ;0.5]
+[Lipofectamine 2000; ;0.5 ul]
+

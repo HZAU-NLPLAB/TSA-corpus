@@ -1,0 +1,13 @@
+A similar increase in IL-2R alpha by TG was also observed in human peripheral T cells. Further, like PMA, TG markedly induced NF kappa B in Jurkat T cells.
+
+[increase; ;A]
+[increase; ;similar]
+[increase;in;alpha]
+[alpha; ;IL-2R]
+[2R;-;IL]
+[increase;by;TG]
+[observed;was;TG]
+[observed; ;also]
+[observed;in; T cells]
+[T cells; ;peripheral]
+[peripheral; ;human]

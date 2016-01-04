@@ -1,0 +1,18 @@
+Thapsigargin induces IL-2 receptor alpha-chain in human peripheral and Jurkat T cells via a protein kinase C-independent mechanism.
+
+[induces; ;Thapsigargin]
+[induces; ;alpha-chain]
+[alpha-chain; ;receptor]
+[receptor; ;IL-2]
+[chain;-;alpha]
+[alpha-chain;in;peripheral]
+[peripheral; ;human]
+[and; ;T cells]
+[and; ;peripheral]
+[T cells; ;Jurkat]
+[T cells;via;mechanism]
+[mechanism; ;C-independent]
+[C-independent; ;kinase]
+[kinase; ;protein]
+[mechanism; ;a]
+[independent;-;C]

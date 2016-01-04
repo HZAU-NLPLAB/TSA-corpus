@@ -1,0 +1,43 @@
+Isoelectric focusing demonstrated that TPO induced fetal and adult Hb synthesis, whereas EPO induced embryonic, fetal, and adult Hb synthesis.
+[demonstrated; ;Isoelectric focusing] 
+
+[focusing; ;Isoelectric] 
+
+[demonstrated; ;that] 
+
+[that; ;TPO induced fetal and adult Hb synthesis, whereas EPO induced embryonic, fetal, and adult Hb synthesis] 
+
+[TPO induced fetal and adult Hb synthesis;whereas;EPO induced embryonic, fetal, and adult Hb synthesis] 
+
+[induced@1; ;TPO] 
+
+[induced@1; ;fetal and adult Hb synthesis] 
+
+[synthesis@1; ;fetal and adult Hb] 
+
+[fetal@1; ;Hb@1] 
+
+[adult@1; ;Hb@1] 
+
+[and@1; ;fetal@1] 
+
+[and@1; ;adult@1] 
+
+[induced@2; ;EPO] 
+
+[induced@2; ;embryonic, fetal, and adult Hb synthesis] 
+
+[synthesis@2; ;embryonic, fetal, and adult Hb] 
+
+[Hb@2; ;embryonic] 
+
+[Hb@2; ;fetal@2] 
+
+[Hb@2; ;adult@2] 
+
+[and@2; ;embryonic] 
+
+[and@2; ;fetal] 
+
+[and@2; ;adult] 
+

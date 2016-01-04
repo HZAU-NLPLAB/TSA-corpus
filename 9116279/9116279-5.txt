@@ -1,0 +1,33 @@
+In the adult bone marrow, we found expression of runt polypeptides in differentiating myeloid cells and in B lymphocytes.
+
+
+[In; ;marrow] 
+
+[marrow; ;the] 
+
+[marrow; ;adult] 
+
+[marrow; ;bone] 
+
+[found; ;we] 
+
+[found; ;expression] 
+
+[expression;of;polypeptides] 
+
+[polypeptides; ;runt] 
+
+[polypeptides;in@1;cells] 
+
+[cells; ;differentiating] 
+
+[cells; ;myeloid] 
+
+[and; ;in@1] 
+
+[and; ;in@2] 
+
+[ ;in@2;lymphocytes]   
+
+[lymphocytes; ;B] 
+

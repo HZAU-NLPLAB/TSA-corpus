@@ -1,0 +1,26 @@
+
+Cytokine expression by immune system cells plays an important role in the regulation of the immune response.
+[expression; ;Cytokine] 
+
+[Cytokine expression;by;cells] 
+
+[cells; ;immune system] 
+
+[system; ;immune] 
+
+[plays; ;Cytokine expression] 
+
+[plays; ;role] 
+
+[role; ;an] 
+
+[role; ;important] 
+
+[plays;in;regulation] 
+
+[regulation; ;the] 
+
+[regulation;of;immune response] 
+
+[immune response; ;the] 
+

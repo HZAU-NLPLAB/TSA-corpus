@@ -1,0 +1,8 @@
+NF-kappaB inhibition by PMA correlated to PKC-dependent PRO1_ degradation. 
+[inhibition; ;NF-kappaB]
+[inhibition;by;PMA]
+[correlated; ;inhibition]
+[correlated;to;degradation]
+[degradation; ;PKC-dependent]
+[degradatio; ;PRO1_]
+[dependent;-;PKC]

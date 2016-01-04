@@ -1,0 +1,35 @@
+Moreover, a dominant negative form of CBP decreased the activity of class II promoters and levels of class II determinants on the surface of cells.
+[form; ;a] 
+
+[form; ;dominant] 
+
+[form; ;negative]
+
+[form;of@1;CBP] 
+
+[decreased; ;form] 
+
+[decreased; ;activity] 
+
+[activity; ;the@1] 
+
+[activity;of@2;class II promoters] 
+
+[promoters; ;class II] 
+
+[and; ;activity] 
+
+[and; ;levels] 
+
+[decreased; ;levels] 
+
+[levels;of@3;class II determinants] 
+
+[determinants; ;class II] 
+
+[decreased;on;surface] 
+
+[surface; ;the@2] 
+
+[surface;of@4;cells] 
+

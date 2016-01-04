@@ -1,0 +1,20 @@
+
+TRAF2 is a signal transducing adaptor molecule which binds to the CD40 cytoplasmic domain.
+[is; ;TRAF2] 
+
+[is; ;signal transducing adaptor molecule] 
+
+[signal transducing adaptor molecule; ;a]
+
+[adaptor molecule; ;signal] 
+
+[adaptor molecule; ;transducing]
+
+[signal transducing adaptor molecule; ;which] 
+
+[binds; ;which] 
+
+[binds;to;CD40 cytoplasmic domain] 
+
+[CD40 cytoplasmic domain; ;the] 
+

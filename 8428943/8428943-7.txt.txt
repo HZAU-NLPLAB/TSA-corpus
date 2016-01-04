@@ -1,0 +1,17 @@
+In addition, an inhibitor of PKC blocked both activated ras and phorbol ester stimulation, suggesting a role for ras upstream of PKC.
+
+[inhibitor; ;an]
+[inhibitor;of@1;PKC]
+[blocked; ;PKC]
+[blocked; ;ras]
+[blocked; ;stimulation]
+[both...and; ;ras]
+[both...and; ;stimulation]
+[stimulation; ;ester]
+[ester; ;phorbol]
+[suggesting; ;stimulation]
+[suggesting; ;role]
+[role; ;a]
+[role;for;upstream]
+[upstream; ;ras]
+[upstream;of@2;PKC]

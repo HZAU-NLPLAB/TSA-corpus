@@ -1,0 +1,31 @@
+This region contains binding sites for the cAMP response element-binding protein/activation transcription factor (CREB/ATF) and Sp1 families of transcription factors.
+[region; ;This] 
+
+[contains; ;region] 
+
+[contains; ;binding sites] 
+
+[sites; ;binding] 
+
+[contains;for;cAMP response element-binding protein/activation transcription factor] 
+
+[cAMP response element-binding protein/activation transcription factor; ;the] 
+
+[cAMP response element-binding protein/activation transcription factor; ;CREB/ATF] 
+
+[response; ;cAMP] 
+
+[factor; ;response] 
+
+[[protein/activation; ;element-binding] 
+
+[transcription factor; ;protein/activation] 
+
+[and; ;cAMP response element-binding protein/activation transcription factor] 
+
+[and; ;Sp1 families] 
+
+[families; ;Sp1] 
+
+[Sp1 families;of;transcription factors] 
+

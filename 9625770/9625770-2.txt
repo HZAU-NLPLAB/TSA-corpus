@@ -1,0 +1,49 @@
+
+The human homologue of Drosophila Toll (hToll) is a recently cloned receptor of the interleukin 1 receptor (IL-1R) superfamily, and has been implicated in the activation of adaptive immunity.
+
+
+[homologue; ;human]
+
+[homologue; ;The] 
+
+[homologue;of@1;Drosophila Toll] 
+
+[Toll; ;Drosophila 
+
+[Drosophila Toll; ;hToll)] 
+
+[is; ;homologue] 
+
+[is; ;receptor] 
+
+[receptor; ;a] 
+
+[receptor; ;recently] 
+
+[receptor; ;cloned] 
+
+[receptor;of@2;interleukin 1 receptor] 
+
+[interleukin 1 receptor; ;the@1] 
+
+[receptor; ;interleukin 1] 
+
+[interleukin 1 receptor; ;IL-1R] 
+
+[superfamily; ;interleukin 1 receptor] 
+
+[and; ; The human homologue of Drosophila Toll (hToll) is a recently cloned receptor of the interleukin 1 receptor (IL-1R) superfamily] 
+
+[and; ;has been implicated in the activation of adaptive immunity] 
+
+[implicated; ;has] 
+
+[implicated; ;been] 
+
+[implicated;in;activation] 
+
+[activation; ;the@2] 
+
+[activation;of@3;immunity] 
+
+[immunity; ;adaptive]

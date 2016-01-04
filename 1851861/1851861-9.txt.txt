@@ -1,0 +1,17 @@
+However, this mutated NF kappa B promoter was not transactivated during HHV-6(GS) infection or after cotransfection with pZVB70 or pZVB10.
+
+[promoter£» £»this]
+[promoter£» £»NF kappa B]
+[promoter£» £»mutated]
+[transactivated£» £»promoter]
+[transactivated£»was£»not]
+[transactivated£» £»during]
+[infection£» £»during]
+[infection£» £»HHV-6]
+[HHV-6£» £»GS]
+[or@1£» £»during]
+[or@1£» £»after]
+[cotransfection£» £»after]
+[cotransfection£»with£»pZVB70]
+[or@2£» £»pZVB70]
+[or@2£» £»pZVB10]

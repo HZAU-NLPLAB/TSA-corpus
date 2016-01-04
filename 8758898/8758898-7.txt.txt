@@ -1,0 +1,14 @@
+These data identify C/EBP proteins as regulators of HIV-1 expression in monocytes/macrophages.
+
+[data; ;These]
+[identify; ;data]
+[identify; ;proteins]
+[proteins; ;C/EBP]
+[/; ;C]
+[/; ;EBP]
+[proteins;as;regulators]
+[regulators;of;expression]
+[expression; ;HIV-1]
+[expression;in;monocytes/macrophages]
+[/; ;monocytes]
+[/; ;macrophages]

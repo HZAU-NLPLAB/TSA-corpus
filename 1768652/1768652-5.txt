@@ -1,0 +1,55 @@
+DNA-protein crosslinking studies have revealed that the more rapidly migrating B2 complex contains both p50 and p55 while the more slowly migrating B1 complex is composed of p50, p55, p75, and p85.
+
+
+[studies; ;crosslinking] 
+
+[studies; ;DNA-protein] 
+
+[revealed; ;studies] 
+
+[revealed; ;have] 
+
+[revealed; ;that] 
+
+[that; ;the more rapidly migrating B2 complex contains both p50 and p55 while the more slowly migrating B1 complex is composed of p50, p55, p75, and p85] 
+
+[complex; ;the@1] 
+
+[complex; ;B2] 
+
+[B2; ;migrating] 
+
+[migrating; ;rapidly] 
+
+[rapidly; ;more] 
+
+[contains; ;complex] 
+
+[contains; ;both p50 and p55] 
+
+[both...and; ;p50] 
+
+[both...and; ;p55] 
+
+[the more rapidly migrating B2 complex contains both p50 and p55;while;the more slowly migrating B1 complex is composed of p50, p55, p75, and p85] 
+
+[B1 complex; ;migrating] 
+
+[migrating; ;slowly] 
+
+[slowly; ;more] 
+
+[B1 complex; ;the@2] 
+
+[composed; ;B1 complex] 
+
+[composed;is; ]
+
+[composed;of;p50, p55, p75, and p85]
+[and; ;p50] 
+
+[and; ;p55] 
+
+[and; ;p75] 
+
+[and; ;p85]

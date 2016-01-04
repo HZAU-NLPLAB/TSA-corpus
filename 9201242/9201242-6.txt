@@ -1,0 +1,46 @@
+Ad2 infection induced transient increase in the mRNA levels for TNF-alpha and IL-1 beta in both monocytes and in macrophages, although the kinetics of the transcription was slightly different.
+
+
+[infection; ;Ad2]
+[induced; ;infection] 
+
+[induced; ;increase]
+
+[increase; ;transient] 
+
+[increase;in@1;levels] 
+
+[levels; ;the@1] 
+
+[levels; ;mRNA] 
+
+[levels;for;beta] 
+
+[beta; ;TNF-alpha and IL-1] 
+
+[and@1; ;TNF-alpha] 
+
+[and@1; ;IL-1] 
+
+[beta;in@2;monocytes] 
+
+[beta;in@3;macrophages] 
+
+[both...and; ;in@2] 
+
+[both...and; ;in@3] 
+
+[Ad2 infection induced transient increase in the mRNA levels for TNF-alpha and IL-1 beta in both monocytes and in] [macrophages;although;the kinetics of the transcription was] [slightly differen] 
+
+[kinetics; ;the@2] 
+
+[kinetics;of;transcription] 
+
+[transcription; ;the@3] 
+
+[was; ;transcription] 
+
+[was; ;different] 
+
+[different; ;slightly] 
+

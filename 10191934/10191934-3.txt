@@ -1,0 +1,19 @@
+The action of glucocorticosteroids is mediated through glucocorticoid receptors present in the cellular cytoplasm.
+[action; ;The] 
+
+[action;of;glucocorticosteroids] 
+
+[mediated; ;action] 
+
+[mediated; ;is] 
+
+[mediated;through;glucocorticoid receptors] 
+
+[receptors; ;glucocorticoid] 
+
+[mediated; ;present] 
+
+[present;in;cellular cytoplasm] 
+
+[cellular cytoplasm;  ;the] 
+

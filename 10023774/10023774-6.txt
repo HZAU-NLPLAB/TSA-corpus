@@ -1,0 +1,29 @@
+While Rel proteins play the dominant role in RANTES gene expression in fibroblasts, RFLAT-1 is a strong transactivator for RANTES in T cells.
+RFLAT-1 is a strong transactivator for RANTES@2 in@3 T cells;While;Rel proteins play the dominant role in@1 RANTES@1 gene expression in@2 fibroblasts 
+
+[play; ;Rel proteins] 
+
+[play; ;role] 
+
+[role; ;the]
+
+[role; ;dominant] 
+
+[role;in@1;RANTES@1 gene expression] 
+
+[gene; ;RANTES@1] 
+
+[expression; ;gene] 
+
+[play;in@2;fibroblasts] 
+
+[is;transactivator;transactivator] 
+
+[transactivator; ;a]
+
+[transactivator; ;strong] 
+
+[transactivator;for;RANTES@2] 
+
+[transactivator;in@3;T cells] 
+

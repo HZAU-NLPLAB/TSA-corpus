@@ -1,0 +1,35 @@
+We conclude from this that the epsilon-globin gene is not regulated by competition with other genes in the human beta-globin locus.
+
+
+[conclude; ;We] 
+
+[conclude;from;this] 
+
+[this; ;that] 
+
+[that; ;the epsilon-globin gene is not regulated by competition with other genes in the human beta-globin locus] 
+
+[gene; ;the@1] 
+
+[gene; ;epsilon-globin] 
+
+[regulated; ;gene] 
+
+[regulated; ;is] 
+
+[regulated; ;not] 
+
+[regulated;by;competition] 
+
+[competition;with;genes] 
+
+[genes; ;other] 
+
+[genes;in;locus] 
+
+[locus; ;the@2] 
+
+[locus; ;beta-globin] 
+
+[locus; ;human] 
+

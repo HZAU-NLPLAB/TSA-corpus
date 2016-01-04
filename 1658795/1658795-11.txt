@@ -1,0 +1,8 @@
+In contrast mRNA representing pAT 591/EGR2 was not expressed in these cells. 
+[representing; ;mRNA]
+[representing; ;pAT 591/EGR2]
+[expressed; ;mRNA]
+[expressed; ;was]
+[expressed; ;not]
+[expressed;in;cells]
+[cells; ;these]

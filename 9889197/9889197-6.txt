@@ -1,0 +1,51 @@
+We therefore propose that Hsp70 can be used as a vehicle for intracytoplasmic and intranuclear delivery of proteins or DNA to modulate gene expression and thereby control immune responses.
+[propose; ;We] 
+
+[propose; ;therefore] 
+
+[propose; ;that] 
+
+[that; ;Hsp70 can be used as a vehicle for intracytoplasmic and intranuclear delivery of proteins or DNA to modulate gene expression and thereby control immune responses] 
+
+[used; ;Hsp70] 
+
+[be; ;can] 
+
+[used; ;be] 
+
+[used;as;vehicle] 
+
+[vehicle; ;a] 
+
+[used;for;delivery] 
+
+[delivery; ;intracytoplasmic] 
+
+[and; ;intracytoplasmic] 
+
+[and; ;intranuclear] 
+
+[delivery; ;intranuclear] 
+
+[delivery;of;proteins] 
+
+[or; ;proteins] 
+
+[or; ;DNA] 
+
+[delivery;of;DNA] 
+
+[used;to;modulate] 
+
+[modulate; ;gene expression] 
+
+[and; ;used] 
+
+[and; ;control] 
+
+[control; ;thereby] 
+
+[immune responses; ;control] 
+
+[responses; ;immune] 
+

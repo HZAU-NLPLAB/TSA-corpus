@@ -1,0 +1,25 @@
+For analysis of PRO11_ protein expression, a standard immunoblotting assay was performed as described previously (29).
+
+[$;For;analysis]
+
+[analysis;of;PRO11_ protein expression]
+
+[expression; ;PRO11_]
+
+[expression; ;$;]
+
+[analysis; ;assay]
+
+[assay; ;a]
+
+[assay; ;standard]
+
+[assay; ;immunoblotting]
+
+[performed; ;assay]
+
+[performed; ;was]
+
+[performed;as;described]
+
+[described; ;previously]

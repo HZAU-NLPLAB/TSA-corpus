@@ -1,0 +1,17 @@
+Identification of transcriptional suppressor proteins that bind to the negative regulatory element of the human immunodeficiency virus type 1.
+
+[Identification;of@1;proteins]
+[proteins; ;suppressor]
+[suppressor; ;transcriptional]
+[proteins; ;that]
+[that; ;bind to the@1 negative regulatory element of@2 the@2 human immunodeficiency virus type 1]
+[bind;to;element]
+[bind; ;proteins]
+[element; ;regulatory]
+[regulatory; ;negative]
+[element; ;the@1]
+[element;of@2;human immunodeficiency virus type 1]
+[human immunodeficiency virus type 1; ;the@2]
+[type 1; ;virus]
+[virus; ;immunodeficiency]
+[immunodeficiency; ;human]

@@ -1,0 +1,20 @@
+DNA was isolated from splenocytes using the Dneasy Tissue Kit (Qiagen), with Rnase treatment.
+[isolated; ;DNA ]
+
+[isolated; ;was ]
+
+[isolated;from;splenocytes ]
+
+[using; ;Kit ]
+
+[Kit; ;Tissue ]
+
+[Kit; ;Dneasy ]
+
+[Kit; ;Qiagen ]
+
+[Kit; ;the ]
+
+[Kit;with;treatment]
+
+[treatment; ;Rnase]

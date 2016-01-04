@@ -1,0 +1,29 @@
+The critical region of THR beta was mapped to 3 amino acids in the distal box of the DNA binding domain.
+[region; ;The] 
+
+[region; ;critical] 
+
+[region;of@1;beta] 
+
+[beta; ;THR] 
+
+[mapped; ;was] 
+
+[mapped;to;amino acids] 
+
+[amino acids; ;3] 
+
+[mapped;in;distal box] 
+
+[distal box; ;the] 
+
+[distal box;of@2;DNA binding domain] 
+
+[DNA binding domain; ;the] 
+
+[box; ;distal] 
+
+[domain; ;DNA binding] 
+
+[binding; ;DNA] 
+

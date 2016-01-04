@@ -1,0 +1,19 @@
+
+Binding of superantigens to MHC class II molecules results in transduction of biochemical signals leading to cellular activation and gene expression.
+
+[
+Binding;of@1;superantigens]
+[superantigens;to@1;molecules]
+[molecules; ;class II]
+[class II; ;MHC]
+[II; ;class]
+[results;in;transduction]
+[results; ;molecules]
+[transduction;of@2;signals]
+[signals; ;biochemical]
+[leading; ;signals]
+[leading;to@2;activation]
+[activation; ;cellular]
+[and; ;expression]
+[expression; ;gene]
+[and; ;activation]

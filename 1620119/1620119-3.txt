@@ -1,0 +1,25 @@
+Oct2 expression was unable to stimulate a multimerized octamer enhancer element in HeLa cells, however.
+expression; ;Oct2] 
+
+[was; ;expression] 
+
+[was; ;unable] 
+
+[unable;to;stimulate] 
+
+[stimulate; ;element] 
+
+[element; ;enhancer] 
+
+[element; ;octamer] 
+
+[element; ;multimerized] 
+
+[element; ;a] 
+
+[element;in;cells] 
+
+[cells; ;HeLa] 
+
+[however; ;Oct2 expression was unable to stimulate a multimerized octamer enhancer element in HeLa cells] 
+

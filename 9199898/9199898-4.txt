@@ -1,0 +1,41 @@
+In this study we determined the effects of SAC on NF-kappa B activation in human T lymphocytes (Jurkat cells) induced by tumor necrosis factor alpha (TNF- alpha) and H2O2.
+
+
+[determined; ;we] 
+
+[determined;In;study] 
+
+[study; ;this] 
+
+[determined; ;effects] 
+
+[effects; ;the] 
+
+[effects;of;SAC] 
+
+[SAC;on;activation] 
+
+[activation; ;NF-kappa B] 
+
+[activation;in;human T lymphocytes] 
+
+[human T lymphocytes; ;Jurkat cells] 
+
+[T lymphocytes; ;human] 
+
+[induced; ;Jurkat cells] 
+
+[induced;by;tumor necrosis factor alpha] 
+
+[tumor necrosis factor alpha; ;(TNF- alpha] 
+
+[alpha; ;factor] 
+
+[factor; ;necrosis] 
+
+[necrosis; ;tumor] 
+
+[and; ;TNF- alpha] 
+
+[and; ;H2O2]  
+

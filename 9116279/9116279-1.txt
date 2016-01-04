@@ -1,0 +1,23 @@
+ineage- and stage-specific expression of runt box polypeptides in primitive and definitive hematopoiesis.
+
+
+[expression; ;Lineage- and stage-specific] 
+
+[and@1; ;Lineage-] 
+
+[and@1; ;stage-] 
+
+[expression;of;polypeptides] 
+
+[polypeptides; ;box] 
+
+[polypeptides; ;runt] 
+
+[polypeptides;in;hematopoiesis]  
+
+[hematopoiesis;  ;primitive and definitive] 
+
+[and@2; ;primitive] 
+
+[and@2; ;definitive] 
+

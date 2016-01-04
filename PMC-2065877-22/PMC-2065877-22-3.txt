@@ -1,0 +1,13 @@
+Arrow indicates the position of the protected probe.
+[indicates; ;Arrow] 
+
+[indicates; ;position] 
+
+[position; ;the] 
+
+[position;of;probe] 
+
+[probe; ;protected] 
+
+[probe; ;the] 
+

@@ -1,0 +1,13 @@
+The human IL-4 gene, of 10 kilobases, is composed of four exons and three introns.
+[gene; ;IL-4 ]
+[gene; ;human ]
+[gene; ;The ]
+[gene;of;kilobases ]
+[kilobases; ;10 ]
+[composed; ;gene ]
+[composed; ;is ]
+[composed;of;exons ]
+[exons; ;four ]
+[and; ;exons ]
+[and; ;introns ]
+[introns; ;three ]

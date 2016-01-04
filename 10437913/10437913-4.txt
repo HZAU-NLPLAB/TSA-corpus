@@ -1,0 +1,29 @@
+We have examined the effect of Rb expression on the activation of the promoter for HLA-DRA, the prototype class II gene.
+[examined; ;We] 
+
+[examined; ;have]
+
+[examined; ;effect] 
+
+[effect; ;the@1 
+
+[effect;of@1;Rb expression] 
+
+[expression; ;Rb] 
+
+[effect;on;activation] 
+
+[activation; ;the@2] 
+
+[activation;of@2;promoter] 
+
+[promoter; ;the@3] 
+
+[effect;for;HLA-DRA] 
+
+[HLA-DRA; ;prototype class II gene] 
+
+[prototype class II gene; ;the@4] 
+
+[gene; ;prototype class II] 
+

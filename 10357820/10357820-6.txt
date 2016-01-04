@@ -1,0 +1,47 @@
+Based on these and our recent findings of associations between Ikaros and Mi-2-HDAC, we propose that Ikaros family members modulate gene expression during lymphocyte development by recruiting distinct histone deacetylase complexes to specific promoters.
+[Based;on;these] 
+
+[and@1; ;these] 
+
+[and@1; ;findings] 
+
+[findings; ;our] 
+
+[findings; ;recent] 
+
+[findings;of;associations] 
+
+[associations; ;between Ikaros and@2 Mi-2-HDAC] 
+
+[between¡­and; ;Ikaros] 
+
+[between¡­and; ;Mi-2-HDAC] 
+
+[propose; ;we] 
+
+[propose; ;that] 
+
+[that; ;Ikaros family members modulate gene expression during lymphocyte development by recruiting distinct histone deacetylase complexes to specific promoters] 
+
+[members; ;Ikaros family] 
+
+[modulate; ;Ikaros family members] 
+
+[modulate; ;gene expression] 
+
+[modulate;during;lymphocyte development] 
+
+[development; ;lymphocyte] 
+
+[modulate;by;histone deacetylase complexes] 
+
+[histone deacetylase complexes; ;recruiting] 
+
+[histone deacetylase complexes; ;distinct] 
+
+[complexes;deacetylase;histone] 
+
+[modulate;to;specific promoters] 
+
+[promoters; ;specific] 
+

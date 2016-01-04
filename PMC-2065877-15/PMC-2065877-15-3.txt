@@ -1,0 +1,29 @@
+The mCK-1 probe template set (BD Biosciences) was labeled using the In Vitro Transcription Kit according to the manufacturer's instructions (BD Biosciences).
+[template; ;The@1] 
+
+[set; ;template] 
+
+[template; ;probe] 
+
+[probe; ;mCK-1] 
+
+[set; ;BD Biosciences] 
+
+[Biosciences; ;BD] 
+
+[labeled; ;was] 
+
+[using; ;Kit] 
+
+[Kit; ;Transcription] 
+
+[Transcription; ;In Vitro] 
+
+[Kit; ;the@2]
+
+[according;to;instructions] 
+
+[instructions; ;manufacturer's] 
+
+[instructions; ;the@3] 
+

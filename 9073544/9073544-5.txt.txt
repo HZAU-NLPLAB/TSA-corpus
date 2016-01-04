@@ -1,0 +1,18 @@
+In six of seven patients examined, inhibition of the VLA-4/VCAM-1 pathway resulted in greater than 50% inhibition of transendothelial migration of T-cells.
+
+[ ;In;examined]
+[examined; ;patients]
+[examined; ;six of seven]
+[six;of@1;seven]
+[inhibition@1;of@2;pathway]
+[pathway; ;the]
+[pathway; ;VLA-4/VCAM-1]
+[/; ;VLA-4]
+[/; ;VCAM-1]
+[resulted; ;pathway]
+[resulted;in;inhibition@2]
+[greater;than;inhibition@2]
+[inhibition@2; ;50%]
+[inhibition@2;of@3;migration]
+[migration; ;transendothelial]
+[migration;of@4;T-cells]

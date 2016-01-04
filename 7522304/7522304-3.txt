@@ -1,0 +1,25 @@
+When bound to cyclophilin, cyclosporin A binds and inactivates the key signalling intermediate calcineurin.
+
+
+[cyclosporin A binds and inactivates the key signalling intermediate calcineurin;When;bound to cyclophilin]
+
+[bound;to;cyclophilin] 
+
+[cyclosporin; ;binds] 
+
+[binds; ;A] 
+
+[and; ;cyclosporin] 
+
+[and; ;inactivates] 
+
+[inactivates; ;calcineurin] 
+
+[calcineurin; ;intermediat] 
+
+[intermediate; ;signalling] 
+
+[signalling; ;key] 
+
+[calcineurin; ;the] 
+

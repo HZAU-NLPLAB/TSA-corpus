@@ -1,0 +1,47 @@
+Such a process may have fundamental implications in AIDS pathogenesis in vivo and may be important in disease progression induced by opportunistic infections directly or indirectly involving macrophages.
+
+
+[process; ;Such] 
+
+[process; ;a] 
+
+[have; ;process] 
+
+[have; ;may@1] 
+
+[implications;implications;fundamental] 
+
+[implications;in@1;AIDS pathogenesis]
+
+[pathogenesis; ;AIDS] 
+
+[pathogenesis;in@2;vivo] 
+
+[and; ;have] 
+
+[and; ;be] 
+
+[be; ;may@2] 
+
+[be; ;important] 
+
+[important;in@3;progression] 
+
+[progression; ;disease] 
+
+[induced; ;progression] 
+
+[induced;by;directly] 
+
+[directly; ;infections] 
+
+[infections; ;opportunistic] 
+
+[or; ;directly] 
+
+[or; ;macrophages] 
+
+[macrophages; ;involving] 
+
+[macrophages; ;indirectly] 
+

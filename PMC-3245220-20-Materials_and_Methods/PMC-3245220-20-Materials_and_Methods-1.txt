@@ -1,0 +1,10 @@
+Cells were washed with PBS and resuspended in cell lysis buffer.
+[washed; ;Cells]
+[washed; ;were]
+[washed;with;PBS]
+[and; ;washed]
+[and; ;resuspended]
+[resuspended;in;buffer]
+[buffer; ;lysis]
+[buffer; ;cell) 
+

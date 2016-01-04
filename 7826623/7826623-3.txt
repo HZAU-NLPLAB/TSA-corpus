@@ -1,0 +1,9 @@
+Its expression is regulated at both the transcriptional and post-transcriptional level. 
+[expression; ;Its]
+[regulated; ;expression]
+[regulated; ;is]
+[regulated;at;level]
+[level; ;the]
+[level; ;post-transcriptional]
+[both...and; ;post-transcriptional]
+[both...and; ;transcriptional]

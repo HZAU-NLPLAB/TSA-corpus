@@ -1,0 +1,33 @@
+To understand GATA3 gene regulation, we cloned the human gene and the 5' end of the mouse GATA3 gene.
+[ ;To;understand] 
+
+[understand; ;regulation] 
+
+[regulation; ;GATA3 gene@1] 
+
+[gene@1; ;GATA3@1] 
+
+[cloned; ;we] 
+
+[cloned; ;human gene] 
+
+[cloned; ;5' end] 
+
+[and; ;human gene] 
+
+[and; ;5' end] 
+
+[human gene; ;the@1] 
+
+[gene@2; ;human] 
+
+[5' end; ;the@2] 
+
+[5' end;of;mouse GATA3 gene] 
+
+[mouse GATA3 gene; ;the@3] 
+
+[GATA3 gene@2; ;mouse] 
+
+[gene@3; ;GATA3@2] 
+

@@ -1,0 +1,8 @@
+The role of early growth response gene 1 (egr-1) in regulation of the immune response.
+[role; ;The]
+[role;of@1;early growth response gene 1]
+[early growth response gene 1; ;egr-1]
+[early growth response gene 1;in;regulation]
+[regulation;of@2;immune response]
+[immune response; ;the]
+[response; ;immune]

@@ -1,0 +1,45 @@
+This mechanism may be important in the activation of HIV expression from latently infected CD4+ T cells, especially in lymphoid organs where cell to cell contact is conducive to receptor-ligand interactions.
+
+
+[mechanism; ;This] 
+
+[be; ;mechanism] 
+
+[be; ;may] 
+
+[be; ;important] 
+
+[important;in@1;activation] 
+
+[activation; ;the] 
+
+[activation;of;HIV expression] 
+
+[expression; ;HIV] 
+
+[expression;from;T cells] 
+
+[T cells; ;CD4+] 
+
+[T cells; ;infected] 
+
+[T cells; ;latently] 
+
+[especially;in;lymphoid organs] 
+
+[organs; ;lymphoid] 
+
+[organs; ;where] 
+
+[where; ;cell to cell contact is conducive to receptor-ligand interactions] 
+
+[cell;to;cell 
+
+[is; ;contact 
+
+[is; ;conducive 
+
+[conducive; ;interactions]  
+
+[interactions; ;receptor-ligand] 
+

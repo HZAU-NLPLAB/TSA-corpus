@@ -1,0 +1,25 @@
+Furthermore, the same cell lines were resistant to cytolytic action of other cytotoxic proteins secreted by LAK cells.
+[cell lines; ;the] 
+
+[cell lines; ;same] 
+
+[were; ;cell lines] 
+
+[were; ;resistant] 
+
+[resistant;to;action] 
+
+[action; ;cytolytic] 
+
+[action;of;proteins] 
+
+[proteins; ;other] 
+
+[proteins; ;cytotoxic] 
+
+[secreted; ;proteins] 
+
+[secreted;by;LAK cells] 
+
+[cells; ;LAK] 
+

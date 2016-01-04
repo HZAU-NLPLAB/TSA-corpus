@@ -1,0 +1,49 @@
+We report that certain NF-AT(Rel) family members productively bind the kappaB regulatory elements, synergize with NF-kappaB and Tat in transcriptional activation of HIV-1, and enhance HIV-1 replication in T cells.
+
+
+[report; ;We] 
+
+[report; ;that] 
+
+[that; ;certain NF-AT(Rel) family members productively bind the kappaB regulatory elements, synergize with NF-kappaB and Tat in transcriptional activation of HIV-1, and enhance HIV-1 replication in T cells] 
+
+[members; ;family] 
+
+[members; ;NF-AT] 
+
+[members; ;certain] 
+
+[bind; ;productively] 
+
+[bind; ;members] 
+
+[bind; ;elements] 
+
+[elements; ;regulatory] 
+
+[elements; ;kappaB] 
+
+[elements; ;the] 
+
+[synergize;with;NF-kappaB and Tat] 
+
+[and@1; ;NF-kappaB] 
+
+[and@1; ;Tat] 
+
+[NF-kappaB and Tat;in@1;activation] 
+
+[activation; ;transcriptional] 
+
+[activation;of;HIV-1@1] 
+
+[and@2; ;synergize] 
+
+[and@2; ;enhance] 
+
+[enhance; ;replication] 
+
+[replication; ;HIV-1@2] 
+
+[replication;in@2;T cells] 
+

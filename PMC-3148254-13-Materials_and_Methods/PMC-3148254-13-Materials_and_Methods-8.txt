@@ -1,0 +1,13 @@
+Images of blots were recorded with a low-light imaging system (LAS4000, Fuji Medical Systems) and on X-ray film.
+[Images;of;blots]
+[recorded; ;blots]
+[recorded; ;were]
+[recorded;with;system]
+[system; ;a]
+[system; ;imaging]
+[system; ;low-light]
+[and; ;on]
+[and; ;with]
+[;on;film]
+[film; ;X-ray) 
+

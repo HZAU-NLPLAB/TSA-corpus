@@ -1,0 +1,25 @@
+Incubation with LPS or poly I:C resulted in secretion of PRO1_, IL12P70, and PRO2_ from both WT and cpdm BMDC; however, BMDC from cpdm mice produced significantly less of all three cytokines compared with WT BMDC (Fig.3A-C, E-F). 
+[Incubation;with@1;LPS]
+[or; ;LPS]
+[or; ;poly I:C]
+[resulted;in;secretion]
+[resulted; ;Incubation]
+[secretion;of;PRO1_]
+[and@1; ;IL12P70]
+[and@1; ;PRO2_]
+[secretion;from;both WT and cpdm BMDC]
+[both...and; ;WT@1]
+[both...and; ;BMDC@1]
+[BMDC@1; ;cpdm@1]
+[Incubation with LPS or poly I:C resulted in secretion of PRO1_, IL12P70, and PRO2_ from both WT and cpdm BMDC;however;BMDC from cpdm mice produced significantly less of all three cytokines compared with WT BMDC]
+[BMDC@2;from;mice) 
+[mice; ;cpdm@2]
+[produced; ;BMDC@2]
+[produced; ;significantly]
+[less;of;cytokines]
+[cytokines; ;all]
+[cytokines; ;three]
+[compared; ;cytokines]
+[compared; with;BMDC@3]
+[BMDC@3; ;WT@2) 
+

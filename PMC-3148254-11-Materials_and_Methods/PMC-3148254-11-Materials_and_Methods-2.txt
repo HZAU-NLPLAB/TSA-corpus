@@ -1,0 +1,13 @@
+Cells were stained for flow cytometry with FITC-anti-CD80 or an appropriate control antibody as described (28).
+[Cells; ;stained) 
+[stained; ;were) 
+[stained;for;cytometry) 
+[cytometry; ;flow) 
+[stained;with;FITC-anti-CD80) 
+[or; ;FITC-anti-CD80) 
+[or; ;antibody) 
+[antibody; ;control) 
+[antibody; ;appropriate) 
+[described; ;as) 
+[described; ;antibody) 
+

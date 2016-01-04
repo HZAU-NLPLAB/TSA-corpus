@@ -1,0 +1,23 @@
+However, the molecular basis for the tissue-specific expression of Th1/Th2-like cytokines has remained elusive.
+[basis; ;the@1] 
+
+[basis; ;molecular] 
+
+[molecular basis;for;tissue-specific expression] 
+
+[expression; ;tissue-specific] 
+
+[tissue-specific expression;of;Th1/Th2-like cytokines] 
+
+[cytokines; ;Th1/Th2-like] 
+
+[/; ;Th1] 
+
+[/; ;Th2] 
+
+[Th1/Th2;-;like]
+
+[remained; ;molecular basis] 
+
+[remained; ;elusive] 
+

@@ -1,0 +1,37 @@
+Here we show that when added exogenously to cells, Hsp70 is readily imported into both cytoplasmic and nuclear compartments in a cell-type-specific fashion.
+[show; ;Here] 
+
+[show; ;we] 
+
+[show; ;that] 
+
+[that; ;when added exogenously to cells, Hsp70 is readily imported into both cytoplasmic and nuclear compartments in a cell-type-specific fashion] 
+
+[Hsp70 is readily imported into both cytoplasmic and nuclear compartments in a cell-type-specific fashion;when;added exogenously to cells] 
+
+[added; ;exogenously] 
+
+[added;to;cells] 
+
+[imported; ;Hsp70] 
+
+[imported; ;is] 
+
+[imported; ;readily] 
+
+[imported;into;compartments] 
+
+[both¡­and; ;cytoplasmic] 
+
+[both¡­and; ;nuclear] 
+
+[compartments; ;cytoplasmic] 
+
+[compartments; ;nuclear] 
+
+[imported;in;cell-type-specific fashion] 
+
+[cell-type-specific fashion; ;a] 
+
+[fashion; ;cell-type-specific] 
+

@@ -1,0 +1,8 @@
+HEK 293T cells were cultured in Dulbecco's modified Eagle medium (Invitrogen, Carlsbad, California, United States).
+[cells; ;HEK 293T]
+[cultured; ;HEK 293T cells]
+[cultured; ;were]
+[cultured;in;Eagle medium]
+[Eagle medium; ;Dulbecco's]
+[Eagle medium; ;modified]
+[Dulbecco's modified Eagle medium; ;Invitrogen, Carlsbad, California, United States £©

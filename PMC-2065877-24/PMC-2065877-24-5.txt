@@ -1,0 +1,10 @@
+Actin was used as a loading control.
+[used; ;Actin] 
+
+[used; ;was] 
+
+[used;as;control] 
+
+[control; ;a]
+[control; ;loading] 
+

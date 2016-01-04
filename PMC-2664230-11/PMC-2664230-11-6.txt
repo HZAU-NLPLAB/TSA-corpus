@@ -1,0 +1,29 @@
+To determine if CREB-DNA binding was affected by PTX in a manner similar to CREB phosphorylation, an EMSA was performed.
+[ ;To;determine] 
+
+[determine; ;if CREB-DNA binding was affected by PTX in a manner similar to CREB phosphorylation] 
+
+[binding; ;CREB-DNA] 
+
+[DNA;-;CREB] 
+
+[affected; ;binding] 
+
+[affected; ;was] 
+
+[affected;by;PTX] 
+
+[PTX;in;manner] 
+
+[manner; ;a] 
+
+[similar;to;phosphorylation] 
+
+[phosphorylation; ;CREB] 
+
+[EMSA; ;an] 
+
+[performed; ;EMSA] 
+
+[performed;  ;was] 
+

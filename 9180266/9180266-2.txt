@@ -1,0 +1,13 @@
+Elf-1 is a lymphoid-specific transcription factor that belongs to the ETS protein family. 
+[is; ;Elf-1]
+[is; ;transcription factor]
+[transcription factor; ;a]
+[transcription factor; ;lymphoid-specific]
+[specific;-;lymphoid]
+[factor; ;transcription]
+[transcription factor; ;that]
+[belongs; ;that]
+[belongs;to;family]
+[family; ;the]
+[family; ;ETS]
+[family; ;protein]

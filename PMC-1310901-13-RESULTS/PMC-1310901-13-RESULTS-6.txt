@@ -1,0 +1,4 @@
+% abrogation of promoter activity in PRO7_-negative Jurkat cells (Figure 5C).
+[abrogation;of;promoter activity]
+[activity;in;PRO7_-negative Jurkat cells]
+[PRO7_-negative Jurkat cells; ;Figure 5C]

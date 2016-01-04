@@ -1,0 +1,15 @@
+These data suggest that high levels of PRO12_ protein expression are associated with reduced HTLV-I replication in vivo.
+[data; ;These]
+[suggest; ;data]
+[suggest; ;that]
+[that; ;high levels of PRO12_ protein expression are associated with reduced HTLV-I replication in vivo]
+[levels; ;high]
+[levels   of   PRO12_ protein expression]
+[expression; ;PRO12_]
+[expression; ;protein]
+[associated; ;levels]
+[associated; ;are]
+[associated   with   reduced HTLV-I replication]
+[replication; ;reduced]
+[replication; ;HTLV-I]
+[associated   in   vivo £©

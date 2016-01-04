@@ -1,0 +1,7 @@
+Sections were antigen retrieved by microwaving in citrate buffer (pH 6).
+[retrieved; ;antigen ]
+[retrieved; ;were ]
+[retrieved; ;Sections ]
+[retrieved;by;microwaving ]
+[microwaving;in;buffer ]
+[buffer; ;citrate ]

@@ -1,0 +1,45 @@
+Also, an induction specific DNA binding protein was purified from HeLa cells that interacted with the (AAGTGA)4 tetrahexamer sequence and the PRDI domain.
+[an induction specific DNA binding protein was purified from HeLa cells that interacted with the (AAGTGA)4 tetrahexamer sequence and the PRDI domain; ;Also] 
+
+[protein; ;binding] 
+
+[protein; ;DNA] 
+
+[protein; ;specific] 
+
+[protein; ;induction] 
+
+[protein; ;an] 
+
+[purified; ;was] 
+
+[purified; ;protein] 
+
+[purified;from;HeLa cells] 
+
+[HeLa cells; ;that] 
+
+[cells; ;HeLa] 
+
+[interacted; ;that] 
+
+[interacted;with;tetrahexamer sequence] 
+
+[interacted;with;PRDI domain] 
+
+[and; ;tetrahexamer sequence] 
+
+[and; ;PRDI domain] 
+
+[tetrahexamer sequence; ;the@1] 
+
+[tetrahexamer sequence; ;4] 
+
+[tetrahexamer sequence; ;AAGTGA] 
+
+[sequence; ;tetrahexamer] 
+
+[PRDI domain; ;the@2] 
+
+[domain; ;PRDI] 
+

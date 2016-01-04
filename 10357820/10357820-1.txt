@@ -1,0 +1,15 @@
+Repression by Ikaros and Aiolos is mediated through histone deacetylase complexes.
+[Repression;by;Ikaros] 
+
+[and; ;Ikaros] 
+
+[and; ;Aiolos] 
+
+[Repression;by;Aiolos] 
+
+[mediated; ;Repression] 
+
+[mediated; ;is] 
+
+[mediated;through;histone deacetylase complexes] 
+

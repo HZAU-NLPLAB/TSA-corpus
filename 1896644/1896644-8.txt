@@ -1,0 +1,27 @@
+The B3 factor is detected in the cytosol only when cells are HIV1-infected.
+
+
+[factor; ;The] 
+
+[factor; ;B3] 
+
+[detected; ;factor] 
+
+[detected; ;is] 
+
+[detected;in;cytosol] 
+
+[cytosol; ;the] 
+
+[cytosol; ;when] 
+
+[cytosol; ;only] 
+
+[when; ;cells are HIV1-infected] 
+
+[are; ;cells] 
+
+[are; ;HIV1-infected] 
+
+[infected ;-;HIV1] 
+

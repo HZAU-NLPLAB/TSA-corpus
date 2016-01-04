@@ -1,0 +1,13 @@
+Rabbit anti-PRO21_ (Thr373) was purchased from EMD Biosciences.
+[anti-PRO21_; ;Rabbit] 
+
+[purchased; ;anti-PRO21_] 
+
+[purchased; ;was] 
+
+[purchased;from;Biosciences] 
+
+[Biosciences; ;EMD] 
+
+[PRO21_;-;anti] 
+

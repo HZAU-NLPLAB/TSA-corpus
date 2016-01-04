@@ -1,0 +1,12 @@
+Data acquired with a FACScan flow cytometer (BD Biosciences) were analyzed with WinMDI 2.
+[acquired; ;Data) 
+[acquired;with;cytometer) 
+[cytometer; ;flow) 
+[cytometer; ;FACScan) 
+[cytometer; ;a) 
+[cytometer; ;BD Biosciences]
+[Biosciences; ;BD) 
+[analyzed; ;cytometer) 
+[analyzed; ;were) 
+[analyzed;with;WinMDI 2)   
+

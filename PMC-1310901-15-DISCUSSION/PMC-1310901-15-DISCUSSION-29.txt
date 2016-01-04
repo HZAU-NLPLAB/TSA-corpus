@@ -1,0 +1,8 @@
+For ;example, ;PRO48_ ;is ;primarily ;known ;for ;its ;oncogenic ;features.
+[ ;For;example ;]
+[known; ;;PRO48_ ;]
+[known; ;;is ;]
+[known; ;;primarily ;]
+[known;for;features ;]
+[features; ;;its ;]
+[features; ;;oncogenic ;]

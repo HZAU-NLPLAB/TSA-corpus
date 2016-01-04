@@ -1,0 +1,21 @@
+Furthermore, cross-linking of CD30 leads to NF-kappa B activation and enhanced HIV transcription.
+
+
+[cross-linking of CD30 leads to NF-kappa B activation and enhanced HIV transcription ; ;Furthermore]
+
+[cross-linking;of;CD30] 
+
+[leads; ;cross-linking] 
+
+[leads;to;activation] 
+
+[activation; ;NF-kappa B] 
+
+[and; ;leads] 
+
+[and; ;enhanced] 
+
+[enhanced; ;HIV transcription]  
+
+[transcription; ;HIV] 
+

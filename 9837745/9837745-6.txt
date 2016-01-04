@@ -1,0 +1,27 @@
+Furthermore, transfection with LMP1 expression vector into a human B lymphoma cell line, Daudi, led to p40 production with nuclear factor (NF)-kappaB activation.
+[transfection;with;LMP1 expression vector] 
+
+[vector;expression;LMP1] 
+
+[transfection;into;human B lymphoma cell line] 
+
+[cell line; ;a]
+
+[cell line;B lymphoma;human] 
+
+[a human B lymphoma cell line; ;Daudi] 
+
+[led; ;transfection] 
+
+[led;to;p40 production] 
+
+[production; ;p40] 
+
+[p40 production;with;nuclear factor (NF)-kappaB activation ]
+
+[nuclear factor; ;NF] 
+
+[nuclear factor;-;kappaB] 
+
+[activation; ;nuclear factor (NF)-kappaB] 
+

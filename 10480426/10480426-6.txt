@@ -1,0 +1,20 @@
+A role for retinoic acid during neutrophil maturation has been suggested from a variety of sources.
+[role; ;A] 
+
+[role;for;retinoic acid] 
+
+[acid; ;retinoic] 
+
+[retinoic acid;during;maturation] 
+
+[maturation; ;neutrophil] 
+
+[[suggested; ;role] 
+
+[suggested;been;has] 
+
+[suggested;from;sources] 
+
+[a; ;variety] 
+
+[variety;of;sources]

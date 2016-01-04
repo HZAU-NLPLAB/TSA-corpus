@@ -1,0 +1,17 @@
+They are in particular able to inhibit most of the pro-inflammatory functions of the eosinophils.
+[are able to;in;They] 
+
+[are able to; ;in particular] 
+
+[are able to; ;inhibit] 
+
+[most; ;inhibit] 
+
+[most;of;pro-inflammatory functions] 
+
+[pro-inflammatory functions; ;the] 
+
+[functions;of;eosinophils]  
+
+[eosinophils;  ;the] 
+

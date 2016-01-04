@@ -1,0 +1,37 @@
+In sharp contrast, in B cells treated with the phorbol ester 12-O-tetradecanoylphorbol-13-acetate (TPA), strong interactions between the X2 box and NF-X2 containing c-Fos were observed.
+[ ;In;contrast] 
+
+[contrast; ;sharp] 
+
+[ ;in;B cells] 
+
+[treated; ;B cells] 
+
+[treated;with;phorbol ester 12-O-tetradecanoylphorbol-13-acetate] 
+
+[phorbol ester 12-O-tetradecanoylphorbol-13-acetate; ;the@1] 
+
+[phorbol ester 12-O-tetradecanoylphorbol-13-acetate; ;TPA] 
+
+[interactions; ;strong] 
+
+[interactions;between;X2 box] 
+
+[X2 box; ;the@2] 
+
+[interactions;between;NF-X2] 
+
+[and; ;X2 box] 
+
+[and; ;NF-X2] 
+
+[box; ;X2] 
+
+[containing; ;NF-X2] 
+
+[containing; ;c-Fos] 
+
+[observed; ;were] 
+
+[observed; ;interactions] 
+

@@ -1,0 +1,39 @@
+Promoter methylation of CpG target sites or direct deletions/insertions of genes are mechanisms of a reversible or permanent silencing of gene expression, respectively.
+[methylation; ; Promoter) 
+
+[Promoter methylation;of; CpG target sites) 
+
+[sites; ; CpG) 
+
+[sites; ; target) 
+
+[or; ; Promoter methylation) 
+
+[or; ; direct deletions/insertions) 
+
+[deletions/insertions; ; direct) 
+
+[direct deletions/insertio;of ;genes) 
+
+[are; ; Promoter methylation) 
+
+[are; ; direct deletions/insertions) 
+
+[are; ; mechanisms) 
+
+[mechanisms;of ;reversible) 
+
+[reversible; ; a) 
+
+[are; ; permanent silencing) 
+
+[silencing; ; permanent) 
+
+[or; ; mechanisms) 
+
+[or; ; silencing) 
+
+[silencing;of; gene expression) 
+
+[expression; ; gene) 
+

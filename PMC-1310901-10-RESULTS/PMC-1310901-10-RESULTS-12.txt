@@ -1,0 +1,11 @@
+There was no difference in the effects of AzaC versus AzadC, as both increased the PRO10_ mRNA level in CML-T1 cells as well (data not shown).
+[There was; ;no difference]
+[difference; ;no]
+[difference;in;effects]
+[effects; ;the@1]
+[effects;of@1;AzaC versus AzadC]
+[increased; ;both]
+[ increased; ;PRO10_ mRNA level]
+[PRO10_ mRNA level; ;the@2]
+[ ;in@1;CML-T1 cells]
+[as well; ;CML-T1 cells]

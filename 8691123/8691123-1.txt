@@ -1,0 +1,7 @@
+Activation protein 1-dependent transcriptional activation of interleukin 2 gene by Ca2+/calmodulin kinase type IV/Gr.
+[activation; ;Activation protein 1-dependent]
+[Activation protein 1;-;dependent]
+[activation; ;transcriptional]
+[activation;of;interleukin 2 gene]
+[gene; ;interleukin 2]
+[activation;by;Ca2+/calmodulin kinase type IV/Gr]

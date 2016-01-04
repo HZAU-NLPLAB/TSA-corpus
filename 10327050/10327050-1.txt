@@ -1,0 +1,23 @@
+Cell growth-regulated expression of mammalian MCM5 and MCM6 genes mediated by the transcription factor E2F.
+[expression;growth-regulated;Cell] 
+
+[regulated;-;growth] 
+
+[Cell growth-regulated expression;of;mammalian MCM5 and MCM6 genes] 
+
+[MCM5; ;mammalian] 
+
+[and; ;MCM5] 
+
+[and; ;MCM6]
+
+[genes; ;mammalian MCM5 and MCM6] 
+
+[mediated; ;Cell growth-regulated expression] 
+
+[mediated;by;transcription factor] 
+
+[transcription factor; ;the] 
+
+[transcription factor; ;E2F]  
+

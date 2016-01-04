@@ -1,0 +1,30 @@
+
+We used mouse embryonic stem (ES) cells to study globin gene expression and switching in vitro.
+
+
+[used; ;We] 
+
+[used; ;cells] 
+
+[cells; ;stem] 
+
+[cells; ;embryonic] 
+
+[cells; ;mouse] 
+
+[embryonic stem; ;ES] 
+
+[cells;to;study] 
+
+[study; ;expression] 
+
+[expression; ;gene] 
+
+[expression; ;globin] 
+
+[and; ;expression] 
+
+[and; ;switching] 
+
+[switching;in;vitro] 
+

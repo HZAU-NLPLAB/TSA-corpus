@@ -1,0 +1,6 @@
+Regulation of transcription of the interleukin-2 gene in B-lymphocytes
+[Regulation;of@1;transcription]
+[transcription;of@2;interleukin-2 gene]
+[interleukin-2 gene; ;the]
+[gene; ;interleukin-2]
+[ ;in;B-lymphocytes]

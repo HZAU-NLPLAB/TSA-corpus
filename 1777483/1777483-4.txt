@@ -1,0 +1,27 @@
+Most hybrids express both KBF1 and NF-kappa B in their nuclei, but one hybrid expresses only KBF1.
+
+
+[express; ;Most] 
+
+[express; ;hybrids] 
+
+[express; ;both KBF1 and NF-kappa B] 
+
+[both...and; ;KBF1] 
+
+[both...annd; ;NF-kappa B] 
+
+[express;in;nuclei] 
+
+[nuclei; ;their] 
+
+[express;but;expresses] 
+
+[expresses; ;one] 
+
+[expresses; ;hybrid] 
+
+[KBF1; ;only] 
+
+[expresses; ;KBF1] 
+

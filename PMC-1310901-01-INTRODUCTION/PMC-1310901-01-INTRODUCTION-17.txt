@@ -1,0 +1,10 @@
+Hypermethylation due to overexpression of DNA methyltransferases (DNMTs) remains one possible explanation for de novo methylation in tumorigenesis.
+[due to; ;Hypermethylation]
+[due to; ;overexpression]
+[overexpression;of;DNA methyltransferases]
+[DNA methyltransferases; ;DNMTs]
+[remains; ;explanation]
+[explanation; ;possible]
+[explanation; ;one]
+[explanation;for;de novo methylation]
+[methylation;in;tumorigenesis]

@@ -1,0 +1,37 @@
+Consistent with these findings, Ikaros and its repression domains can interact in vivo and in vitro with the mSin3 family of co-repressors which bind to histone deacetylases.
+[Consistent;with;findings] 
+
+[findings; ;these] 
+
+[findings; ;Ikaros] 
+
+[and@1; ;findings] 
+
+[and@1; ;repression domains] 
+
+[repression domains; ;its] 
+
+[its; ;Ikaros] 
+
+[Consistent;with;repression domains] 
+
+[interact; ;Consistent] 
+
+[interact; ;can] 
+
+[interact;in@1;vivo] 
+
+[and@2;in@2;vitro] 
+
+[ ;with;mSin3 family] 
+
+[mSin3 family; ;the] 
+
+[mSin3 family;of;co-repressors] 
+
+[co-repressors; ;which] 
+
+[bind; ;which] 
+
+[bind;to;histone deacetylases] 
+

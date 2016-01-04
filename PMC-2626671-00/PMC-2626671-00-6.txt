@@ -1,0 +1,47 @@
+Our data point to the existence of an elaborate transcriptional network in which PRO14_ initially induces and then cooperates with T-box transcription factors to regulate gene transcription in differentiating CTLs.
+[data; ;Our] 
+
+[point; ;data] 
+
+[point;to;existence] 
+
+[existence; ;the@1] 
+
+[existence;of;network] 
+
+[network; ;transcriptional] 
+
+[network; ;elaborate] 
+
+[network; ;an] 
+
+[network; ;in which] 
+
+[in which; ;PRO14_ initially induces and then cooperates with T-box transcription factors to regulate gene transcription in differentiating CTLs] 
+
+[induces; ;PRO14_]
+
+[induces; ;initially] 
+
+[and; ;induces] 
+
+[and; ;cooperates] 
+
+[cooperates; ;then] 
+
+[cooperates;with;factors] 
+
+[factors; ;transcription] 
+
+[transcription; ;T-box] 
+
+[factors;to;transcription] 
+
+[transcription; ;gene] 
+
+[transcription; ;regulate] 
+
+[transcription;in;CTLs]  
+
+[CTLs; ;differentiating] 
+

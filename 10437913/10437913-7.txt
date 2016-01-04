@@ -1,0 +1,15 @@
+Oct-1 has also been shown to repress interleukin 8 promoter activity.
+[shown; ;Oct-1] 
+
+[shown;been;has] 
+
+[shown; ;also] 
+
+[shown;to;repress] 
+
+[repress; ;interleukin 8 promoter activity] 
+
+[promoter activity;  ;interleukin 8] 
+
+[activity; ;promoter] 
+

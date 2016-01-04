@@ -1,0 +1,29 @@
+Studies of the actions of platelet-activating factor have centered mainly around neutrophils, monocytes, and platelets.
+[Studies;of@1;actions] 
+
+[actions; ;the] 
+
+[actions;of@2;platelet-activating factor] 
+
+[factor; ;platelet-activating] 
+
+[activating;-;platelet] 
+
+[centered; ;have] 
+
+[centered; ;Studies] 
+
+[centered; ;mainly] 
+
+[centered;around;neutrophils] 
+
+[centered;around;monocytes] 
+
+[centered;around;platelets] 
+
+[neutrophils; ;and] 
+
+[and; ;monocytes] 
+
+[and; ;platelets] 
+

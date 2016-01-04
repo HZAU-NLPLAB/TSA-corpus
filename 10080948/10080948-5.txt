@@ -1,0 +1,59 @@
+Furthermore, the phosphorylation status of TRAF2 had significant effects on the ability of the protein to bind to CD40, as evidenced by our observations that the CD40 cytoplasmic domain interacted preferentially with underphosphorylated TRAF2 and that phosphatase treatment significantly enhanced the binding of TRAF2 to CD40.
+[phosphorylation status; ;the@1] 
+
+[phosphorylation status;of@1;TRAF2] 
+
+[had; ;phosphorylation status] 
+
+[had; ;effects] 
+
+[effects;on;ability] 
+
+[effects; ;significant] 
+
+[ability; ;the@2] 
+
+[ability;of@2;protein] 
+
+[protein; ;the@3] 
+
+[had¡­effects;to@1;bind] 
+
+[bind;to@2;CD40] 
+
+[ ;as;evidenced] 
+
+[evidenced;by;observations] 
+
+[observations; ;our] 
+
+[observations; ;that@1] 
+
+[that@1; ;the@4 CD40 cytoplasmic domain interacted preferentially with underphosphorylated TRAF2] 
+
+[interacted; ;CD40 cytoplasmic domain] 
+
+[interacted; ;preferentially]
+
+[interacted;with;TRAF2] 
+
+[TRAF2; ;underphosphorylated] 
+
+[and; ;that@1] 
+
+[and; ;that@2] 
+
+[that@2; ;phosphatase treatment significantly enhanced the@5 binding of@3 TRAF2 to@3 CD40] 
+
+[enhanced; ;phosphatase treatment] 
+
+[enhanced; ;significantly] 
+
+[enhanced; ;binding] 
+
+[binding; ;the@5] 
+
+[binding;of@3;TRAF2] 
+
+[TRAF2;to@3;CD40] 
+

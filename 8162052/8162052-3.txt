@@ -1,0 +1,23 @@
+Human cDNAs encoding subunits of these factors have been cloned and sequenced.
+
+
+[subunits; ;encoding] 
+
+[encoding; ;cDNAs] 
+
+[cDNAs; ;Human] 
+
+[subunits;of;factors] 
+
+[factors; ;these] 
+
+[cloned; ;subunits] 
+
+[cloned; ;have] 
+
+[cloned; ;been] 
+
+[and; ;cloned] 
+
+[and; ;sequenced] 
+

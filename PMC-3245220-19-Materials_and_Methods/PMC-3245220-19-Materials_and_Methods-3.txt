@@ -1,0 +1,19 @@
+The cells were removed from the culture dish using Accutase (eBioscience, San Diego, CA) and stained with PRO3_-FITC and PI and analyzed by flow cytometry (FACSCalibur; BD PharMingen).
+[cells; ;The]
+[removed; ;cells]
+[removed; ;were]
+[removed; from;dish]
+[dish; ;culture]
+[using; ;dish]
+[using; ;Accutase]
+[and@1; ;removed]
+[and@1; ;stained]
+[stained;with;FITC]
+[FITC; ;PRO3_-]
+[and@2; ;PI]
+[and@2; ;FITC]
+[and@3; ;PI]
+[and@3; ;cytometry]
+[cytometry; ;flow]
+[analyzed;by;cytometry) 
+

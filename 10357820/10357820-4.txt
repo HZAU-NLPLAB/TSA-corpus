@@ -1,0 +1,27 @@
+Repression by Ikaros proteins correlates with hypo-acetylation of core histones at promoter sites and is relieved by histone deacetylase inhibitors.
+[Repression;by@1;Ikaros proteins] 
+
+[proteins; ;Ikaros] 
+
+[correlates; ;Repression] 
+
+[correlates;with;hypo-acetylation] 
+
+[hypo-acetylation;of;core histones] 
+
+[histones; ;core]
+
+[correlates;at;promoter sites] 
+
+[sites; ;promoter] 
+
+[and; ;correlates] 
+
+[and; ;is relieved] 
+
+[relieved; ;Repression] 
+
+[relieved; ;is] 
+
+[relieved;by@2;histone deacetylase inhibitors] 
+

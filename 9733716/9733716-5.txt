@@ -1,0 +1,29 @@
+LPS-binding protein, a lipid transfer protein found in serum, facilitates both PS- and PtdIns-mCD14 binding.
+[LPS-binding protein; ;a lipid transfer protein found in serum] 
+
+[protein@1; ;LPS-binding] 
+
+[binding@1;-;LPS] 
+
+[protein@2; ;a] 
+
+[protein@2; ;lipid transfer] 
+
+[transfer; ;lipid] 
+
+[found; ;protein@2] 
+
+[found;in;serum] 
+
+[facilitates; ;LPS-binding protein] 
+
+[facilitates; ;binding] 
+
+[binding@2; ;PS-mCD14] 
+
+[binding@2; ;PtdIns-mCD14] 
+
+[both...and; ;PS-mCD14] 
+
+[both...and; ;PtdIns-mCD14] 
+

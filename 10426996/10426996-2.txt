@@ -1,0 +1,14 @@
+
+Apoptosis is implicated in@1 the generation and resolution of inflammation in@2 response to bacterial pathogens.
+[implicated; ;Apoptosis]
+[implicated; ;is]
+[implicated;in;generation]
+[implicated;in;resolution]
+[generation; ;the]
+[resolution; ;the]
+[generation;of;inflammation]
+[resolution;of;inflammation]
+[implicated;in@2;response]
+[response;to;pathogens]
+[pathogens; ;bacterial]
+

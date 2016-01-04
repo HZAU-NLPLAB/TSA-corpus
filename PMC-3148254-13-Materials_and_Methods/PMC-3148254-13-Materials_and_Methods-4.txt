@@ -1,0 +1,16 @@
+Cell pellets were dissolved in 2X SDS-PAGE loading buffer, sonicated, and heated for 5 minutes at 95degreesC.
+[dissolved; ;pellets]
+[pellets; ;Cell]
+[dissolved; ;were]
+[dissolved;in;buffer]
+[buffer; ;loading]
+[buffer; ;SDS-PAGE]
+[buffer; ;2X]
+[dissolved;in;sonicated]
+[and; ;heated]
+[and; ;dissolved]
+[heated;for;minutes]
+[minutes; ;5]
+[;at;95degreesC]
+[degreesC; ;95) 
+

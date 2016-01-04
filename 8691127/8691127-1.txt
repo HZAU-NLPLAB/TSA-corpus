@@ -1,0 +1,11 @@
+echanisms of transactivation by nuclear factor of activated T cells-1.
+[Mechanisms;of@1;transactivation] 
+
+[transactivation;by;nuclear factor of activated T cells-1] 
+
+[nuclear factor;of@2;activated T cells-1] 
+
+[factor; ;nuclear] 
+
+[T cells-1; ;activated] 
+

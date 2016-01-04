@@ -1,0 +1,62 @@
+ffect of PTX on LPS-induced PRO1_ production by mononuclear cells
+The concentration of PRO2_ was quantitatively determined by ELISA in the media of cells exposed to the treatments described above after stimulation for up to a maximum of 18 hours, at 3-hour intervals.
+[Effect;of;PTX] 
+
+[PTX;on;production] 
+
+[production; ;PRO1]_ 
+
+[production; ;LPS-induced] 
+
+[induced;-;LPS] 
+
+[production;by;cells] 
+
+[cells; ;mononuclear] 
+
+[concentration; ;The] 
+
+[concentration;of;PRO2_] 
+
+[determined; ;concentration] 
+
+[determined; ;was] 
+
+[determined; ;quantitatively] 
+
+[determined;by;ELISA] 
+
+[ELISA;in;media] 
+
+[media; ;the] 
+
+[media;of;cells] 
+
+[exposed; ;cells] 
+
+[exposed;to;treatments] 
+
+[treatments; ;the] 
+
+[treatments; ;described] 
+
+[treatments; ;above] 
+
+[described;after;stimulation] 
+
+[stimulation;for;up] 
+
+[up;to;maximum] 
+
+[maximum; ;a]
+
+[maximum;of;hours] 
+
+[hours; ;18] 
+
+[ ;at;intervals] 
+
+[intervals; ;3-hour] 
+
+[hour;-;3] 
+

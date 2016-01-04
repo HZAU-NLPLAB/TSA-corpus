@@ -1,0 +1,13 @@
+Similar to its effect on the induction of AP1 by okadaic acid, PMA inhibits the induction of c-jun mRNA by okadaic acid.
+
+[Similar£»to£»effect]
+[effect£» £»its]
+[effect£»on£»induction@1]
+[induction@1£»of@1£»AP1]
+[induction@1£»by@1£»okadaic acid@1]
+[inhibits£» £»PMA]
+[inhibits£» £»induction@2]
+[induction@2£»of@2£»mRNA]
+[mRNA£» £»c-jun]
+[inhibits£»by@2£»okadaic acid@2]
+

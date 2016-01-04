@@ -1,0 +1,39 @@
+The flow of information from calcium-mobilizing receptors to nuclear factor of activated T cells (NFAT)-dependent genes is critically dependent on interaction between the phosphatase calcineurin and the transcription factor NFAT.
+[flow; ;The@1] 
+
+[flow;of@1;information] 
+
+[information;from¡­to;calcium-mobilizing receptors] 
+
+[information;from¡­to;nuclear factor] 
+
+[calcium;-;mobilizing] 
+
+[receptors; ;calcium-mobilizing] 
+
+[nuclear factor;of@2;activated T cells (NFAT)-dependent genes] 
+
+[activated T cells; ;NFAT] 
+
+[activated T cells;-;dependent] 
+
+[genes; ;activated T cells (NFAT)-dependent] 
+
+[is; ;flow] 
+
+[dependent; ;critically] 
+
+[dependent;on;interaction]
+
+[interaction;between;the@2 phosphatase calcineurin and the@3 transcription factor NFAT] 
+
+[phosphatase calcineurin; ;the@2] 
+
+[and; ;phosphatase calcineurin] 
+
+[and; ;transcription factor NFAT] 
+
+[transcription factor; ;the@3] 
+
+[transcription factor; ;NFAT] 
+

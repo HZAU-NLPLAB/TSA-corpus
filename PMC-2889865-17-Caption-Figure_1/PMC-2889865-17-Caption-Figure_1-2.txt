@@ -1,0 +1,6 @@
+[A) Time-dependent AP-1 activation in response to PMA. 
+[Time-dependent; ;[A]]
+[activation; ;Time-dependent]
+[dependent;-;Time]
+[activation; ;AP-1]
+[activation;in response to;PMA]

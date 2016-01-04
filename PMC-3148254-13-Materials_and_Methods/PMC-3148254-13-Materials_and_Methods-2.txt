@@ -1,0 +1,18 @@
+Cells were centrifuged for 1 minute at 400 xg (to promote contact between ligand cells and B cells) then incubated at 37degreesC for times indicated in Fig.
+[centrifuged; ;Cells) 
+[centrifuged; ;were) 
+[centrifuged;for;minute) 
+[minute; ;1) 
+[;at;400 xg]
+[xg; ;400) 
+[centrifuged; ;to promote contact between ligand cells and B cells) 
+[promote; ;contact]
+[between...and; ;cells]
+[between...and; ;B cells]
+[cells; ; ligand]
+[incubated; ;then) 
+[incubated;at;37degreesC]
+[degreesC; ;37) 
+[incubated;for;times) 
+[indicated;in;Fig)   
+

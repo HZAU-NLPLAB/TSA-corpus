@@ -1,0 +1,29 @@
+The addition of rCTLA4Ig, which blocks CD28 binding to its ligand, to the cultures decreased IL-2 promoter activation by >80%.
+[addition; ;The@1] 
+
+[addition;of;rCTLA4Ig] 
+
+[addition; ;which] 
+
+[blocks; ;which] 
+
+[blocks; ;CD28] 
+
+[blocks; ;binding] 
+
+[binding;to@1;ligand] 
+
+[ligand; ;its] 
+
+[binding;to@2;cultures] 
+
+[cultures; ;the@2] 
+
+[decreased; ;cultures] 
+
+[decreased; ;IL-2 promoter activation] 
+
+[activation; ;IL-2 promoter] 
+
+[decreased;by;>80%]  
+

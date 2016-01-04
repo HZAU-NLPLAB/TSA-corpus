@@ -1,0 +1,37 @@
+Stimulation was significantly higher when lysates were heated at 100 degrees C for 5 min but was reduced by treatment with lysozyme or protease.
+[was; ;Stimulation] 
+
+[was; ;higher]
+
+[higher; ;significantly] 
+
+[Stimulation was significantly higher;when;lysates were heated at 100 degrees C for 5 min] 
+
+[heated; ;lysates] 
+
+[heated; ;were] 
+
+[heated;at;100 degrees C] 
+
+[heated;for;5 min] 
+
+[min; ;5] 
+
+[C;degrees;100] 
+
+[but; ;lysates were heated at 100 degrees C for 5 min] 
+
+[but; ;was reduced by treatment with lysozyme or protease] 
+
+[reduced; ;lysates] 
+
+[reduced; ;was] 
+
+[reduced;by;treatment] 
+
+[treatment;with;lysozyme or protease] 
+
+[or; ;lysozyme] 
+
+[or; ;protease] 
+

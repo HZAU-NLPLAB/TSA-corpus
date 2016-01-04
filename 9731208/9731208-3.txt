@@ -1,0 +1,21 @@
+BMT inhibited the replication of HIV-1 in both laboratory and primary isolates in vitro.
+[inhibited; ;BMT] 
+
+[inhibited; ;replication] 
+
+[replication; ;the] 
+
+[replication;of;HIV-1] 
+
+[inhibited;in@1;isolates] 
+
+[isolates; ;laboratory] 
+
+[isolates; ;primary] 
+
+[both...and; ;laboratory] 
+
+[both...and; ;primary] 
+
+[inhibited;in@2;vitro] 
+

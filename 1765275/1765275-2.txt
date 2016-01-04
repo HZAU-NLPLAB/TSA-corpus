@@ -1,0 +1,56 @@
+
+Transcription of a human U2 small nuclear RNA(snRNA)-encoding gene in HeLa cells requires a distal enhancer element, which is composed of one octamer motif (Oct) and three Sp 1-binding sites.
+
+
+[Transcription;of@1;gene] 
+
+[gene; ;a@1] 
+
+[gene; ;human] 
+
+[gene; ;U2] 
+
+[gene; ;small] 
+
+[gene; ;nuclear] 
+
+[gene; ;RNA(snRNA)-encoding] 
+
+[encoding;-;RNA(snRNA)] 
+
+[gene;in;HeLa cells]
+
+
+[requires; ;HeLa cells] 
+
+[requires; ;element] 
+
+[element; ;enhancer] 
+
+[elemen; ;distal] 
+
+[element; ;a@2] 
+
+[element; ;which] 
+
+[composed; ;which] 
+
+[composed;is;
+ ]
+[composed;of;motif] 
+
+[motif; ;one] 
+
+[motif; ;octamer] 
+
+[octamer; ;Oct] 
+
+[and; ;motif] 
+
+[and; ;sites] 
+
+[sites; ;three] 
+
+[sites; ;Sp 1-binding] 
+
+[binding;-;Sp 1]

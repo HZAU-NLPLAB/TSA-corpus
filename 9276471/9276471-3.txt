@@ -1,0 +1,41 @@
+Here, we report that a DNA-binding activity primarily consisting of the classical NF-kappa B heterodimer, p50/RelA, is induced in phagocytosing neutrophils.
+[we report that a DNA-binding activity primarily consisting of the classical NF-kappa B heterodimer, p50/RelA, is induced in phagocytosing neutrophils; ;Here] 
+
+[report; ;we] 
+
+[report; ;that] 
+
+[that; ;a DNA-binding activity primarily consisting of the classical NF-kappa B heterodimer, p50/RelA, is induced in phagocytosing neutrophils] 
+
+[DNA-binding activity; ;a] 
+
+[consisting; ;primarily] 
+
+[consisting; ;DNA-binding activity] 
+
+[consisting;of;NF-kappa B heterodimer] 
+
+[NF-kappa B heterodimer; ;the] 
+
+[NF-kappa B heterodimer; ;classical] 
+
+[NF-kappa B heterodimer; ;p50/RelA] 
+
+[heterodimer; ;NF-kappa B] 
+
+[/; ;p50] 
+
+[/; ;RelA] 
+
+[induced; ;is] 
+
+[induced; ;DNA-binding activity] 
+
+[binding activity;-;DNA] 
+
+[activity; ;binding] 
+
+[induced;in;phagocytosing neutrophils] 
+
+[neutrophils; ;phagocytosing] 
+

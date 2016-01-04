@@ -1,0 +1,17 @@
+Phosphorylated PRO19_ and PRO20_ were still present at 25 muM.
+[were; ;PRO19_ and PRO20_] 
+
+[and; ;PRO19_] 
+
+[and; ;PRO20_] 
+
+[PRO19_; ;Phosphorylated] 
+
+[were; ;present] 
+
+[were; ;still] 
+
+[present;at;muM]
+
+[muM; ;25] 
+

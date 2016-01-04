@@ -1,0 +1,13 @@
+Each experiment was carried out at least three times.
+
+[experiment; ;Each]
+
+[carried; ;experiment]
+
+[carried; ;was]
+
+[carried;out;three times]
+
+[three times  ; ;at least]
+
+[times; ;three]

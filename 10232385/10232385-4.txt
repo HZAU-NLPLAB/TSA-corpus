@@ -1,0 +1,15 @@
+However, cell lines with high metastatic potential are resistant to TNF in vitro.
+[cell lines;with;potential] 
+
+[potential; ;high] 
+
+[potential; ;metastatic] 
+
+[are; ;cell lines] 
+
+[are; ;resistant] 
+
+[resistant;to;TNF] 
+
+[are;in;vitro] 
+

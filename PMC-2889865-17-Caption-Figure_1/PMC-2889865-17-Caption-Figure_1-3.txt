@@ -1,0 +1,7 @@
+[B) HK E. coli does not activate AP-1. 
+[HK E. coli; ;[B]]
+[activate; ;does]
+[activate; ;not]
+[activate; ;HK E. coli]
+[E. coli; ;HK]
+[activate; ;AP-1]

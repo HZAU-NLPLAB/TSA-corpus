@@ -1,0 +1,43 @@
+In many pathological situations, the balance between Th1 and Th2 immune responses determines the outcome of diverse immunologically mediated clinical syndromes including infectious, autoimmune, and allergic diseases.
+[ ;In;situations] 
+
+[situations; ;many] 
+
+[situations; ;pathological] 
+
+[balance; ;the@1] 
+
+[balance;between;Th1 and@1 Th2 immune responses] 
+
+[and@1; ;Th2] 
+
+[immune responses; ;Th1] 
+
+[immune responses; ;Th2] 
+
+[determines; ;balance] 
+
+[determines; ;outcome] 
+
+[outcome; ;the@2] 
+
+[outcome;of;syndromes] 
+
+[syndromes; ;diverse] 
+
+[syndromes; ;mediated] 
+
+[mediated; ;immunologically] 
+
+[syndromes; ;clinical] 
+
+[syndromes;including;infectious, autoimmune, and@2 allergic diseases] 
+
+[and@2; ;infectious] 
+
+[and@2; ;diseases]  
+
+[diseases; ;autoimmune] 
+
+[diseases; ;allergic] 
+

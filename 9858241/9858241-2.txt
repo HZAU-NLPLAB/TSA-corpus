@@ -1,0 +1,46 @@
+
+Restoration of the CCAAT box or insertion of an erythroid Kruppel-like factor (EKLF) binding site in the delta promoter activates its expression in several erythroid cell lines.
+[Restoration;of@1;CCAAT box] 
+
+[box; ;the] 
+
+[box; ;CCAAT] 
+
+[or; ;Restoration] 
+
+[or; ;insertion] 
+
+[insertion;of@2;erythroid Kruppel-like factor] 
+
+[erythroid Kruppel-like factor; ;an] 
+
+[erythroid Kruppel-like factor; ;EKLF] 
+
+[binding; ;erythroid Kruppel-like factor] 
+
+[binding; ;site] 
+
+[Restoration;in@1;promoter] 
+
+[insertion;in@1;promoter] 
+
+[promoter; ;the@2] 
+
+[promoter; ;delta] 
+
+[activates; ;Restoration] 
+
+[activates; ;insertion] 
+
+[activates; ;expression] 
+
+[expression; ;its] 
+
+[its; ;erythroid Kruppel-like factor] 
+
+[activates;in@2;cell lines] 
+
+[cell lines; ;several] 
+
+[cell lines; ;erythroid] 
+

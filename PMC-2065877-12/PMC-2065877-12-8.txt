@@ -1,0 +1,48 @@
+For inhibitor studies, splenocytes were seeded at 1 x 107 cells/ml at 100 mul per well on day of harvest, and inhibitors were added at the concentrations indicated in the figures.
+[studies; ;inhibitor] 
+
+[;For;studies] 
+
+[seeded; ;splenocytes] 
+
+[seeded; ;were] 
+
+[seeded;at;cells/ml] 
+
+[cells/ml; ;1 x 107] 
+
+[x; ;1] 
+
+[x; ;107] 
+
+[/; ;cells]
+[/; ;ml] 
+
+[cells/ml;at;mul] 
+
+[mul; ;100] 
+
+[mul; ;per well] 
+
+[well; ;per] 
+
+[mul;on;day] 
+
+[day;of;harvest] 
+
+[and; ;splenocytes were seeded at 1 x 107 cells/ml at 100 mul] per well on day of harvest] 
+
+[and; ;inhibitors were added at the concentrations indicated in the figures] 
+
+[added; ;inhibitors] 
+
+[added; ;inhibitors were] 
+
+[added;at;concentrations] 
+
+[the concentrations; ;the] 
+
+[indicated;in;figures] 
+
+[figures; ;the] 
+

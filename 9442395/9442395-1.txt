@@ -1,0 +1,10 @@
+Temporal control of IgH gene expression in developing B cells by the 3' locus control region.
+[control; ;Temporal]
+[control;of;expression]
+[expression; ;IgH gene]
+[control;in;B cells]
+[B cells; ;developing]
+[control;by;region]
+[region; ;the]
+[region; ;3' locus]
+[region; ;control]

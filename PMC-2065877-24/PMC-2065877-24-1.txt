@@ -1,0 +1,82 @@
+RO1_ Activates PRO2_ Signaling and Deregulates the PRO3_ Cell Cycle Pathway
+[A and B] Immunoblot analysis of purified B cells (PRO4_+) from the spleens of WT and PRO5_ transgenic mice for PRO6_ signaling, probing for (A) activated PRO7_ and downstream targets, including inactivated PRO8_/PRO9_, and (B) activated PRO10_, and total levels of PRO11_.
+[Activates; ;PRO1_] 
+
+[Activates; ;Signaling] 
+
+[Signaling; ;PRO2]_ 
+
+[and@1; ;Activates] 
+
+[and@1; ;Deregulate] 
+
+[Deregulates; ;Pathway] 
+
+[Pathway; ;Cycle] 
+
+[Cycle; ;Cell] 
+
+[Cell; ;PRO3_] 
+
+[Pathway; ;the] 
+
+[and@2; ;A] 
+
+[and@2; ;B] 
+
+[analysis; ;Immunoblot]
+[analysis;of;B cells] 
+
+[B cells; ;PRO4_+] 
+
+[B cells; ;purified] 
+
+[B cells;from;spleens] 
+
+[spleens; ;the@2] 
+
+[spleens;of;WT]
+
+[and@3; ;WT] 
+
+[and@3; ;mice] 
+
+[mice; ;transgenic 
+
+[mice; ;PRO5_]
+
+[mice;for;signaling] 
+
+[signaling; ;PRO6_] 
+
+[PRO7_;for;PRO7_] 
+
+[PRO7_; ;activated] 
+
+[and@4; ;PRO7_ 
+
+[and@4; ;targets] 
+
+[targets; ;downstream] 
+
+[PRO8_/PRO9_; ;inactivated]
+
+[including; ;PRO8_/PRO9_] 
+
+[including; ;PRO10_] 
+
+[/; ;PRO8_] 
+
+[/; ;PRO9_] 
+
+[and@5; ;PRO8_/PRO9_] 
+
+[and@5; ;PRO10_] 
+
+[PRO10_; ;activated] 
+
+[and@6; ;levels] 
+
+[levels; ;total] 
+
+[levels;of;PRO11_]

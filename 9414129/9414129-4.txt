@@ -1,0 +1,69 @@
+We describe here a heterodimeric binding complex of NF-kappaB subunits (c-Rel and p65) which is identical to the one obtained using the HIV-LTR-kappaB site as recognition sequence and different from the one (c-Rel and p50) observed with nuclear extracts from Mo T-lymphoid HTLV-II infected cells.
+
+
+[describe; ;We]
+
+[describe; ;here] 
+
+[here; ;complex]
+[complex; ;a] 
+
+[complex; ;binding] 
+
+[complex; ;heterodimeric] 
+
+[complex;of;subunits] 
+
+[subunits; ;NF-kappaB] 
+
+[and@1; ;c-Rel@1] 
+
+[and@1; ;p65] 
+
+[subunits; ;which] 
+
+[is; ;which] 
+
+[is; ;identical] 
+
+[identical;to;one@1] 
+
+[one@1; ;the@1]
+
+[one@1; ;obtained] 
+
+[obtained;using;HIV-LTR-kappaB site] 
+
+[site; ;HIV-LTR-kappaB] 
+
+[site; ;the@2] 
+
+[site;as;sequence] 
+
+[sequence; ;recognition] 
+
+[and@2; ;identical] 
+
+[and@2; ;different] 
+
+[different;from;one@2] 
+
+[one; ;the@3] 
+
+[one@2; ;c-Rel and p50] 
+
+[and@3; ;c-Rel@2] 
+
+[and@3; ;p50] 
+
+[one@2; ;observed] 
+
+[observed;with;extracts] 
+
+[extracts; ;nuclear] 
+
+[extracts;from@2;cells] 
+
+[cells; ;infected] 
+
+[cells; ;Mo T-lymphoid HTLV-II]

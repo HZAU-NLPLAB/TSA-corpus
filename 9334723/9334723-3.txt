@@ -1,0 +1,35 @@
+We have investigated the effects of Vpr on host cell activation and confirm that it influences cellular proliferation.
+[investigated; ;have] 
+
+[investigated; ;We] 
+
+[investigated; ;effects] 
+
+[effects; ;the] 
+
+[effects;of;Vpr] 
+
+[Vpr;on;activation] 
+
+[activation; ;host cell] 
+
+[cell; ;host] 
+
+[and; ;investigated] 
+
+[and; ;confirm] 
+
+[confirm; ;We] 
+
+[confirm; ;that] 
+
+[that; ;it influences cellular proliferation] 
+
+[it; ;Vpr] 
+
+[influences; ;it] 
+
+[influences; ;cellular proliferation] 
+
+[proliferation; ;cellular] 
+

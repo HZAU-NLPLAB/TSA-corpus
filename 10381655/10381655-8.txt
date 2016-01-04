@@ -1,0 +1,15 @@
+We conclude that NF-kappaB is a context-dependent apoptosis regulator.
+[conclude; ;We] 
+
+[conclude; ;that] 
+
+[that; ;NF-kappaB is a context-dependent apoptosis regulator] 
+
+[is; ;NF-kappaB] 
+
+[is; ;context-dependent apoptosis regulator] 
+
+[regulator;apoptosis;context-dependent] 
+
+[dependent;-;context] 
+

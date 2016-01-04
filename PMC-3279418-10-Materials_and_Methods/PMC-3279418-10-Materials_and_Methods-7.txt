@@ -1,0 +1,8 @@
+24 hours later, cells were incubated with fresh culture medium.
+[;24 hours later;cells were incubated with fresh culture medium]
+[incubated; ;cells]
+[incubated; ;were]
+[incubated;with;medium]
+[medium; ;culture]
+[medium; ;fresh) 
+

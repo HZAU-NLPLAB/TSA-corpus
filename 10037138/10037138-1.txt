@@ -1,0 +1,29 @@
+Differential expression and phosphorylation of CTCF, a c-myc transcriptional regulator, during differentiation of human myeloid cells.
+[expression; ;Differential] 
+
+[expression; ;phosphorylation] 
+
+[and; ;phosphorylation] 
+
+[phosphorylation; ;Differential] 
+
+[phosphorylation;of@1;CTCF] 
+
+[CTCF; ;regulator]
+
+[regulator; ;a] 
+
+[regulator; ;c-myc] 
+
+[regulator; ;transcriptional] 
+
+[expression;during;differentiation] 
+
+[phosphorylation;during;differentiation] 
+
+[differentiation;of@2;human myeloid cells] 
+
+[cells; ;human] 
+
+[cells; ;myeloid] 
+

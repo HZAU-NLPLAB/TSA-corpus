@@ -1,0 +1,18 @@
+These results indicate that signaling through Jak3 is activated by CD40 and plays an important role in CD40-mediated functions.
+
+[results; ;These]
+[indicate; ;results]
+[indicate; ;that]
+[that; ;signaling through Jak3 is activated by CD40]
+[signaling;through;Jak3]
+[activated; ;Jak3]
+[activated;is; ]
+[activated;by;CD40@1]
+[and; ;plays]
+[and; ;activated]
+[plays; ;role]
+[role; ;an]
+[role; ;important]
+[role;in;functions]
+[functions; ;CD40-mediated]
+[mediated; ;CD40@2]

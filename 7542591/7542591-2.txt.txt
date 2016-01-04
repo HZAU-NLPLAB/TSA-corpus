@@ -1,0 +1,21 @@
+
+The CD4 coreceptor interacts with non-polymorphic regions of major histocompatibility complex class II molecules on antigen-presenting cells and contributes to T cell activation.
+
+[coreceptor; ;The]
+[coreceptor; ;CD4]
+[interacts; ;coreceptor]
+[interacts;with;regions]
+[regions; ;non-polymorphic]
+[polymorphic;-;non]
+[regions;of;molecules]
+[molecules; ;class II]
+[class II; ;complex]
+[complex; ;histocompatibility]
+[histocompatibility; ;major]
+[molecules;on;cells]
+[cells; ;antigen-presenting]
+[presenting;-;antigen]
+[and; ;contributes]
+[and; ;interacts]
+[contributes;to;activation]
+[activation; ;T cell]

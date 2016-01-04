@@ -1,0 +1,13 @@
+Inhibition of M-CSF-induced PKC reduces NF-kappaB-regulated genes in both MDMs and RAW 264.7 cells.
+[Inhibition;of;PKC]
+[PKC; ;M-CSF-induced]
+[induced; ;M-CSF-]
+[reduces; ;genes]
+[genes; ;regulated]
+[regulated; ;NF-kappaB-]
+[reduces; ;PKC]
+[reduces;in;both MDMs and RAW 264.7 cells]
+[both...and; ;MDMs]
+[both...and; ;cells]
+[cells; ;RAW 264.7)  
+

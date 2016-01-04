@@ -1,0 +1,55 @@
+The following reagents were used for the experiments presented in this report: PRO14_-FITC Apoptosis Detection Kit (BD),   PRO15_ Negative Isolation Kit (Invitrogen),   PRO16_ MicroBeads (Miltenyi Biotec),   and SYBR Green PCR Core Reagents (Applied Biosystems).
+[reagents; ;following] 
+
+[reagents; ;The@1] 
+
+[used; ;reagents] 
+
+[used; ;were] 
+
+[used;for;experiments] 
+
+[experiments; ;the@2] 
+
+[presented; ;experiments] 
+
+[presented;in;report] 
+
+[report; ;this] 
+
+[:; ;report] 
+
+[:; ;PRO14_-FITC Apoptosis Detection Kit (BD),   PRO15_ Negative Isolation Kit (Invitrogen),   PRO16_ MicroBeads (Miltenyi Biotec),   and SYBR Green PCR Core Reagents (Applied Biosystems)] 
+
+[Kit; ;Detection] 
+
+[Detection; ;Apoptosis] 
+
+[Apoptosis; ;PRO14_-FITC]
+
+[Kit; ;Isolation] 
+
+[ ; ;Negative] 
+
+[Isolation; ;PRO15_] 
+
+[Kit; ;BD] 
+
+[Kit; ;Invitrogen] 
+
+[MicroBeads; ;PRO16_] 
+
+[Reagents; ;Core] 
+
+[Core; ;PCR] 
+
+[PCR; ;GreeN]
+
+[Reagents; ;SYBR] 
+
+[and; ;Kit] 
+
+[and; ;Kit] 
+
+[and; ;Reagents] 
+

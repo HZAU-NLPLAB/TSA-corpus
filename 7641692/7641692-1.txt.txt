@@ -1,0 +1,15 @@
+IL-2 gene expression and NF-kappa B activation through CD28 requires reactive oxygen production by 5-lipoxygenase.
+
+[expression; ;gene]
+[gene; ;IL-2]
+[and; ;expression]
+[and; ;activation]
+[activation; ;NF-kappa B]
+[kappa;-;NF]
+[activation;through;CD28]
+[requires; ;CD28]
+[requires; ;production]
+[production; ;oxygen]
+[oxygen; ;reactive]
+[requires;by;5-lipoxygenase]
+[lipoxygenase;-;5]

@@ -1,0 +1,10 @@
+The NF kappa B independent cis-acting sequences in HIV-1 LTR responsive to T-cell activation.
+[NF kappa B independent cis-acting sequences; ;The]
+[NF kappa B independent cis-acting sequences;in;LTR]
+[sequences; ;NF kappa B]
+[sequences; ;independent]
+[sequences; ;cis-acting]
+[LTR; ;HIV-1]
+[NF kappa B independent cis-acting sequences; ;responsive]
+[responsive;to;T-cell activation]
+[activation; ;T-cell]

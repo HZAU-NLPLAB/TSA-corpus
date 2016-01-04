@@ -1,0 +1,34 @@
+
+The development and function of T lymphocytes are regulated tightly by signal transduction pathways that include specific cell-surface receptors, intracellular signaling molecules, and nuclear transcription factors.
+[development; ;The] 
+
+[and@1; ;development] 
+
+[and@1; ;function] 
+
+[function;of;T lymphocytes] 
+
+[regulated; ;development and@1 function] 
+
+[regulated; ;are] 
+
+[regulated; ;tightly] 
+
+[regulated;by;signal transduction pathways] 
+
+[pathways;transduction;signal] 
+
+[signal transduction pathways; ;that] 
+
+[include; ;that] 
+
+[include; ;cell-surface receptors] 
+
+[cell-surface receptors; ;specific] 
+
+[and@2; ;cell-surface receptors] 
+
+[and@2; ;intracellular signaling molecules] 
+
+[and@2; ;nuclear transcription factors] 
+

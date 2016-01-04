@@ -1,0 +1,16 @@
+Tap associated with Tip following transient expression in COS-1 cells and stable expression in human Jurkat-T cells.
+
+[associated; ;Tap]
+[associated;with;Tip]
+[following; ;Tip]
+[following; ;expression]
+[expression; ;transient]
+[expression;in;cells]
+[and; ;expression]
+[and; ;COS-1 cells]
+[cells; ;COS-1]
+[expression; ;stable]
+[expression;in;cells]
+[cells; ;human]
+[cells; ;Jurkat-T]
+[T;-;Jurkat]

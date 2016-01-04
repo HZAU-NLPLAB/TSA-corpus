@@ -1,0 +1,25 @@
+Mutational analyses indicate that the carboxy-terminal domain of Oct2 is critical for enhancer activation.
+[analyses; ;Mutational] 
+
+[indicate; ;analyses] 
+
+[indicate; ;that] 
+
+[that; ;the carboxy-terminal domain of Oct2 is critical for enhancer activation] 
+
+[domain; ;the] 
+
+[domain; ;carboxy-terminal] 
+
+[carboxy;-;terminal] 
+
+[domain;of;Oct2] 
+
+[is; ;domain] 
+
+[is; ;critical] 
+
+[critical;for;activation] 
+
+[activation; ;enhancer] 
+

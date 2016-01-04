@@ -1,0 +1,12 @@
+Recently, we described an impaired expression of the PRO4_ (PRO5_) in CML, correlating with poor response to PRO6_ treatment (3).
+[described; ;we]
+[described; ;expression]
+[expression; ;impaired]
+[expression;of;PRO4_]
+[PRO4_; ;PRO5_]
+[PRO4_; ;the]
+[$;in;CML]
+[correlating;with;response]
+[response; ; poor]
+[$;to;treatment]
+[treatment; ;PRO6_]

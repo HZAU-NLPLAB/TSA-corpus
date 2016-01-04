@@ -1,0 +1,13 @@
+Transfection of c-jun promoter constructs confirmed the marked difference between PMA and okadaic acid in inducing c-jun transcription.
+
+[Transfection£»of£»constructs]
+[promoter£» £»c-jun]
+[constructs£» £»promoter]
+[confirmed£» £»constructs]
+[confirmed£» £»marked]
+[marked£» £»difference]
+[between...and£» £»PMA]
+[between...and£» £»okadaic acid]
+[difference£»in£»transcription]
+[c-jun£» £»inducing]
+[transcription£» £»c-jun]

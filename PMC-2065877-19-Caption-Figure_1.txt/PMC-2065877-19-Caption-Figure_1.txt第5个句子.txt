@@ -1,0 +1,12 @@
+(B) White and red pulps are shown, but this architecture is lost upon development of lymphoma.
+[and; ;White ]
+[and; ;red ]
+[pulps; ;White and red ]
+[shown; ;pulps ]
+[shown; ;are ]
+[White and red pulps are shown;but;this architecture is lost upon development of lymphoma;]
+[architecture; ;this ]
+[is; ;architecture ]
+[development; ;upon ]
+[upon; ;lost ]
+[development;of;lymphoma]

@@ -1,0 +1,23 @@
+hosphatidylinositides bind to plasma membrane CD14 and can prevent monocyte activation by bacterial lipopolysaccharide.
+[bind; ;Phosphatidylinositides] 
+
+[bind;to;plasma membrane CD14] 
+
+[membrane; ;plasma] 
+
+[and; ;bind] 
+
+[and; ;prevent] 
+
+[prevent; ;can] 
+
+[prevent; ;Phosphatidylinositides] 
+
+[prevent; ;monocyte activation] 
+
+[activation; ;monocyte] 
+
+[prevent;by;bacterial lipopolysaccharide] 
+
+[lipopolysaccharide; ;bacterial] 
+

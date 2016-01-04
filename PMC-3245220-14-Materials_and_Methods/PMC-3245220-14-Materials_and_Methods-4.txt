@@ -1,0 +1,21 @@
+To obtain monocyte-derived macrophages (MDMs),  monocytes were cultured in RPMI-1640 medium containing 10% FBS, and 10 microg/ml polymyxin B and 20 ng/ml M-CSF.
+[cultured;To;obtain]
+[obtain; ;macrophages]
+[macrophages; ;monocyte-derived]
+[macrophages; ;MDMs]
+[cultured; ;monocytes]
+[cultured; ;were]
+[cultured;in;medium]
+[medium; ;RPMI-1640]
+[containing; ;medium]
+[containing; ;FBS]
+[FBS; ;10%]
+[and@1; ;FBS]
+[and@1; ;polymyxin B]
+[polymyxin B; ;10 microg/ml]
+[microg/ml; ;10]
+[and@2; ;M-CSF]
+[and@2; ;polymyxin B]
+[M-CSF; ;20 ng/ml]
+[ng/ml; ;20) 
+

@@ -1,0 +1,15 @@
+1.Jurkat T-cells were stimulated with 162 nM PMA and 5 x 107 CFU/ml HK E. coli for 24 h.
+[T-cells; ;urkat]
+[stimulated; ;were]
+[stimulated; ;T-cells]
+[stimulated;with;PMA]
+[stimulated;with;HK E. coli]
+[and; ;PMA]
+[and; ;HK E. coli]
+[E. coli; ;HK]
+[PMA; ;162 nM) 
+[nM; ;162]
+[HK E. coli; ;5 x 107 CFU/ml) 
+[CFU/ml; ;5 x 107)  
+[stimulated;for;24 h]
+[h; ;24)   

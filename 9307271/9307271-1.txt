@@ -1,0 +1,31 @@
+ctivation of a novel gene in 3q21 and identification of intergenic fusion transcripts with ecotropic viral insertion site I in leukemia.
+[Activation;of@1;novel gene] 
+
+[novel gene; ;a] 
+
+[gene; ;novel] 
+
+[Activation;in;3q21] 
+
+[and; ;Activation] 
+
+[and; ;identification] 
+
+[identification;of@2;transcripts] 
+
+[transcripts; ;fusion] 
+
+[transcripts; ;intergenic] 
+
+[transcripts;with;ecotropic viral insertion site I] 
+
+[insertion site I; ;ecotropic viral] 
+
+[site I; ;insertion] 
+
+[viral; ;ecotropic] 
+
+[Activation;in;leukemia] 
+
+[identification;in;leukemia] 
+

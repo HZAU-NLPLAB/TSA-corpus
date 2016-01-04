@@ -1,0 +1,70 @@
+From HeLa cells, two major proteins of 52 and 45 kilodaltons (kD) copurified with DNA binding activity, whereas from T-cells, four proteins--a major protein of 52 kD and three minor proteins of 82, 67, and 43-47 kD--were purified.
+[ ;From;HeLa cells] 
+
+[cells; ;HeLa] 
+
+[proteins@1; ;major] 
+
+[proteins@1; ;two] 
+
+[proteins@1;of@1;52 and 45 kilodaltons] 
+
+[kilodaltons; ;kD@1] 
+
+[and@1; ;52@1] 
+
+[and@1; ;45] 
+
+[kilodaltons; ;52@1] 
+
+[kilodaltons; ;45] 
+
+[copurified; ;proteins] 
+
+[copurified;with;activity] 
+
+[activity; ;binding] 
+
+[activity; ;DNA] 
+
+[From HeLa cells, two major proteins of 52 and 45 kilodaltons (kD) copurified with DNA binding activity;whereas;from T-cells, four proteins--a major protein of 52 kD and three minor proteins of 82, 67, and 43-47 kD--were purified] 
+
+[four proteins; ;a major protein of 52 kD and three minor proteins of 82, 67, and 43-47 kD] 
+
+[proteins@2; ;four]
+[ ;from;T-cells] 
+
+[protein; ;major@2] 
+
+[protein; ;a] 
+
+[protein;of@2;52 kD] 
+
+[kD@2; ;52@2] 
+
+[and@2; ;protein] 
+
+[and@2; ;proteins@3] 
+
+[proteins@3; ;minor] 
+
+[proteins@3; ;three] 
+
+[proteins@3;of@3;82, 67, and 43-47 kD] 
+
+[kD@3; ;82] 
+
+[kD@3; ;67] 
+
+[kD@3; ;43-47] 
+
+[and@3; ;82] 
+
+[and@3; ;67] 
+
+[and@3; ;43-47] 
+
+[purified; ;were] 
+
+[purified; ;proteins@2] 
+

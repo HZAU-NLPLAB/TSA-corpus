@@ -1,0 +1,29 @@
+Fourteen percent of isolated fragments belong to already known genes that certainly are cytokines and transduction/transcription factors.
+[percent; ;Fourteen] 
+
+[percent;of;fragments] 
+
+[fragments; ;isolated] 
+
+[isolated fragments;belong to;genes] 
+
+[known; ;already] 
+
+[genes; ;known] 
+
+[genes; ;that] 
+
+[are; ;that] 
+
+[are; ;certainly] 
+
+[are; ;cytokines] 
+
+[and; ;cytokines] 
+
+[and; ;transduction/transcription factors] 
+
+[/; ;transduction] 
+
+[/; ;transcription factors] 
+

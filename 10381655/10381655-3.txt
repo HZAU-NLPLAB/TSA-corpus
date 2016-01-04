@@ -1,0 +1,13 @@
+In T cell hybridomas, both T cell activators and glucocorticoids induce apoptosis.
+[In; ;T cell hybridomas] 
+
+[hybridomas; ;T cell] 
+
+[both¡­and; ;T cell activators] 
+
+[both¡­and; ;glucocorticoids] 
+
+[induce; ;both T cell activators and glucocorticoids] 
+
+[induce; ;apoptosis] 
+

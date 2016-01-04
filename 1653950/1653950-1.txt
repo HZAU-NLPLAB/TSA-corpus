@@ -1,0 +1,7 @@
+USF-related transcription factor, HIV-TF1, stimulates transcription of human immunodeficiency virus-1.
+[transcription factor; ;USF-related]
+[transcription factor; ;HIV-TF1]
+[stimulates; ;HIV-TF1]
+[stimulates; ;transcription]
+[transcription;of;human immunodeficiency virus-1]
+[virus-1;immunodeficiency;human]

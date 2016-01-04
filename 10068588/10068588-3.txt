@@ -1,0 +1,17 @@
+Gvaginalis lysates were found to significantly stimulate HIV expression in monocytoid cells.
+[found; ;G.vaginalis lysates] 
+
+[found; ;were] 
+
+[found;to;stimulate] 
+
+[stimulate; ;significantly] 
+
+[stimulate; ;HIV expression] 
+
+[expression; ;HIV] 
+
+[stimulate;in;monocytoid cells] 
+
+[cells; ;monocytoid] 
+

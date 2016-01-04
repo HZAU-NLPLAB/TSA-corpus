@@ -1,0 +1,22 @@
+
+Splenocytes were cultured in the presence (grey bars) or absence (black bars) of PRO3_ for 3 d.
+[cultured; ;Splenocytes] 
+
+[cultured; ;were] 
+
+[cultured;in;presence] 
+
+[presence; ;the] 
+
+[presence; ;grey bars] 
+
+[or; ;presence] 
+
+[or; ;absence] 
+
+[absence; ;black bars] 
+
+[absence;of;PRO3_] 
+
+[PRO3_;for;3 d] 
+

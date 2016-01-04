@@ -1,0 +1,10 @@
+These data proved a direct association between methylation and activity of the PRO9_ promoter.
+[data; ;These]
+[proved; ;data]
+[proved; ;association]
+[association; ;direct]
+[association;between;methylation]
+[and; ;methylation]
+[and; ;activity]
+[activity;of;PRO9_ promoter]
+[PRO9_ promoter; ;the]

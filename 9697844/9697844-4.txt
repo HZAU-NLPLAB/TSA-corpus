@@ -1,0 +1,20 @@
+Increases in interferon-gamma production and natural killer cell activity in response to IL-18 are abrogated.
+[Increases;in;production] 
+
+[Increases;in;activity]
+[production; ;interferon-gamma] 
+
+[activity; ;cell]
+[activity; ;killer] 
+
+[activity; ;natural] 
+
+[and; ;production]
+[and; ;activity] 
+
+[Increases;in response to;IL-18] 
+
+[abrogated; ;are] 
+
+[abrogated; ;Increases] 
+

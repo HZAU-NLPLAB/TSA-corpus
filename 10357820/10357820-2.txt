@@ -1,0 +1,32 @@
+
+Here we show that the lymphoid lineage-determining factors Ikaros and Aiolos can function as strong transcriptional repressors.
+[show; ;Here] 
+
+[show; ;we] 
+
+[show; ;that] 
+
+[that; ;the lymphoid lneage-determining factors Ikaros and Aiolos can function as strong transcriptional repressors ]
+
+[lymphoid lineage-determining factors; ;the] 
+
+[factors; ;lymphoid] 
+
+[factors; ;lineage-determining] 
+
+[factors; ;Ikaros and Aiolos] 
+
+[and; ;Ikaros] 
+
+[and; ;Aiolos] 
+
+[function; ;factors] 
+
+[function; ;can] 
+
+[function;as;strong transcriptional repressors] 
+
+[repressors; ;strong] 
+
+[repressors; ;transcriptional] 
+

@@ -1,0 +1,33 @@
+Hence, PPAR can positively or negatively influence TH action depending on TRE structure and THR isotype.
+PPAR can positively or negatively influence TH action depending on TRE structure and THR isotype; ;Hence 
+
+[influence; ;can] 
+
+[influence; ;PPAR] 
+
+[influence; ;positively] 
+
+[influence; ;negatively] 
+
+[or; ;positively] 
+
+[or; ;negatively] 
+
+[influence; ;action] 
+
+[action; ;TH] 
+
+[influence; ;depending] 
+
+[depending;on;structure] 
+
+[structure; ;TRE] 
+
+[depending;on;isotype] 
+
+[isotype; ;THR] 
+
+[and; ;structure] 
+
+[and; ;isotype] 
+

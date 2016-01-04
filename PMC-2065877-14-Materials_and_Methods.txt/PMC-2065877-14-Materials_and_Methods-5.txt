@@ -1,0 +1,11 @@
+To expose BrdU epitopes, cells were treated with Dnase and stained with FITC-conjugated anti-BrdU antibody.
+[treated; ;cells ]
+[treated; ;were ]
+[treated;with;Dnase ]
+[and; ;treated ]
+[and; ;stained ]
+[stained;with;antibody ]
+[antibody; ;anti-BrdU ]
+[antibody; ;FITC-conjugated ]
+[conjugated;-;FITC ]
+[BrdU;-;anti ]

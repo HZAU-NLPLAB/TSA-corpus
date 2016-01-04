@@ -1,0 +1,8 @@
+The final collection of media was performed after 24 h.
+[collection; ;The]
+[collection; ;final]
+[collection;of;media]
+[performed; ;was]
+[performed; ;collection]
+[performed;after;24 h]
+[h; ;24]

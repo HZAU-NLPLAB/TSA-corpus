@@ -1,0 +1,11 @@
+Interleukin-3 (IL-3) is a cytokine that is expressed primarily in activated T cells. 
+[Interleukin-3; ;IL-3]
+[is; ;Interleukin-3]
+[is; ;cytokine]
+[cytokine; ;a]
+[cytokine; ;that]
+[expressed; ;that]
+[expressed; ;is]
+[expressed; ;primarily]
+[expressed;in;activated T cells]
+[T cells; ;activated]

@@ -1,0 +1,28 @@
+
+Early B cell factor (EBF) and E47 participate in the transcriptional control of early B lymphocyte differentiation.
+[and; ;Early B cell factor] 
+
+[Early B cell factor; ;EBF] 
+
+[and; ;E47] 
+
+[participate; ;Early B cell factor] 
+
+[participate; ;E47] 
+
+[factor; ;B cell] 
+
+[factor; ;Early] 
+
+[participate;in;control] 
+
+[control; ;the] 
+
+[control; ;transcriptional] 
+
+[control;of;early B lymphocyte differentiation] 
+
+[differentiation; ;B lymphocyte] 
+
+[differentiation; ;early] 
+

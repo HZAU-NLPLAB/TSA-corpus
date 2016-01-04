@@ -1,0 +1,51 @@
+Using TNF-alpha-activity neutralizing antibodies, the authors demonstrated that the upregulation of NF-kappa B was found to depend, at later time point, on an autocrine effect of TNF-alpha secreted following triggering of HLA-DR antigens.
+
+
+[ ;Using;antibodies] 
+
+[antibodies; ;neutralizing] 
+
+[antibodies; ;TNF-alpha-activity] 
+
+[demonstrated; ;authors] 
+
+[authors; ;the@1] 
+
+[demonstrated; ;that] 
+
+[that; ;the upregulation of NF-kappa B was found to depend] 
+
+[upregulation; ;the@2] 
+
+[upregulation;of@1;NF-kappa B] 
+
+[found; ;upregulation] 
+
+[found; ;was] 
+
+[found;to;depend] 
+
+[ ;at;point] 
+
+[point; ;later] 
+
+[point; ;time] 
+
+[effect; ;on] 
+
+[effect; ;an] 
+
+[effect; ;autocrine] 
+
+[effect;of@2;triggering] 
+
+[triggering; ;TNF-alpha] 
+
+[triggering; ;secreted] 
+
+[triggering; ;following] 
+
+[triggering;of@3;antigens]  
+
+[antigens ; ;HLA-DR] 
+

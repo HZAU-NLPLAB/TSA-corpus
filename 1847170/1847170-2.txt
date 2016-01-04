@@ -1,0 +1,20 @@
+
+Platelet-activating factor is a potent mediator of the inflammatory response.
+[is; ;Platelet-activating factor] 
+
+[factor; ;Platelet-activating] 
+
+[activating;-;Platelet] 
+
+[is; ;mediator] 
+
+[mediator; ;a] 
+
+[mediator; ;potent] 
+
+[mediator;of;response] 
+
+[response; ;the] 
+
+[response; ;inflammatory] 
+

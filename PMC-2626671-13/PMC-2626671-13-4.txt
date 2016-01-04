@@ -1,0 +1,29 @@
+The plates were centrifuged at 700 g for 1 h at RT before returning to 37degreesC for an additional 5 h.
+[plates; ;The@1] 
+
+[centrifuged; ;plates] 
+
+[centrifuged; ;were] 
+
+[centrifuged;at;g]
+
+[g; ;700] 
+
+[g;for;h] 
+
+[h; ;1] 
+
+[h;at;RT] 
+
+[RT;before;returning] 
+
+[returning;to;37degreesC] 
+
+[37degreesC;for;h] 
+
+[h;  ;5] 
+
+[h; ;additional] 
+
+[h; ;an] 
+

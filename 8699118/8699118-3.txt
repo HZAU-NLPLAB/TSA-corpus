@@ -1,0 +1,35 @@
+The activated form of the interferon-induced transcription factor complex ISGF3 was also detected in nuclear extracts from uninduced cells.
+
+
+[form; ;The] 
+
+[form; ;activated] 
+
+[form;of;interferon-induced transcription factor complex 
+
+interferon-induced transcription factor complex; ;ISGF3] 
+
+[ISGF3; ;the] 
+
+[complex; ;factor] 
+
+[factor; ;transcription] 
+
+[transcription; ;interferon-induced] 
+
+[induced;-;interferon] 
+
+[detected; ;ISGF3] 
+
+[detected; ;was] 
+
+[detected; ;was] 
+
+[detected;in;extracts]
+
+[extracts; ;nuclear] 
+
+[extracts;from;uninduced cells] 
+
+[cells; ;uninduced] 
+

@@ -1,0 +1,52 @@
+
+Nuclear factor of activated T cells-family proteins (NFAT1/NFATp, NFATc, NFAT3, and NFAT4/NFATx/NFATc3) play a key role in the transcription of cytokine genes and other genes during the immune response.
+[factor; ;Nuclear] 
+
+[factor;of@1;T cells-family proteins] 
+
+[T cells-family proteins; ;activated] 
+
+[cells-family proteins; ;NFAT1/NFATp, NFATc, NFAT3, and NFAT4/NFATx/NFATc3] 
+
+[family proteins;-;cells] 
+
+[proteins; ;family] 
+
+[and; ;NFAT1/NFATp] 
+
+[and; ;NFATc] 
+
+[and; ;NFAT3] 
+
+[and; ;NFAT4/NFATx/NFATc3] 
+
+[play; ;factor] 
+
+[play; ;role] 
+
+[role; ;a] 
+
+[role; ;key] 
+
+[role;in;transcription] 
+
+[transcription; ;the@1] 
+
+[transcription;of@2;cytokine genes] 
+
+[transcription;of@2;other genes] 
+
+[and; ;cytokine genes] 
+
+[and; ;other genes] 
+
+[genes@1; ;cytokine] 
+
+[genes@2; ;other] 
+
+[transcription;during;immune response] 
+
+immune response; ;the@2 
+
+response; ;immune 
+

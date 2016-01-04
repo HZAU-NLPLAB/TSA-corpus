@@ -1,0 +1,6 @@
+Recently, DNMTs have been shown to be up-regulated in hematopoietic malignancies (25).
+[shown; ;have been]
+[shown; ;DNMTs]
+[shown; ;up-regulated]
+[up-regulated; ;be]
+[up-regulated;in;hematopoietic malignancies]

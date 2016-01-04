@@ -1,0 +1,27 @@
+Interleukin 6-induced differentiation of a human B cell line into IgM-secreting plasma cells is mediated by c-fos.
+[differentiation; ;Interleukin] 
+
+[differentiation; ;6-induced] 
+
+[differentiation;of;cell line] 
+
+[cell line; ;a] 
+
+[cell line; ;human] 
+
+[cell line; ;B] 
+
+[line; ;cell] 
+
+[differentiation;into;cells] 
+
+[cells; ;IgM-secreting] 
+
+[cells; ;plasma]
+
+[mediated; ;is] 
+
+[mediated; ;differentiation] 
+
+[mediated;by;c-fos] 
+

@@ -1,0 +1,13 @@
+A human T lymphoid cell line, PEER, dies by apoptosis in the presence of PMA and calcium ionophore. 
+[line; ;A]
+[line; ;T lymphoid cell]
+[T lymphoid cell; ;human]
+[line; ;PEER]
+[dies; ;A human T lymphoid cell line]
+[dies;by;apoptosis]
+[apoptosis;in;presence]
+[presence; ;the]
+[presence;of;PMA]
+[and; ;PMA]
+[and; ;calcium ionophore]
+[ionophorel; ;calcium]

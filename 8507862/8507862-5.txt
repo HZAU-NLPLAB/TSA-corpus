@@ -1,0 +1,47 @@
+Treatment of HL-60 eosinophilic sublines with either interleukin-5 or butyric acid increased the expression of GATA-1 mRNA concomitant with the expression of eosinophil-specific genes, whereas levels of GATA-2 mRNA remained relatively constant.
+
+
+[Treatment;of;sublines] 
+
+[sublines; ;eosinophilic] 
+
+[sublines; ;HL-60] 
+
+[sublines;with;either interleukin-5 or butyric acid]
+[either...or...; ;interleukin-5] 
+
+[either...or...; ;butyric acid] 
+
+[acid; ;butyric] 
+
+[increased; ;sublines] 
+
+[increased; ;expression] 
+
+[expression@1; ;the@1] 
+
+[expression@1;of@1;concomitant] 
+
+[concomitant; ;mRNA@1] 
+
+[concomitant; ;GATA-1] 
+
+[concomitant;with@2;expression@2] 
+
+[expression@2; ;genes] 
+
+[genes; ;eosinophil-specific] 
+
+[eosinophil;-;specific] 
+
+[whereas; ;levels of GATA-2 mRNA remained relatively constant]  
+
+[levels;of@3;mRNA@2] 
+
+[mRNA@2; ;GATA-2] 
+
+[ remained; ;mRNA@2] 
+
+[remained; ;relatively] 
+
+[remained; ;constant]

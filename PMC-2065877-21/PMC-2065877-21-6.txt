@@ -1,0 +1,22 @@
+
+Shown are the results from WT lymphoma 1 and PRO11_ transgenic lymphoma 2.
+[are; ;Shown] 
+
+[are; ;results] 
+
+[results; ;the] 
+
+[results;from;lymphoma 1] 
+
+[results;from;lymphoma 2] 
+
+[and; ;lymphoma 1] 
+
+[and; ;lymphoma 2] 
+
+[lymphoma 1; ;WT] 
+
+[lymphoma 2; ;transgenic] 
+
+[lymphoma 2; ;PRO11_] 
+

@@ -1,0 +1,17 @@
+However, upon transition from a proliferating (G1) to a resting state of the cell cycle the three genes were differently regulated.
+[ ;upon;transition]
+[transition;from; proliferating]
+[proliferating; ;a@1]
+[proliferating; ;G1]
+[transtion;to;resting state]
+[resting state; ;a@2]
+[state; ;resting]
+[resting state;of;cell cycle]
+[cell cycle; ;the@1]
+[cycle; ;cell]
+[genes; ;the@2]
+[genes; ;three]
+[regulated; ;genes]
+[regulated;were; ]
+[regulated; ;differently]
+

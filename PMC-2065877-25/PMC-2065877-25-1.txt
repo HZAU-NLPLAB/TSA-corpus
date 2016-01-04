@@ -1,0 +1,57 @@
+RO1_, NFkappaB, and PRO2_ Signaling Are Required for the Growth and Survival of Lymphoma Cells
+MTS assay of splenocytes from (A and B) WT or (C and D) PRO3_ transgenic lymphomas and (E and F) PRO4_ transgenic lymphoctyes.
+[Required; ;Are] 
+
+[Required; ;PRO1_, NFkappaB, and PRO2_ Signaling] 
+
+[and@1; ;PRO1_] 
+
+[and@1; ;NFkappaB] 
+
+[and@1; ;Signaling] 
+
+[Signaling; ;PRO2_] 
+
+[Required;for;Growth] 
+
+[Growth; ;the@1] 
+
+[and@2; ;Growth] 
+
+[and@2; ;Survival] 
+
+[Survival;of;assay] 
+
+[assay; ;MTS] 
+
+[MTS; ;Cells] 
+
+[Cells; ;Lymphoma] 
+
+[assay;of;splenocytes] 
+
+[splenocytes;from;WT] 
+
+[and@3; ;A] 
+
+[and@3; ;B] 
+
+[or; ;WT] 
+
+[or; ;lymphomas and lymphoctyes] 
+
+[lymphomas; ;transgenic] 
+
+[lymphomas; ;PRO3_] 
+
+[and@4; ;lymphomas] 
+
+[and@4; ;lymphoctyes] 
+
+[and@5; ;E] 
+
+[and@5; ;F] 
+
+[lymphoctyes; ;transgenic] 
+
+[lymphoctyes; ;PRO4_]

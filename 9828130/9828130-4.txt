@@ -1,0 +1,29 @@
+AU-DD is an AU-motif-directed differential display that permits the identification of ARE-containing genes differentially expressed after cell activation.
+[is; ;AU-DD] 
+
+[is; ;display] 
+
+[display; ;an]
+
+[display; ;AU-motif-directed] 
+
+[display; ;differential] 
+
+[display; ;that] 
+
+[permits; ;that]
+
+[permits; ;identification] 
+
+[identification; ;the] 
+
+[identification;of;ARE-containing genes] 
+
+[expressed; ;differentially] 
+
+[expressed; ;identification] 
+
+[expressed;after;cell activation] 
+
+[activation; ;cell] 
+

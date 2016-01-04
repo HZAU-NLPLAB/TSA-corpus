@@ -1,0 +1,13 @@
+Danazol decreased the transcription rate of ER gene to approximately 50% in monocytes in a run-on assay. 
+[decreased; ;Danazol]
+[decreased; ;transcription rate]
+[transcription rate; ;the]
+[rate; ;transcription]
+[transcription rate;of;ER gene]
+[gene; ;ER]
+[decreased;to;50%]
+[50%; ;approximately]
+[ ;in@1;monocytes]
+[ ;in@2;run-on assay]
+[run-on assay; ;a]
+[assay; ;run-on]

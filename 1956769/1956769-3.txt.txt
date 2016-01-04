@@ -1,0 +1,10 @@
+One of the factors bound to a novel dyad symmetrical sequence.
+
+[One;of;factors]
+[factors; ;the]
+[bound; ;factor]
+[bound;to;sequence]
+[sequence; ;a]
+[sequence; ;symmetrical]
+[symmetrical; ;dyad]
+[dyad; ;novel]

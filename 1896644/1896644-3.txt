@@ -1,0 +1,25 @@
+The B2 factor was induced in the nuclei of these cells only upon HIV1 infection.
+
+
+[factor; ;The] 
+
+[factor; ;B2] 
+
+[induced; ;factor] 
+
+[induced; ;was] 
+
+[induced;in;nuclei] 
+
+[nuclei; ;the] 
+
+[nuclei;of;cells] 
+
+[cells; ;these] 
+
+[cells;upon;infection] 
+
+[infection; ;HIV1] 
+
+[upon; ;only] 
+

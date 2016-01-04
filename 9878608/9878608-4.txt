@@ -1,0 +1,31 @@
+Viral reactivation from latency and spread from this lymphoid reservoir is presumably required for development of nonlymphoid tumors like KS.
+[reactivation; ;Viral] 
+
+[spread; ;Viral] 
+
+[and; ;reactivation] 
+
+[and; ;spread] 
+
+[reactivation;from@1;latency] 
+
+[spread;from@2;lymphoid reservoir] 
+
+[lymphoid reservoir; ;this] 
+
+[required; ;presumably] 
+
+[required; ;is] 
+
+[required; ;reactivation] 
+
+[required; ;spread] 
+
+[required;for;development] 
+
+[development;of;nonlymphoid tumors] 
+
+[nonlymphoid tumors;like;KS] 
+
+[tumors; ;nonlymphoid] 
+

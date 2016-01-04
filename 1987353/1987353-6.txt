@@ -1,0 +1,10 @@
+Neither deletion of NF kappa B nor deletion of NFAT-1 decreased activation of viral replication by phorbol ester. 
+[Neither...nor; ;deletion@1]
+[Neither...nor; ;deletion@2]
+[deletion@1;of@1;NF kappa B]
+[deletion@2;of@2;NFAT-1]
+[decreased; ;deletion@2]
+[decreased; ;activation]
+[activation;of@3;viral replication]
+[replication; ;viral]
+[viral replication;by;phorbol ester]

@@ -1,0 +1,33 @@
+Here we show that blockade of NF-kappaB activity, using a dominant negative IkappaBalpha, has opposite effects on these two apoptotic signals.
+[show; ;Here] 
+
+[show; ;we] 
+
+[show; ;that] 
+
+[that; ;blockade of NF-kappaB activity, using a dominant negative IkappaBalpha, has opposite effects on these two apoptotic signals] 
+
+[blockade;of;NF-kappaB activity] 
+
+[activity; ;NF-kappaB] 
+
+[using; ;blockade] 
+
+[using; ;dominant negative IkappaBalpha] 
+
+[IkappaBalpha;negative;dominant] 
+
+[has; ;blockade] 
+
+[effects; ;opposite] 
+
+[has; ;effects] 
+
+[effects;on;apoptotic signals] 
+
+[apoptotic signals; ;these] 
+
+[apoptotic signals; ;two] 
+
+[signals; ;apoptotic]
+

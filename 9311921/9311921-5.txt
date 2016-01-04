@@ -1,0 +1,54 @@
+Cross-linking of this lymphocyte-specific protein, designated TACI (transmembrane activator and CAML-interactor), on the surface of transfected Jurkat cells with TACI-specific antibodies led to activation of the transcription factors NF-AT, AP-1, and NFkappaB.
+
+
+[Cross-linking;of@1;protein]
+
+[protein; ;lymphocyte-specific] 
+
+[protein; ;this] 
+
+[linking;-;Cross 
+
+[lymphocyte;-;specific] 
+
+[TACI; ;designated] 
+
+[TACI; ;transmembrane activator and CAML-interactor] 
+
+[and@1; ;transmembrane activator] 
+
+[and@1; ;CAML-interactor] 
+
+[activator; ;transmembrane] 
+
+[TACI;on;surface] 
+
+[surface; ;the@1] 
+
+[surface;of;cells] 
+
+[cells; ;Jurka] 
+
+[cells; ;transfected] 
+
+[cells;with;antibodies] 
+
+[antibodies; ;TACI-specific] 
+
+[with TACI;-;specific] 
+
+[antibodies;led to;activation] 
+
+[activation;of@2;factors] 
+
+[factors; ;transcription] 
+
+[factors; ;the@2] 
+
+[transcription factors; ;NF-AT, AP-1, and NFkappaB] 
+
+[and@2; ;NF-AT] 
+
+[and@2; ;AP-1@2] 
+
+[and@2; ;NFkappaB]

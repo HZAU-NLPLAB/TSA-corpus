@@ -1,0 +1,52 @@
+We report here that the phenotypic differentiation of monocyte cell lines induced by phorbol esters or tumour necrosis factor alpha (TNF alpha) is associated with expression of nuclear factor kappa B (NF-kappa B).
+
+
+[report; ;We]
+
+[report; ;here] 
+
+[report; ;that] 
+
+[that; ;the phenotypic differentiation of monocyte cell lines induced by phorbol esters or tumour necrosis factor alpha (TNF alpha) is associated with expression of nuclear factor kappa B (NF-kappa B)] 
+
+[differentiation; ;phenotypic] 
+
+[differentiation; ;the] 
+
+[differentiation;of@1;lines] 
+
+[lines; ;cell] 
+
+[cell; ;monocyte] 
+
+[induced; ;lines] 
+
+[induced;by;esters] 
+
+[esters; ;phorbol] 
+
+[or; ;esters] 
+
+[or; ;tumour necrosis factor alpha] 
+
+[alpha; ;factor] 
+
+[factor; ;necrosis] 
+
+[necrosis; ;tumour] 
+
+[TNF alpha; ;tumour necrosis factor alpha] 
+
+[associated; ;TNF alpha] 
+
+[associated; ;is] 
+
+[associated;with;expression] 
+
+[expression;of@2;nuclear factor kappa B] 
+
+[kappa B; ;factor] 
+
+[factor; ;nuclear] 
+
+[nuclear factor kappa B; ;NF-kappa B]

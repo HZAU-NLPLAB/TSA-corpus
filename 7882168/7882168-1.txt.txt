@@ -1,0 +1,12 @@
+HIV-1 Nef leads to inhibition or activation of T cells depending on its intracellular localization.
+
+[Nef; ;HIV-1]
+[leads; ;Nef]
+[leads;to;inhibition]
+[or; ;inhibition]
+[or; ;activation]
+[activation;of;T cells]
+[depending; ;T cells]
+[depending;on;localization]
+[localization; ;intracellular]
+[its; ;T cells]

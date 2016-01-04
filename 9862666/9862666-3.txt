@@ -1,0 +1,19 @@
+IL-2 promoter activation in Jurkat T cells stimulated with superantigen presented by Raji B cells requires CD28 activation.
+[activation; ;IL-2 promoter] 
+
+[IL-2 promoter activation;in;Jurkat T cells] 
+
+[stimulated; ;Jurkat T cells] 
+
+[stimulated;with;superantigen] 
+
+[presented; ;superantigen] 
+
+[presented;by;Raji B cells] 
+
+[requires; ;IL-2 promoter activation] 
+
+[requires; ;CD28 activation] 
+
+[activation; ;CD28] 
+

@@ -1,0 +1,40 @@
+he effects of PTX on LPS-induced PRO1_ production
+To determine the duration of PDE inhibition on PRO2_ production after LPS stimulation, time course studies were conducted.
+[effects; ;The@1] 
+
+[effects;of;PTX] 
+
+[PTX;on;production] 
+
+[production; ;PRO1_] 
+
+[PRO1_; ;LPS-induced] 
+
+[induced;-;LPS] 
+
+[production;To;determine] 
+
+[determine; ;duration] 
+
+[duration; ;the@2] 
+
+[duration;of;inhibition] 
+
+[inhibition; ;PDE] 
+
+[inhibition;on;production] 
+
+[production; ;PRO2_] 
+
+[production;after;stimulation] 
+
+[stimulation; ;LPS] 
+
+[conducted;  ;studies] 
+
+[studies; ;course] 
+
+[course; ;time] 
+
+[conducted;  ;were] 
+

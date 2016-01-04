@@ -1,0 +1,23 @@
+TPO induced tyrosine phosphorylation of the TPO receptor but not the erythropoietin (EPO) receptor.
+[induced; ;TPO@1] 
+
+[induced; ;phosphorylation] 
+
+[phosphorylation; ;tyrosine] 
+
+[phosphorylation;of;receptor@1] 
+
+[receptor@1; ;the@1] 
+
+[receptor@1; ;TPO@1] 
+
+[but not; ;the TPO receptor] 
+
+[but not; ;the erythropoietin (EPO) receptor] 
+
+[receptor@2; ;the@2] 
+
+[receptor@2; ;erythropoietin] 
+
+[erythropoietin; ;EPO] 
+

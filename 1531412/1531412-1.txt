@@ -1,0 +1,23 @@
+Transcriptional regulation during T-cell development: the alpha TCR gene as a molecular model.
+[regulation; ;Transcriptional 
+
+[regulation;during;T-cell development] 
+
+[development; ;T-cell] 
+
+[:; ;development] 
+
+[:; ;the alpha TCR gene as a molecular model] 
+
+[gene; ;the] 
+
+[gene; ;alpha] 
+
+[gene; ;TCR] 
+
+[gene;as;model]  
+
+[model; ;a] 
+
+[model; ;molecular] 
+

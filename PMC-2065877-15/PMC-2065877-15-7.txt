@@ -1,0 +1,25 @@
+Single-stranded RNA was digested with a mixture of PRO2_ and PRO3_, and precipitated using isopropanol.
+[RNA; ;Single-stranded] 
+
+[stranded;-;Single] 
+
+[digested; ;RNA] 
+
+[digested; ;was]
+
+[digested;with;PRO2_ and PRO3_] 
+
+[and@1; ;PRO2_] 
+
+[and@2; ;PRO3_] 
+
+
+[mixture; ;a]
+[mixture;of;PRO2_ and PRO3_]  
+
+[and@2; ;digested] 
+
+[and@2; ;precipitated] 
+
+[precipitated;using;isopropanol] 
+

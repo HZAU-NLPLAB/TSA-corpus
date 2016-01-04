@@ -1,0 +1,33 @@
+Human MCM5 and MCM6 promoters with mutation in the E2F sites failed in promoter regulation following serum stimulation and exogenous E2F expression.
+[promoters;MCM5 and@1 MCM6;Human] 
+
+[and@1; ;MCM5] 
+
+[and@1; ;MCM6] 
+
+[Human MCM5 and@1 MCM6 promoters;with;mutation] 
+
+[Human MCM5 and@1 MCM6 promoters;in;E2F sites] 
+
+[E2F sites; ;the] 
+
+[sites; ;E2F]
+
+[failed; ;Human MCM5 and@1 MCM6 promoters] 
+
+[failed;in@2;promoter regulation] 
+
+[regulation; ;promoter] 
+
+[promoter regulation;following;serum stimulation and@2 exogenous E2F expression] 
+
+[and@2; ;serum stimulation] 
+
+[and@2; ;exogenous E2F expression] 
+
+[stimulation; ;serum] 
+
+[E2F expression; ;exogenous] 
+
+[expression; ;E2F] 
+

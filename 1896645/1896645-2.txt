@@ -1,0 +1,20 @@
+
+Cells of the monocyte-macrophage lineage are important targets of HIV infection.
+
+
+[Cells;of@1;lineage] 
+
+[lineage; ;the] 
+
+[lineage; ;monocyte-macrophage] 
+
+[are; ;Cells] 
+
+[are; ;targets] 
+
+[targets; ;important] 
+
+[targets;of@2;infection] 
+
+[infection ; ;HIV] 
+

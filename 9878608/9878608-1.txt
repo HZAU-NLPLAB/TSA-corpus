@@ -1,0 +1,25 @@
+eactivation of Kaposi's sarcoma-associated herpesvirus infection from latency by expression of the ORF 50 transactivator, a homolog of the EBV R protein.
+[Reactivation;of@1;infection] 
+
+[infection; ;herpesvirus] 
+
+[infection; ;Kaposi's sarcoma-associated] 
+
+[associated;-;Kaposi's sarcoma] 
+
+[Reactivation;from;latency] 
+
+[Reactivation;by;expression] 
+
+[expression;of@2;ORF 50 transactivator] 
+
+[ORF 50 transactivator; ;the@1] 
+
+[ORF 50 transactivator; ;a homolog of the EBV R protein] 
+
+[homolog; ;a] 
+
+[homolog;of@3;EBV R protein] 
+
+[EBV R protein; ;the@2] 
+

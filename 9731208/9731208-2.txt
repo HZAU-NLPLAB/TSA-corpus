@@ -1,0 +1,44 @@
+
+The efficacy of o,o'-bismyristoyl thiamine disulfide (BMT) was examined in detail against HIV-1 laboratory isolates (HTLV-IIIB, JRFL, and MN), primary isolates (KMT and KMO), and simian immunodeficiency virus (SIVmac251) in vitro.
+[efficacy; ;The] 
+
+[efficacy;of;o,o'-bismyristoyl thiamine disulfide] 
+
+[o,o'-bismyristoyl thiamine disulfide; ;BMT] 
+
+[examined; ;was] 
+
+[examined; ;efficacy] 
+
+[examined; ;in detail] 
+
+[examined;against;HIV-1 laboratory isolates] 
+
+[HIV-1 laboratory isolates; ;HTLV-IIIB, JRFL, and MN] 
+
+[examined;against;primary isolates] 
+
+[primary isolates; ;KMT and KMO] 
+
+[examined;against;simian immunodeficiency virus] 
+
+[simian immunodeficiency virus; ;SIVmac251] 
+
+[examined;in;vitro] 
+
+[isolates@1; ;laboratory] 
+
+[isolates@1; ;HIV-1] 
+
+[,,and; ;HTLV-IIIB] 
+
+[,,and; ;JRFL] 
+
+[,,and; ;MN] 
+
+[isolates@2; ;primary] 
+
+[and; ;KMT] 
+
+[and; ;KMO] 
+

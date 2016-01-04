@@ -1,0 +1,51 @@
+The phosphorylation appears to be related to the signaling events that are activated by TRAF2 under these circumstances, since two nonfunctional mutants were found to be phosphorylated significantly less than the wild-type protein.
+[phosphorylation; ;The@1] 
+
+[appears; ;phosphorylation] 
+
+[appears;to@1;be@1] 
+
+[related; ;be@1] 
+
+[related;to@2;signaling events] 
+
+[events; ;the@2] 
+
+[events; ;signaling] 
+
+[events; ;that] 
+
+[activated; ;that] 
+
+[activated; ;are] 
+
+[activated;by;TRAF2] 
+
+[activated;under;circumstances] 
+
+[circumstances; ;these] 
+
+[The@1 phosphorylation appears to@1 be@1 related to@2 the@2 signaling events that are activated by TRAF2 under these circumstances;since;two nonfunctional mutants were found to@3 be@2 phosphorylated significantly less than the@3 wild-type protein] 
+
+[nonfunctional mutants; ;two] 
+
+[mutants; ;nonfunctional] 
+
+[found; ;nonfunctional mutants] 
+
+[found; ;were] 
+
+[found;to@3;be@2] 
+
+[phosphorylated; ;be@2] 
+
+[phosphorylated; ;significantly]
+
+[phosphorylated; ;less] 
+
+[less; ;two nonfunctional mutants] 
+
+[less;than;wild-type protein] 
+
+[wild-type protein; ;the@3] 
+

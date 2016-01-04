@@ -1,0 +1,63 @@
+
+Expression of a highly specific protein inhibitor for cyclic AMP-dependent protein kinases in interleukin-1 (IL-1)-responsive cells blocked IL-1-induced gene transcription that was driven by the kappa immunoglobulin enhancer or the human immunodeficiency virus long terminal repeat.
+
+
+[Expression;of;inhibitor] 
+
+[inhibitor; ;a] 
+
+[inhibitor; ;protein] 
+
+[inhibitor; ;highly] 
+
+[inhibitor; ;specific] 
+
+[inhibitor;for;kinases] 
+
+[kinases; ;protein@2] 
+
+[kinases; ;cyclic] 
+
+[kinases; ;AMP-dependent] 
+
+[dependent;-;AMP] 
+
+[kinases;in;(IL-1)-responsive cells] 
+
+[IL-1; ;interleukin-1] 
+
+[responsive;-;(IL-1)] 
+
+[blocked; ;kinases] 
+
+[blocked; ;transcription] 
+
+[transcription; ;gene] 
+
+[gene; ;IL-1-induced] 
+
+[transcription; ;that] 
+
+[driven; ;that] 
+
+[driven; ;was] 
+
+[driven;by;enhancer] 
+
+[enhancer; ;kappa immunoglobulin] 
+
+[enhancer; ;the@1] 
+
+[or; ;enhancer] 
+
+[or; ;human immunodeficiency virus long terminal repeat] 
+
+[human immunodeficiency virus long terminal repeat; ;the] 
+
+[repeat; ;terminal] 
+
+[repeat; ;long] 
+
+[virus; ;immunodeficiency] 
+
+[virus; ;human]

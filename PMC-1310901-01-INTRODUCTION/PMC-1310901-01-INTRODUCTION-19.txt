@@ -1,0 +1,8 @@
+In this work, we studied mechanisms of PRO29_ gene expression silencing in leukemic cells.
+[work; ;this]
+[$;In;work]
+[studied; ;we]
+[studied; ;mechanisms]
+[mechanisms;of;PRO29_ gene]
+[expression silencing; ;PRO29_ gene]
+[expression silencing;in;leukemic cells]

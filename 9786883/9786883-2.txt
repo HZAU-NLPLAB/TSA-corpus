@@ -1,0 +1,28 @@
+
+The chemokine receptor, BLR1, is a major regulator of the microenvironmental homing of B cells in lymphoid organs.
+[chemokine receptor; ;The] 
+
+[chemokine receptor; ;BLR1] 
+
+[is; ;chemokine receptor 
+
+[receptor; ;chemokine] 
+
+[is; ;regulator] 
+
+[regulator; ;a] 
+
+[regulator; ;major] 
+
+[regulator;of@1;microenvironmental homing] 
+
+[microenvironmental homing; ;the] 
+
+[microenvironmental homing;of@2;B cells] 
+
+[homing; ;microenvironmental] 
+
+[B cells;in;lymphoid organs] 
+
+[organs; ;lymphoid] 
+

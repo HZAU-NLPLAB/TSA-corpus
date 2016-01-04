@@ -1,0 +1,33 @@
+Lymphomas were passaged by intraperitoneal injection of 1 x 108 splenocytes into SCID mice and sacrificed upon development of an extended abdomen.
+[passaged; ;Lymphomas] 
+
+[passaged; ;were] 
+
+[passaged;by;injection] 
+
+[injection; ;intraperitoneal] 
+
+[injection;of;splenocytes] 
+
+[splenocytes; ;1 x 108] 
+
+[passaged;into;mice] 
+
+[passaged;into;development]
+
+[and; ;mice] 
+
+[and; ;development] 
+
+[mice; ;SCID] 
+
+[development; ;upon] 
+
+[development; ;sacrificed]
+
+[development;of;abdomen]
+
+[abdomen; ;extended] 
+
+[abdomen; ;an] 
+

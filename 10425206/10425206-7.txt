@@ -1,0 +1,35 @@
+These data suggest that PPARgamma activation may play a role in monocyte differentiation and function analogous to its well-characterized role in adipocytes.
+[data; ;These] 
+
+[data; ;suggest] 
+
+[suggest; ;that] 
+
+[that; ;PPARgamma activation may play a role in@1 monocyte differentiation and function analogous to its well-characterized role in@2 adipocytes]
+
+[play; ;PPARgamma activation] 
+
+[play; ;may] 
+
+[play; ;role] 
+
+[role; ;a] 
+
+[role;in@1;monocyte differentiation] 
+
+[differentiation; ;monocyte] 
+
+[and; ;monocyte differentiation] 
+
+[and; ;function analogous] 
+
+[play;to;role] 
+
+[role; ;its] 
+
+[role; ;well-characterized] 
+
+[characterized;-;well] 
+
+[play;in@2;adipocytes] 
+

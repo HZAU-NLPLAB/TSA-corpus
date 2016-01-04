@@ -1,0 +1,51 @@
+To address possible mechanisms that could explain this selective activity of c-ErbB, we analyzed the ability of these receptors to activate the different members of the Stat transcription factor family.
+
+
+[analyzed; ;we]
+
+[analyzed;To;address] 
+
+[address; ;mechanisms] 
+
+[mechanisms; ;possible] 
+
+[mechanisms; ;that] 
+
+[explain; ;that] 
+
+[explain; ;could] 
+
+[explain; ;activity] 
+
+[activity; ;this] 
+
+[activity; ;selective] 
+
+[activity;of@1;c-ErbB] 
+
+[analyzed; ;ability] 
+
+[ability; ;the@1] 
+
+[ability;of@2;receptors] 
+
+[receptors; ;these] 
+
+[receptors;to;activate] 
+
+[activate; ;members] 
+
+[members; ;the@2] 
+
+[members; ;different] 
+
+[members;of@3;family] 
+
+[family ; ;the@4] 
+
+[transcription; ;Stat] 
+
+[factor; ;transcription] 
+
+[family  ; ;factor] 
+

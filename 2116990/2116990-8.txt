@@ -1,0 +1,39 @@
+Enhancer activity appears to be mediated by the binding of a complex of proteins from the jun and fos families to tandem AP-1 consensus sequences.
+
+
+[activity; ;Enhancer] 
+
+[appears; ;activity] 
+
+[appears;to;be] 
+
+[mediated; ;be] 
+
+[mediated;by;binding] 
+
+[binding; ;the@1] 
+
+[binding;of@1;complex] 
+
+[complex; ;a] 
+
+[complex;of@2;proteins] 
+
+[proteins;from;jun] 
+
+[jun; ;the@2] 
+
+[and; ;jun] 
+
+[and; ;fos families] 
+
+[families; ;fos] 
+
+[families;to;tandem AP-1 consensus sequences] 
+
+[sequences; ;consensus] 
+
+[sequences; ;AP-1] 
+
+[sequences; ;tandem] 
+

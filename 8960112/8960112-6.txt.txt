@@ -1,0 +1,16 @@
+Based upon these results we propose that this factor may have a role in pathophysiology of chronic myeloid leukaemia.
+
+[Based;upon;results]
+[results; ;these]
+[propose; ;we]
+[propose; ;results]
+[propose; ;that]
+[that; factor may have a role in pathophysiology of chronic myeloid leukaemia]
+[have; ;may]
+[have; ;factor]
+[have; ;role]
+[role; ;a]
+[role;in;pathophysiology]
+[pathophysiology;of;leukaemia]
+[leukaemia; ;myeloid]
+[myeloid; ;chronic]

@@ -1,0 +1,10 @@
+The reactions were performed using an ABI PRIZM 7700 machine with software Sequence Detector version 1.7.
+[reactions; ;The]
+[performed; ;reactions]
+[performed; ;were]
+[performed; ;using an ABI PRIZM 7700 machine]
+[using; ;machine]
+[machine; ;ABI PRIZM 7700]
+[machine; ;an]
+[machine;with;software Sequence Detector version 1.7]
+

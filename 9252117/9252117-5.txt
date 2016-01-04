@@ -1,0 +1,54 @@
+Multiple functionally important EBF and E47 binding sites were identified in the lambda5 promoter/enhancer region, indicating that lambda5 is a direct genetic target for these transcription factors.
+[EBF and E47 binding sites; ;important] 
+
+[EBF and E47 binding sites; ;Multiple] 
+
+[important; ;functionally] 
+[identified; ;were] 
+
+[identified; ;EBF and E47 binding sites] 
+
+[and; ;EBF] 
+
+[and; ;E47] 
+
+[sites; ;binding] 
+
+[sites; ;EBF] 
+
+[sites; ;E47] 
+
+[identified;in;lambda5 promoter/enhancer region] 
+
+[lambda5 promoter/enhancer region; ;the] 
+
+[region; ;lambda5] 
+
+[region; ;promoter/enhancer] 
+
+[/; ;promoter] 
+
+[/; ;enhancer] 
+
+[identified; ;indicating] 
+
+[indicating; ;that] 
+
+[that; ;lambda5 is a direct genetic target for these transcription factors] 
+
+[is; ;lambda5] 
+
+[is; ;target] 
+
+[target; ;a] 
+
+[target; ;direct] 
+
+[target; ;genetic] 
+
+[target;for;transcription factors] 
+
+[transcription factors; ;these] 
+
+[factors; ;transcription] 
+

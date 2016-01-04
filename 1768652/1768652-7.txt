@@ -1,0 +1,36 @@
+In contrast, formation of the B1 complex, reflecting the binding of p75 and p85, critically depends upon the more 3' sequences of this enhancer element.
+
+
+[formation of the B1 complex, reflecting the binding of p75 and p85, critically depends upon the more 3' sequences of this enhancer element;$;In contrast] 
+
+[formation;of@1;B1 complex] 
+
+[B1 complex;$;the@1] 
+
+[complex;$;B1] 
+
+[reflecting;$;binding] 
+
+[binding;$;the@2] 
+
+[binding;of@2;p75 and p85] 
+
+[and;$;p75] 
+
+[and;$;p85] 
+
+[depends;$;critically] 
+
+[depends;upon;sequences] 
+
+[sequences;$;the@3] 
+
+[sequences;$;more] 
+
+[sequences;$;3'] 
+
+[sequences;of@3;element] 
+
+[element;$;this] 
+
+[element;$;enhancer]

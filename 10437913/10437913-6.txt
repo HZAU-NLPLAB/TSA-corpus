@@ -1,0 +1,17 @@
+Rb expression led to phosphorylation of Oct-1, thus relieving its repressive effect.
+[expression; ;Rb] 
+
+[led; ;Rb expression] 
+
+[led;to;phosphorylation] 
+
+[phosphorylation;of;Oct-1] 
+
+[relieving; ;thus] 
+
+[relieving; ;effect] 
+
+[effect;  ;its] 
+
+[effect; ;repressive] 
+

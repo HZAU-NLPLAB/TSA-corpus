@@ -1,0 +1,13 @@
+Briefly, 1 microg of DNA and 2 microg of poly[dA-dT][poly[dA-dT) copolymers (Amersham Pharmacia Biotech) were denaturated for 20 min at 42degreesC in 0.
+[DNA; ;;1 microg]
+[ ;of@1;DNA]
+[and; ;;DNA]
+[and; ;;poly[dA-dT][poly[dA-dT) copolymers]
+[poly[dA-dT][poly[dA-dT) copolymers; ;;2 microg]
+[ ;of@2;poly[dA-dT][poly[dA-dT) copolymers]
+[poly[dA-dT][poly[dA-dT) copolymers; ;;Amersham Pharmacia Biotech]]
+[denaturated; ;; were]
+[denaturated; ;;poly[dA-dT][poly[dA-dT) copolymers]
+[denaturated; ;;DNA]
+[denaturated;for;20 min]
+[ ;at;42degreesC]

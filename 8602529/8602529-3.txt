@@ -1,0 +1,44 @@
+Both proteins were identified by peptide microsequencing, and a complementary DNA encoding the histone deacetylase catalytic subunit (HD1) was cloned from a human Jurkat T cell library.
+
+
+[proteins; ;Both] 
+
+[identified; ;proteins] 
+
+[identified; ;were] 
+
+[identified;by;microsequencing] 
+
+[microsequencing; ;peptide] 
+
+[and; ;Both proteins were identified by peptide microsequencing] 
+
+[and; ;a complementary DNA encoding the histone deacetylase catalytic subunit (HD1) was cloned from a human] 
+
+[encoding; ;DNA] 
+
+[encoding; ;complementary] 
+
+[encoding; ;a@1] 
+
+[subunit; ;catalytic] 
+
+[histone deacetylase; ;the] 
+
+[subunit; ;histone deacetylase] 
+
+[histone deacetylase; ;HD1] 
+
+[cloned; ;subunit] 
+
+[cloned; ;was] 
+
+[cloned;from;library] 
+
+[library; ;a@2] 
+
+[library; ;T cell] 
+
+[T cell; ;human Jurkat] 
+
+[Jurkat; ;human]

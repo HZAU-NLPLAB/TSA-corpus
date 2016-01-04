@@ -1,0 +1,6 @@
+Consequently, these alterations are unlikely to affect PRO13_ expression.
+[alterations; ;these]
+[are; ;unlikely]
+[affect; ;unlikely]
+[affect; ;alterations]
+[affect; ;PRO13_ expression]

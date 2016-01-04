@@ -1,0 +1,51 @@
+U937 cells and human peripheral blood monocytes were exposed to TS, binding activities of the respective transcription factors were analyzed, and Hsp70 expression and TNFalpha release were determined in parallel.
+[and@2; ;U937 cells and human peripheral blood monocytes were exposed to TS] 
+
+[and@2; ;binding activities of the respective transcription factors were analyzed] 
+
+[and@2; ;Hsp70 expression and TNFalpha release were determined in parallel] 
+
+[and@1; ;U937 cells] 
+
+[and@1; ;human peripheral blood monocytes] 
+
+[exposed; ;were@1] 
+
+[exposed; ;U937 cells] 
+
+[exposed; ;human peripheral blood monocytes] 
+
+[exposed;to;TS] 
+
+[cells; ;U937] 
+
+[activities; ;binding] 
+
+[activities;of;transcription factors] 
+
+[transcription factors; ;the] 
+
+[transcription factors; ;respective] 
+
+[factors; ;transcription] 
+
+[analyzed; ;were@2] 
+
+[analyzed; ;activities] 
+
+[expression; ;Hsp70] 
+
+[release; ;TNFalpha] 
+
+[and@3; ;expression] 
+
+[and@3; ;release] 
+
+[determined; ;were@3] 
+
+[determined; ;expression] 
+
+[determined; ;release] 
+
+[determined;in;parallel] 
+

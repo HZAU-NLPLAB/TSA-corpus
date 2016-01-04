@@ -1,0 +1,30 @@
+In addition, the erythroid-specific transcription factor NF-E1 was shown to be expressed coordinately with that of globin in embryoid bodies.
+
+
+[the erythroid-specific transcription factor NF-E1 was shown to be expressed coordinately with that of globin in embryoid] [bodies; ;In addition] 
+
+[factor; ;transcription] 
+
+[transcription; ;erythroid-specific] 
+
+[erythroid-;-;specific]
+[factor; ;NF-E1] 
+
+[shown; ;NF-E1] 
+
+[shown; ;was] 
+
+[shown;to;expressed] 
+
+[expressed; ;be] 
+
+[expressed; ;coordinately] 
+
+[expressed;with;that] 
+
+[that;of;globin] 
+
+[globin;in;bodies] 
+
+[bodies; ;embryoid] 
+

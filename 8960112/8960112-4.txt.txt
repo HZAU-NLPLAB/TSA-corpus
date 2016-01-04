@@ -1,0 +1,17 @@
+However, this factor appeared when these CML patients achieved complete haematological remission (CHR) through alpha-interferon therapy.
+
+[this factor appeared when these CML patients achieved complete haematological remission (CHR) through alpha-interferon therapy; ;However]
+[factor; ;this]
+[appeared; ;factor]
+[this factor appeared;when;these CML patients achieved complete haematological remission (CHR) through alpha-interferon therapy]
+[patients; ;CML]
+[patients; ;these]
+[achieved; ;patients]
+[achieved; ;remission]
+[complete haematological remission; ;CHR]
+[remission; ;haematological]
+[haematological; ;complete]
+[remission;through;therapy]
+[CHR;through;therapy]
+[therapy; ;alpha-interferon]
+[interferon;-;alpha]

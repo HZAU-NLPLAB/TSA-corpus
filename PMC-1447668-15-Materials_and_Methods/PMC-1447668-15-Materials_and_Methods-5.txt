@@ -1,0 +1,8 @@
+The values were calculated by the following formula: normalized PRO10_ or HTLV-I PRO11_ expression = 2Ct value of PRO12_ - Ct value of PRO13_ or HTLV-I PRO14_.
+[values; ;The]
+[calculated; ;values]
+[calculated; ;were]
+[calculated;by;the following formula]
+[formula; ;the]
+[formula; ;following]
+[formula;:;normalized PRO10_ or HTLV-I PRO11_ expression = 2Ct value of PRO12_ - Ct value of PRO13_ or HTLV-I PRO14_]

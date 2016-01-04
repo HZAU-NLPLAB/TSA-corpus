@@ -1,0 +1,23 @@
+In contrast, it was found to be TNF-alpha independent in the early time point.
+
+
+[it was found to be TNF-alpha independent in the early time point ; ;In contrast] 
+
+[found; ;was] 
+
+[found; ;it]
+
+[found;to;be] 
+
+[be; ;independent] 
+
+[independent; ;TNF-alpha]
+
+[independent;in;time point] 
+
+[time point; ;the] 
+
+[time point ; ;early] 
+
+[point  ; ;time] 
+

@@ -1,0 +1,11 @@
+The effects of Vpr could be reversed by RU486.
+[effects; ;The] 
+
+[effects;of;Vpr] 
+
+[reversed; ;be]
+[be; ;could]
+[reversed; ;effects] 
+
+[reversed;by;RU486] 
+

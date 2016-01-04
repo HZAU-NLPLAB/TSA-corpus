@@ -1,0 +1,31 @@
+For non-malignant splenocyte cultures, B cell activation was induced with 10 mug/ml of goat F(ab') anti-mouse IgM (Jackson ImmunoResearch).
+[cultures; ;splenocyte] 
+
+[cultures; ;non-malignant] 
+
+[;For;cultures] 
+
+[induced; ;activation] 
+
+[induced; ;was] 
+
+[activation; ;B cell] 
+
+[induced;with;mug/ml] 
+
+[mug/ml; ;10] 
+
+[/; ;mug] 
+
+[/; ;ml] 
+
+[mug/ml;of;IgM] 
+
+[IgM; ;anti-mouse] 
+
+[anti-mouse; ;F[ab')] 
+
+[anti-mouse; ;goat] 
+
+[mouse;-;anti] 
+

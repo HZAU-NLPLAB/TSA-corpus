@@ -1,0 +1,11 @@
+Inhibition of PKC by the isoquinoline derivative H7 abolishes induction of M-CSF by M-CSF.
+
+[Inhibition;of@1;PKC]
+[Inhibition;by;isoquinoline]
+[isoquinoline; ;the]
+[derivative; ;isoquinoline]
+[derivative; ;H7]
+[abolishes; ;H7]
+[abolishes; ;induction]
+[induction;of@2;M-CSF@1]
+[induction;by;M-CSF@2]

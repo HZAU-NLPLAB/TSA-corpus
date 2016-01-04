@@ -1,0 +1,28 @@
+Retroviral constructs for PRO2_ and the MIG control empty vector were a gift from S.
+[constructs; ;Retroviral] 
+
+[constructs;for;PRO2_] 
+
+[and; ;Retroviral constructs for PRO2_] 
+
+[and; ;the MIG control empty vector were a gift from S] 
+
+[vector; ;empty] 
+
+[vector; ;control] 
+
+[vector; ;MIG] 
+
+[vector; ;the] 
+
+[were; ;vector] 
+
+[were; ;gift] 
+
+[gift; ;a 
+]
+[gift;from;S.L. Reiner]
+[S.L. Reiner;; ;University of Pennsylvania, Philadelphia, PA]
+[University;
+of;Pennsylvania]
+[Philadelphia; ;PA]

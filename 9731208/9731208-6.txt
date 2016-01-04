@@ -1,0 +1,37 @@
+BMT inhibits nuclear translocation of both HIV-1 transactivator (TAT) and the cellular transcriptional nuclear factor-KB (NF-kappa B), resulting in the suppression of HIV-1 replication.
+[inhibits; ;BMT] 
+
+[inhibits; ;nuclear translocation] 
+
+[nuclear translocation;of;transactivator] 
+
+[transactivator; ;HIV-1@1] 
+
+[transactivator; ;TAT] 
+
+[nuclear translocation;of;cellular transcriptional nuclear factor-KB] 
+
+[cellular transcriptional nuclear factor-KB; ;the@1] 
+
+[cellular transcriptional nuclear; ;NF-kappa B] 
+
+[both...and; ;transactivator] 
+
+[both...and; ;cellular transcriptional nuclear factor-KB] 
+
+[translocation; ;nuclear] 
+
+[nuclear factor-KB; ;transcriptional] 
+
+[nuclear factor-KB; ;cellular] 
+
+[inhibits; ;resulting] 
+
+[resulting;in;suppression] 
+
+[suppression; ;the@2] 
+
+[suppression;of;replication] 
+
+[replication; ;HIV-1@2] 
+

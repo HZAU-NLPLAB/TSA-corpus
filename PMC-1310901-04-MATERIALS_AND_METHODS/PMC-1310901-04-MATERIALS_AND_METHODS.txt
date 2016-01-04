@@ -1,0 +1,4 @@
+Sequencing of the PRO1_ promoter.
+[Sequencing;of;PRO1_ promoter]
+[PRO1_ promoter; ; ;the]
+[promoter  ; ;PRO1_]

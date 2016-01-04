@@ -1,0 +1,35 @@
+Total RNA was isolated from PRO1_+ MACS-purified B cells using the Rneasy midi purification kit with Dnase treatment, according to the manufacturer's instructions (Qiagen).
+[RNA; ;Total] 
+
+[isolated; ;RNA] 
+
+[isolated; ;was] 
+
+[isolated;from;B cells] 
+
+[B cells; ;MACS-purified] 
+
+[B cells; ;PRO1_+] 
+
+[purified;-;MACS] 
+
+[using; ;purification] 
+
+[purification; ;the@1] 
+
+[purification; ;midi] 
+
+[purification; ;Rneasy] 
+
+[kit; ;purification] 
+
+[kit;with;treatment] 
+
+[treatment; ;Dnase ]
+
+[according;to;instructions] 
+
+[instructions; ;manufacturer's] 
+
+[instructions; ;the@2] 
+

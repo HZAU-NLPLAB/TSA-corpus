@@ -1,0 +1,5 @@
+RO1_ Represses Retroviral Transcription by Targeting.
+[Transcription; ;PRO1_]
+[Transcription; ;Represses]
+[Transcription; ;Retroviral]
+[PRO1_ Represses Retroviral Transcription;by;Targeting]

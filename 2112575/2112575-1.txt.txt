@@ -1,0 +1,13 @@
+The expression of c-fos, c-jun, and c-myc genes is regulated by heat shock in human lymphoid cells.
+
+[expression; ;The]
+[expression;of;genes]
+[,,and; ;c-fos]
+[,,and; ;c-jun]
+[,,and; ;c-myc]
+[regulated;is;genes]
+[regulated;by;shock]
+[shock; ;heat]
+[shock;in;cells]
+[cells; ;lymphoid]
+[lymphoid; ;human]

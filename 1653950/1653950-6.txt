@@ -1,0 +1,13 @@
+DNA-binding properties of HIV-TF1 suggested that HIV-TF1 might be identical or related to USF.
+[properties; ;DNA-binding]
+[properties;of;HIV-TF1]
+[suggested; ;properties]
+[suggested; ;that]
+[that; ;HIV-TF1 might be identical or related to USF]
+[be; ;HIV-TF1]
+[be; ;might]
+[be; ;identical]
+[or; ;identical]
+[or; ;related]
+[be; ;related]
+[related;to;USF]

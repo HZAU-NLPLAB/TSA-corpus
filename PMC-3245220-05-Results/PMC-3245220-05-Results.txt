@@ -1,0 +1,6 @@
+M-CSF-Induces PRO1_ Kinase Activity.
+[Activity; ;Kinase]
+[Kinase; ;PRO1_]
+[Kinase; ;M-CSF-Induces]
+[Induces; ;M-CSF-]
+

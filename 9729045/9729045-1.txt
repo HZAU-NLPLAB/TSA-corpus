@@ -1,0 +1,35 @@
+D30 is a CD40-inducible molecule that negatively regulates CD40-mediated immunoglobulin class switching in non-antigen-selected human B cells.
+[is; ;CD30] 
+
+[is; ;molecule] 
+
+[molecule; ;a] 
+
+[molecule; ;CD40-inducible] 
+
+[inducible;-;CD40@1] 
+
+[molecule; ;that] 
+
+[regulates; ;negatively] 
+
+[regulates; ;that] 
+
+[regulates; ;class] 
+
+[class; ;immunoglobulin] 
+
+[class; ;CD40-mediated] 
+
+[mediated;-;CD40@2] 
+
+[switching; ;class] 
+
+[switching;in;B cells]  
+
+[B cells ; ;human] 
+
+[B cells; ;non-antigen-selected] 
+
+[selected;-;non-antigen] 
+

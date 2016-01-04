@@ -1,0 +1,56 @@
+To clarify the role of mammalian runt products in normal and leukemic hematopoiesis, we have studied their pattern of expression in mouse hematopoietic tissues in the adult and during ontogeny using an anti-runt box antiserum.
+
+
+[studied; ;we] 
+
+[studied; ;have] 
+
+[studied;To;clarify] 
+
+[clarify; ;role] 
+
+[role; ;the@1] 
+
+[role;of@1;products] 
+
+[products; ;mammalian] 
+
+[products; ;runt] 
+
+[products;in@1;hematopoiesis] 
+
+[hematopoiesis; ;normal and leukemic] 
+
+[and@1; ;normal] 
+
+[and@1; ;leukemic] 
+
+[studied; ;pattern] 
+
+[pattern; ;their] 
+
+[pattern;of@2;expression] 
+
+[expression;in@2;tissues] 
+
+[tissues; ;mouse] 
+
+[tissues; ;hematopoietic] 
+
+[tissues;in@3;ontogeny] 
+
+[ontogeny; ;the@2] 
+
+[ontogeny; ;adult and during]
+
+[and@2; ;adult] 
+
+[and@2; ;during]
+
+[ontogeny; ;using] 
+
+[using; ;antiserum] 
+
+[antiserum ; ;box] 
+
+[antiserum; ;anti-runt]

@@ -1,0 +1,25 @@
+It has been applied to peripheral blood monocytes and a T cell clone to isolate 59 cDNA fragments associated to activation.
+[applied; ;It] 
+
+[applied;been;has] 
+
+[applied;to;peripheral blood monocytes] 
+
+[monocytes;blood;peripheral] 
+
+[and; ;peripheral blood monocytes] 
+
+[and; ;a T cell clone] 
+
+[clone; ;a] 
+
+[clone; ;T cell] 
+
+[T cell clone;to;isolate] 
+
+[isolate; ;59 cDNA fragments] 
+
+[associated; ;59 cDNA fragments] 
+
+[associated;to;activation] 
+

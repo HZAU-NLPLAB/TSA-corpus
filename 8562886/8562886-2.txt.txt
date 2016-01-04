@@ -1,0 +1,16 @@
+
+Toremifene exerts multiple and varied effects on the gene expression of human peripheral mononuclear cells.
+
+[exerts; ;Toremifene]
+[exerts; ;effects]
+[and; ;multiple]
+[and; ;varied]
+[effects; ;multiple]
+[effects; ;varied]
+[effects;on;expression]
+[expression;of;cells]
+[expression; ;the]
+[expression; ;gene]
+[cells; ;mononuclear]
+[mononuclear; ;peripheral]
+[cells; ;human]

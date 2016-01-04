@@ -1,0 +1,23 @@
+These results link regulatory factors critical to T cell commitment directly to HIV-1 replication.
+
+
+[results; ;These] 
+
+[link; ;results] 
+
+[link; ;factors] 
+
+[factors; ;regulatory] 
+
+[factors; ;critical] 
+
+[critical;to@1;commitment] 
+
+[commitment; ;T cell] 
+
+[commitment; ;directly] 
+
+[directly;to@2;replication] 
+
+[replication; ;HIV-1] 
+

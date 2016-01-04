@@ -1,0 +1,43 @@
+The I alpha1 promoter activates transcription of the human germ-line C alpha1 gene for IgA1 and mediates the transforming growth factor (TGF)-beta1 responsiveness of this locus.
+[I alpha1 promoter; ;The] 
+
+[promoter; ;I alpha1] 
+
+[activates; ;promoter] 
+
+[activates; ;transcription] 
+
+[transcription;of@1;human germ-line C alpha1 gene] 
+
+[human germ-line C alpha1 gene; ;the] 
+
+[gene; ;human] 
+
+[gene; ;germ-line] 
+
+[gene; ;C]
+
+[gene; ;alpha1] 
+
+[activates;for;IgA1] 
+
+[and; ;activates] 
+
+[and; ;mediates] 
+
+[mediates; ;I alpha1 promoter] 
+
+[mediates; ;transforming growth factor (TGF)-beta1 responsiveness] 
+
+[responsiveness; ;transforming] 
+
+[responsiveness; ;growth]
+
+[responsiveness; ;factor] 
+
+[responsiveness; ;(TGF)-beta1] 
+
+[responsiveness;of@2;locus]
+
+[locus; ;this] 
+

@@ -1,0 +1,27 @@
+The formation of this complex also requires both AP-1 sites and correlates with maximal enhancer activity.
+
+
+[formation; ;The] 
+
+[formation;of;complex] 
+
+[complex; ;this] 
+
+[requires; ;complex] 
+
+[requires; ;also] 
+
+[requires; ;both AP-1 sites and correlates] 
+
+[both...and...; ;AP-1 sites] 
+
+[both...and...; ;correlates] 
+
+[sites; ;AP-1] 
+
+[correlates;with;activity] 
+
+[activity ; ;enhancer] 
+
+[activity ; ;maximal] 
+

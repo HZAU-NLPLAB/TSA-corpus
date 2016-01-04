@@ -1,0 +1,24 @@
+PRO7_ promoter activation was quantified as a ratio of measured firefly light units (flu) relative to renilla (rlu).
+
+[quantified; ;PRO7_ promoter activation]
+
+[activation; ;PRO7_]
+
+[activation; ;promoter activation]
+[quantified; ;was]
+
+[quantified;as;ratio]
+
+[ratio; ;a]
+
+[ratio;of;measured firefly light units]
+
+[firefly light units; ;measured]
+
+[firefly light units; ;flu]
+
+[ratio;of;flu]
+
+[firefly light units;relative to;renilla]
+
+[firefly light units;relative to;rlu]

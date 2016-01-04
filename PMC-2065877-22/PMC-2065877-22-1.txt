@@ -1,0 +1,51 @@
+wild-Type and PRO1_ Transgenic Lymphoma Cells Survive Independently of PRO2_/PRO3_ Signaling in Culture
+[A] Rnase protection assay for PRO4_ mRNA from purified B cells (PRO5_+) from WT and PRO6_ transgenic splenocytes.
+[Cells; ;Lymphoma] 
+
+[Cells; ;Transgenic] 
+
+[Cells; ;PRO1_] 
+
+[Cells; ;Wild-Type] 
+
+[and; ;Wild-Type] 
+
+[and; ;PRO1_] 
+
+[Survive; ;Independently] 
+
+[Survive; ;Cells] 
+
+[Survive;of;Signaling] 
+
+[Signaling; ;PRO2_/PRO3_] 
+
+[/; ;PRO2_] 
+
+[/; ;PRO3_] 
+
+[Signaling;in;Culture] 
+
+[assay; ;protection] 
+
+[protection; ;Rnase] 
+
+[assay;for;mRNA]
+[mRNA; ;PRO4_] 
+
+[mRNA;from;B cells] 
+
+[B cells; ;purified] 
+
+[B cells;from;WT] 
+
+[and; ;WT] 
+
+[and; ;splenocytes] 
+
+[splenocytes; ;transgenic] 
+
+[splenocytes;;PRO6_] 
+
+[B cells; ;PRO5_+] 
+

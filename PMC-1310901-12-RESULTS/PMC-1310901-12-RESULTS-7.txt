@@ -1,0 +1,6 @@
+A 5'-region (R1) with 13 hypermethylated CpG sites (mean number of methylated clones 5.
+[5'-region; ;A]
+[5'-region; ;R1]
+[5'-region;with;hypermethylated CpG sites]
+[hypermethylated CpG sites; ;13]
+[hypermethylated CpG sites; ;mean number of methylated clones 5]

@@ -1,0 +1,55 @@
+PCR conditions were 94 degreesC for 2 min, 40 cycles of 94 degreesC for 30 s, 63 degreesC for 90 s, and 72 degreesC for 1 min, followed by 1 cycle of 72 degreesC for 5 min.
+
+[conditions; ;PCR ]
+
+[were; ;conditions ]
+
+[were; ;degreesC ]
+
+[degreesC; ;94 ]
+
+[degreesC;for;min ]
+
+[min; ;2 ]
+
+[cycles; ;40 ]
+
+[cycles;of;degreesC ]
+
+[degreesC; ;94 ]
+
+[degreesC;for;s ]
+
+[s; ;30 ]
+
+[degreesC; ;63 ]
+
+[degreesC;for;s ]
+
+[s; ;90 ]
+
+[degreesC; ;72 ]
+
+[degreesC;for;min ]
+
+[min; ;1 ]
+
+[and; ;94 degreesC ]
+
+[and; ;40 cycles ]
+
+[and; ;63 degreesC ]
+
+[and; ;72 degreesC ]
+
+[followed;by;cycle ]
+
+[cycle; ;1 ]
+
+[cycle;of;degreesC ]
+
+[degreesC; ;72 ]
+
+[degreesC;for;min ]
+
+[min; ;5 ]

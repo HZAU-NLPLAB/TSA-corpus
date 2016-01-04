@@ -1,0 +1,21 @@
+We isolated a novel subline, UT-7/GMT, from the human leukemia cell line UT-7/GM (N. Komatsu, et al., Blood, 89: 4021-4033, 1997).
+[isolated; ;We] 
+
+[isolated; ;subline] 
+
+[subline; ;novel] 
+
+[subline; ;a] 
+
+[subline; ;UT-7/GMT] 
+
+[isolated;from;human leukemia cell line UT-7/GM] 
+
+[human leukemia cell line UT-7/GM; ;the] 
+
+[UT-7/GM; ;human leukemia cell line] 
+
+[cell line; ;human leukemia] 
+
+[leukemia; ;human] 
+

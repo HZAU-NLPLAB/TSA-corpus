@@ -1,0 +1,8 @@
+Involvement of tyrosine phosphorylation in endothelial adhesion molecule induction.
+
+[Involvement;of;phosphorylation]
+[phosphorylation; ;tyrosine]
+[phosphorylation;in;induction]
+[induction; ;molecule]
+[molecule; ;adhesion]
+[adhesion; ;endothelial]

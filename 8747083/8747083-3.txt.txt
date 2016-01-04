@@ -1,0 +1,11 @@
+RNase treatment prior to hybridization considerably reduces the size of this signals.
+
+[treatment; ;RNase]
+[prior; ;treatment]
+[prior;to;hybridization]
+[reduces; ;hybridization]
+[reduces; ;considerably]
+[reduces; ;size]
+[size; ;the]
+[size;of;signals]
+[signals; ;this]

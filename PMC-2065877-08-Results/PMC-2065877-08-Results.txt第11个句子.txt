@@ -1,0 +1,51 @@
+
+[BAY11-7085; ;inhibitor] 
+
+[inhibitor; ;an] 
+
+[inhibitor;of;signaling] 
+
+[signaling,; ;NFkappaB] 
+
+[decreased; ;BAY11-7085] 
+
+[decreased; ;also] 
+
+[decreased; ;greatly] 
+
+[decreased; ;viability] 
+
+[viability; ;the]
+[viability;of;lymphocytes] 
+
+[viability;of;cells] 
+
+[ ;lymphocytes;PRO23_] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;the] 
+
+[cells; ;lymphoma] 
+
+[cells;at;doses] 
+
+[decreased;as;low] 
+
+[low;as;muM] 
+
+[muM; ;1] 
+
+[and; ;an inhibitor of NFkappaB signaling, also greatly decreased] (the viability of the PRO23_ transgenic lymphocytes and lymphoma cells at doses as low as 1 muM] 
+
+[and; ;at 5 muM the cells were completely nonviable] 
+
+[were; ;cells] 
+
+[were; ;nonviable] 
+
+[nonviable; ;completely] 
+
+[cells;at;muM] 
+
+[muM; ;5]

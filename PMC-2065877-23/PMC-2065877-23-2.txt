@@ -1,0 +1,17 @@
+Mouse lymphoma cell lines 967 and K46mu were used as controls.
+[lines 967; ;cell] 
+
+[cell; ;lymphoma] 
+
+[lymphoma; ;Mouse] 
+
+[and; ;lines 967] 
+
+[and; ;K46mu] 
+
+[used; ;were] 
+
+[used; ;cell lines 967 and K46mu] 
+
+[used;as;controls] 
+

@@ -1,0 +1,9 @@
+T cell-specific negative regulation of transcription of the human cytokine IL-4. 
+[regulation; ;T cell-specific]
+[specific;-;T cell]
+[regulation; ;negative]
+[regulation;of@1;transcription]
+[transcription;of@2;IL-4]
+[IL-4; ;the]
+[IL-4; ;human] 
+[IL-4; ;cytokine]

@@ -1,0 +1,15 @@
+cells transfected with the pNF-kappaB-SEAP construct were pre-incubated with inhibitors for 30 minutes prior to 2 hours of stimulation with mouse recombinant M-CSF.
+[transfected; ;cells]
+[transfected;with@1;construct]
+[construct; ;pNF-kappaB-SEAP]
+[pre-incubated; ;cells]
+[pre-incubated;with@2;inhibitors]
+[pre-incubated;for;minutes]
+[minutes; ;30]
+[prior;to;stimulation]
+[hours;of;stimulation]
+[hours; ;2]
+[stimulation;with;M-CS]
+[M-CS; ;recombinant) 
+[M-CS; ;mouse]
+

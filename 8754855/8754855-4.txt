@@ -1,0 +1,45 @@
+The core GGAAs of the muA and muB sites are separated by 30 nucleotides, suggesting that ETS proteins bind to these sites from these same side of the DNA helix.
+
+
+[GGAAs; ;core] 
+
+[GGAAs; ;The] 
+
+[GGAAs;of@1;sites] 
+
+[sites; ;the@1] 
+
+[sites; ;muA and muB] 
+
+[and; ;muA] 
+
+[and; ;muB] 
+
+[separated; ;are] 
+
+[separated;by;nucleotides] 
+
+[nucleotides; ;30] 
+
+[suggesting; ;that] 
+
+[that; ;ETS proteins bind to these sites from these same side of the DNA helix] 
+
+[proteins; ;ETS] 
+
+[bind;to;sites] 
+
+[sites; ;these]
+
+[sites;from;side] 
+
+[side; ;these] 
+
+[side; ;same]
+
+[side;of@2;helix] 
+
+[helix; ;the@2] 
+
+[helix; ;DNA] 
+

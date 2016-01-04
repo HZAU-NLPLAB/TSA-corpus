@@ -1,0 +1,43 @@
+We have found recently that okadaic acid-sensitive Ser/Thr phosphatases are involved in a cyclosporin A-insensitive pathway that selectively transmits costimulatory signals.
+[found; ;have] 
+
+[found; ;We] 
+
+[found; ;recently] 
+
+[found; ;that] 
+
+[that; ;okadaic acid-sensitive Ser/Thr phosphatases are involved in a cyclosporin A-insensitive pathway that selectively transmits costimulatory signals] 
+
+[involved; ;are] 
+
+[involved; ;okadaic acid-sensitive Ser/Thr phosphatases] 
+
+[Ser/Thr phosphatases; ;okadaic acid-sensitive] 
+
+[sensitive;-;okadaic acid] 
+
+[phosphatases; ;Ser/Thr] 
+
+[/; ;Ser] 
+
+[/; ;Thr] 
+
+[involved;in;pathway] 
+
+[pathway; ;a] 
+
+[pathway; ;cyclosporin A-insensitive] 
+
+[insensitive;-;cyclosporin A] 
+
+[pathway; ;that] 
+
+transmits; ;selectively] 
+
+[transmits; ;that] 
+
+[transmits; ;signals] 
+
+[signals; ;costimulatory] 
+

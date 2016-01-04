@@ -1,0 +1,11 @@
+Interleukin-12 expression in B cells by transformation with Epstein-Barr virus.
+[expression; ;Interleukin-12] 
+
+[expression;in;B cells] 
+
+[Interleukin-12 expression;by;transformation] 
+
+[Interleukin-12 expression;with;Epstein-Barr virus] 
+
+[virus; ;Epstein-Barr] 
+

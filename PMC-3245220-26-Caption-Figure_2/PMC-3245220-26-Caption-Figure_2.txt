@@ -1,0 +1,9 @@
+Inhibition of PKC reduces NF-kappaB activity in M-CSF stimulated macrophages.
+[Inhibition;of;PKC]
+[reduces; ;PKC]
+[reduces; ;activity]
+[activity; ;NF-kappaB]
+[activity; in;M-CSF]
+[stimulated; ;macrophages]
+[stimulated; ;M-CSF) 
+

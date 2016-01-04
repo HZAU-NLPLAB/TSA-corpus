@@ -1,0 +1,37 @@
+The primary antibodies were goat anti-PRO12_/PRO13_ (PRO14_) (Santa Cruz Biotechnology, Santa Cruz, CA) and mouse anti-PRO15_ (AC-74)(Sigma).
+
+[antibodies; ;The]
+
+[antibodies; ;primary]
+
+[were; ;antibodies]
+
+[were; ;goat anti-PRO12_/PRO13_]
+
+[anti-PRO12_/PRO13_; ;goat]
+
+[ant;-;PRO12_]
+
+[anti;-;PRO13_]
+
+[/; ;PRO12_]
+
+[/; ;PRO13_]
+
+[PRO13_; ;PRO14_]
+
+[anti;-;PRO14_]
+
+[goat anti-PRO12_/PRO13_; ;Santa Cruz Biotechnology, Santa Cruz, CA]
+
+[and; ;goat anti-PRO12_/PRO13_ (PRO14_)]
+
+[and; ;mouse anti-PRO15_ (AC-74)]
+
+[mouse anti-PRO15_ (AC-74); ;were]
+
+[anti-PRO15_; ;mouse]
+
+[anti-PRO15_; ;AC-74]
+
+[mouse anti-PRO15_ (AC-74); ;Sigma]

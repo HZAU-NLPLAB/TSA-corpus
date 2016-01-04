@@ -1,0 +1,41 @@
+
+The promoter of the major histocompatibility class II gene DRA contains an octamer element (ATTTGCAT) that is required for efficient DRA expression in B cells.
+[promoter; ;The] 
+
+[promoter;of;gene] 
+
+[gene; ;the] 
+
+[gene; ;class II] 
+
+[gene; ;histocompatibility] 
+
+[gene; ;major] 
+
+[gene; ;DRA] 
+
+[contains; ;promoter] 
+
+[contains; ;element] 
+
+[element; ;octamer] 
+
+[element; ;an] 
+
+[element; ;ATTTGCAT] 
+
+[element; ;that] 
+
+[required; ;that] 
+
+[required; ;is] 
+
+[required;for;expression] 
+
+[expression; ;DRA] 
+
+[expression; ;efficient] 
+
+[expression;in;cells] 
+
+[cells; ;B]

@@ -1,0 +1,33 @@
+
+
+(C) Flow cytometry analysis for incorporated BrdU in WT and PRO9_ transgenic lymphoma cells cultured with or without PRO10_ for 2 d.
+[analysis; ;cytometry] 
+
+[analysis; ;Flow] 
+
+[analysis;for;BrdU] 
+
+[BrdU; ;incorporated] 
+
+[BrdU;in;WT] 
+
+[and@1; ;WT] 
+
+[and@1; ;cells] 
+
+[cells; ;lymphoma] 
+
+[lymphoma; ;transgenic] 
+
+[lymphoma; ;PRO9_]
+[cultured; ;cells] 
+
+[cultured; ;with] 
+
+[or; ;with] 
+
+[or; ;without] 
+
+[ ;with or without;PRO10_] 
+
+[PRO10_;for;2 d]

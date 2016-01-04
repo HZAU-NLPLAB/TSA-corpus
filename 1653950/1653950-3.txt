@@ -1,0 +1,6 @@
+HIV-TF1 had a molecular weight of 39,000.
+[had; ;HIV-TF1]
+[had; ;weight]
+[weight; ;a]
+[weight; ;molecular]
+[weight;of;39,000]

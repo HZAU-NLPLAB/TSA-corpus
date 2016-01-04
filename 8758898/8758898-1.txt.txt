@@ -1,0 +1,16 @@
+C/EBP activators are required for HIV-1 replication and proviral induction in monocytic cell lines.
+
+[activators; ;C/EBP]
+[/; ;C]
+[/; ;EBP]
+[required;are; ]
+[required; ;activators]
+[required;for;replication]
+[required;for;induction]
+[replication; ;HIV-1]
+[and; ;replication]
+[and; ;induction]
+[induction; ;proviral]
+[induction;in;lines]
+[lines; ;cell]
+[cell; ;monocytic]

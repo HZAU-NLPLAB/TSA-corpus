@@ -1,0 +1,11 @@
+Cells (2x104) were seeded in 96-well treated plates the day before transfection.
+[Cells; ;2x104]
+[seeded; ;Cells]
+[seeded; ;were]
+[seeded;in;96-well]
+[treated; ;96-well]
+[treated; ;plates]
+[treated; ;the day before]
+[day; ;the]
+[day; ;before) 
+

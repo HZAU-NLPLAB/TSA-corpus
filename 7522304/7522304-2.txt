@@ -1,0 +1,40 @@
+
+The immunosuppressant drug cyclosporin A blocks a calcium-dependent signal from the T-cell receptor (TCR) that normally leads to T-cell activation.
+
+
+[cyclosporin; ;The] 
+
+[cyclosporin; ;drug] 
+
+[drug; ;immunosuppressant] 
+
+[cyclosporin; ;A blocks] 
+
+[blocks; ;A] 
+
+[A blocks; ;a calcium-dependent signal] 
+
+[signal; ;a] 
+
+[signal; ;calcium-dependent] 
+
+[dependent;-;calcium] 
+
+[signal;from;T-cell receptor] 
+
+[T-cell receptor; ;the] 
+
+[T-cell receptor; ;TCR] 
+
+[receptor; ;T-cell] 
+
+[TCR; ;that] 
+
+[leads; ;that] 
+
+[leads; ;normally] 
+
+[leads;to;activation]  
+
+[activation; ;T-cell] 
+

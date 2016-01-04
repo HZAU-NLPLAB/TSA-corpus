@@ -1,0 +1,41 @@
+This endogenous IFN was also shown to play a role in maintaining the basal level of expression of the major histocompatibility class I genes in lymphoid cells.
+
+
+[IFN; ;This] 
+
+[IFN; ;endogenous] 
+
+[shown; ;IFN] 
+
+[shown; ;was] 
+
+[shown; ;also] 
+
+[shown;to;play] 
+
+[play; ;role] 
+
+[role; ;a] 
+
+[role;in;maintaining] 
+
+[maintaining; ;level] 
+
+[level; ;the] 
+
+[level; ;basal] 
+
+[level;of@1;expression] 
+
+[expression;of@2;histocompatibility class I genes] 
+
+[genes; ;class I] 
+
+[genes; ;histocompatibility] 
+
+[genes; ;major] 
+
+[genes;in;cells] 
+
+[cells; ;lymphoid] 
+

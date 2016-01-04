@@ -1,0 +1,45 @@
+
+Previous cotransfection experiments had demonstrated that ectopic expression of the lymphocyte-specific transcription factor Oct2 could efficiently activate a promoter containing an octamer motif.
+[experiments; ;cotransfection] 
+
+[experiments; ;Previous] 
+
+[demonstrated; ;experiments] 
+
+[demonstrated; ;had] 
+
+[demonstrated; ;that] 
+
+[that; ;ectopic expression of the lymphocyte-specific transcription factor Oct2 could efficiently activate a promoter containing an octamer motif] 
+
+[expression; ;ectopic] 
+
+[expression;of;factor] 
+
+[factor; ;transcription] 
+
+[transcription; ;lymphocyte-specific] 
+
+[lymphocyte;-;specific] 
+
+[factor; ;the] 
+
+[factor; ;Oct2] 
+
+[activate; ;expression] 
+
+[activate; ;could] 
+
+[activate; ;efficiently] 
+
+[activate; ;promoter] 
+
+[promoter; ;a] 
+
+[containing; ;promoter] 
+
+[containing; ;motif] 
+
+[motif; ;octamer] 
+
+[motif; ;an]

@@ -1,0 +1,55 @@
+Finally we explored the possible role of 5-hydroxyeicosatetraenoic acid as a regulator of arachidonic acid liberation demonstrating that endogenous 5-lipoxygenase activity modulates platelet-activating factor induced arachidonic acid release perhaps acting at the level of phospholipase A2.
+[we explored the possible role of 5-hydroxyeicosatetraenoic acid as a regulator of arachidonic acid liberation demonstrating that endogenous 5-lipoxygenase activity modulates platelet-activating factor induced arachidonic acid release perhaps acting at the level of phospholipase A2; ;Finally] 
+
+[explored; ;we]]
+
+[explored; ;role] 
+
+[role; ;possible] 
+
+[role; ;the@1] 
+
+[role;of@1;5-hydroxyeicosatetraenoic acid] 
+
+[explored;as;regulator] 
+
+[regulator; ;a] 
+
+[regulator;of@2;liberation] 
+
+[liberation; ;arachidonic acid@1] 
+
+[demonstrating; ;liberation] 
+
+[demonstrating; ;that] 
+
+[that; ;endogenous 5-lipoxygenase activity modulates platelet-activating factor induced arachidonic acid release perhaps acting at the level of phospholipase A2] 
+
+[activity; ;endogenous] 
+
+[activity; ;5-lipoxygenase] 
+
+[modulates; ;activity] 
+
+[modulates; ;platelet-activating factor] 
+
+[induced; ;platelet-activating factor] 
+
+[factor; ;platelet-activating] 
+
+[activating;-;platelet] 
+
+[induced; ;release] 
+
+[release; ;arachidonic acid@2] 
+
+[acting; ;release] 
+
+[acting; ;perhaps] 
+
+[acting;at;level] 
+
+[level; ;the@2] 
+
+[level;of@2;phospholipase A2] 
+

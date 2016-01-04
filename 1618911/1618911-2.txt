@@ -1,0 +1,53 @@
+
+The NF-kappa B family of transcription proteins represents multiple DNA binding, rel related polypeptides that contribute to regulation of genes involved in immune responsiveness and inflammation, as well as activation of the HIV long terminal repeat.
+[family; ;NF-kappa B] 
+
+[family; ;The] 
+
+[family;of;proteins] 
+
+[proteins; ;transcription] 
+
+[represents; ;proteins] 
+
+[represents; ;binding] 
+
+[binding,; ;DNA] 
+
+[binding; ;multiple] 
+
+[polypeptides; ;rel] 
+
+[polypeptides; ; related] 
+
+[polypeptides; ;that] 
+
+[contribute; ;that] 
+
+[contribute;to;regulation] 
+
+[regulation;of;genes] 
+
+[genes; ;involved] 
+
+[involved;in;responsiveness] 
+
+[responsiveness; ;immune] 
+
+[and; ;responsiveness] 
+
+[and; ;inflammation] 
+
+[as well as; ;inflammation] 
+
+[as well as; ;activation] 
+
+[activation;of;repeat] 
+
+[repeat; ;terminal] 
+
+[repeat; ;long] 
+
+[repeat; ;HIV] 
+
+[repeat; ;the]

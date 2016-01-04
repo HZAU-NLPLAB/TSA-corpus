@@ -1,0 +1,29 @@
+n allosteric drug, o,o'-bismyristoyl thiamine disulfide, suppresses HIV-1 replication through prevention of nuclear translocation of both HIV-1 Tat and NF-kappa B.
+[allosteric drug; ;An] 
+
+[allosteric drug; ;o,o'-bismyristoyl thiamine disulfide] 
+
+[drug; ;allosteric] 
+
+[suppresses; ;drug] 
+
+[suppresses; ;replication] 
+
+[replication; ;HIV-1@1] 
+
+[suppresses;through;prevention] 
+
+[prevention;of@1;nuclear translocation] 
+
+[translocation; ;nuclear] 
+
+[nuclear translocation;of@2;Tat] 
+
+[nuclear translocation;of@2;NF-kappa B] 
+
+[Tat; ;HIV-1@2] 
+
+[and; ;Tat] 
+
+[and; ;NF-kappa B] 
+

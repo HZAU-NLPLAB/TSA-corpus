@@ -1,0 +1,31 @@
+NF-kappaB nuclear activation was not detectable before 1 h after cell contact and was dependent on protein synthesis.
+
+
+[activation; ;NF-kappaB] 
+
+[activation; ;nuclear] 
+
+[was@1; ;activation] 
+
+[was@1; ;detectable] 
+
+[was@1; ;not] 
+
+[detectable;before;1 h] 
+
+[detectable;after;contact] 
+
+[h; ;1] 
+
+[contact; ;cell] 
+
+[and; ;was@1] 
+
+[and; ;was@2] 
+
+[was@2; ;dependent] 
+
+[dependent;on;synthesis] 
+
+[synthesis;  ;protein] 
+

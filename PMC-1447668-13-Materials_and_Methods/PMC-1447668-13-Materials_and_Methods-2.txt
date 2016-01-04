@@ -1,0 +1,10 @@
+Purity of negatively selected PRO4_+ T cells was consistently higher than 96% as determined by flow cytometry.
+[Purity;of;PRO4_+ T cells]
+[selected; ;negatively]
+[PRO4_+ T cells; ;selected]
+[T cells; ;PRO4_+]
+[was; ;PRO4_+ T cells]
+[was; ;higher]
+[higher; ;consistently]
+[higher;than;96%]
+[was;as;determined]

@@ -1,0 +1,40 @@
+Sodium salicylate and aspirin also inhibited NF-kappa B-dependent transcription from the Ig kappa enhancer and the human immunodeficiency virus (HIV) long terminal repeat (LTR) in transfected T cells.
+
+
+[inhibited; ;Sodium salicylate and aspirin] 
+
+[and; ;Sodium salicylate] 
+
+[and; ;aspirin] 
+
+[inhibited; ;also] 
+
+[inhibited; ;transcription] 
+
+[transcription; ;NF-kappa B-dependent] 
+
+[dependent; ;NF-kappa B] 
+
+[transcription;from;enhancer] 
+
+[enhancer; ;the@1] 
+
+[enhancer; ;Ig kappa] 
+
+[and; ;enhancer] 
+
+[and; ;human immunodeficiency virus] 
+
+[human immunodeficiency virus; ;HIV] 
+
+[human immunodeficiency virus; ;the@2] 
+
+[long terminal repeat; ;LTR] 
+
+[repeat; ;terminal] 
+
+[repeat; ;long] 
+
+[LTR;in;T cells] 
+
+[T cells; ;transfected]

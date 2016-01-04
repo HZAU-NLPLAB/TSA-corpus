@@ -1,0 +1,24 @@
+IV1 infection of human monocytes and macrophages promotes induction or translocation of NF-KB-related factors.
+
+
+[infection; ;HIV1] 
+
+[infection;of@1;monocytes] 
+
+[monocytes; ;human] 
+
+[and; ;monocytes] 
+
+[and; ;promotes]
+[induction; ;promotes]
+
+[promotes; ;macrophages] 
+
+[or; ;induction] 
+
+[or; ;translocation] 
+
+[translocation;of@2;factors]  
+
+[factors;  ;NF-KB-related] 
+

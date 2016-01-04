@@ -1,0 +1,27 @@
+Upon functional activation of granulocytes by 4 beta-phorbol 12-myristate 13-acetate (PMA), the levels of c-jun, jun B and jun D transcripts were increased.
+
+
+[ ;Upon;activation] 
+
+[activation; ;functional] 
+
+[activation;of@1;granulocytes] 
+
+[granulocytes;by;4 beta-phorbol 12-myristate 13-acetate]
+
+[4 beta-phorbol 12-myristate 13-acetate; ;PMA] 
+
+[levels; ;the] 
+
+[levels;of@2;c-jun] 
+
+[and; ;jun B] 
+
+[and; ;jun D] 
+
+[transcripts; ;jun B and jun D] 
+
+[increased; ;transcripts] 
+
+[increased; ;were] 
+

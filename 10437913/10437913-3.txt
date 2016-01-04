@@ -1,0 +1,13 @@
+However, the molecular mechanism of Rb rescue of the class II genes is unknown.
+[molecular mechanism; ;the] 
+
+[molecular mechanism;of@1;Rb rescue] 
+
+[Rb rescue;of@2;class II genes] 
+
+[class II genes; ;the@2] 
+
+[is; ;molecular mechanism] 
+
+[is; ;unknown]  
+

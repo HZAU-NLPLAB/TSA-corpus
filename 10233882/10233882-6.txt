@@ -1,0 +1,69 @@
+These results offer insight into a new role for NF-kappaB in maintaining survival and function in hematopoietic stem and progenitor cells and suggest that proposed strategies involving inhibition of NF-kappaB activation as an adjunct to cancer chemotherapy should be approached with caution.
+[results; ;results] 
+
+[offer; ;results] 
+
+[offer; ;insight] 
+
+[offer;into;role] 
+
+[role; ;a] 
+
+[role; ;new] 
+
+[role;for;NF-kappaB] 
+
+[offer;in@1;maintaining] 
+
+[maintaining; ;survival and@1 function] 
+
+[and@1; ;survival]
+
+[and@1; ;function]
+
+[maintaining;in@2;hematopoietic stem and@2 progenitor cells] 
+
+[stem; ;hematopoietic] 
+
+[and@2; ;hematopoietic stem] 
+
+[and@2; ;progenitor] 
+
+[cells; ;hematopoietic stem and@2 progenitor] 
+
+[and@3; ;offer] 
+
+[and@3; ;suggest] 
+
+[suggest; ;results] 
+
+[suggest; ;that] 
+
+[that; ;proposed strategies involving inhibition of NF-kappaB activation as an adjunct to cancer chemotherapy should be approached with caution] 
+
+[strategies; ;proposed] 
+
+[involving; ;strategies] 
+
+[involving; ;inhibition] 
+
+[inhibition;of;NF-kappaB activation] 
+
+[activation; ;NF-kappaB] 
+
+[involving;as;adjunct] 
+
+[adjunct; ;an] 
+
+adjunct;to;cancer chemotherapy 
+
+chemotherapy; ;cancer 
+
+approached; ;strategies 
+
+be; ;should 
+
+approached; ;be 
+
+approached;with;caution 
+

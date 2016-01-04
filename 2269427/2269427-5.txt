@@ -1,0 +1,33 @@
+We conclude from these experiments that the ES cell system provides a good model to study hematopoietic development.
+
+
+[conclude; ;We] 
+
+[conclude;from;experiments] 
+
+[experiments; ;these] 
+
+[experiments; ;that] 
+
+[that; ;the ES cell system provides a good model to study hematopoietic development] 
+
+[system; ;the] 
+
+[system; ;ES cell] 
+
+[cell; ;ES] 
+
+[provides; ;system] 
+
+[provides; ;model]
+
+[model; ;a] 
+
+[model; ;good] 
+
+[model;to;study] 
+
+[study; ;development]  
+
+[development; ;hematopoietic] 
+

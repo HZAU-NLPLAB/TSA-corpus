@@ -1,0 +1,8 @@
+T-cell functional regions of the human IL-3 proximal promoter.
+[T-cell functional regions;of;human IL-3 proximal promoter]
+[human IL-3 proximal promoter; ;the]
+[regions; ;T-cell]
+[regions; ;functional]
+[promoter; ;human]
+[promoter; ;IL-3]
+[promoter; ;proximal]

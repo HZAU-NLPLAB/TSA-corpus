@@ -1,0 +1,30 @@
+To study the transcription factor requirement in B-cells, different U2 enhancer constructions were transfected into the lymphoid cell line, BJA-B.
+
+[ ;To;study] 
+
+[study; ;requirement] 
+
+[requirement; ;the@1] 
+
+[requirement; ;transcription factor] 
+
+[factor; ;transcription] 
+
+[requirement;in;B-cells] 
+
+[constructions; ;different] 
+
+[constructions; ;enhancer] 
+
+[constructions; ;U2] 
+
+[transfected; ;constructions] 
+
+[transfected;were; ]
+
+[transfected;into;lymphoid cell line] 
+
+[lymphoid cell line; ;the@2] 
+
+[lymphoid cell line; ;BJA-B] 
+

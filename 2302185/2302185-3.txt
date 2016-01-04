@@ -1,0 +1,12 @@
+Among the protein-binding regions of the HIV-1 LTR is the transcription-enhancer region. 
+[is;Among;regions]
+[regions; ;the@1]
+[regions; ;protein-binding]
+[protein;-;binding]
+[regions;of;HIV-1]
+[HIV-1; ;the@2]
+[is; ;LTR]
+[is; ;transcription-enhancer region]
+[transcription-enhancer region; ;the@3]
+[region; ;transcription-enhancer]
+[transcription;-;enhancer]

@@ -1,0 +1,32 @@
+CTLA-4 ligation inhibited CD3/CD28-induced IL-2 mRNA accumulation by inhibiting IL-2 transcription, which appears to be mediated in part through decreasing NF-AT accumulation in the nuclei.
+[ligation; ;CTLA-4] 
+
+[inhibited; ;CTLA-4 ligation]
+
+[inhibited; ;CD3/CD28-induced IL-2 mRNA accumulation] 
+
+[IL-2 mRNA; ;CD3/CD28-induced] 
+
+[accumulation; ;IL-2 mRNA] 
+
+[inhibited;by;inhibiting] 
+
+[inhibiting; ;IL-2 transcription] 
+
+[IL-2 transcription; ;which] 
+
+[appears; ;which] 
+
+[appears;to;be] 
+
+[mediated; ;be] 
+
+[mediated; ;in part] 
+
+[[mediated;through;decreasing 
+decreasing; ;NF-AT accumulation] 
+
+[decreasing;in;nuclei]  
+
+[nuclei; ;the] 
+

@@ -1,0 +1,23 @@
+Down-regulation of PRO1_ gene expression in leukemic cells due to hypermethylation of CpG motifs in the promoter region
+.
+[Down-regulation; of; PRO1_ gene expression]
+[expression; ; PRO1_ gene) 
+
+[Down-regulation; in; leukemic cells) 
+
+[cells; ; leukemic]
+
+[Down-regulation; ; due) 
+
+[due;to; hypermethylation) 
+
+[hypermethylation;of; CpG motifs) 
+
+[motifs; ; CpG]
+
+[hypermethylation;in; the promoter region) 
+
+[promoter region; ; the) 
+
+[region; ; promoter) 
+

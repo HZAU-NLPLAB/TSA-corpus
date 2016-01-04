@@ -1,0 +1,18 @@
+Jak3 is constitutively associated with CD40, and this interaction requires a proline-rich sequence in the membrane-proximal region of CD40.
+
+[associated; ;Jak3]
+[associated;is; ]
+[associated;with;CD40@1]
+[and; ;interaction]
+[and; ;associated]
+[interaction; ;this]
+[requires; ;interaction]
+[requires; ;sequence]
+[sequence; ;a]
+[sequence; ;proline-rich]
+[rich;-;proline]
+[sequence;in;region]
+[region; ;the]
+[region; ;membrane-proximal]
+[proximal;-;membrane]
+[region;of;CD40@2]

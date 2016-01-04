@@ -1,0 +1,29 @@
+Activated NF-kappa B in nuclear extracts was measured by an electrophoretic mobility shift assay using 32P-labeled probe.
+
+
+[NF-kappa B; ;Activated] 
+
+[NF-kappa B;in;extracts] 
+
+[extracts; ;nuclear] 
+
+[measured; ;extracts] 
+
+[measured; ;was] 
+
+[measured;by;assay] 
+
+[assay; ;shift]
+
+[assay; ;mobility] 
+
+[assay; ;electrophoretic] 
+
+[assay; ;an] 
+
+[using; ;assay] 
+
+[using; ;probe] 
+
+[probe; ;32P-labeled] 
+

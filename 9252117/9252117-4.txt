@@ -1,0 +1,52 @@
+In combination, EBF and E47 induce efficient expression of the endogenous immunoglobulin surrogate light chain genes, lambda5 and VpreB, whereas other pre-B cell-specific genes remain silent.
+[ ;In;combination] 
+
+[and; ;EBF] 
+
+[and; ;E47] 
+
+[induce; ;EBF] 
+
+[induce; ;E47] 
+
+[induce; ;expression] 
+
+[expression; ;efficient] 
+
+[expression;of;endogenous immunoglobulin surrogate light chain genes] 
+
+[endogenous immunoglobulin surrogate light chain genes; ;the] 
+[expression;of;lambda5] 
+
+[expression;of;VpreB] 
+
+[and; ;endogenous immunoglobulin surrogate light chain genes] 
+
+[and; ;lambda5] 
+
+[and; ;VpreB] 
+
+[genes; ;surrogate light chain] 
+
+[genes; ;immunoglobulin] 
+
+[genes; ;endogenous] 
+
+[light chain; ;surrogate] 
+
+[chain; ;light] 
+
+[EBF and E47 induce efficient expression of the endogenous immunoglobulin surrogate light chain genes, lambda5 and VpreB;whereas;other pre-B cell-specific genes remain silent]  
+
+[pre-B cell-specific genes; ;other] 
+
+[remain; ;pre-B cell-specific genes] 
+
+[specific genes;-;pre-B cell] 
+
+[genes; ;specific] 
+
+[B cell;-;pre] 
+
+[remain; ;silent] 
+

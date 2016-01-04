@@ -1,0 +1,16 @@
+We show that engagement of CD40 induces tyrosine phosphorylation and activation of Jak3 as well as of STAT3.
+
+[show; ;We]
+[show; ;that]
+[that; ;engagement of CD40 induces tyrosine phosphorylation and activation of Jak3 as well as of STAT3]
+[engagement;of@1;CD40]
+[induces; ;CD40]
+[induces; ;phosphorylation]
+[phosphorylation; ;tyrosine]
+[and; ;activation]
+[and; ;phosphorylation]
+[activation;of@2;Jak3]
+[as well as; ;Jak3]
+[as well as; ;STAT3]
+[ ;of@3;STAT3]
+

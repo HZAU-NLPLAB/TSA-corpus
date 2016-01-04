@@ -1,0 +1,33 @@
+In this report, we demonstrate that one of the functions of CIITA is to recruit the CREB binding protein (CBP) to class II promoters.
+[ ;In;report] 
+
+[report; ;this] 
+
+[demonstrate; ;we] 
+
+[demonstrate; ;that] 
+
+[that; ;one of@1 the functions of@2 CIITA is to recruit the CREB binding protein (CBP) to class II promoters] 
+
+[one;of@1;functions] 
+
+[functions; ;the] 
+
+[functions;of@2;CIITA] 
+
+[is; ;one] 
+
+[is;to;recruit] 
+
+[CREB binding protein; ;recruit] 
+
+[CREB binding protein; ;the] 
+
+[CREB binding protein; ;CBP] 
+
+[protein;binding;CREB] 
+
+[recruit;to;class II promoters] 
+
+[promoters; ;class II] 
+

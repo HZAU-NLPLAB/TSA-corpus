@@ -1,0 +1,9 @@
+PCR analysis of kappa chain rearrangement.
+
+[analysi; ;PCR ]
+
+[analysis;of;rearrangement]
+
+[rearrangement; ;chain ]
+
+[rearrangement; ;kappa ]

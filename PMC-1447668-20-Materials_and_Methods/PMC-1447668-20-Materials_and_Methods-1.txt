@@ -1,0 +1,36 @@
+The Mann-Whitney U test was used to compare the data between patients with HAM/TSP and AC.
+[test; ;The]
+
+[test; ;Mann-Whitney U]
+ 
+
+[used; ;test]
+
+
+[used; ;was]
+
+
+[used;to;compare 
+]
+
+[compare; ;data 
+]
+
+[data; ;the 
+]
+
+[between¡­and¡­; ;patients 
+]
+
+[between¡­and¡­; ;AC]
+
+
+[patients;with;HAM/TSP]
+
+
+[/; ;HAM]
+
+
+[/; ;TSP 
+]
+

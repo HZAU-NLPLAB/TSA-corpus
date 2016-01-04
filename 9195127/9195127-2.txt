@@ -1,0 +1,36 @@
+
+The regulation of NF-kappa B activation following the triggering of HLA-DR antigens by mAb L243 has been studied at various times in Raji cells.
+
+
+[regulation; ;The] 
+
+[regulation;of@1;activation] 
+
+[activation; ;NF-kappa B] 
+
+[activation; ;following] 
+
+[following; ;triggering] 
+
+[triggering; ;the] 
+
+[triggering;of@2;antigens] 
+
+[antigens; ;HLA-DR] 
+
+[antigens;by;mAb L243] 
+
+[studied; ;mAb L243] 
+
+[studied; ;has]
+
+[studied; ;been] 
+
+[studied;at;times] 
+
+[times; ;various] 
+
+[times;in;cells]   
+
+[cells ; s;Raji] 
+

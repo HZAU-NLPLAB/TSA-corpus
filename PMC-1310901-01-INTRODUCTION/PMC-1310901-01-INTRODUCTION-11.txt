@@ -1,0 +1,10 @@
+These data suggest a crucial role for PRO17_ in the function of immune cells.
+[data; ;These]
+[suggest; ;data]
+[suggest; ;role]
+[role; ;crucial]
+[role; ;a]
+[role;for;PRO17_]
+[$;in;function]
+[function; ;the]
+[function;of;immune cells]

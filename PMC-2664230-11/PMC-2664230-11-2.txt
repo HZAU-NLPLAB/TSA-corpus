@@ -1,0 +1,19 @@
+LPS stimulation caused a negligible increase in CREB phosphorylation when compared to control (Figure 4A).
+[stimulation; ;LPS] 
+
+[caused; ;stimulation] 
+
+[caused; ;increase] 
+
+[increase; ;negligible] 
+
+[increase; ;a] 
+
+[increase;in;phosphorylation] 
+
+[phosphorylation; ;CREB] 
+
+[when; ;compared to control] 
+
+[compared;to;control] 
+

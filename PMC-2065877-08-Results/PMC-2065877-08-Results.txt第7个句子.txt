@@ -1,0 +1,26 @@
+Treatment with triciribine effectively blocked phosphorylation of PRO17_, and phosphorylated PRO18_ was no longer detected past 5 muM.
+[Treatment;with;triciribine] 
+
+[blocked; ;Treatment] 
+
+[blocked; ;effectively] 
+
+[blocked; ;phosphorylation] 
+
+[phosphorylation;of;PRO17_] 
+
+[and; ;Treatment with triciribine effectively blocked] (phosphorylation of PRO17_] 
+
+[and; ;phosphorylated PRO18_ was no longer detected past 5 muM]
+[detected; ;PRO18_] 
+
+[detected; ;was] 
+
+[detected; ;no longer] 
+
+[PRO18_; ;phosphorylated] 
+
+[detected;past;muM]
+
+[muM; ;5] 
+

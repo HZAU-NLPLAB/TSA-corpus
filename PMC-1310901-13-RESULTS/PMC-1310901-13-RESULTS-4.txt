@@ -1,0 +1,7 @@
+Intriguingly, methylation of the PRO4_ promoter significantly decreased promoter activity in PRO5_-positive SD-1 cells by 85.
+[methylation;of;PRO4_ promoter]
+[decreased; ;significantly]
+[decreased; ;PRO4_ promoter]
+[decreased; ;promoter activity]
+[activity;in;PRO5_-positive SD-1 cells]
+[PRO5_-positive SD-1 cells;by;85]

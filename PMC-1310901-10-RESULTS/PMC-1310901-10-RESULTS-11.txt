@@ -1,0 +1,11 @@
+Accordingly, treatment of the PRO8_-positive cell line BV-173, SD-1 and RPMI-8226 with AzadC had no effect on PRO9_ expression (Figure 2D).
+[treatment;of@1;PRO8_-positive cell line BV-173]
+[PRO8_-positive cell line BV-173; ; the@1]
+[SD-1; ;the@1]
+[and@1; ;RPMI-8226]
+[and@1; ;SD-1]
+[RPMI-8226;with;AzadC]
+[had; ;AzadC]
+[effect; ;no]
+[effect; ;had]
+[effect;on;PRO9_ expression]

@@ -1,0 +1,10 @@
+Characterization of the human immunodeficiency virus type 1 enhancer-binding proteins from the human T-cell line Jurkat.
+[Characterization;of;proteins]
+[proteins; ;enhancer-binding]
+[proteins; ;the@1]
+[enhancer;-;binding]
+[enhancer; ;human@1 immunodeficiency virus type 1]
+[proteins;from;Jurkat]
+[Jurkat; ;the@2]
+[Jurkat; ;human@2 T-cell line]
+[line; ;human@2 T-cell]

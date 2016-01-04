@@ -1,0 +1,57 @@
+In UCSD-AML1, we have also identified fusion transcripts between the ecotropic viral insertion site I (EVI1) gene in 3q26 and GR6 and between EVI1 and Ribophorin I that maps 30 kb telomeric to GR6 in 3q21.
+[ ;In;UCSD-AML1] 
+
+[identified; ;also] 
+
+[identified; ;have] 
+
+[identified; ;we] 
+
+[identified; ;fusion transcripts] 
+
+[fusion transcripts;between@1;ecotropic viral insertion site I (EVI1) gene] 
+
+[ecotropic viral insertion site I (EVI1) gene; ;the] 
+
+[ecotropic viral insertion site I (EVI1) gene;in@1;3q26] 
+
+[ecotropic viral insertion site I (EVI1) gene;in@1;GR6] 
+
+[gene; ;ecotropic viral insertion site I] 
+
+[ecotropic viral insertion site I; ;EVI1] 
+
+[insertion site I; ;ecotropic viral] 
+
+[site I; ;insertion] 
+
+[viral; ;ecotropic] 
+
+[and@1; ;3q26] 
+
+[and@1; ;GR6] 
+
+[and@2; ;between the ecotropic viral insertion site I (EVI1) gene] 
+
+[and@2; ;between EVI1 and Ribophorin I] 
+
+[fusion transcripts;between@2;EVI1 and Ribophorin I] 
+
+[and@3; ;EVI1] 
+
+[and@3; ;Ribophorin I] 
+
+[fusion transcripts; ;that] 
+
+[maps; ;that] 
+
+[maps; ;telomeric] 
+
+[telomeric; ;30 kb] 
+
+[kb; ;30] 
+
+[telomeric;to;GR6] 
+
+[maps;in@2;3q21] 
+

@@ -1,0 +1,11 @@
+All bacterial pathogens produce lipoproteins (BLPs), which trigger the innate immune response. 
+[pathogens; ;All]
+[pathogens; ;bacterial]
+[pathogens; ;produce]
+[bacterial pathogens produce lipoproteins; ;BLPs]
+[bacterial pathogens produce lipoproteins; ;which]
+[trigger; ;which]
+[trigger; ;response]
+[response; ;the]
+[response; ;innate]
+[response; ;immune]

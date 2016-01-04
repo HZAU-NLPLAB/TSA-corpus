@@ -1,0 +1,11 @@
+In line with this, AzadC-treatment of CML-T1 and LAMA-84 cells also translated in an induction of PRO7_ protein expression (Figure 2C).
+[ ;In;line]
+[line;with;this]
+[AzadC-treatment;of@1;CML-T1]
+[and@1; ;CML-T1]
+[and@1; ;LAMA-84 cells]
+[translated; ;CML-T1]
+[translated; ;LAMA-84 cells]
+[translated;in;induction]
+[induction; ;an]
+[induction;of@2;PRO7_ protein expression]

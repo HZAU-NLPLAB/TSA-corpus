@@ -1,0 +1,10 @@
+Protein concentrations were determined with the Bio-Rad DC protein assay system.
+[concentrations; ;Protein ]
+[determined; ;concentrations ]
+[determined; ;were ]
+[determined;with;system ]
+[system;; ;the ]
+[system; ;assay ]
+[assay; ;protein ]
+[protein; ;DC ]
+[DC; ;Bio-Rad ]

@@ -1,0 +1,35 @@
+In both activated peripheral blood T lymphocytes and activated tumorigenic T cell lines, IL-2 gene expression was blocked at the transcriptional level by okadaic acid.
+[ ;In;activated peripheral blood T lymphocytes] 
+
+[In; ;activated tumorigenic T cell lines] 
+
+[both...and; ;activated peripheral blood T lymphocytes] 
+
+[both...and; ;activated tumorigenic T cell lines] 
+
+[peripheral blood T lymphocytes; ;activated@1] 
+
+[T lymphocytes; ;peripheral blood] 
+
+[blood; ;peripheral] 
+
+[tumorigenic T cell lines; ;activated@2] 
+
+[T cell lines; ;tumorigenic] 
+
+[blocked; ;was] 
+
+[blocked; ;IL-2 gene expression] 
+
+[expression; ;IL-2 gene] 
+
+[gene; ;IL-2] 
+
+[blocked;at;transcriptional level] 
+
+[transcriptional level; ;the] 
+
+[level; ;transcriptional] 
+
+[blocked;by;okadaic acid] 
+

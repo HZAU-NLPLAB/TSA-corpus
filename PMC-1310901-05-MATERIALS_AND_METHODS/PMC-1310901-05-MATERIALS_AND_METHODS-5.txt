@@ -1,0 +1,43 @@
+PCR primers and conditions for expression analysis of DNMT or MBP PRO4_ PRO5_, PRO6_, PRO7_, PRO8_, PRO9_ and PRO10_) were published elsewhere (28).
+
+[primers; ;PCR]
+
+[and; ;primers]
+
+[and; ;conditions]
+
+[PCR primers and conditions;for;expression analysis]
+
+[analysis; ;expression]
+
+[analysis;of;DNMT]
+
+[analysis;of;MBP PRO4_]
+
+[or; ;DNMT]
+
+[or; ;MBP PRO4_]
+
+[PRO4_; ;PRO5_]
+
+[PRO4_; ;PRO6_]
+
+[PRO4_; ;PRO7_]
+
+[PRO4_; ;PRO7_]
+
+[PRO4_; ;PRO8_]
+
+[PRO4_; ;PRO9_]
+
+[PRO4_; ;PRO10_]
+
+[PRO4_; ;MBP]
+
+[MBP PRO4_; ;PRO5_, PRO6_, PRO7_, PRO8_, PRO9_ and PRO10_]
+
+[published; ;PCR primers and conditions]
+
+[published; ;were]
+
+[published; ;elsewhere]

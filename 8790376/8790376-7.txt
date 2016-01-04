@@ -1,0 +1,31 @@
+These biochemical findings correlate perfectly with the selective ability of c-ErbB to cause sustained self renewal in erythroid progenitors.
+
+
+[findings; ;biochemical 
+
+[findings; ;These 
+
+[correlate; ;findings 
+
+[correlate; ;perfectly 
+
+[correlate;with;ability 
+
+[ability; ;the 
+
+[ability; ;selective 
+
+[ability;of;c-ErbB 
+
+[c-ErbB;to;cause' 
+
+[cause; ;renewal] 
+
+[renewal; ;self]
+
+[renewal; ;sustained] 
+
+[renewal;in;progenitors]  
+
+[progenitors; ;erythroid] 
+

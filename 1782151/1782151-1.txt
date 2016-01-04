@@ -1,0 +1,13 @@
+Stimulation of interferon beta gene transcription in vitro by purified NF-kappa B and a novel TH protein. 
+[Stimulation;of;gene transcription]
+[gene transcription; ;interferon beta]
+[transcription; ;gene]
+[beta; ;interferon]
+[Stimulation;by;NF-kappa B]
+[Stimulation;by;protein]
+[and; ;NF-kappa B]
+[and; ;protein]
+[NF-kappa B; ;purified]
+[protein; ;a]
+[protein; ;novel]
+[protein; ;TH]

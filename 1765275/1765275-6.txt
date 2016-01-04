@@ -1,0 +1,60 @@
+Enhancers containing a single Oct have, nevertheless, the capacity to partially activate U2 snRNA transcription in both HeLa cells, in which only OTF-1 is expressed, and in BJA-B cells in which OTF-2 is the predominantly expressed octamer-binding factor.
+
+
+[containing; ;Enhancers] 
+
+[containing; ;Oct] 
+
+[Oct; ;single] 
+
+[Oct; ;a] 
+
+[Enhancers containing a single Oct have;nevertheless;the capacity to partially activate U2 snRNA transcription in both HeLa cells] 
+
+[capacity; ;the@1] 
+
+[capacity;to;activate] 
+
+[activate; ;partially] 
+
+[activate; ;transcription] 
+
+[transcription; ;U2 snRNA] 
+
+[transcription;in@1;HeLa cells] 
+
+[HeLa cells; ;both] 
+
+[cells; ;HeLa] 
+
+[cells; ;in which] 
+
+[in which; ;only OTF-1 is expressed]
+
+[OTF-1; ;only] 
+
+[expressed; ;OTF-1] 
+
+[expressed;is; ]
+
+[and; ;in@1 both HeLa cells] 
+
+[and; ;in@2 BJA-B cells] 
+
+[cells@2; ;BJA-B] 
+
+[BJA-B cells@2; ;in which@2] 
+
+[in which@2; ;OTF-2 is the predominantly expressed octamer-binding factor]  
+
+[is; ;OTF-2] 
+
+[is; ;factor] 
+
+[factor; ;the@2] 
+
+[expressed; ;predominantly] 
+
+[factor; ;octamer-binding] 
+
+[binding;-;octamer]

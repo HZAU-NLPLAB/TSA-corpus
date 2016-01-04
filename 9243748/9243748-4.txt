@@ -1,0 +1,43 @@
+The induced complexes were detectable in extracts of cells incubated with anti-class I monoclonal antibody (mAb) for 1.5 h;the induction was maximal at 5 h, persistent at 16 h and no  longer observed at 40 h. 
+[complexes; ;induced] 
+
+[complexes; ;The] 
+
+[were; ;complexes] 
+
+[were; ;detectable] 
+
+[detectable;in;extracts] 
+
+[extracts;of;cells] 
+
+[incubated; ;cells] 
+
+[incubated;with;anti-class I monoclonal antibody] 
+
+[anti-class I monoclonal antibody; ;mAb] 
+
+[monoclonal antibody; ;anti-class I] 
+
+[antibody; ;monoclonal] 
+
+[incubated;for;1.5]
+[h@1; ;1.5]  
+
+[induction; ;the] 
+[was; ;induction] 
+[was; ;maximal] 
+[maximal;at@1;5 h]
+[h@2; ;5]  
+[was; ;persistent] 
+[persistent;at@2;16 h]
+[h@3; ;16]  
+[observed; ;induction] 
+[observed;at@3;40 h]
+[h@4; ;40]  
+[observed; ;longer] 
+[longer; ;no] 
+[and; ;was] 
+[and; ;observed]
+ 
+

@@ -1,0 +1,11 @@
+A region including exon1 in the PRO3_ promoter exhibited a large number of CpG-rich sequences (Figure 3A).
+[region; ;A]
+[including; ;region]
+[including; ;exon1]
+[region;in;PRO3_ promoter]
+[PRO3_ promoter; ;the]
+[exhibited; ;PRO3_ promoter]
+[exhibited; ;CpG-rich sequences]
+[CpG-rich sequences; ;Figure 3A]
+[CpG-rich sequences; ;a number of]
+[a number of; ;large]

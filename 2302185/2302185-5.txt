@@ -1,0 +1,13 @@
+The two proteins differ in their surface charge, since they are separable by anion-exchange chromatography. 
+[The two proteins differ in their surface charge;since;they are separable by anion-exchange chromatography]
+[proteins; ;The]
+[proteins; ;two]
+[differ; ;proteins]
+[differ;in;surface charge]
+[surface charge; ;their]
+[are; ;they]
+[they; ;proteins]
+[are; ;separable]
+[separable;by;anion-exchange chromatography]
+[chromatography; ;anion-exchange]
+[anion;-;exchange]

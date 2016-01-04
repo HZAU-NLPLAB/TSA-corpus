@@ -1,0 +1,22 @@
+In accordance with prior work, PTX had a rapid and sustained effect on PRO3_ production in vitro (Figure 1).
+[ ;In;accordance] 
+
+[ ;with;work] 
+
+[work; ;prio]
+[had; ;PTX] 
+
+[had; ;effec] 
+
+[effect; ;a] 
+
+[effect; ;rapid and sustained] 
+
+[and; ;sustained] 
+
+[effect;on;production] 
+
+[production; ;PRO3_] 
+
+[production;in;vitro] 
+

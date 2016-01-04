@@ -1,0 +1,44 @@
+This result indicates the involvement of either a B-cell-specific cofactor or a specific modification of a cofactor or the Oct2 protein in Oct2-mediated enhancer activation.
+[result; ;This] 
+
+[indicates; ;result] 
+
+[indicates; ;the involvement of either a B-cell-specific cofactor or a specific modification of a cofactor or the Oct2 protein in Oct2-mediated enhancer activation] 
+
+[involvement; ;the] 
+
+[involvement;of;cofactor] 
+
+[cofactor; ;B-cell-specific] 
+
+[B-cell;-;specific] 
+
+[cell;-;B] 
+
+[cofactor; ;a] 
+
+[either...qr@1; ;cofactor] 
+
+[either...qr@1; ;modification] 
+
+[modification; ;specific] 
+
+[modification; ;a] 
+
+[modification;of@2;cofactor] 
+
+[cofactor; ;a] 
+
+[either...qr@2; ;protein] 
+
+[protein; ;Oct2] 
+
+[protein; ;the] 
+
+[protein;in;activation] 
+
+[activation; ;enhancer] 
+
+[activation; ;Oct2-mediated] 
+
+[mediated;-;Oct2]

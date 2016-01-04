@@ -1,0 +1,68 @@
+Using various constructs expressing a lacZ reporter gene under the control of the intact or three deleted forms of HIV-1 LTR, we obtained evidence that the kappaB regulatory elements located in the U3 region are involved in cell-to-cell activation of HIV-1 LTR.
+
+
+[obtained; ;we] 
+
+[obtained; ;evidence]
+
+[obtained;Using;constructs] 
+
+[constructs; ;various] 
+
+[expressing; ;constructs] 
+
+[expressing; ;gene] 
+
+[gene; ;reporter] 
+
+[reporter; ;lacZ] 
+
+[gene; ;a]
+
+[gene;under;control] 
+
+[control; ;the@1] 
+
+[control;of@1;intact] 
+
+[intact; ;the@2] 
+
+[or; ;intact] 
+
+[or; ;forms] 
+
+[forms; ;three]
+
+[forms; ;deleted] 
+
+[forms;of@2;HIV-1 LTR] 
+
+[evidence; ;that] 
+
+[that; ;the kappaB regulatory elements located in the U3 region are involved in cell-to-cell activation of HIV-1 LTR] 
+
+[elements; ;the@3] 
+
+[elements; ;regulatory] 
+
+[elements; ;kappaB] 
+
+[located; ;elements] 
+
+[located;in@1;U3 region] 
+
+[region; ;U3] 
+
+[region; ;the@4] 
+
+[involved; ;region] 
+
+[involved; ;region] 
+
+[involved; ;are] 
+
+[involved;in@2;activation] 
+
+[activation; ;cell-to-cell] 
+
+[activation;of@3;HIV-1 LTR]

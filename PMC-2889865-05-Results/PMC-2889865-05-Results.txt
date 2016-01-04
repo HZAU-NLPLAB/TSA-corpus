@@ -1,0 +1,7 @@
+NF-kappaB inhibition due to PKC-dependent PRO1_ degradation.
+[inhibition; ;NF-kappaB]
+[inhibition; ;due]
+[due;to;degradation]
+[degradation; ;PRO1_]
+[degradation; ;PKC-dependent]
+[dependent;-;PKC]

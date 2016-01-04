@@ -1,0 +1,52 @@
+In this paper, we demonstrate that the B2 factor is expressed in the cytosol of monocytes and macrophages as a DNA-binding protein, indicating that it is not associated with an inhibitor (IKB).
+
+
+[ ;In;paper] 
+
+[paper; ;this] 
+
+[demonstrate; ;we] 
+
+[demonstrate; ;that] 
+
+[that; ;the B2 factor is expressed in the cytosol of monocytes and macrophages as a DNA-binding protein, indicating that it is not associated with an inhibitor (IKB)] 
+
+[factor; ;the@1] 
+
+[factor; ;B2] 
+
+[expressed; ;factor] 
+
+[expressed; ;is@1] 
+
+[expressed;in;cytosol] 
+
+[cytosol; ;the@2] 
+
+[cytosol;of;monocytes] 
+
+[and; ;
+monocytes]
+[and; ;macrophages] 
+
+[macrophages;as;protein] 
+
+[protein; ;a ]
+
+[protein; ;DNA-binding] 
+
+[binding;-;DNA] 
+
+[indicating; ;that] 
+
+[that; ;it is not associated with an inhibitor (IKB)]  
+
+[associated; ;it] 
+
+[associated; ;is@2] 
+
+[associated; ;not] 
+
+[associated;with;inhibitor] 
+
+[inhibitor; ;an]

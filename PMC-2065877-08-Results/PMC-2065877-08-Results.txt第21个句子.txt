@@ -1,0 +1,57 @@
+These findings suggest that inhibition of PRO41_ can induce cell death in PRO42_ transgenic lymphocytes and lymphoma cells, but PRO43_ inhibition also has considerable crossover effects on PRO44_ and NFkappaB signaling.
+[findings; ;These] 
+
+[suggest; ;findings] 
+
+[suggest; ;that] 
+
+[that; ;inhibition of PRO41_ can induce cell death in PRO42_] transgenic lymphocytes and lymphoma cells, but PRO43_ inhibition also has considerable crossover effects on PRO44_ and NFkappaB signaling]
+
+[inhibition;of;PRO41_] 
+
+[induce; ;inhibition] 
+
+[induce; ;can] 
+
+[induce; ;death] 
+
+[death; ;cell] 
+
+[death;in;lymphocytes] 
+
+[death;in;cells] 
+
+[and; ;lymphocytes] 
+
+[and; ;cells] 
+
+[lymphocytes; ;transgenic] 
+
+[lymphocytes; ;PRO42_] 
+
+[cells; ;lymphoma]
+[but; ;inhibition of PRO41_ can induce cell death in PRO42_ transgenic lymphocytes and lymphoma cells] 
+
+[but; ;PRO43_ inhibition also has considerable crossover effects on PRO44_ and NFkappaB signaling] 
+
+[inhibition; ;PRO43_] 
+
+[has; ;inhibition] 
+
+[has; ;also] 
+
+[has; ;effects] 
+
+[effects; ;crossover] 
+
+[effects; ;considerable] 
+
+[effects;on;PRO44_] 
+
+[effects;on;signaling]  
+
+[and; ;PRO44_] 
+
+[and; ;NFkappaB] 
+
+[signaling; ;NFkappaB]

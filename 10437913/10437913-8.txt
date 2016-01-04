@@ -1,0 +1,33 @@
+Consistent with reduced levels of Oct-1 DNA binding activity in the Rb-transformed cell lines, interleukin 8 expression is higher in these cell lines.
+[Consistent;with;levels] 
+
+[levels; ;reduced] 
+
+[levels;of;activity] 
+
+[DNA; ;Oct-1] 
+
+[binding activity; ;Oct-1 DNA] 
+
+[activity; ;binding] 
+
+[Consistent;in@1;cell lines] 
+
+[cell lines; ;the] 
+
+[cell lines; ;Rb-transformed] 
+
+[is; ;interleukin 8 expression] 
+
+[expression; ;interleukin 8] 
+
+[is; ;higher] 
+
+[higher; ;in@1 the Rb-transformed cell lines] 
+
+[higher; ;in@2 these cell lines] 
+
+[ ;in@2;cell lines] 
+
+[cell lines; ;these] 
+

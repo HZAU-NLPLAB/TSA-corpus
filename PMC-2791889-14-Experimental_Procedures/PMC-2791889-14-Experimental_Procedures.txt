@@ -1,0 +1,5 @@
+Real-Time Quantitative RT-PCR.
+[RT-PCR; ;Quantitative]
+[RT-PCR; ;Real-Time]
+[PCR;-;RT]
+[Time;-;Real]

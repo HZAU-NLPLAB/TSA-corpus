@@ -1,0 +1,8 @@
+TRAMP is abundantly expressed on thymocytes and lymphocytes.
+[expressed; ;is]
+[expressed; ;abundantly]
+[expressed; ;TRAMP]
+[expressed;on;thymocytes]
+[expressed;on;lymphocytes]
+[and; ;thymocytes]
+[and; ;lymphocytes]

@@ -1,0 +1,27 @@
+In T cells and T cell lines, NF-kB is bound to a cytoplasmic proteic inhibitor, the IkB.
+
+
+[ ;In;T cells] 
+
+[and; ;T cells] 
+
+[and; ;T cell lines] 
+
+[lines; ;T cell] 
+
+[bound; ;NF-kB] 
+
+[bound; ;is] 
+
+[bound;to;inhibitor] 
+
+[inhibitor; ;a] 
+
+[inhibitor; ;proteic] 
+
+[inhibitor; ;cytoplasmic] 
+
+[inhibitor; ;IkB] 
+
+[IkB; ;the] 
+

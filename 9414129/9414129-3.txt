@@ -1,0 +1,45 @@
+This sequence, named the A element, has an active role on GM-CSF transcription and is responsive to the tumor promoter PMA in transient transfection experiments.
+
+
+[sequence; ;This] 
+
+[named; ;sequence] 
+
+[named; ;A element] 
+
+[A element; ;the@1] 
+
+[has; ;sequence] 
+
+[has; ;role] 
+
+[role; ;an] 
+
+[role; ;active] 
+
+[role;on;transcription] 
+
+[transcription; ;GM-CSF] 
+
+[and; ;has] 
+
+[and; ;is] 
+
+[is; ;responsive] 
+
+[is; ;responsive] 
+
+[responsive;to;promoter] 
+
+[promoter; ;tumor] 
+
+[promoter; ;the@2] 
+
+[tumor promoter; ;PMA] 
+
+[PMA;in;transfection experiments] 
+
+[experiments;  ;transfection] 
+
+[experiments; ;transient] 
+

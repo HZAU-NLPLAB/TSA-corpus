@@ -1,0 +1,27 @@
+yclosporin A-resistant transactivation of the IL-2 promoter requires activity of okadaic acid-sensitive serine/threonine phosphatases.
+[transactivation; ;Cyclosporin A-resistant] 
+
+[resistant;-;Cyclosporin A] 
+
+[transactivation;of@1;IL-2 promoter] 
+
+[IL-2 promoter; ;the 
+
+[promoter; ;IL-2] 
+
+[requires; ;transactivation] 
+
+[requires; ;activity] 
+
+[activity;of@2;okadaic acid-sensitive serine/threonine phosphatases] 
+
+[serine/threonine phosphatases; ;okadaic acid-sensitive] 
+
+[sensitive;-;okadaic acid] 
+
+[phosphatases; ;serine/threonine] 
+
+[/; ;serine] 
+
+[/; ;threonine] 
+

@@ -1,0 +1,25 @@
+The Forkhead family of transcription factors is known to induce the expression of the Cdk inhibitor PRO46_ (43,44).
+[family; ;Forkhead] 
+
+[family; ;The] 
+
+[family;of;factors] 
+
+[factors; ;transcription] 
+
+[induce; ;factors] 
+
+[induce; ;is known to] 
+
+[induce; ;expression] 
+
+[expression; ;the] 
+
+[expression;of;PRO46_] 
+
+[PRO46_; ;the] 
+
+[PRO46_; ;inhibitor] 
+
+[PRO46_; ;Cdk] 
+

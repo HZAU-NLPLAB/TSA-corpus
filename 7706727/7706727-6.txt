@@ -1,0 +1,9 @@
+TINUR binds to the same DNA sequence as NGFI-B/nur77. 
+[binds; ;TINUR]
+[binds;to;DNA sequence]
+[DNA sequence; ;the]
+[DNA sequence; ;same]
+[sequence; ;DNA]
+[ ;as;NGFI-B/nur77]
+[/; ;NGFI-B]
+[/; ;nur77]

@@ -1,0 +1,11 @@
+Transcription factors of T and B lymphocytes--basic research and clinical perspectives for gastroenterology.
+[Transcription factors;of;T and B lymphocytes]
+[and@1; ;T]
+[and@1; ;B]
+[lymphocytes; ;B]
+[Transcription factors of T and B lymphocytes;--;basic research and clinical perspectives for gastroenterology]
+[research; ;basic]
+[and@2; ;research]
+[and@2; ;perspectives]
+[perspectives; ;clinical]
+[perspectives;for;gastroenterology]

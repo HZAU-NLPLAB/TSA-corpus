@@ -1,0 +1,23 @@
+Similarly, activation of PRO22_ without phosphorylation of PRO23_ has been previously shown in EBV-positive HD (40).
+[Similarly; ;activation of PRO22_ without phosphorylation of PRO23_ has been previously shown in EBV-positive HD (40)] 
+
+activation;of;PRO22_] 
+
+[PRO22_;without;phosphorylation] 
+
+[phosphorylation;of;PRO23_] 
+
+[shown; ;activation] 
+
+[shown; ;has] 
+
+[shown; ;been] 
+
+[shown; ;previously] 
+
+[shown;in;HD] 
+
+[HD (40); ; ;EBV-positive] 
+
+[positive;-;EBV] 
+

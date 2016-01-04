@@ -1,0 +1,13 @@
+The hallmark genetic aberration of CML is a reciprocal chromosomal translocation t(9;22) leading to expression of a PRO1_, an aberrant activated tyrosine kinase (2).
+[genetic aberration; ;The]
+[genetic aberration; ;hallmark]
+[aberration;of;CML]
+[is; ;CML]
+[is; ;chromosomal translocation]
+[chromosomal translocation; ;reciprocal]
+[;leading to;expression]
+[expression;of;PRO1_,]
+[a PRO1_,;a; ;]
+[aberrant; ;an]
+[activated; ;aberrant]
+[activated; ;tyrosine kinase]

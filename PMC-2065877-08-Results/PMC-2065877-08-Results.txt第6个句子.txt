@@ -1,0 +1,26 @@
+The effects of the inhibitors were assessed by identifying phosphorylated PRO14_, PRO15_, and total levels of PRO16_ (Figure 8).
+[effects; ;The] 
+
+[effects;of;inhibitors] 
+
+[inhibitors; ;the]
+
+[assessed; ;inhibitors] 
+
+[assessed; ;were]
+[assessed;by;PRO14_, PRO15_, and  levels] 
+
+[PRO14_; ;phosphorylated] 
+
+[PRO14_,; ;identifying] 
+
+[and; ;PRO14_] 
+
+[and; ;PRO15_] 
+
+[and; ;levels]
+
+[levels; ;total] 
+
+[levels;of;PRO16_] 
+

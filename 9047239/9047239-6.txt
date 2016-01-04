@@ -1,0 +1,13 @@
+The two most active NFAT-like elements were located at the center of the DNase I-hypersensitive site. 
+[NFAT-like elements; ;The]
+[NFAT-like elements; ;two]
+[NFAT-like elements; ;active]
+[avtive; ;most]
+[located; ;NFAT-like elements]
+[located; ;were]
+[located;at;center]
+[center; ;the@1]
+[center;of;DNase I-hypersensitive site]
+[DNase I-hypersensitive site; ;the@2]
+[site; ;DNase I-hypersensitive]
+[DNase I;-;hypersensitive]

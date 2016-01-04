@@ -1,0 +1,45 @@
+Cell-to-cell contact activation of NF-kappaB was only partially inhibited by 100 microM pyrrolidine dithiocarbamate and was not correlated with a significant decrease of cellular inhibitor kappaB alpha.
+
+
+[contact; ;Cell-to-cell] 
+
+[activation; ;contact] 
+
+[activation;of;NF-kappaB] 
+
+[inhibited; ;was@1] 
+
+[inhibited; ;only] 
+
+[inhibited; ;partially] 
+
+[inhibited;by;dithiocarbamate] 
+
+[dithiocarbamate; ;pyrrolidine] 
+
+[dithiocarbamate; ;microM]
+
+[dithiocarbamate; ;100] 
+
+[and; ;was@1] 
+
+[and; ;was@2] 
+
+[correlated; ;was@2] 
+
+[correlated; ;not] 
+
+[correlated;with;decrease] 
+
+[decrease; ;significant] 
+
+[decrease; ;a] 
+
+[decrease;of;cellular inhibitor kappaB alpha]  
+
+[alpha;  ;kappaB] 
+
+[kappaB; ;inhibitor] 
+
+[inhibitor; ;cellular] 
+

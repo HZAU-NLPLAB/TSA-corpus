@@ -1,0 +1,16 @@
+All research involving human blood (Buffy coat) were ordered from American Red cross and have been approved by the Ohio State University review board (ARC IRB Protocol #2001-26).
+[research; ;All]
+[involving; ;research]
+[involving; ;blood]
+[blood; ;human]
+[ordered; ;blood]
+[ordered; ;were]
+[ordered;from;American Red cross]
+[and; ;approved]
+[and; ;ordered]
+[approved; ;have been]
+[approved;by;board]
+[board; ;review]
+[board; ;Ohio State University]
+[board; ;the) 
+

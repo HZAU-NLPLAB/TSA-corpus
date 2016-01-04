@@ -1,0 +1,12 @@
+Jurkat T-cells were transfected with PRO1_ reporter plasmids containing the AP-1 cis-elements. 
+[T-cells; ;Jurkat]
+[transfected; ;were]
+[transfected; ;T-cells]
+[transfected;with;plasmids ]
+[plasmids; ;PRO1_]
+[plasmids; ;reporter]
+[plasmids; ;containing the AP-1 cis-elements]
+[containing; ;cis-elements]
+[cis-elements; ;the]
+[cis-elements; ;AP-1]
+[elements;-;cis]

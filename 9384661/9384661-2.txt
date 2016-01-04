@@ -1,0 +1,46 @@
+
+This study evaluates (i) constitutive levels of oncogene and p53 transcripts in chronic phase CML patients and (ii) their modulations subsequent to in vivo therapy with rIFN-alpha 2c.
+[study; ;This] 
+
+[evaluates; ;study] 
+
+[i; ;constitutive levels of oncogene and p53 transcripts in chronic phase CML patients] 
+
+[ii; ;their modulations subsequent to in vivo therapy with rIFN-alpha 2c] 
+
+[and@2; ;constitutive levels of oncogene and p53 transcripts in chronic phase CML patients] 
+
+[and@2; ;their modulations subsequent to in vivo therapy with rIFN-alpha 2c] 
+
+[evaluates; ;levels] 
+
+[levels; ;constitutive] 
+
+[levels;of;oncogene] 
+
+[levels;of;p53 transcripts] 
+
+[and@1; ;oncogene] 
+
+[and@1; ;p53 transcripts] 
+
+[levels;in@1;chronic phase CML patients] 
+
+[CML patients; ;chronic phase] 
+
+[phase; ;chronic] 
+
+[patients; ;CML] 
+
+[evaluates; ;modulations] 
+
+[modulations; ;their] 
+
+[subsequent; ;modulations] 
+
+[subsequent;to;therapy] 
+
+[therapy;in@2;vivo] 
+
+[therapy;with;rIFN-alpha 2c] 
+

@@ -1,0 +1,38 @@
+The presence of mRNA for these proteins in eosinophils and basophils suggests that gene transcription in these lineages may be regulated by GATA-binding proteins.
+
+
+[presence; ;The] 
+
+[presence;of;mRNA] 
+
+[mRNA;for;proteins] 
+
+[proteins; ;these] 
+
+[proteins;in@1;eosinophils and basophils] 
+
+[and; ;eosinophils] 
+
+[and; ;basophils] 
+
+[suggests; ;presence] 
+
+[suggests; ;that]
+
+[that; ;gene transcription in these lineages may be regulated by GATA-binding proteins] 
+
+[transcription; ;gene] 
+
+[transcription;in@2;lineages] 
+
+[lineages; ;these] 
+
+[regulated; ;transcription] 
+
+[regulated; ;may] 
+
+[regulated; ;be] 
+
+[regulated;by;proteins] 
+
+[proteins; ;GATA-binding]

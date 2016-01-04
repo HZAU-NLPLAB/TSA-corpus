@@ -1,0 +1,32 @@
+
+Neutrophil maturation occurs in well defined morphological stages that correlate with the acquisition of molecular markers associated with neutrophil function.
+[maturation; ;Neutrophil] 
+
+[occurs; ;maturation] 
+
+[occurs;in;stages] 
+
+[stages; ;well] 
+
+[stages; ;defined] 
+
+[stages; ;morphological] 
+
+[stages; ;that] 
+
+[correlate; ;that] 
+
+[correlate;with;acquisition] 
+
+[acquisition; ;the] 
+
+[acquisition;of;markers] 
+
+[markers; ;molecula]r 
+
+[associated; ;markers] 
+
+[associated;with;function] 
+
+[function; ;neutrophil] 
+

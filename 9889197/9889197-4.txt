@@ -1,0 +1,25 @@
+We exploited this ability of Hsp70 to deliver NF-kappaB, a key transcriptional regulator of inflammatory responses.
+[exploited; ; ];
+
+[exploited; ;ability] 
+
+[ability; ;this] 
+
+[ability;of@1;Hsp70] 
+
+[exploited;to;deliver] 
+
+[deliver; ;NF-kappaB] 
+
+[NF-kappaB; ;regulator] 
+
+[regulator; ;a] 
+
+[regulator; ;key] 
+
+[regulator; ;transcriptional] 
+
+[regulator;of@2;inflammatory responses] 
+
+[responses; ;inflammatory] 
+

@@ -1,0 +1,49 @@
+These include the Ikaros, LKLF, and GATA3 zinc-finger proteins; the Ets, CREB/ATF, and NF-kappa B/Rel/NFAT transcription factors; the Stat proteins; and HMG box transcription factors such as LEF1, TCF1, and Sox4.
+[include; ;These] 
+
+[include; ;Ikaros] 
+
+[Ikaros; ;the@1] 
+
+[and@1; ;Ikaros] 
+
+[and@1; ;LKLF] 
+
+[and@1; ;GATA3 zinc-finger proteins] 
+
+[include; ;Ets] 
+
+[Ets; ;the@2] 
+
+[and@2; ;Ets] 
+
+[and@2; ;CREB/ATF] 
+
+[and@2; ;NF-kappa B/Rel/NFAT transcription factors] 
+
+[/; ;CREB] 
+
+[/; ;ATF] 
+
+[transcription factors; ;B/Rel/NFAT] 
+
+[/; ;B] 
+
+[/; ;Rel] 
+
+[/; ;NFAT] 
+
+[include; ;Stat proteins] 
+
+[Stat proteins; ;the@3] 
+
+[include; ;HMG box transcription factors] 
+
+[HMG box transcription factors;such as;LEF1] 
+
+[and@4; ;LEF1] 
+
+[and@4; ;TCF1] 
+
+[and@4; ;Sox4] 
+

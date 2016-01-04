@@ -1,0 +1,19 @@
+ x 106 cells/ml at 100 mul per well.
+[cells/ml; ;5 x 106] 
+
+[x; ;5] 
+
+[x; ;106] 
+
+[/; ;cells] 
+
+[/; ;ml] 
+
+[cells/ml;at;mul] 
+
+[mul; ;100] 
+
+[mul; ;per well] 
+
+[well;;per] 
+

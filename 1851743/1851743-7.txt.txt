@@ -1,0 +1,13 @@
+By comparison, PMA is a very inefficient inducer of the jun gene family in Jurkat cells.
+
+[is£» £»PMA]
+[is£» £»inducer]
+[inducer£»of£»family]
+[inducer£» £»inefficient]
+[inducer£» £»a]
+[inefficient£» £»very]
+[family£» £»gene]
+[gene£» £»jun]
+[family£»in£»cells]
+[cells£» £»Jurkat]
+

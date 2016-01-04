@@ -1,0 +1,44 @@
+Supershift with specific antibodies to NF-kappa B subunits confirmed that the inducible retarded bands observed in the EMSA and p65-p50 heterodimer of the NF-kappa B/Rel protein.
+
+
+[Supershift;with;antibodies] 
+
+[antibodies; ;specific] 
+
+[antibodies;to;subunits] 
+
+[subunits; ;NF-kappa B] 
+
+[confirmed; ;subunits] 
+
+[confirmed; ;that] 
+
+[that; ;the inducible retarded bands observed in the EMSA and p65-p50 heterodimer of the NF-kappa B/Rel protein] 
+
+[bands; ;the]
+[bands; ;inducible] 
+
+[bands; ;retarded] 
+
+[observed; ;bands] 
+
+[observed;in;EMSA] 
+
+[EMSA; ;the@2] 
+
+[and; ;EMSA] 
+
+[and; ;heterodimer] 
+
+[heterodimer; ;p65-p50] 
+
+[heterodimer;of;protein]
+
+[protein; ;NF-kappa B/Rel] 
+
+[protein; ;the@3] 
+
+[/; ;NF-kappa B] 
+
+[/; ;Rel] 
+

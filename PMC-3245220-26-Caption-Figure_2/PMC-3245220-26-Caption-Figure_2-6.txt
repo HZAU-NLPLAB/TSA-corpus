@@ -1,0 +1,14 @@
+*The p-values of cells treated with inhibitors/M-CSF compared to vehicle/M-CSF were <=0.05
+[p-values; ;*The]
+[p-values; of;cells]
+[treated; ;cells]
+[treated;with;inhibitors/M-CSF]
+[/@1; ;inhibitors]
+[/@1; ;M-CSF@1]
+[compared; ;inhibitors/M-CSF]
+[compared; to;vehicle/M-CSF]
+[were; ;<=0.05]
+[were; ;compared to vehicle/M-CSF]
+[compared;to;vehicle/M-CSF) 
+[/@2; ;vehicle]
+[/@2; ;M-CSF@2]

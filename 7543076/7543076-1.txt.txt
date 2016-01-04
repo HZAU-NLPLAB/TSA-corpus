@@ -1,0 +1,18 @@
+Lipopolysaccharide-induced E-selectin expression requires continuous presence of LPS and is inhibited by bactericidal/permeability-increasing protein.
+
+[expression; ;E-selectin]
+[E-selectin; ;Lipopolysaccharide-induced]
+[selectin;-;E]
+[induced;-;Lipopolysaccharide]
+[requires; ;expression]
+[requires; ;presence]
+[presence; ;continuous]
+[presence;of;LPS]
+[and; ;inhibited]
+[and; ;requires]
+[inhibited;is;presence]
+[inhibited;by;protein]
+[protein; ;bactericidal/permeability-increasing]
+[increasing; ;bactericidal/permeability]
+[/; ;bactericidal]
+[/; ;permeability]

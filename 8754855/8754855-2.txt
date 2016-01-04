@@ -1,0 +1,29 @@
+
+The lymphocyte-specific immunoglobulin mu heavy-chain gene intronic enhancer is regulated by multiple nuclear factors.
+
+[enhancer; ;The] 
+
+[enhancer; ;intronic] 
+
+[enhancer; ;gene] 
+
+[gene; ;heavy-chain] 
+
+[gene; ;mu] 
+
+[gene; ;immunoglobulin] 
+
+[immunoglobulin; ;lymphocyte-specific] 
+
+[lymphocyte;-;specific] 
+
+[regulated; ;enhancer] 
+
+[regulated; ;is] 
+
+[regulated;by;factors] 
+
+[factors; ;nuclear] 
+
+[factors; ;multiple] 
+

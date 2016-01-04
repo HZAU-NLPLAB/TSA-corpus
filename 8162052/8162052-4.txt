@@ -1,0 +1,74 @@
+Using fluorescence in situ hybridization (FISH), we show here that the genes encoding the TATA-box binding protein (TBP), TFIIB, TFIIE alpha, TFIIE beta, RAP30, RAP74 and the 62 kDa subunit, of TFIIH are located at the human chromosomal bands 6q26-27, 1p21-22, 3q21-24, 8p12, 13q14,19p13.3,11p14-15.1,respectively 
+
+
+
+[Using; ;fluorescence]
+
+[Using;in;hybridization] 
+
+[hybridization; ;situ] 
+
+[fluorescence in situ hybridization; ;FISH] 
+
+[show; ;we] 
+
+[show; ;here] 
+
+[show; ;that] 
+
+[that; ;the genes encoding the TATA-box binding protein (TBP), TFIIB, TFIIE alpha, TFIIE beta, RAP30, RAP74 and the 62 kDa subunit, of TFIIH are located at the human chromosomal bands 6q26-27, 1p21-22, 3q21-24, 8p12, 13q14, 19p13.3,11p14-15.1,respectively] 
+
+[encoding; ;genes] 
+
+[encoding; ;that@1] 
+
+[encoding; ;the@1] 
+
+[TATA-box binding protein; ;the@2]
+[binding; ;TATA-box] 
+
+[binding; ;protein] 
+
+[TATA-box binding protein; ;TBP] 
+
+[and@1; ;TBP] 
+
+[and@1; ;TFIIB] 
+
+[and@1; ;TFIIE alpha] 
+
+[and@1; ;RAP30] 
+
+[and@1; ;RAP74] 
+
+[and@1; ;62 kDa subunit] 
+
+[62 kDa subunit; ;the@3] 
+
+[protein;of;TFIIH] 
+
+[located; ;are] 
+
+[located;at;human chromosomal bands] 
+
+[human chromosomal bands; ;the@4] 
+
+[bands; ;chromosomal] 
+
+[bands; ;human] 
+
+[and@2; ;6q26-27] 
+
+[and@2; ;1p21-22] 
+
+[and@2; ;3q21-24] 
+
+[and@2; ;8p12] 
+
+[and@2; ;13q14] 
+
+[and@2; ;19p13.3]  
+
+[and@2; ;11p14-15.1] 
+
+[located; ;respectively]

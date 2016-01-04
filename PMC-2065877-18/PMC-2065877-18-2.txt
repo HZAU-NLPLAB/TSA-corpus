@@ -1,0 +1,75 @@
+FITC-conjugated goat anti-mouse IgM, rat IgG2akappa anti-mouse IgD (clone 11-26),   rat IgG1kappa anti-mouse kappa (clone 187¡£1),   rat IgG2bkappa anti-mouse lambda (clone JC5-1);  PE-conjugated goat anti-mouse IgG; un-conjugated goat anti-mouse kappa and anti-mouse lambda were purchased from Southern Biotech.
+[purchased; ;were 
+]
+[purchased; ;FITC-conjugated goat anti-mouse IgM, rat IgG2akappa anti-mouse IgD (clone 11-26),   rat IgG1kappa anti-mouse kappa (clone 187.1),   rat IgG2bkappa anti-mouse lambda (clone JC5-1);  PE-conjugated goat anti-mouse IgG; un-conjugated goat anti-mouse kappa and anti-mouse lambda] 
+
+[purchased;from;Biotech] 
+
+[Biotech; ;Southern] 
+
+[IgM; ;anti-mouse] 
+
+[anti-mouse; ;goat] 
+
+[goat; ;FITC-conjugated]
+[conjugated;-;FITC] 
+
+[mouse;-;anti] 
+
+[and; ;IgM] 
+
+[and; ;IgD] 
+
+[and; ;kappa] 
+
+[and; ;lambda] 
+
+[and; ;IgG] 
+
+[and; ;kappa] 
+
+[and; ;lambda] 
+
+[IgD; ;anti-mouse] 
+
+[anti-mouse; ;IgG2akappa] 
+
+[IgG2akappa; ;rat] 
+
+[kappa; ;anti-mouse] 
+
+[anti-mouse; ;IgG1kappa] 
+
+[IgG1kappa; ;rat] 
+
+[lambda; ;anti-mouse] 
+
+[anti-mouse; ;IgG2bkappa] 
+
+[IgG2bkappa; ;rat] 
+
+[IgG; ;anti-mouse] 
+
+[anti-mouse; ;goat] 
+
+[goat; ;PE-conjugated] 
+
+[kappa; ;anti-mouse] 
+
+[anti-mouse; ;goat] 
+
+[goat; ;un-conjugated] 
+
+[lambda; ;anti-mouse] 
+
+[mouse;-;anti] 
+
+[mouse;-;anti] 
+
+[conjugated;-;PE] 
+
+[conjugated;-;un] 
+
+[mouse;-;anti] 
+
+[mouse;-;anti]

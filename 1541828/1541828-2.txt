@@ -1,0 +1,10 @@
+We investigated the upstream regulatory elements of the human IL-4 promoter.
+[investigated; ;We]
+[investigated; ;elements]
+[elements; ;the@1]
+[elements; ;upstream]
+[elements; ;regulatory]
+[elements;of;promoter]
+[promoter; ;the@2]
+[promoter; ;human]
+[promoter; ;IL-4]

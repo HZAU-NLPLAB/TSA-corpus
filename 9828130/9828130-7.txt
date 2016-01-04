@@ -1,0 +1,25 @@
+The remaining 86% correspond to unknown genes of which 92% have been confirmed to be differentially expressed.
+[86%; ;The] 
+
+[86%; ;remaining] 
+
+[correspond; ;86%] 
+
+[correspond;to@1;genes] 
+
+[genes; ;unknown] 
+
+[genes;of;which] 
+
+[92%; ;which] 
+
+[confirmed; ;86%]
+
+[confirmed;been;have] 
+
+[confirmed;to@2;be] 
+
+[be; ;expressed] 
+
+[expressed;  ;differentially] 
+

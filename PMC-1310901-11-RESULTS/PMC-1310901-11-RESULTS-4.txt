@@ -1,0 +1,11 @@
+Two separate amplification reactions were performed, generating two fragments, F1 and F2 (Figure 3A).
+[amplification reactions; ;Two]
+[amplification reactions; ;separate]
+[performed; ;were]
+[generating; ;fragments]
+[fragments; ;two]
+[generating; ;amplification reactions]
+[fragments; ;F1]
+[ and; ;F1]
+[and; ;F2]
+[F2; ;Figure 3A]

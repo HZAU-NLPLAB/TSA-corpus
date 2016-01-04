@@ -1,0 +1,37 @@
+In this review we evaluate the possible in vivo role of different transcription factors and transcriptional mechanisms in T cell differentiation and the immune response.
+[ ;In@1;review] 
+
+[review; ;this] 
+
+[evaluate; ;we] 
+
+[evaluate; ;possible] 
+
+[possible; ;the@1] 
+
+[possible;in@2;role] 
+
+[role; ;vivo] 
+
+[role;of;transcription factors] 
+
+[transcription factors; ;different] 
+
+[factors; ;transcription] 
+
+[and@1; ;possible] 
+
+[and@1; ;mechanisms] 
+
+[mechanisms; ;transcriptional] 
+
+[evaluate; ;mechanisms] 
+
+[mechanisms;in@3;T cell differentiation] 
+
+[differentiation; ;T cell] 
+
+[and@2; ;T cell differentiation] 
+
+[immune response;  ;the@2] 
+

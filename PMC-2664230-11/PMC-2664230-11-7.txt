@@ -1,0 +1,23 @@
+Exposure of LPS-stimulated cells to PTX similarly increased PRO1_ DNA-binding compared to LPS alone (Figure 4B).
+[Exposure;of;cells] 
+
+[cells; ;LPS-stimulated] 
+
+[stimulated;-;LPS] 
+
+[cells;to;PTX] 
+
+[increased; ;Exposure] 
+
+[increased; ;similarly] 
+
+[increased; ;DNA-binding] 
+
+[DNA-binding; ;PRO1_] 
+
+[binding;-;DNA] 
+
+[compared;to;LPS] 
+
+[LPS; ;alone] 
+

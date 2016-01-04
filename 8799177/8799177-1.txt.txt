@@ -1,0 +1,16 @@
+Epstein-Barr viral latency is disrupted by the immediate-early BRLF1 protein through a cell-specific mechanism.
+
+[latency; ;viral]
+[viral; ;Epstein-Barr]
+[Barr;-;Epstein]
+[disrupted;is; ]
+[disrupted; ;latency]
+[disrupted;by;protein]
+[protein; ;BRLF1]
+[BRLF1; ;immediate-early]
+[early;-;immediate]
+[protein; ;the]
+[protein;through;mechanism]
+[mechanism; ;a]
+[mechanism; ;cell-specific]
+[specific;-;cell]

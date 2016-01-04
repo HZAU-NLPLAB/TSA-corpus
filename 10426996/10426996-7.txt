@@ -1,0 +1,11 @@
+BLPs were found to induce apoptosis in THP-1 monocytic cells through human Toll-like receptor-2 (hTLR2).
+[found; ;BLPs]
+[found; ;were]
+[found;to;induce]
+[induce; ;apoptosis]
+[induce;in;THP-1 monocytic cells]
+[cells;monocytic;THP-1]
+[induce;through;human Toll-like receptor-2]
+[human Toll-like receptor-2; ;hTLR2]
+[receptor-2; ;human]
+[receptor-2; ;Toll-like]

@@ -1,0 +1,25 @@
+Our data showed that TNF resistance in vitro correlates with the increased level of transcription factor NF-kappaB.
+[data; ;Our] 
+
+[showed; ;data] 
+
+[showed; ;that] 
+
+[that; ;TNF resistance in vitro correlates with the increased level of transcription factor NF-kappaB] 
+
+[TNF resistance;in;vitro] 
+
+[resistance; ;TNF] 
+
+[correlates; ;TNF resistance] 
+
+[correlates;with;level] 
+
+[level; ;the] 
+
+[level; ;increased] 
+
+[level;of;transcription factor] 
+
+[transcription factor; ;NF-kappaB] 
+

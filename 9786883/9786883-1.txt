@@ -1,0 +1,37 @@
+ownstream activation of a TATA-less promoter by Oct-2, Bob1, and NF-kappaB directs expression of the homing receptor BLR1 to mature B cells.
+[activation; ;Downstream] 
+
+[activation;of@1;TATA-less promoter] 
+
+[TATA-less promoter; ;a] 
+
+[promoter; ;TATA-less] 
+
+[activation;by;Oct-2] 
+
+[activation;by;Bob1] 
+
+[activation;by;NF-kappaB] 
+
+[and; ;Oct-2] 
+
+[and; ;Bob1] 
+
+[and; ;NF-kappaB] 
+
+[directs; ;activation] 
+
+[directs; ;expression] 
+
+[expression;of@2;homing receptor BLR1] 
+
+[homing receptor BLR1; ;the] 
+
+[BLR1; ;homing receptor] 
+
+[receptor; ;homing] 
+
+[directs;to;mature B cells] 
+
+[B cells; ;mature] 
+

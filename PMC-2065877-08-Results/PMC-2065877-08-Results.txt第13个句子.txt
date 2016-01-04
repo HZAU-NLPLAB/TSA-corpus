@@ -1,0 +1,31 @@
+Phosphorylated PRO24_, PRO25_, and total PRO26_ were still present up to treatment with 15 muM and then were no longer detected (Figure 8).
+[PRO24_, PRO25_, and  PRO26_; ;Phosphorylated] 
+
+[PRO26_; ;total] 
+
+[were; ;PRO24_, PRO25_, and  PRO26_] 
+
+[and; ;PRO24_] 
+
+[and; ;PRO25_] 
+
+[and; ;PRO26_] 
+
+[were; ;present] 
+
+[were; ;still] 
+
+[up;to;treatment] 
+
+[treatment;with;muM] 
+
+[muM; ;15] 
+
+[and; ;present] 
+
+[and; ;detected] 
+
+[then; ;no longer detected] 
+
+[detected; ;no longer] 
+

@@ -1,0 +1,41 @@
+Expression of CD30 by these cells is induced by CD40L but is inhibited by B cell receptor coengagement and/or exposure to IL-6 and IL-12.
+[but; ;Expression of CD30 by these cells is induced by CD40L] 
+
+[but; ;Expression is inhibited by B cell receptor coengagement and/or exposure to IL-6 and IL-12] 
+
+[Expression;of;CD30] 
+
+[Expression;by;cells] 
+
+[cells; ;these] 
+
+[induced; ;is@1] 
+
+[induced; ;Expression] 
+
+[induced;by@1;CD40L] 
+
+[inhibited; ;is@2] 
+
+[inhibited; ;Expression] 
+
+[inhibited;by@2;B cell receptor coengagement] 
+
+[coengagement; ;B cell receptor] 
+
+[receptor; ;B cell] 
+
+[and/or; ;inhibited] 
+
+[and/or; ;exposure] 
+
+[exposure; ;Expression] 
+
+[exposure;to;IL-6] 
+
+[exposure;to;IL-12] 
+
+[and; ;IL-6] 
+
+[and; ;IL-12] 
+

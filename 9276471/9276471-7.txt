@@ -1,0 +1,31 @@
+To our knowledge, this represents the first demonstration that phagocytic stimuli can induce NF-kappa B activation in human neutrophils.
+[ ;To;knowledge] 
+
+[knowledge; ;our] 
+
+[represents; ;this] 
+
+[represents; ;demonstration] 
+
+[demonstration; ;the] 
+
+[demonstration; ;first] 
+
+[demonstration; ;that] 
+
+[that; ;phagocytic stimuli can induce NF-kappa B activation in human neutrophils] 
+
+[induce; ;can] 
+
+[induce; ;phagocytic stimuli] 
+
+[stimuli; ;phagocytic] 
+
+[induce; ;activation] 
+
+[activation; ;NF-kappa B] 
+
+[activation;in;human neutrophils] 
+
+[neutrophils; ;human] 
+

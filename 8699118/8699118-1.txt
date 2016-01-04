@@ -1,0 +1,30 @@
+onstitutive expression of specific interferon isotypes in peripheral blood leukocytes from normal individuals and in promonocytic U937 cells.
+
+
+[expression; ;Constitutive] 
+
+[expression;of;isotypes] 
+
+[isotypes; ;interferon] 
+
+[isotypes; ;specific] 
+
+[isotypes;in@1;leukocytes] 
+
+[leukocytes; ;blood] 
+
+[leukocytes; ;peripheral] 
+
+[leukocytes;from;individuals] 
+
+[individuals; ;normal] 
+
+[and; ;in@1] 
+
+[and; ;in@2] 
+
+[ ;in@2;promonocytic U937 cells]  
+
+[cells ; ;U937] 
+
+[cells; ;promonocytic]

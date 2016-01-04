@@ -1,0 +1,13 @@
+First, anti-CD45 antibodies did not affect basal but decreased activated levels of expression from the HIV-1 LTR. 
+[antibodies; ;anti-CD45]
+[CD45;-;anti]
+[affect; ;anti-CD45 antibodies]
+[affect; ;did]
+[affect; ;not]
+[affect; ;levels]
+[levels; ;activated]
+[activated; ;decreased]
+[basal;but;decreased]
+[levels;of;expression]
+[expression;from;LTR]
+[LTR; ;HIV-1]

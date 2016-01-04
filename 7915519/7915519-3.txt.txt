@@ -1,0 +1,16 @@
+The stimulatory effects of gp160 are mediated through the CD4 molecule, since pretreatment with soluble CD4 abrogates its activity.
+
+[effects; ;stimulatory]
+[effects; ;The]
+[effects;of;gp160]
+[mediated;are; ]
+[mediated; ;gp160]
+[mediated;through;molecule]
+[molecule; ;CD4@1]
+[The stimulatory effects of gp160 are mediated through the CD4@1 molecule;since;pretreatment with soluble CD4@2 abrogates its activity]
+[pretreatment;with;CD4@2]
+[CD4@2; ;solube]
+[pretreatment; ;]molecule
+[abrogates; ;CD4@2]
+[abrogates; ;activity]
+[its; ;CD4]

@@ -1,0 +1,16 @@
+The overall effect of heat shock on c-myc mRNA level, however, was a marked inhibition of its transcription.
+
+[The overall effect of heat shock on c-myc mRNA level;however;was a marked inhibition of its transcription]
+[effect;of;shock]
+[effect; ;The]
+[effect; ;overall]
+[shock; ;heat]
+[shock;on;level]
+[level; ;mRNA]
+[mRNA; ;c-myc]
+[was; ;inhibition]
+[inhibition; ;a]
+[inhibition; ;marked]
+[inhibition;of;transcription]
+[transcription; ;its]
+[its; ;level]

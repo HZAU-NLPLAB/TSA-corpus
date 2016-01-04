@@ -1,0 +1,15 @@
+Briefly, 5 nM of the reporter construct and the transfection control construct expressing the renilla PRO5_ gene were transientlyco-expressed via electroporation.
+[5 nM;of;reporter construct]
+[reporter construct; ;the]
+[and; ;5 nM of the reporter construct]
+[and; ;the transfection control construct expressing the renilla PRO5_ gene]
+[construct; ;transfection]
+[construct; ;control]
+[construct;expressing;renilla PRO5_ gene]
+[renilla PRO5_ gene; ;the]
+[gene; ;renilla]
+[gene; ;PRO5_]
+[transientlyco-expressed; ;5 nM of the reporter construct]
+[transientlyco-expressed; ;the transfection control construct]
+[transientlyco-expressed; ;were]
+[transientlyco-expressed; via;electroporation£©

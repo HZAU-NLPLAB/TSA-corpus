@@ -1,0 +1,39 @@
+
+T cell receptor (TCR) alpha and delta gene segments are organized within a single genetic locus but are differentially regulated during T cell development.
+
+
+[receptor; ;T cell@1] 
+
+[T cell receptor; ;TCR] 
+
+[TCR; ;gene segments] 
+
+[gene segments; ;alpha and delta]
+
+[segments; ;gene] 
+
+[and; ;alpha] 
+
+[and; ;delta] 
+
+[organized; ;segments] 
+
+[organized; ;are@1] 
+
+[organized;within;locus] 
+
+[locus; ;genetic] 
+
+[locus; ;single]
+[locus; ;a] 
+
+[regulated;but;organized] 
+
+[regulated; ;are@2] 
+
+[regulated; ;differentially] 
+
+[regulated;during;development] 
+
+[development;  ;T cell@2] 
+

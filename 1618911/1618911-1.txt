@@ -1,0 +1,17 @@
+eterodimerization and transcriptional activation in vitro by NF-kappa B proteins.
+[activation; ;transcriptional] 
+
+[and; ;Heterodimerization] 
+
+[and; ;activation] 
+
+[in vitro; ;activation] 
+
+[in vitro; ;Heterodimerization] 
+
+[in vitro;by;proteins] 
+
+[proteins; ;B] 
+
+[proteins;  ;NF-kappa] 
+

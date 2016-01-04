@@ -1,0 +1,47 @@
+Here it is shown that microbial lipoproteins are potent stimulators of IL-12 production by human macrophages, and that induction is mediated by Toll-like receptors (TLRs).
+[shown; ;Here] 
+
+[shown; ;it] 
+
+[shown; ;is@1] 
+
+[[shown; ;that@1] 
+
+[that@1; ;microbial lipoproteins are potent stimulators of@1 IL-12 production by@1 human macrophages
+]
+[lipoproteins; ;microbial] 
+
+[lipoproteins; ;microbial] 
+
+[are; ;lipoproteins] 
+
+[are; ;stimulators] 
+
+[stimulators; ;potent] 
+
+[stimulators;of@1;IL-12 production] 
+
+[production; ;IL-12] 
+
+[are;by@1;macrophages] 
+
+[macrophages; ;human] 
+
+[and; ;that@1] 
+
+[and; ;that@2] 
+
+[shown; ;that@2] 
+
+[that@2; ;induction is@2 mediated by@2 Toll-like receptors (TLRs)] 
+
+[mediated; ;induction] 
+
+[mediated; ;is@2] 
+
+[mediated;by@2;receptors] 
+
+[receptors; ;Toll-like] 
+
+[Toll-like receptors; ;TLRs] 
+

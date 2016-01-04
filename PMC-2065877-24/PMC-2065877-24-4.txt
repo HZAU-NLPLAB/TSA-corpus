@@ -1,0 +1,41 @@
+
+
+(C) Immunoblot analysis for cell cycle proteins regulating the PRO13_ pathway, probing for activated PRO14_, and total levels of PRO15_ and the Cdk inhibitor PRO16_.
+[analysis; ;Immunoblot] 
+
+[analysis;for;proteins]
+[proteins; ;cycle] 
+
+[proteins; ;cell] 
+
+[regulating; ;analysis] 
+
+[regulating; ;pathway] 
+
+[pathway; ;PRO13_] 
+
+[pathway; ;the] 
+
+[probing;for;PRO14_] 
+
+[PRO14_; ;activated] 
+
+[and@1; ;pathway] 
+
+[and@1; ;probing] 
+
+[and@1; ;levels] 
+
+[levels; ;total] 
+
+[levels;of;PRO15_] 
+
+[and@2; ;PRO15_] 
+
+[and@2; ;PRO16_]  
+
+[inhibitor; ;PRO16_] 
+
+[inhibitor; ;Cdk] 
+
+[inhibitor; ;the]

@@ -1,0 +1,33 @@
+
+Activation of the nuclear factor of activated T cells transcription factor (NF-AT) is a key event underlying lymphocyte action.
+
+
+[Activation;of@1;factor@1] 
+
+[factor; ;the] 
+
+[factor; ;nuclear] 
+
+[factor;of@2;factor@2] 
+
+[factor; ;transcription] 
+
+[transcription factor; ;T cells] 
+
+[transcription factor; ;activated] 
+
+[T cells transcription factor; ;NF-AT] 
+
+[is; ;factor@2] 
+
+[is; ;event] 
+
+[event; ;key] 
+
+[event; ;a] 
+
+[event; ;action] 
+
+[action; ;lymphocyte] 
+
+[action; ;underlying]

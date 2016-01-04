@@ -1,0 +1,8 @@
+Up to date, the biological function of Spi-B remains unknown.
+
+[the biological function of Spi-B remains unknown; ;Up to date]
+[function; ;the]
+[function; ;biological]
+[function;of;Spi-B]
+[remains; ;function]
+[remains; ;unknown]

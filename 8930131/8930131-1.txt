@@ -1,0 +1,4 @@
+The Oct-2 transcription factor. 
+[transcription factor; ;The]
+[transcription factor; ;Oct-2]
+[factor; ;transcription]

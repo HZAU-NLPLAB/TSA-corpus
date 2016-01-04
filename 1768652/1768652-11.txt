@@ -1,0 +1,38 @@
+These findings suggest that reduced cysteine thiols play an important role in the DNA binding activity of this family of Rel-related transcription factors.
+
+
+[findings; ;These] 
+
+[suggest; ;findings] 
+
+[suggest; ;that] 
+
+[that; ;reduced cysteine thiols play an important role in the DNA binding activity of this family of Rel-related transcription factors] 
+
+[cysteine thiols; ;reduced] 
+
+[play a role in; ;cysteine thiols] 
+
+[play a role in; ;activity] 
+
+[role; ;important] 
+
+[role; ;an] 
+
+[activity; ;the] 
+
+[activity; ;DNA binding] 
+
+[binding; ;DNA] 
+
+[activity;of@1;family] 
+
+[family; ;this] 
+
+[family;of@2;transcription factors] 
+
+[transcription factors; ;Rel-related] 
+
+[related;-;Rel] 
+
+[factors; ;transcription]

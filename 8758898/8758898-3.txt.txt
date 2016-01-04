@@ -1,0 +1,16 @@
+We have investigated the role that C/EBP proteins play in induction and replication of HIV-1.
+
+[investigated; ;have]
+[investigated; ;we]
+[investigated; ;role]
+[role; ;the]
+[role; ;that]
+[that; ;C/EBP proteins play in induction and replication of HIV-1]
+[proteins; ;C/EBP]
+[/; ;C]
+[/; ;EBP]
+[play; ;proteins]
+[play;in;induction]
+[and; ;induction]
+[and; ;replication]
+[replication;of;HIV-1]

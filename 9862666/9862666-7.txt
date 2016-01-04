@@ -1,0 +1,17 @@
+In contrast, an RE/AP reporter was blocked by CTLA4Ig by >90%.
+[reporter; ;an] 
+
+[reporter; ;RE/AP] 
+
+[/; ;RE] 
+
+[/; ;AP] 
+
+[blocked; ;RE/AP reporter] 
+
+[blocked; ;was] 
+
+[blocked;by;CTLA4Ig] 
+
+[CTLA4Ig;by;>90%] 
+

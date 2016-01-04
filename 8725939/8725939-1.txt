@@ -1,0 +1,10 @@
+Regulation of gene expression at early stages of B-cell and T-cell differentiation. 
+[Regulation;of@1;gene expression]
+[expression; ;gene]
+[Regulation;at;stages]
+[stages; ;early]
+[stages;of@2;differentiation]
+[differentiation; ;B-cell]
+[differentiation; ;T-cell]
+[and; ;B-cell]
+[and; ;T-cell]

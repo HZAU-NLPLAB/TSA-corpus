@@ -1,0 +1,12 @@
+Paraffin-embedded spleen sections were deparaffinized in Histoclear (National Diagnostics) and rehydrated in graded ethanol.
+[sections; ;spleen ]
+[spleen; ;Paraffin-embedded ]
+[embedded;-;Paraffin ]
+[deparaffinized; ;sections ]
+[deparaffinized; ;were ]
+[deparaffinized;in;Histoclear ]
+[and; ;deparaffinized ]
+[and; ;rehydrated ]
+[rehydrated;in;ethanol ]
+[ethanol; ;graded ]
+[National Diagnostics; ;Histoclear ]

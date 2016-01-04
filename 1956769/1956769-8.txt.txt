@@ -1,0 +1,30 @@
+The insertion of multiple copies of the binding site for the former or latter factor into a heterologous promoter reduced the promoter activity to one-tenth or one-third, respectively.
+
+[insertion; ;The]
+[insertion;of@1;copies]
+[copies; ;multiple]
+[copies;of@2;site]
+[site; ;the@1]
+[site; ;binding]
+[site;for;former]
+[former; ;the@2]
+[or@1; ;former]
+[or@1; ;latter]
+[factor; ;latter]
+[factor; ;former]
+[factor;into;promoter@1]
+[promoter@1; ;heterologous]
+[promoter@1; ;a]
+[reduced; ;promoter@1]
+[reduced; ;activity]
+[activity; ;the@3]
+[activity; ;promoter@2]
+[activity;to;one@1-tenth]
+[or; ;one@1-tenth]
+[tenth;-;one@1]
+[or; ;one@2-third]
+[third;-;one@2]
+[reduced; ;respectively]
+
+
+

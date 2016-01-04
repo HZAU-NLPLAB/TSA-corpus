@@ -1,0 +1,36 @@
+Further, Vpr suppresses expression of IL-2, IL-10, IL-12, TNF alpha and IL-4, all of which are NF-kappa B-dependent.
+[Vpr suppresses expression of IL-2, IL-10, IL-12, TNF alpha and IL-4, all of which are NF-kappa B-dependent; ;Further] 
+
+[expression; ;Vpr] 
+
+[expression; ;suppresses]
+
+[expression;of@1;IL-2] 
+
+[expression;of@1; ;IL-10] 
+
+[expression;of@1; ;IL-12] 
+
+[expression;of@1; ;TNF alpha] 
+
+[expression;of@1; ;IL-4] 
+
+[and; ;IL-2];
+
+[and; ;IL-10];
+
+[and; ;IL-12];
+
+[and; ;TNF alpha]
+[and; ;IL-4];
+
+[all;of;which] 
+
+[which; ;expression] 
+
+[are; ;all] 
+
+[are; ;NF-kappa B-dependent] 
+
+[dependent;-;NF-kappa B] 
+

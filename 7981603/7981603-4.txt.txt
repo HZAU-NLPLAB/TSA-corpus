@@ -1,0 +1,23 @@
+The role of chromatin degradation and endonucleases in the apoptotic process has been closely studied, as well as the involvement of several oncogenes in glucocorticoid-induced cell lysis.
+
+[role;of@1;degradation]
+[role; ;The]
+[degradation; ;chromatin]
+[and; ;degradation]
+[and; ;endonucleases]
+[endonucleases;in;process]
+[process; ;apoptotic]
+[process; ;the@1]
+[studied;been;has]
+[studied; ;closely]
+[studied; ;process]
+[as well as; ;involvement]
+[as well as; ;process]
+[involvement; ;the@2]
+[involvement;of@2;oncogenes]
+[oncogenes; ;several]
+[oncogenes;in;lysis]
+[lysis; ;cell]
+[cell; ;glucocorticoid-induced]
+[induced;-;glucocorticoid]
+

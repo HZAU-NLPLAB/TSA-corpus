@@ -1,0 +1,33 @@
+In the absence of TCR-mediated activation, Vpr induces apoptosis whereas in its presence, Vpr interrupts the expected induction of apoptosis.
+[; In;absence] 
+
+[absence; ;the@1] 
+
+[absence;of@1;TCR-mediated activation] 
+
+[mediated activation;-;TCR] 
+
+[activation; ;mediated] 
+
+[induces; ;Vpr@1] 
+
+[induces; ;apoptosis@1] 
+
+[In the absence of TCR-mediated activation, Vpr induces apoptosis;whereas;in its presence, Vpr interrupts the expected induction of apoptosis] 
+
+[; in;presence] 
+
+[presence; ;its] 
+
+[its; ;TCR-mediated activation] 
+
+[interrupts; ;Vpr@2] 
+
+[interrupts; ;induction] 
+
+[induction; ;the@2] 
+
+[induction; ;expected] 
+
+[induction;of@2;apoptosis@2] 
+

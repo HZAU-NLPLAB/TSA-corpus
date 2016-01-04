@@ -1,0 +1,9 @@
+Nuclear accumulation of NFAT4 opposed by the JNK signal transduction pathway. 
+[accumulation; ;Nuclear]
+[accumulation;of;NFAT4]
+[opposed; ;NFAT4]
+[opposed;by;signal transduction pathway]
+[signal transduction pathway; ;the]
+[signal transduction pathway; ;JNK]
+[pathway; ;transduction]
+[transduction; ;signal]

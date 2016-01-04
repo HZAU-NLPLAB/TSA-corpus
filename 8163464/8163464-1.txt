@@ -1,0 +1,13 @@
+A novel heterodimerization partner for thyroid hormone receptor.
+[partner; ;heterodimerization] 
+
+[partner; ;novel] 
+
+[partner; ;A] 
+
+[partner;for;receptor] 
+
+[receptor; ;hormone] 
+
+[receptor; ;thyroid] 
+
